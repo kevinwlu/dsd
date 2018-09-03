@@ -8,7 +8,7 @@ ghdl -e hello_world
 
 ghdl -r hello_world
 
-* Half Adder
+* Half Adder https://en.wikipedia.org/wiki/Adder_(electronics)
 
 ghdl -a ha.vhdl
 
