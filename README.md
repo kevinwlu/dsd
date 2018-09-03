@@ -1,8 +1,6 @@
 # Digital System Design
 
-* GHDL Quick Start Guide
-
-https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
+* GHDL Quick Start Guide https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
 ghdl -a hello.vhdl
 
