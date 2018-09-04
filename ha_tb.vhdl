@@ -10,14 +10,14 @@ architecture test of ha_tb is
         (
             a:  in  std_ulogic;
             b:  in  std_ulogic;
-            o:  out std_ulogic;
+            s:  out std_ulogic;
             c:  out std_ulogic
         );
     end component;
     
-    signal a, b, o, c : std_ulogic;
+    signal a, b, s, c : std_ulogic;
 begin
-    half_addr: ha port map (a => a, b => b, o => o, c => c);
+    half_addr: ha port map (a => a, b => b, s => s, c => c);
     
     process begin
     
