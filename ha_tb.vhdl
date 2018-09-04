@@ -1,3 +1,6 @@
+-- Half Adder (HA) Test Bench (TB)
+-- Author: Nerdy Dave
+-- Source: https://youtu.be/H2GyAIYwZbw
 library ieee;
 use ieee.std_logic_1164.all;
 
@@ -10,8 +13,8 @@ architecture test of ha_tb is
         (
             a:  in  std_ulogic;
             b:  in  std_ulogic;
-            s:  out std_ulogic;
-            c:  out std_ulogic
+            s:  out std_ulogic; -- Sum
+            c:  out std_ulogic  -- Carry
         );
     end component;
     
