@@ -1,7 +1,10 @@
-library ieee;               -- Nerdy Dave https://youtu.be/H2GyAIYwZbw
+-- Half Adder (HA)
+-- Author: Nerdy Dave
+-- Source: https://youtu.be/H2GyAIYwZbw
+library ieee;               
 use ieee.std_logic_1164.all;
 
-entity ha is                -- Half Adder
+entity ha is
     port
     (
         a:  in  std_ulogic;
