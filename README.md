@@ -18,7 +18,7 @@ ghdl -e hello_world
 
 ghdl -r hello_world
 
-* Half Adder https://en.wikipedia.org/wiki/Adder_(electronics)
+* Half Adder (HA) https://en.wikipedia.org/wiki/Adder_(electronics)
 
 cp ~/dsd/ha.vhdl .
 
