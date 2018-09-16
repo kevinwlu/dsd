@@ -33,3 +33,19 @@ ghdl -e ha_tb
 ghdl -r ha_tb --vcd=ha.vcd
 
 gtkwave ha.vcd
+
+* Full Adder
+
+cp ~/dsd/adder.vhdl .
+
+cp ~/dsd/adder_tb.vhdl .
+
+ghdl -a adder.vhdl
+
+ghdl -a adder_tb.vhdl
+
+ghdl -e adder_tb
+
+ghdl -r adder_tb --vcd=adder.vcd
+
+gtkwave adder.vcd
