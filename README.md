@@ -1,5 +1,13 @@
 # Digital System Design
 
+* Download GHDL from https://github.com/ghdl/ghdl/releases
+
+cd Downloads
+
+mv ghdl-0.35-mcode-macosx /usr/local
+
+cd
+
 git clone https://github.com/kevinwlu/dsd.git
 
 mkdir vhdl
