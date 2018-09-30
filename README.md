@@ -8,6 +8,10 @@ mv ghdl-0.35-mcode-macosx /usr/local
 
 cd
 
+PATH=$PATH\:/usr/local/ghdl-0.35-mcode-macosx/bin; export PATH
+
+echo $PATH
+
 git clone https://github.com/kevinwlu/dsd.git
 
 mkdir vhdl
