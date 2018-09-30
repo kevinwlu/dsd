@@ -8,7 +8,7 @@ mv ghdl-0.35-mcode-macosx /usr/local
 
 cd
 
-PATH=$PATH\:/usr/local/ghdl-0.35-mcode-macosx/bin; export PATH
+PATH=$PATH\:/usr/local/ghdl-0.35-mcode-macosx/bin ; export PATH
 
 echo $PATH
 
