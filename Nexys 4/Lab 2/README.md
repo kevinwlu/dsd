@@ -1,1 +1,1 @@
-Lab 2: Four-Digit Hex Counter
+# Lab 2: Four-Digit Hex Counter
