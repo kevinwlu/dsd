@@ -1,1 +1,3 @@
-# Lab 4: Hex Calculator (Pmod KYPD)
+# Lab 4: Hex Calculator
+
+Pmod KYPD
