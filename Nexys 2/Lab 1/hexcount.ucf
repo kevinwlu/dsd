@@ -1,0 +1,16 @@
+#FPGA I/O Pin Locations
+
+NET "clk_50MHz" LOC = B8;
+
+NET "seg[0]" LOC = H14;
+NET "seg[1]" LOC = J17;
+NET "seg[2]" LOC = G14;
+NET "seg[3]" LOC = D16;
+NET "seg[4]" LOC = D17;
+NET "seg[5]" LOC = F18;
+NET "seg[6]" LOC = L18;
+
+NET "anode[0]" LOC = F17;
+NET "anode[1]" LOC = H17;
+NET "anode[2]" LOC = C18;
+NET "anode[3]" LOC = F15;
