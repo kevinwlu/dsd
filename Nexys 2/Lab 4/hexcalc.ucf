@@ -1,0 +1,28 @@
+NET "clk_50MHz" LOC = B8;
+
+NET "KB_col(1)" LOC = M15;
+NET "KB_col(2)" LOC = L17;
+NET "KB_col(3)" LOC = K12;
+NET "KB_col(4)" LOC = L15;
+
+NET "KB_row(1)" LOC = M16;
+NET "KB_row(2)" LOC = M14;
+NET "KB_row(3)" LOC = L16;
+NET "KB_row(4)" LOC = K13;
+
+NET "bt_clr" LOC = H13; # BTN3
+NET "bt_plus" LOC = B18; # BTN0
+NET "bt_eq" LOC = D18; # BTN1
+
+NET "SEG7_seg[0]" LOC = H14;
+NET "SEG7_seg[1]" LOC = J17;
+NET "SEG7_seg[2]" LOC = G14;
+NET "SEG7_seg[3]" LOC = D16;
+NET "SEG7_seg[4]" LOC = D17;
+NET "SEG7_seg[5]" LOC = F18;
+NET "SEG7_seg[6]" LOC = L18;
+
+NET "SEG7_anode[0]" LOC = F17;
+NET "SEG7_anode[1]" LOC = H17;
+NET "SEG7_anode[2]" LOC = C18;
+NET "SEG7_anode[3]" LOC = F15;
