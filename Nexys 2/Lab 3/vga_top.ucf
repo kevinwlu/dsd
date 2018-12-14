@@ -1,0 +1,16 @@
+NET "clk_50MHz" LOC = B8;
+
+NET "vga_hsync" LOC = T4;
+NET "vga_vsync" LOC = U3;
+
+NET "vga_red[0]" LOC = R9;
+NET "vga_red[1]" LOC = T8;
+NET "vga_red[2]" LOC = R8;
+NET "vga_green[0]" LOC = N8;
+NET "vga_green[1]" LOC = P8;
+NET "vga_green[2]" LOC = P6;
+NET "vga_blue[0]" LOC = U5;
+NET "vga_blue[1]" LOC = U4;
+
+NET "ck_25" TNM_NET = ck_25_net;
+TIMESPEC TS_ck_25 = PERIOD "ck_25_net" 40 ns HIGH 50%;
