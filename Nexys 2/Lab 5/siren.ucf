@@ -1,0 +1,9 @@
+NET "clk_50MHZ" LOC = B8;
+
+NET "dac_SDIN" LOC = M15;
+NET "dac_SCLK" LOC = L17;
+NET "dac_LRCK" LOC = K12;
+NET "dac_MCLK" LOC = L15;
+
+NET "clk_50MHZ" TNM_NET = ck_50_net;
+TIMESPEC TS_ck_50 = PERIOD "ck_50_net" 20 ns HIGH 50%;
