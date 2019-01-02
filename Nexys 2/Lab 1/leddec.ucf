@@ -1,4 +1,5 @@
 #FPGA I/O Pin Locations
+
 NET "data[0]" LOC = G18;
 NET "data[1]" LOC = H18;
 NET "data[2]" LOC = K18;
