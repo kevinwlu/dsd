@@ -8,7 +8,7 @@ ENTITY counter IS
 	PORT (
 		clk : IN STD_LOGIC;
 		count : OUT STD_LOGIC_VECTOR (15 DOWNTO 0); --NEED REVISE! 16 bits
-	mpx : OUT STD_LOGIC_VECTOR (1 DOWNTO 0)); --NEW ONE ADD! send signal to select displays
+		mpx : OUT STD_LOGIC_VECTOR (1 DOWNTO 0)); --NEW ONE ADD! send signal to select displays
 END counter;
 
 ARCHITECTURE Behavioral OF counter IS
