@@ -52,10 +52,4 @@ Contributions by Brandon Ip, 2019 Spring
 
 * Click Generate Bitstream
 
-### 5. Open Adept and connect Nexys 4 DDR
-
-* Initialize Chain
-
-* Under the Config tab, click Browse on FPGA and navigate to the project location and upload the .bit file created from Generate Bitstream
-
-* Click Program
+* Open Hardware Manager, Auto-Connect, Program Device
