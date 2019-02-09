@@ -14,7 +14,7 @@ Contributions by Brandon Ip, 2019 Spring
 
 ### 3. Run Implementation and open Implemented Design
 
-### 4. Right-click Generate Bitstream and click Bitstream settings
+### 4. Right-click Generate Bitstream and click Bitstream Settings
 
 * Click 'Configure additional bitstream settings' and click the Startup tab
 
