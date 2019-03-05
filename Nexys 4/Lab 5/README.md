@@ -2,4 +2,4 @@
 
 DAC: Digital-to-Analog Converter
 
-Pmod I2S with a headphone or speaker
+Pmod I2S (Inter-IC Sound) with a headphone or speaker
