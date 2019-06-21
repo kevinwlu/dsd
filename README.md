@@ -1,14 +1,25 @@
 # Digital System Design
 
-## VHDL: VHSIC (Very High Speed Integrated Circuit) Hard ware Description Language
+## VHDL: VHSIC (Very High Speed Integrated Circuit) Hardware Description Language
 
-Free Range VHDL by Bryan Mealy and Fabrizio Tappero: http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf
+Textbook: Free Range VHDL by Bryan Mealy and Fabrizio Tappero
+http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf
 
-IEEE 1076: IEEE Standard VHDL Language Reference Manual
+IEEE 1076-2008: IEEE Standard VHDL Language Reference Manual
+https://standards.ieee.org/content/ieee-standards/en/standard/1076-2008.html
 
-IEEE 1164: IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)
+IEEE 1164-1993: IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)
+https://standards.ieee.org/standard/1164-1993.html
 
-## Download GHDL from https://github.com/ghdl/ghdl/releases
+## FPGA: Field-Programmable Gate Array
+
+Hardware: Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR)
+
+Software: Xilinx Vivado Design Suite - HLx Editions
+
+## Open-Source Simulator: GHDL by Tristan Gingold
+
+Download GHDL from https://github.com/ghdl/ghdl/releases
 
 cd Downloads
 
@@ -20,13 +31,13 @@ PATH=$PATH\:/usr/local/ghdl-0.35-mcode-macosx/bin ; export PATH
 
 echo $PATH
 
+## GHDL Quick Start Guide https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
+
 git clone https://github.com/kevinwlu/dsd.git
 
 mkdir vhdl
 
 cd vhdl
-
-## GHDL Quick Start Guide https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
 cp ~/dsd/hello.vhdl .
 
@@ -52,8 +63,6 @@ ghdl -e ha_tb
 
 ghdl -r ha_tb --vcd=ha.vcd
 
-gtkwave ha.vcd
-
 ## Full Adder
 
 cp ~/dsd/adder.vhdl .
@@ -67,5 +76,9 @@ ghdl -a adder_tb.vhdl
 ghdl -e adder_tb
 
 ghdl -r adder_tb --vcd=adder.vcd
+
+## Wave Viewer: GTKWave based on GTK+ (GIMP Toolkit)
+
+gtkwave ha.vcd
 
 gtkwave adder.vcd
