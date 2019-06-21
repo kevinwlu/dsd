@@ -13,9 +13,7 @@ https://standards.ieee.org/standard/1164-1993.html
 
 ## FPGA: Field-Programmable Gate Array
 
-Hardware: Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR)
-
-Software: Xilinx Vivado Design Suite - HLx Editions
+Labs based on Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR) and Xilinx Vivado Design Suite - HLx Editions
 
 ## Open-Source Simulator: GHDL by Tristan Gingold
 
