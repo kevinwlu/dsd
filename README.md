@@ -14,7 +14,7 @@ IEEE 1164-1993: IEEE Standard Multivalue Logic System for VHDL Model Interoperab
 
 https://standards.ieee.org/standard/1164-1993.html
 
-## FPGA: Field-Programmable Gate Array
+## FPGA (Field-Programmable Gate Array)
 
 Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR)
 
@@ -34,7 +34,7 @@ Lab 5: Digital-to-Analog Converter (DAC) Siren (Pmod I2S and headphone)
 
 Lab 6: Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
 
-## Open-Source Simulator: GHDL by Tristan Gingold
+## GHDL Open-Source Simulator by Tristan Gingold
 
 Download GHDL from https://github.com/ghdl/ghdl/releases
 
