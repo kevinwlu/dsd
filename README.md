@@ -1,6 +1,6 @@
 # Digital System Design
 
-* Download GHDL from https://github.com/ghdl/ghdl/releases
+## Download GHDL from https://github.com/ghdl/ghdl/releases
 
 cd Downloads
 
@@ -18,7 +18,7 @@ mkdir vhdl
 
 cd vhdl
 
-* GHDL Quick Start Guide https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
+## GHDL Quick Start Guide https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
 cp ~/dsd/hello.vhdl .
 
@@ -30,7 +30,7 @@ ghdl -e hello_world
 
 ghdl -r hello_world
 
-* Half Adder (HA) https://en.wikipedia.org/wiki/Adder_(electronics)
+## Half Adder (HA) https://en.wikipedia.org/wiki/Adder_(electronics)
 
 cp ~/dsd/ha.vhdl .
 
@@ -46,7 +46,7 @@ ghdl -r ha_tb --vcd=ha.vcd
 
 gtkwave ha.vcd
 
-* Full Adder
+## Full Adder
 
 cp ~/dsd/adder.vhdl .
 
