@@ -18,9 +18,15 @@ https://standards.ieee.org/standard/1164-1993.html
 
 Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR)
 
+https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum
+
 Digilent Pmod Modules: KYPD (16-button keypad), I2S (Inter-IC Sound), and AD1 (two channel, 12-bit analog-to-digital converter)
 
+https://store.digilentinc.com/pmod-modules-connectors
+
 Xilinx Vivado Design Suite - HLx Editions
+
+https://www.xilinx.com/products/design-tools/vivado.html
 
 Lab 1: Seven-Segment Decoder
 
