@@ -16,9 +16,23 @@ https://standards.ieee.org/standard/1164-1993.html
 
 ## FPGA: Field-Programmable Gate Array
 
-Labs: Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR) with
+Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR)
+
+Digilent Pmod Modules: KYPD (16-button keypad), I2S (Inter-IC Sound), and AD1 (two channel, 12-bit analog-to-digital converter)
 
 Xilinx Vivado Design Suite - HLx Editions
+
+Lab 1: Seven-Segment Decoder
+
+Lab 2: Four-Digit Hex Counter
+
+Lab 3: Bouncing Ball I (VGA display)
+
+Lab 4: Hex Calculator (Pmod KYPD)
+
+Lab 5: Digital-to-Analog Converter (DAC) Siren (Pmod I2S and headphone)
+
+Lab 6: Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
 
 ## Open-Source Simulator: GHDL by Tristan Gingold
 
