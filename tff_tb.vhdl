@@ -1,30 +1,30 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 
-ENTITY DFF_tb IS
-END DFF_tb;
+ENTITY TFF_tb IS
+END TFF_tb;
 
-ARCHITECTURE behavior OF DFF_tb IS 
+ARCHITECTURE behavior OF TFF_tb IS 
 
-    COMPONENT DFF
+    COMPONENT TFF
     PORT(
          din : IN  std_logic;
          clk : IN  std_logic;
          rst : IN  std_logic;
          dout : OUT  std_logic
-        ); 
+        );
     END COMPONENT;
     
    signal din : std_logic := '0';
    signal clk : std_logic := '0';
-   signal rst : std_logic := '1';
+   signal rst : std_logic := '0';
    signal dout : std_logic;
 
    constant clk_period : time := 10 ns;
 
 BEGIN
 
- uut: DFF PORT MAP (
+   uut: TFF PORT MAP (
           din => din,
           clk => clk,
           rst => rst,
@@ -44,7 +44,7 @@ BEGIN
 
   stim_proc: process
   begin  
-
+ 
   rst <= '1';
   wait for 50 ns; 
 
