@@ -96,7 +96,7 @@ ghdl -r ha_tb --vcd=ha.vcd
 
 ## Full Adder
 
-Reference: 
+Reference: http://ghdl.free.fr/ghdl/A-full-adder.html
 
 cp ~/dsd/adder.vhdl .
 
