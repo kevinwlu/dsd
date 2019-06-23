@@ -54,7 +54,9 @@ PATH=$PATH\:/usr/local/ghdl-0.35-mcode-macosx/bin ; export PATH
 
 echo $PATH
 
-## GHDL Quick Start Guide https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
+## GHDL Quick Start Guide
+
+Reference: https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
 git clone https://github.com/kevinwlu/dsd.git
 
@@ -74,7 +76,7 @@ ghdl -r hello_world
 
 ## Half Adder (HA) and Full Adder
 
-https://en.wikipedia.org/wiki/Adder_(electronics)
+Reference: https://en.wikipedia.org/wiki/Adder_(electronics)
 
 cp ~/dsd/ha.vhdl .
 
@@ -101,6 +103,8 @@ ghdl -e adder_tb
 ghdl -r adder_tb --vcd=adder.vcd
 
 ## D Flip-Flop and T Flip-Flop
+
+References:
 
 https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html
 
