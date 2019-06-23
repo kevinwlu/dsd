@@ -72,7 +72,9 @@ ghdl -e hello_world
 
 ghdl -r hello_world
 
-## Half Adder (HA) https://en.wikipedia.org/wiki/Adder_(electronics)
+## Half Adder (HA) and Full Adder
+
+https://en.wikipedia.org/wiki/Adder_(electronics)
 
 cp ~/dsd/ha.vhdl .
 
@@ -86,8 +88,6 @@ ghdl -e ha_tb
 
 ghdl -r ha_tb --vcd=ha.vcd
 
-## Full Adder
-
 cp ~/dsd/adder.vhdl .
 
 cp ~/dsd/adder_tb.vhdl .
@@ -100,8 +100,18 @@ ghdl -e adder_tb
 
 ghdl -r adder_tb --vcd=adder.vcd
 
+## D Flip-Flop and T Flip-Flop
+
+https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html
+
+https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html
+
 ## Wave Viewer: GTKWave based on GTK+ (GIMP Toolkit)
 
 gtkwave ha.vcd
 
 gtkwave adder.vcd
+
+gtkwave dff.vcd
+
+gtkwave tff.vcd
