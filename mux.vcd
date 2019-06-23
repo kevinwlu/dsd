@@ -1,0 +1,66 @@
+$date
+  Sun Jun 23 16:31:19 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ d $end
+$var reg 1 % s0 $end
+$var reg 1 & s1 $end
+$var reg 1 ' z $end
+$scope module uut $end
+$var reg 1 ( a $end
+$var reg 1 ) b $end
+$var reg 1 * c $end
+$var reg 1 + d $end
+$var reg 1 , s0 $end
+$var reg 1 - s1 $end
+$var reg 1 . z $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+#100000000
+1!
+1#
+1'
+1(
+1*
+1.
+#200000000
+1%
+0'
+1,
+0.
+#300000000
+0%
+1&
+1'
+0,
+1-
+1.
+#400000000
+1%
+0'
+1,
+0.
+#500000000
