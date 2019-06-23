@@ -112,6 +112,10 @@ https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbenc
 
 https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html
 
+## 4-to-1 Multiplexer
+
+reference: https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer
+
 ## Wave Viewer: GTKWave based on GTK+ (GIMP Toolkit)
 
 Reference: http://gtkwave.sourceforge.net
@@ -123,3 +127,5 @@ gtkwave adder.vcd
 gtkwave dff.vcd
 
 gtkwave tff.vcd
+
+gtkwave mux.vcd
