@@ -74,9 +74,13 @@ ghdl -e hello_world
 
 ghdl -r hello_world
 
-## Half Adder (HA) and Full Adder
+## Half Adder (HA)
 
-Reference: https://en.wikipedia.org/wiki/Adder_(electronics)
+References:
+
+https://en.wikipedia.org/wiki/Adder_(electronics)
+
+https://www.youtube.com/watch?v=dvLeDNbXfFw
 
 cp ~/dsd/ha.vhdl .
 
@@ -89,6 +93,10 @@ ghdl -a ha_tb.vhdl
 ghdl -e ha_tb
 
 ghdl -r ha_tb --vcd=ha.vcd
+
+## Full Adder
+
+Reference: 
 
 cp ~/dsd/adder.vhdl .
 
