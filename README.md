@@ -124,6 +124,10 @@ https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbenc
 
 reference: https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer
 
+## 1-to-4 Demultiplexer
+
+reference: https://allaboutfpga.com/vhdl-code-for-1-to-4-demux
+
 ## Wave Viewer: GTKWave based on GTK+ (GIMP Toolkit)
 
 Reference: http://gtkwave.sourceforge.net
@@ -137,3 +141,5 @@ gtkwave dff.vcd
 gtkwave tff.vcd
 
 gtkwave mux.vcd
+
+gtkwave demux.vcd
