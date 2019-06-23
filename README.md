@@ -106,6 +106,8 @@ ghdl -r adder_tb --vcd=adder.vcd
 
 References:
 
+https://en.wikipedia.org/wiki/Flip-flop_(electronics)
+
 https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html
 
 https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html
