@@ -112,6 +112,8 @@ https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbenc
 
 ## Wave Viewer: GTKWave based on GTK+ (GIMP Toolkit)
 
+Reference: http://gtkwave.sourceforge.net
+
 gtkwave ha.vcd
 
 gtkwave adder.vcd
