@@ -46,7 +46,7 @@ Download GHDL from https://github.com/ghdl/ghdl/releases
 
 cd Downloads
 
-mv ghdl-0.35-mcode-macosx /usr/local
+mv ghdl-0.36-macosx-mcode /usr/local
 
 cd
 
