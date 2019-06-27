@@ -110,7 +110,7 @@ ghdl -e adder_tb
 
 ghdl -r adder_tb --vcd=adder.vcd
 
-## D Flip-Flop and T Flip-Flop
+## D Flip-flop and T Flip-flop
 
 References:
 
