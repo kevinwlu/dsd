@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<project>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>8 Bit Division</name>
+	<description></description>
+	<component>up count bit.ssc</component>
+	<component>full adder.ssc</component>
+	<component>8 bit d flipflop array.ssc</component>
+	<component>2 to 1.ssc</component>
+	<component>3 bit up counter.ssc</component>
+	<component>8 bit addition using full adder.ssc</component>
+	<component>8 bit 2 to 1.ssc</component>
+	<component>divider.ssc</component>
+	<component root="true">division.ssc</component>
+</project>

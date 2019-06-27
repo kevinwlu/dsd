@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<custom_component>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>Multiplexer 2-1</name>
+	<description>2 to 1 multiplexer</description>
+	<label>MUX</label>
+	<bound right="30" down="30" left="-30" up="-30"/>
+	<colour a="0" r="255" g="255" b="255"/>
+	<pin x="0" y="-30" length="10" direction="up" id="0" flow="in" label="Sel" required="true"/>
+	<pin x="-30" y="-20" length="10" direction="left" id="1" flow="in" label="In0" required="true"/>
+	<pin x="-30" y="20" length="10" direction="left" id="2" flow="in" label="In1" required="true"/>
+	<pin x="30" y="0" length="10" direction="right" id="3" flow="out" label="Out" required="true"/>
+	<wire id="0">
+		<path>
+			<point x="-60" y="0"/>
+			<point x="0" y="0"/>
+		</path>
+		<path>
+			<point x="0" y="-20"/>
+			<point x="0" y="20"/>
+		</path>
+		<marker x="0" y="0"/>
+		<tag type="interface" xwire="-60" ywire="0" xtag="-80" ytag="0" flow="in" pinid="0" text="Select"/>
+	</wire>
+	<wire id="1">
+		<path>
+			<point x="-60" y="-40"/>
+			<point x="-25" y="-40"/>
+		</path>
+		<tag type="interface" xwire="-60" ywire="-40" xtag="-80" ytag="-40" flow="in" pinid="1" text="In0"/>
+	</wire>
+	<wire id="2">
+		<path>
+			<point x="-60" y="40"/>
+			<point x="-25" y="40"/>
+		</path>
+		<tag type="interface" xwire="-60" ywire="40" xtag="-80" ytag="40" flow="in" pinid="2" text="In1"/>
+	</wire>
+	<wire id="3">
+		<path>
+			<point x="30" y="0"/>
+			<point x="60" y="0"/>
+		</path>
+		<path>
+			<point x="25" y="-40"/>
+			<point x="30" y="-40"/>
+			<point x="30" y="40"/>
+			<point x="25" y="40"/>
+		</path>
+		<marker x="30" y="0"/>
+		<tag type="interface" xwire="60" ywire="0" xtag="80" ytag="0" flow="out" pinid="3" text="Out"/>
+	</wire>
+	<component id="0" def="Tristate" x="0" y="40" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="2" invert="false"/>
+		<connection flow="in" pinid="1" wireid="0" invert="false"/>
+		<connection flow="out" pinid="2" wireid="3" invert="false"/>
+	</component>
+	<component id="1" def="Tristate" x="0" y="-40" direction="right" flip="true">
+		<connection flow="in" pinid="0" wireid="1" invert="false"/>
+		<connection flow="in" pinid="1" wireid="0" invert="true"/>
+		<connection flow="out" pinid="2" wireid="3" invert="false"/>
+	</component>
+</custom_component>

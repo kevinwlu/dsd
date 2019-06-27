@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>4 Bit Addition</name>
+	<description></description>
+	<component>half adder.ssc</component>
+	<component>full adder.ssc</component>
+	<component root="true">4 bit addition.ssc</component>
+</project>

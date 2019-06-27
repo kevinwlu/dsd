@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<project>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>Flipflops</name>
+	<description></description>
+	<component>gated d latch.ssc</component>
+	<component>sr nor latch.ssc</component>
+	<component>jk flipflop.ssc</component>
+	<component>pe d flipflop.ssc</component>
+	<component root="true">flipflops.ssc</component>
+</project>

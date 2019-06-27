@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<custom_component>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>SR Latch</name>
+	<description>Sets value to 1 when S is high, or 0 when R is high.</description>
+	<label>SR</label>
+	<bound right="20" down="30" left="-20" up="-30"/>
+	<colour a="0" r="255" g="255" b="255"/>
+	<pin x="-20" y="20" length="10" direction="left" id="0" flow="in" label="R" required="true"/>
+	<pin x="-20" y="-20" length="10" direction="left" id="1" flow="in" label="S" required="true"/>
+	<pin x="20" y="-20" length="10" direction="right" id="2" flow="out" label="Q" required="false"/>
+	<pin x="20" y="20" length="10" direction="right" id="3" flow="out" barlabel="Q" required="false"/>
+	<wire id="0">
+		<path>
+			<point x="-60" y="50"/>
+			<point x="-30" y="50"/>
+		</path>
+		<tag type="interface" xwire="-60" ywire="50" xtag="-80" ytag="50" flow="in" pinid="1" text="S"/>
+	</wire>
+	<wire id="1">
+		<path>
+			<point x="-60" y="-50"/>
+			<point x="-30" y="-50"/>
+		</path>
+		<tag type="interface" xwire="-60" ywire="-50" xtag="-80" ytag="-50" flow="in" pinid="0" text="R"/>
+	</wire>
+	<wire id="2" preset="true">
+		<path>
+			<point x="40" y="40"/>
+			<point x="80" y="40"/>
+		</path>
+		<path>
+			<point x="-30" y="-30"/>
+			<point x="-30" y="-10"/>
+			<point x="60" y="20"/>
+			<point x="60" y="40"/>
+		</path>
+		<marker x="60" y="40"/>
+		<tag type="interface" xwire="80" ywire="40" xtag="100" ytag="40" flow="out" pinid="3" text="Not Q"/>
+	</wire>
+	<wire id="3" preset="false">
+		<path>
+			<point x="40" y="-40"/>
+			<point x="80" y="-40"/>
+		</path>
+		<path>
+			<point x="-30" y="30"/>
+			<point x="-30" y="10"/>
+			<point x="60" y="-20"/>
+			<point x="60" y="-40"/>
+		</path>
+		<marker x="60" y="-40"/>
+		<tag type="interface" xwire="80" ywire="-40" xtag="100" ytag="-40" flow="out" pinid="2" text="Q"/>
+	</wire>
+	<component id="0" def="Or" x="5" y="-40" direction="right" flip="false">
+		<connection flow="in" pinid="0">
+			<subpin wireid="1" invert="false"/>
+			<subpin wireid="2" invert="false"/>
+		</connection>
+		<connection flow="out" pinid="1" wireid="3" invert="true"/>
+	</component>
+	<component id="1" def="Or" x="5" y="40" direction="right" flip="false">
+		<connection flow="in" pinid="0">
+			<subpin wireid="3" invert="false"/>
+			<subpin wireid="0" invert="false"/>
+		</connection>
+		<connection flow="out" pinid="1" wireid="2" invert="true"/>
+	</component>
+	<annotation x="-110" y="-120" text="SR NOR Latch" fontsize="32"/>
+</custom_component>

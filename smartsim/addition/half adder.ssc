@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<custom_component>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>Half Adder</name>
+	<description></description>
+	<label>HA</label>
+	<bound right="30" down="30" left="-30" up="-30"/>
+	<colour a="92" r="255" g="127" b="0"/>
+	<pin x="0" y="-30" length="10" direction="up" id="0" flow="in" label="A" required="true"/>
+	<pin x="30" y="0" length="10" direction="right" id="1" flow="in" label="B" required="true"/>
+	<pin x="0" y="30" length="10" direction="down" id="2" flow="out" label="Q" required="true"/>
+	<pin x="-30" y="0" length="10" direction="left" id="3" flow="out" label="CO" required="true"/>
+	<wire id="0">
+		<path>
+			<point x="-30" y="-50"/>
+			<point x="-40" y="-50"/>
+			<point x="-40" y="30"/>
+			<point x="-30" y="30"/>
+		</path>
+		<path>
+			<point x="-80" y="-50"/>
+			<point x="-40" y="-50"/>
+		</path>
+		<marker x="-40" y="-50"/>
+		<tag type="interface" xwire="-80" ywire="-50" xtag="-100" ytag="-50" flow="in" pinid="0" text="A"/>
+	</wire>
+	<wire id="1">
+		<path>
+			<point x="-30" y="50"/>
+			<point x="-50" y="50"/>
+			<point x="-50" y="-30"/>
+			<point x="-30" y="-30"/>
+		</path>
+		<path>
+			<point x="-80" y="50"/>
+			<point x="-50" y="50"/>
+		</path>
+		<marker x="-50" y="50"/>
+		<tag type="interface" xwire="-80" ywire="50" xtag="-100" ytag="50" flow="in" pinid="1" text="B"/>
+	</wire>
+	<wire id="2">
+		<path>
+			<point x="40" y="-40"/>
+			<point x="80" y="-40"/>
+		</path>
+		<tag type="interface" xwire="80" ywire="-40" xtag="100" ytag="-40" flow="out" pinid="2" text="Q"/>
+	</wire>
+	<wire id="3">
+		<path>
+			<point x="40" y="40"/>
+			<point x="80" y="40"/>
+		</path>
+		<tag type="interface" xwire="80" ywire="40" xtag="100" ytag="40" flow="out" pinid="3" text="Carry"/>
+	</wire>
+	<component id="0" def="And" x="5" y="40" direction="right" flip="false">
+		<connection flow="in" pinid="0">
+			<subpin wireid="0" invert="false"/>
+			<subpin wireid="1" invert="false"/>
+		</connection>
+		<connection flow="out" pinid="1" wireid="3" invert="false"/>
+	</component>
+	<component id="1" def="Xor" x="5" y="-40" direction="right" flip="false">
+		<connection flow="in" pinid="0">
+			<subpin wireid="0" invert="false"/>
+			<subpin wireid="1" invert="false"/>
+		</connection>
+		<connection flow="out" pinid="1" wireid="2" invert="false"/>
+	</component>
+	<annotation x="-90" y="-120" text="Half Adder" fontsize="36"/>
+</custom_component>

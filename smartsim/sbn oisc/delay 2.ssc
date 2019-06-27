@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<custom_component>
+	<metadata>
+		<version smartsim="1.2"/>
+	</metadata>
+	<name>Delay 2</name>
+	<description></description>
+	<label>DLY2</label>
+	<bound right="40" down="10" left="-40" up="-10"/>
+	<colour a="0" r="255" g="255" b="255"/>
+	<pin x="-40" y="0" length="10" direction="left" id="0" flow="in" label="In" required="true"/>
+	<pin x="40" y="0" length="10" direction="right" id="1" flow="out" label="Out" required="true"/>
+	<wire id="0">
+		<path>
+			<point x="-80" y="0"/>
+			<point x="-65" y="0"/>
+		</path>
+		<tag type="interface" xwire="-80" ywire="0" xtag="-90" ytag="0" flow="in" pinid="0" text="In"/>
+	</wire>
+	<wire id="1">
+		<path>
+			<point x="-15" y="0"/>
+			<point x="15" y="0"/>
+		</path>
+	</wire>
+	<wire id="2">
+		<path>
+			<point x="65" y="0"/>
+			<point x="80" y="0"/>
+		</path>
+		<tag type="interface" xwire="80" ywire="0" xtag="90" ytag="0" flow="out" pinid="1" text="Out"/>
+	</wire>
+	<component id="0" def="Buffer" x="-40" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="0" invert="false"/>
+		<connection flow="out" pinid="1" wireid="1" invert="false"/>
+	</component>
+	<component id="1" def="Buffer" x="40" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="1" invert="false"/>
+		<connection flow="out" pinid="1" wireid="2" invert="false"/>
+	</component>
+</custom_component>

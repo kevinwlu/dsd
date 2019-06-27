@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<project>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>Single Opcode Processor</name>
+	<description></description>
+	<component>full adder.ssc</component>
+	<component>16 bit d flipflop array.ssc</component>
+	<component>memory controller fsm.ssc</component>
+	<component>bidirectional controller.ssc</component>
+	<component>state selector bit.ssc</component>
+	<component>16 bit tristate.ssc</component>
+	<component>half adder.ssc</component>
+	<component>16 bit 2 to 1.ssc</component>
+	<component>delay 2.ssc</component>
+	<component>16 bit addition using full adder.ssc</component>
+	<component>16 bit bidirectional controller.ssc</component>
+	<component>up set counter 16.ssc</component>
+	<component>16 state selector.ssc</component>
+	<component>processor fsm.ssc</component>
+	<component>memory controller.ssc</component>
+	<component>processor.ssc</component>
+	<component root="true">computer.ssc</component>
+</project>

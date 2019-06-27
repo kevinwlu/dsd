@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<custom_component>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>Delay (DLY)</name>
+	<description>Delay (DLY)</description>
+	<label>DLY</label>
+	<bound right="30" down="15" left="-30" up="-15"/>
+	<colour a="255" r="255" g="178" b="178"/>
+	<pin x="-30" y="0" length="10" direction="left" id="0" flow="in" label="In" required="true"/>
+	<pin x="30" y="0" length="10" direction="right" id="1" flow="out" label="Out" required="true"/>
+	<wire id="0">
+		<path>
+			<point x="-655" y="-260"/>
+			<point x="-670" y="-260"/>
+		</path>
+		<tag type="interface" xwire="-670" ywire="-260" xtag="-680" ytag="-260" flow="in" pinid="0" text="Clk In"/>
+	</wire>
+	<wire id="1">
+		<path>
+			<point x="-605" y="-260"/>
+			<point x="-595" y="-260"/>
+		</path>
+	</wire>
+	<wire id="2">
+		<path>
+			<point x="-545" y="-260"/>
+			<point x="-535" y="-260"/>
+		</path>
+	</wire>
+	<wire id="3">
+		<path>
+			<point x="-485" y="-260"/>
+			<point x="-475" y="-260"/>
+		</path>
+	</wire>
+	<wire id="4">
+		<path>
+			<point x="-425" y="-260"/>
+			<point x="-415" y="-260"/>
+		</path>
+		<tag type="interface" xwire="-415" ywire="-260" xtag="-405" ytag="-260" flow="out" pinid="1" text="Clk Out"/>
+	</wire>
+	<component id="0" def="Buffer" x="-630" y="-260" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="0" invert="false"/>
+		<connection flow="out" pinid="1" wireid="1" invert="false"/>
+	</component>
+	<component id="1" def="Buffer" x="-570" y="-260" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="1" invert="false"/>
+		<connection flow="out" pinid="1" wireid="2" invert="false"/>
+	</component>
+	<component id="2" def="Buffer" x="-510" y="-260" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="2" invert="false"/>
+		<connection flow="out" pinid="1" wireid="3" invert="false"/>
+	</component>
+	<component id="3" def="Buffer" x="-450" y="-260" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="3" invert="false"/>
+		<connection flow="out" pinid="1" wireid="4" invert="false"/>
+	</component>
+</custom_component>

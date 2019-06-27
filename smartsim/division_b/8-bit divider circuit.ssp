@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<project>
+	<metadata>
+		<version smartsim="1.2.1"/>
+	</metadata>
+	<name>8 Bit Divider with FSM</name>
+	<description></description>
+	<component>Delay (DLY).ssc</component>
+	<component>D flip-flop with clear and preset (DFFCP).ssc</component>
+	<component>Full-adder (FA).ssc</component>
+	<component>8-bit shift register (SHIFT8).ssc</component>
+	<component>8-bit select or clear (SELCLR8).ssc</component>
+	<component>8-bit register (REG8).ssc</component>
+	<component>8-bit synchronous up-counter with enable (CNTR8).ssc</component>
+	<component>T flip-flop with preset (TFFP).ssc</component>
+	<component>8-bit adder (ADD8).ssc</component>
+	<component>3-bit down-counter with load (DCNT3L).ssc</component>
+	<component>Divider FSM control logic (DIVFSM).ssc</component>
+	<component>8-bit divider (DIV8).ssc</component>
+	<component root="true">8-bit divider test circuit.ssc</component>
+</project>

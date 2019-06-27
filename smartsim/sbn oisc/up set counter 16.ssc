@@ -1,0 +1,977 @@
+<?xml version="1.0"?>
+<custom_component>
+	<metadata>
+		<version smartsim="1.2"/>
+	</metadata>
+	<name>Up Set Counter 16 Bit</name>
+	<description></description>
+	<label>USC16</label>
+	<bound right="100" down="20" left="-100" up="-20"/>
+	<colour a="96" r="0" g="0" b="255"/>
+	<pin x="-100" y="0" length="10" direction="left" id="0" flow="in" symlabel="clock" required="true"/>
+	<pin x="100" y="10" length="10" direction="right" id="1" flow="in" label="S" required="true"/>
+	<pin x="100" y="-10" length="10" direction="right" id="2" flow="in" label="C" required="true"/>
+	<pin x="75" y="-20" length="10" direction="up" id="3" flow="in" label="S0" required="true"/>
+	<pin x="65" y="-20" length="10" direction="up" id="4" flow="in" required="true"/>
+	<pin x="55" y="-20" length="10" direction="up" id="5" flow="in" required="true"/>
+	<pin x="45" y="-20" length="10" direction="up" id="6" flow="in" required="true"/>
+	<pin x="35" y="-20" length="10" direction="up" id="7" flow="in" required="true"/>
+	<pin x="25" y="-20" length="10" direction="up" id="8" flow="in" required="true"/>
+	<pin x="15" y="-20" length="10" direction="up" id="9" flow="in" required="true"/>
+	<pin x="5" y="-20" length="10" direction="up" id="10" flow="in" required="true"/>
+	<pin x="-5" y="-20" length="10" direction="up" id="11" flow="in" required="true"/>
+	<pin x="-15" y="-20" length="10" direction="up" id="12" flow="in" required="true"/>
+	<pin x="-25" y="-20" length="10" direction="up" id="13" flow="in" required="true"/>
+	<pin x="-35" y="-20" length="10" direction="up" id="14" flow="in" required="true"/>
+	<pin x="-45" y="-20" length="10" direction="up" id="15" flow="in" required="true"/>
+	<pin x="-55" y="-20" length="10" direction="up" id="16" flow="in" required="true"/>
+	<pin x="-65" y="-20" length="10" direction="up" id="17" flow="in" required="true"/>
+	<pin x="-75" y="-20" length="10" direction="up" id="18" flow="out" label="S15" required="true"/>
+	<pin x="75" y="20" length="10" direction="down" id="19" flow="out" label="O0" required="true"/>
+	<pin x="65" y="20" length="10" direction="down" id="20" flow="out" required="true"/>
+	<pin x="55" y="20" length="10" direction="down" id="21" flow="out" required="true"/>
+	<pin x="45" y="20" length="10" direction="down" id="22" flow="out" required="true"/>
+	<pin x="35" y="20" length="10" direction="down" id="23" flow="out" required="true"/>
+	<pin x="25" y="20" length="10" direction="down" id="24" flow="out" required="true"/>
+	<pin x="15" y="20" length="10" direction="down" id="25" flow="out" required="true"/>
+	<pin x="5" y="20" length="10" direction="down" id="26" flow="out" required="true"/>
+	<pin x="-5" y="20" length="10" direction="down" id="27" flow="out" required="true"/>
+	<pin x="-15" y="20" length="10" direction="down" id="28" flow="out" required="true"/>
+	<pin x="-25" y="20" length="10" direction="down" id="29" flow="out" required="true"/>
+	<pin x="-35" y="20" length="10" direction="down" id="30" flow="out" required="true"/>
+	<pin x="-45" y="20" length="10" direction="down" id="31" flow="out" required="true"/>
+	<pin x="-55" y="20" length="10" direction="down" id="32" flow="out" required="true"/>
+	<pin x="-65" y="20" length="10" direction="down" id="33" flow="out" required="true"/>
+	<pin x="-75" y="20" length="10" direction="down" id="34" label="O15" required="true"/>
+	<wire id="0">
+		<path>
+			<point x="710" y="0"/>
+			<point x="690" y="0"/>
+		</path>
+	</wire>
+	<wire id="1">
+		<path>
+			<point x="610" y="0"/>
+			<point x="590" y="0"/>
+		</path>
+	</wire>
+	<wire id="2">
+		<path>
+			<point x="510" y="0"/>
+			<point x="490" y="0"/>
+		</path>
+	</wire>
+	<wire id="3">
+		<path>
+			<point x="410" y="0"/>
+			<point x="390" y="0"/>
+		</path>
+	</wire>
+	<wire id="4">
+		<path>
+			<point x="310" y="0"/>
+			<point x="290" y="0"/>
+		</path>
+	</wire>
+	<wire id="5">
+		<path>
+			<point x="820" y="0"/>
+			<point x="790" y="0"/>
+		</path>
+	</wire>
+	<wire id="6">
+		<path>
+			<point x="210" y="0"/>
+			<point x="190" y="0"/>
+		</path>
+	</wire>
+	<wire id="7">
+		<path>
+			<point x="110" y="0"/>
+			<point x="90" y="0"/>
+		</path>
+	</wire>
+	<wire id="8">
+		<path>
+			<point x="10" y="0"/>
+			<point x="-10" y="0"/>
+		</path>
+	</wire>
+	<wire id="9">
+		<path>
+			<point x="-90" y="0"/>
+			<point x="-110" y="0"/>
+		</path>
+	</wire>
+	<wire id="10">
+		<path>
+			<point x="-190" y="0"/>
+			<point x="-210" y="0"/>
+		</path>
+	</wire>
+	<wire id="11">
+		<path>
+			<point x="-290" y="0"/>
+			<point x="-310" y="0"/>
+		</path>
+	</wire>
+	<wire id="12">
+		<path>
+			<point x="-390" y="0"/>
+			<point x="-410" y="0"/>
+		</path>
+	</wire>
+	<wire id="13">
+		<path>
+			<point x="-490" y="0"/>
+			<point x="-510" y="0"/>
+		</path>
+	</wire>
+	<wire id="14">
+		<path>
+			<point x="-590" y="0"/>
+			<point x="-610" y="0"/>
+		</path>
+	</wire>
+	<wire id="15">
+		<path>
+			<point x="-690" y="0"/>
+			<point x="-710" y="0"/>
+		</path>
+	</wire>
+	<wire id="16">
+		<path>
+			<point x="-925" y="60"/>
+			<point x="-925" y="-60"/>
+			<point x="-900" y="-60"/>
+		</path>
+	</wire>
+	<wire id="17">
+		<path>
+			<point x="-935" y="60"/>
+			<point x="-935" y="-70"/>
+			<point x="-900" y="-70"/>
+		</path>
+	</wire>
+	<wire id="18">
+		<path>
+			<point x="-945" y="60"/>
+			<point x="-945" y="-80"/>
+			<point x="-900" y="-80"/>
+		</path>
+	</wire>
+	<wire id="19">
+		<path>
+			<point x="-955" y="60"/>
+			<point x="-955" y="-90"/>
+			<point x="-900" y="-90"/>
+		</path>
+	</wire>
+	<wire id="20">
+		<path>
+			<point x="-965" y="60"/>
+			<point x="-965" y="-100"/>
+			<point x="-900" y="-100"/>
+		</path>
+	</wire>
+	<wire id="21">
+		<path>
+			<point x="-975" y="60"/>
+			<point x="-975" y="-110"/>
+			<point x="-900" y="-110"/>
+		</path>
+	</wire>
+	<wire id="22">
+		<path>
+			<point x="-985" y="60"/>
+			<point x="-985" y="-120"/>
+			<point x="-900" y="-120"/>
+		</path>
+	</wire>
+	<wire id="23">
+		<path>
+			<point x="-995" y="60"/>
+			<point x="-995" y="-130"/>
+			<point x="-900" y="-130"/>
+		</path>
+	</wire>
+	<wire id="24">
+		<path>
+			<point x="-1005" y="60"/>
+			<point x="-1005" y="-140"/>
+			<point x="-900" y="-140"/>
+		</path>
+	</wire>
+	<wire id="25">
+		<path>
+			<point x="-1015" y="60"/>
+			<point x="-1015" y="-150"/>
+			<point x="-900" y="-150"/>
+		</path>
+	</wire>
+	<wire id="26">
+		<path>
+			<point x="-1025" y="60"/>
+			<point x="-1025" y="-160"/>
+			<point x="-900" y="-160"/>
+		</path>
+	</wire>
+	<wire id="27">
+		<path>
+			<point x="-1035" y="60"/>
+			<point x="-1035" y="-170"/>
+			<point x="-900" y="-170"/>
+		</path>
+	</wire>
+	<wire id="28">
+		<path>
+			<point x="-1045" y="60"/>
+			<point x="-1045" y="-180"/>
+			<point x="-900" y="-180"/>
+		</path>
+	</wire>
+	<wire id="29">
+		<path>
+			<point x="-1055" y="60"/>
+			<point x="-1055" y="-190"/>
+			<point x="-900" y="-190"/>
+		</path>
+	</wire>
+	<wire id="30">
+		<path>
+			<point x="-1065" y="60"/>
+			<point x="-1065" y="-200"/>
+			<point x="-900" y="-200"/>
+		</path>
+	</wire>
+	<wire id="31">
+		<path>
+			<point x="-1075" y="60"/>
+			<point x="-1075" y="-210"/>
+			<point x="-900" y="-210"/>
+		</path>
+	</wire>
+	<wire id="32">
+		<path>
+			<point x="-840" y="-60"/>
+			<point x="1160" y="-60"/>
+			<point x="1160" y="-240"/>
+		</path>
+		<path>
+			<point x="-750" y="-60"/>
+			<point x="-750" y="-40"/>
+		</path>
+		<marker x="-750" y="-60"/>
+		<tag type="interface" xwire="1160" ywire="-240" xtag="1160" ytag="-260" flow="out" pinid="34" text="O15"/>
+	</wire>
+	<wire id="33">
+		<path>
+			<point x="-840" y="-70"/>
+			<point x="1140" y="-70"/>
+			<point x="1140" y="-240"/>
+		</path>
+		<path>
+			<point x="-650" y="-70"/>
+			<point x="-650" y="-40"/>
+		</path>
+		<marker x="-650" y="-70"/>
+		<tag type="interface" xwire="1140" ywire="-240" xtag="1140" ytag="-260" flow="out" pinid="33" text="O14"/>
+	</wire>
+	<wire id="34">
+		<path>
+			<point x="-840" y="-80"/>
+			<point x="1120" y="-80"/>
+			<point x="1120" y="-240"/>
+		</path>
+		<path>
+			<point x="-550" y="-80"/>
+			<point x="-550" y="-40"/>
+		</path>
+		<marker x="-550" y="-80"/>
+		<tag type="interface" xwire="1120" ywire="-240" xtag="1120" ytag="-260" flow="out" pinid="32" text="O13"/>
+	</wire>
+	<wire id="35">
+		<path>
+			<point x="-840" y="-90"/>
+			<point x="1100" y="-90"/>
+			<point x="1100" y="-240"/>
+		</path>
+		<path>
+			<point x="-450" y="-90"/>
+			<point x="-450" y="-40"/>
+		</path>
+		<marker x="-450" y="-90"/>
+		<tag type="interface" xwire="1100" ywire="-240" xtag="1100" ytag="-260" flow="out" pinid="31" text="O12"/>
+	</wire>
+	<wire id="36">
+		<path>
+			<point x="-840" y="-100"/>
+			<point x="1080" y="-100"/>
+			<point x="1080" y="-240"/>
+		</path>
+		<path>
+			<point x="-350" y="-100"/>
+			<point x="-350" y="-40"/>
+		</path>
+		<marker x="-350" y="-100"/>
+		<tag type="interface" xwire="1080" ywire="-240" xtag="1080" ytag="-260" flow="out" pinid="30" text="O11"/>
+	</wire>
+	<wire id="37">
+		<path>
+			<point x="-840" y="-110"/>
+			<point x="1060" y="-110"/>
+			<point x="1060" y="-240"/>
+		</path>
+		<path>
+			<point x="-250" y="-40"/>
+			<point x="-250" y="-110"/>
+		</path>
+		<marker x="-250" y="-110"/>
+		<tag type="interface" xwire="1060" ywire="-240" xtag="1060" ytag="-260" flow="out" pinid="29" text="O10"/>
+	</wire>
+	<wire id="38">
+		<path>
+			<point x="-840" y="-120"/>
+			<point x="1040" y="-120"/>
+			<point x="1040" y="-240"/>
+		</path>
+		<path>
+			<point x="-150" y="-40"/>
+			<point x="-150" y="-120"/>
+		</path>
+		<marker x="-150" y="-120"/>
+		<tag type="interface" xwire="1040" ywire="-240" xtag="1040" ytag="-260" flow="out" pinid="28" text="O9"/>
+	</wire>
+	<wire id="39">
+		<path>
+			<point x="-840" y="-130"/>
+			<point x="1020" y="-130"/>
+			<point x="1020" y="-240"/>
+		</path>
+		<path>
+			<point x="-50" y="-40"/>
+			<point x="-50" y="-130"/>
+		</path>
+		<marker x="-50" y="-130"/>
+		<tag type="interface" xwire="1020" ywire="-240" xtag="1020" ytag="-260" flow="out" pinid="27" text="O8"/>
+	</wire>
+	<wire id="40">
+		<path>
+			<point x="-840" y="-140"/>
+			<point x="1000" y="-140"/>
+			<point x="1000" y="-240"/>
+		</path>
+		<path>
+			<point x="50" y="-40"/>
+			<point x="50" y="-140"/>
+		</path>
+		<marker x="50" y="-140"/>
+		<tag type="interface" xwire="1000" ywire="-240" xtag="1000" ytag="-260" flow="out" pinid="26" text="O7"/>
+	</wire>
+	<wire id="41">
+		<path>
+			<point x="-840" y="-150"/>
+			<point x="980" y="-150"/>
+			<point x="980" y="-240"/>
+		</path>
+		<path>
+			<point x="150" y="-40"/>
+			<point x="150" y="-150"/>
+		</path>
+		<marker x="150" y="-150"/>
+		<tag type="interface" xwire="980" ywire="-240" xtag="980" ytag="-260" flow="out" pinid="25" text="O6"/>
+	</wire>
+	<wire id="42">
+		<path>
+			<point x="-840" y="-160"/>
+			<point x="960" y="-160"/>
+			<point x="960" y="-240"/>
+		</path>
+		<path>
+			<point x="250" y="-40"/>
+			<point x="250" y="-160"/>
+		</path>
+		<marker x="250" y="-160"/>
+		<tag type="interface" xwire="960" ywire="-240" xtag="960" ytag="-260" flow="out" pinid="24" text="O5"/>
+	</wire>
+	<wire id="43">
+		<path>
+			<point x="-840" y="-170"/>
+			<point x="940" y="-170"/>
+			<point x="940" y="-240"/>
+		</path>
+		<path>
+			<point x="350" y="-40"/>
+			<point x="350" y="-170"/>
+		</path>
+		<marker x="350" y="-170"/>
+		<tag type="interface" xwire="940" ywire="-240" xtag="940" ytag="-260" flow="out" pinid="23" text="O4"/>
+	</wire>
+	<wire id="44">
+		<path>
+			<point x="-840" y="-180"/>
+			<point x="920" y="-180"/>
+			<point x="920" y="-240"/>
+		</path>
+		<path>
+			<point x="450" y="-40"/>
+			<point x="450" y="-180"/>
+		</path>
+		<marker x="450" y="-180"/>
+		<tag type="interface" xwire="920" ywire="-240" xtag="920" ytag="-260" flow="out" pinid="22" text="O3"/>
+	</wire>
+	<wire id="45">
+		<path>
+			<point x="-840" y="-190"/>
+			<point x="900" y="-190"/>
+			<point x="900" y="-240"/>
+		</path>
+		<path>
+			<point x="550" y="-40"/>
+			<point x="550" y="-190"/>
+		</path>
+		<marker x="550" y="-190"/>
+		<tag type="interface" xwire="900" ywire="-240" xtag="900" ytag="-260" flow="out" pinid="21" text="O2"/>
+	</wire>
+	<wire id="46">
+		<path>
+			<point x="-840" y="-200"/>
+			<point x="880" y="-200"/>
+			<point x="880" y="-240"/>
+		</path>
+		<path>
+			<point x="650" y="-40"/>
+			<point x="650" y="-200"/>
+		</path>
+		<marker x="650" y="-200"/>
+		<tag type="interface" xwire="880" ywire="-240" xtag="880" ytag="-260" flow="out" pinid="20" text="O1"/>
+	</wire>
+	<wire id="47">
+		<path>
+			<point x="-840" y="-210"/>
+			<point x="860" y="-210"/>
+			<point x="860" y="-240"/>
+		</path>
+		<path>
+			<point x="750" y="-40"/>
+			<point x="750" y="-210"/>
+		</path>
+		<marker x="750" y="-210"/>
+		<tag type="interface" xwire="860" ywire="-240" xtag="860" ytag="-260" flow="out" pinid="19" text="O0"/>
+	</wire>
+	<wire id="48">
+		<path>
+			<point x="-840" y="120"/>
+			<point x="-840" y="130"/>
+			<point x="-750" y="130"/>
+			<point x="-750" y="40"/>
+		</path>
+	</wire>
+	<wire id="49">
+		<path>
+			<point x="-850" y="120"/>
+			<point x="-850" y="140"/>
+			<point x="-650" y="140"/>
+			<point x="-650" y="40"/>
+		</path>
+	</wire>
+	<wire id="50">
+		<path>
+			<point x="-860" y="120"/>
+			<point x="-860" y="150"/>
+			<point x="-550" y="150"/>
+			<point x="-550" y="40"/>
+		</path>
+	</wire>
+	<wire id="51">
+		<path>
+			<point x="-870" y="120"/>
+			<point x="-870" y="160"/>
+			<point x="-450" y="160"/>
+			<point x="-450" y="40"/>
+		</path>
+	</wire>
+	<wire id="52">
+		<path>
+			<point x="-880" y="120"/>
+			<point x="-880" y="170"/>
+			<point x="-350" y="170"/>
+			<point x="-350" y="40"/>
+		</path>
+	</wire>
+	<wire id="53">
+		<path>
+			<point x="-890" y="120"/>
+			<point x="-890" y="180"/>
+			<point x="-250" y="180"/>
+			<point x="-250" y="40"/>
+		</path>
+	</wire>
+	<wire id="54">
+		<path>
+			<point x="-900" y="120"/>
+			<point x="-900" y="190"/>
+			<point x="-150" y="190"/>
+			<point x="-150" y="40"/>
+		</path>
+	</wire>
+	<wire id="55">
+		<path>
+			<point x="-910" y="120"/>
+			<point x="-910" y="200"/>
+			<point x="-50" y="200"/>
+			<point x="-50" y="40"/>
+		</path>
+	</wire>
+	<wire id="56">
+		<path>
+			<point x="-920" y="120"/>
+			<point x="-920" y="210"/>
+			<point x="50" y="210"/>
+			<point x="50" y="40"/>
+		</path>
+	</wire>
+	<wire id="57">
+		<path>
+			<point x="-930" y="120"/>
+			<point x="-930" y="220"/>
+			<point x="150" y="220"/>
+			<point x="150" y="40"/>
+		</path>
+	</wire>
+	<wire id="58">
+		<path>
+			<point x="-940" y="120"/>
+			<point x="-940" y="230"/>
+			<point x="250" y="230"/>
+			<point x="250" y="40"/>
+		</path>
+	</wire>
+	<wire id="59">
+		<path>
+			<point x="-950" y="120"/>
+			<point x="-950" y="240"/>
+			<point x="350" y="240"/>
+			<point x="350" y="40"/>
+		</path>
+	</wire>
+	<wire id="60">
+		<path>
+			<point x="-960" y="120"/>
+			<point x="-960" y="250"/>
+			<point x="450" y="250"/>
+			<point x="450" y="40"/>
+		</path>
+	</wire>
+	<wire id="61">
+		<path>
+			<point x="-970" y="120"/>
+			<point x="-970" y="260"/>
+			<point x="550" y="260"/>
+			<point x="550" y="40"/>
+		</path>
+	</wire>
+	<wire id="62">
+		<path>
+			<point x="-980" y="120"/>
+			<point x="-980" y="270"/>
+			<point x="650" y="270"/>
+			<point x="650" y="40"/>
+		</path>
+	</wire>
+	<wire id="63">
+		<path>
+			<point x="-990" y="120"/>
+			<point x="-990" y="280"/>
+			<point x="750" y="280"/>
+			<point x="750" y="40"/>
+		</path>
+	</wire>
+	<wire id="64">
+		<path>
+			<point x="-1160" y="120"/>
+			<point x="-1160" y="140"/>
+			<point x="-1200" y="140"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="140" xtag="-1220" ytag="140" flow="in" pinid="3" text="S0"/>
+	</wire>
+	<wire id="65">
+		<path>
+			<point x="-1150" y="120"/>
+			<point x="-1150" y="160"/>
+			<point x="-1200" y="160"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="160" xtag="-1220" ytag="160" flow="in" pinid="4" text="S1"/>
+	</wire>
+	<wire id="66">
+		<path>
+			<point x="-1140" y="120"/>
+			<point x="-1140" y="180"/>
+			<point x="-1200" y="180"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="180" xtag="-1220" ytag="180" flow="in" pinid="5" text="S2"/>
+	</wire>
+	<wire id="67">
+		<path>
+			<point x="-1130" y="120"/>
+			<point x="-1130" y="200"/>
+			<point x="-1200" y="200"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="200" xtag="-1220" ytag="200" flow="in" pinid="6" text="S3"/>
+	</wire>
+	<wire id="68">
+		<path>
+			<point x="-1120" y="120"/>
+			<point x="-1120" y="220"/>
+			<point x="-1200" y="220"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="220" xtag="-1220" ytag="220" flow="in" pinid="7" text="S4"/>
+	</wire>
+	<wire id="69">
+		<path>
+			<point x="-1110" y="120"/>
+			<point x="-1110" y="240"/>
+			<point x="-1200" y="240"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="240" xtag="-1220" ytag="240" flow="in" pinid="8" text="S5"/>
+	</wire>
+	<wire id="70">
+		<path>
+			<point x="-1100" y="120"/>
+			<point x="-1100" y="260"/>
+			<point x="-1200" y="260"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="260" xtag="-1220" ytag="260" flow="in" pinid="9" text="S6"/>
+	</wire>
+	<wire id="71">
+		<path>
+			<point x="-1080" y="120"/>
+			<point x="-1080" y="300"/>
+			<point x="-1200" y="300"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="300" xtag="-1220" ytag="300" flow="in" pinid="11" text="S8"/>
+	</wire>
+	<wire id="72">
+		<path>
+			<point x="-1090" y="120"/>
+			<point x="-1090" y="280"/>
+			<point x="-1200" y="280"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="280" xtag="-1220" ytag="280" flow="in" pinid="10" text="S7"/>
+	</wire>
+	<wire id="73">
+		<path>
+			<point x="-1070" y="120"/>
+			<point x="-1070" y="320"/>
+			<point x="-1200" y="320"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="320" xtag="-1220" ytag="320" flow="in" pinid="12" text="S9"/>
+	</wire>
+	<wire id="74">
+		<path>
+			<point x="-1060" y="120"/>
+			<point x="-1060" y="340"/>
+			<point x="-1200" y="340"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="340" xtag="-1220" ytag="340" flow="in" pinid="13" text="S10"/>
+	</wire>
+	<wire id="75">
+		<path>
+			<point x="-1050" y="120"/>
+			<point x="-1050" y="360"/>
+			<point x="-1200" y="360"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="360" xtag="-1220" ytag="360" flow="in" pinid="14" text="S11"/>
+	</wire>
+	<wire id="76">
+		<path>
+			<point x="-1040" y="120"/>
+			<point x="-1040" y="380"/>
+			<point x="-1200" y="380"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="380" xtag="-1220" ytag="380" flow="in" pinid="15" text="S12"/>
+	</wire>
+	<wire id="77">
+		<path>
+			<point x="-1030" y="120"/>
+			<point x="-1030" y="400"/>
+			<point x="-1200" y="400"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="400" xtag="-1220" ytag="400" flow="in" pinid="16" text="S13"/>
+	</wire>
+	<wire id="78">
+		<path>
+			<point x="-1020" y="120"/>
+			<point x="-1020" y="420"/>
+			<point x="-1200" y="420"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="420" xtag="-1220" ytag="420" flow="in" pinid="17" text="S14"/>
+	</wire>
+	<wire id="79">
+		<path>
+			<point x="-1010" y="120"/>
+			<point x="-1010" y="440"/>
+			<point x="-1200" y="440"/>
+		</path>
+		<tag type="interface" xwire="-1200" ywire="440" xtag="-1220" ytag="440" flow="in" pinid="18" text="S15"/>
+	</wire>
+	<wire id="80">
+		<path>
+			<point x="-1280" y="-20"/>
+			<point x="-1240" y="-20"/>
+		</path>
+		<tag type="interface" xwire="-1280" ywire="-20" xtag="-1300" ytag="-20" flow="in" pinid="1" text="Set"/>
+	</wire>
+	<wire id="81">
+		<path>
+			<point x="-810" y="90"/>
+			<point x="-800" y="90"/>
+			<point x="-800" y="40"/>
+			<point x="-1280" y="40"/>
+		</path>
+		<path>
+			<point x="-1240" y="0"/>
+			<point x="-1240" y="40"/>
+		</path>
+		<marker x="-1240" y="40"/>
+		<tag type="interface" xwire="-1280" ywire="40" xtag="-1300" ytag="40" flow="in" pinid="2" text="Count"/>
+	</wire>
+	<wire id="82">
+		<path>
+			<point x="-1170" y="-70"/>
+			<point x="-1170" y="-30"/>
+			<point x="-1160" y="-30"/>
+		</path>
+	</wire>
+	<wire id="83">
+		<path>
+			<point x="-1160" y="-20"/>
+			<point x="-1180" y="-20"/>
+			<point x="-1180" y="-50"/>
+			<point x="-1280" y="-50"/>
+		</path>
+		<path>
+			<point x="-1270" y="-50"/>
+			<point x="-1270" y="-70"/>
+		</path>
+		<marker x="-1270" y="-50"/>
+		<tag type="interface" xwire="-1280" ywire="-50" xtag="-1300" ytag="-50" flow="in" pinid="0" text="Clock"/>
+	</wire>
+	<wire id="84">
+		<path>
+			<point x="-1170" y="-10"/>
+			<point x="-1160" y="-10"/>
+		</path>
+	</wire>
+	<wire id="85">
+		<path>
+			<point x="-1090" y="-20"/>
+			<point x="-870" y="-20"/>
+			<point x="-870" y="-35"/>
+		</path>
+	</wire>
+	<component id="0" def="Half Adder" x="-50" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="39" invert="false"/>
+		<connection flow="in" pinid="1" wireid="8" invert="false"/>
+		<connection flow="out" pinid="2" wireid="55" invert="false"/>
+		<connection flow="out" pinid="3" wireid="9" invert="false"/>
+	</component>
+	<component id="1" def="Half Adder" x="50" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="40" invert="false"/>
+		<connection flow="in" pinid="1" wireid="7" invert="false"/>
+		<connection flow="out" pinid="2" wireid="56" invert="false"/>
+		<connection flow="out" pinid="3" wireid="8" invert="false"/>
+	</component>
+	<component id="2" def="Half Adder" x="150" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="41" invert="false"/>
+		<connection flow="in" pinid="1" wireid="6" invert="false"/>
+		<connection flow="out" pinid="2" wireid="57" invert="false"/>
+		<connection flow="out" pinid="3" wireid="7" invert="false"/>
+	</component>
+	<component id="3" def="Half Adder" x="250" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="42" invert="false"/>
+		<connection flow="in" pinid="1" wireid="4" invert="false"/>
+		<connection flow="out" pinid="2" wireid="58" invert="false"/>
+		<connection flow="out" pinid="3" wireid="6" invert="false"/>
+	</component>
+	<component id="4" def="Half Adder" x="350" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="43" invert="false"/>
+		<connection flow="in" pinid="1" wireid="3" invert="false"/>
+		<connection flow="out" pinid="2" wireid="59" invert="false"/>
+		<connection flow="out" pinid="3" wireid="4" invert="false"/>
+	</component>
+	<component id="5" def="Half Adder" x="-150" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="38" invert="false"/>
+		<connection flow="in" pinid="1" wireid="9" invert="false"/>
+		<connection flow="out" pinid="2" wireid="54" invert="false"/>
+		<connection flow="out" pinid="3" wireid="10" invert="false"/>
+	</component>
+	<component id="6" def="Half Adder" x="-250" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="37" invert="false"/>
+		<connection flow="in" pinid="1" wireid="10" invert="false"/>
+		<connection flow="out" pinid="2" wireid="53" invert="false"/>
+		<connection flow="out" pinid="3" wireid="11" invert="false"/>
+	</component>
+	<component id="7" def="Half Adder" x="-350" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="36" invert="false"/>
+		<connection flow="in" pinid="1" wireid="11" invert="false"/>
+		<connection flow="out" pinid="2" wireid="52" invert="false"/>
+		<connection flow="out" pinid="3" wireid="12" invert="false"/>
+	</component>
+	<component id="8" def="Half Adder" x="-450" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="35" invert="false"/>
+		<connection flow="in" pinid="1" wireid="12" invert="false"/>
+		<connection flow="out" pinid="2" wireid="51" invert="false"/>
+		<connection flow="out" pinid="3" wireid="13" invert="false"/>
+	</component>
+	<component id="9" def="Half Adder" x="-550" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="34" invert="false"/>
+		<connection flow="in" pinid="1" wireid="13" invert="false"/>
+		<connection flow="out" pinid="2" wireid="50" invert="false"/>
+		<connection flow="out" pinid="3" wireid="14" invert="false"/>
+	</component>
+	<component id="10" def="Half Adder" x="-650" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="33" invert="false"/>
+		<connection flow="in" pinid="1" wireid="14" invert="false"/>
+		<connection flow="out" pinid="2" wireid="49" invert="false"/>
+		<connection flow="out" pinid="3" wireid="15" invert="false"/>
+	</component>
+	<component id="11" def="Half Adder" x="-750" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="32" invert="false"/>
+		<connection flow="in" pinid="1" wireid="15" invert="false"/>
+		<connection flow="out" pinid="2" wireid="48" invert="false"/>
+		<connection flow="out" pinid="3" wireid="null" invert="false"/>
+	</component>
+	<component id="12" def="Half Adder" x="450" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="44" invert="false"/>
+		<connection flow="in" pinid="1" wireid="2" invert="false"/>
+		<connection flow="out" pinid="2" wireid="60" invert="false"/>
+		<connection flow="out" pinid="3" wireid="3" invert="false"/>
+	</component>
+	<component id="13" def="Half Adder" x="550" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="45" invert="false"/>
+		<connection flow="in" pinid="1" wireid="1" invert="false"/>
+		<connection flow="out" pinid="2" wireid="61" invert="false"/>
+		<connection flow="out" pinid="3" wireid="2" invert="false"/>
+	</component>
+	<component id="14" def="Half Adder" x="650" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="46" invert="false"/>
+		<connection flow="in" pinid="1" wireid="0" invert="false"/>
+		<connection flow="out" pinid="2" wireid="62" invert="false"/>
+		<connection flow="out" pinid="3" wireid="1" invert="false"/>
+	</component>
+	<component id="15" def="Half Adder" x="750" y="0" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="47" invert="false"/>
+		<connection flow="in" pinid="1" wireid="5" invert="false"/>
+		<connection flow="out" pinid="2" wireid="63" invert="false"/>
+		<connection flow="out" pinid="3" wireid="0" invert="false"/>
+	</component>
+	<component id="16" def="Constant" x="840" y="0" direction="left" flip="false" value="1 (True)">
+		<connection flow="out" pinid="0" wireid="5" invert="false"/>
+	</component>
+	<component id="17" def="Register 16 Bit " x="-870" y="-135" direction="up" flip="false">
+		<connection flow="in" pinid="0" wireid="31" invert="false"/>
+		<connection flow="in" pinid="1" wireid="30" invert="false"/>
+		<connection flow="in" pinid="2" wireid="29" invert="false"/>
+		<connection flow="in" pinid="3" wireid="28" invert="false"/>
+		<connection flow="in" pinid="4" wireid="27" invert="false"/>
+		<connection flow="in" pinid="5" wireid="26" invert="false"/>
+		<connection flow="in" pinid="6" wireid="25" invert="false"/>
+		<connection flow="in" pinid="7" wireid="24" invert="false"/>
+		<connection flow="in" pinid="8" wireid="23" invert="false"/>
+		<connection flow="in" pinid="9" wireid="22" invert="false"/>
+		<connection flow="in" pinid="10" wireid="21" invert="false"/>
+		<connection flow="in" pinid="11" wireid="20" invert="false"/>
+		<connection flow="in" pinid="12" wireid="19" invert="false"/>
+		<connection flow="in" pinid="13" wireid="18" invert="false"/>
+		<connection flow="in" pinid="14" wireid="17" invert="false"/>
+		<connection flow="in" pinid="15" wireid="16" invert="false"/>
+		<connection flow="in" pinid="16" wireid="85" invert="false"/>
+		<connection flow="out" pinid="17" wireid="47" invert="false"/>
+		<connection flow="out" pinid="18" wireid="46" invert="false"/>
+		<connection flow="out" pinid="19" wireid="45" invert="false"/>
+		<connection flow="out" pinid="20" wireid="44" invert="false"/>
+		<connection flow="out" pinid="21" wireid="43" invert="false"/>
+		<connection flow="out" pinid="22" wireid="42" invert="false"/>
+		<connection flow="out" pinid="23" wireid="41" invert="false"/>
+		<connection flow="out" pinid="24" wireid="40" invert="false"/>
+		<connection flow="out" pinid="25" wireid="39" invert="false"/>
+		<connection flow="out" pinid="26" wireid="38" invert="false"/>
+		<connection flow="out" pinid="27" wireid="37" invert="false"/>
+		<connection flow="out" pinid="28" wireid="36" invert="false"/>
+		<connection flow="out" pinid="29" wireid="35" invert="false"/>
+		<connection flow="out" pinid="30" wireid="34" invert="false"/>
+		<connection flow="out" pinid="31" wireid="33" invert="false"/>
+		<connection pinid="32" wireid="32" invert="false"/>
+	</component>
+	<component id="18" def="Multiplexer 2 to 1 x 16" x="-1000" y="90" direction="left" flip="false">
+		<connection flow="in" pinid="0" wireid="81" invert="false"/>
+		<connection flow="in" pinid="1" wireid="64" invert="false"/>
+		<connection flow="in" pinid="2" wireid="65" invert="false"/>
+		<connection flow="in" pinid="3" wireid="66" invert="false"/>
+		<connection flow="in" pinid="4" wireid="67" invert="false"/>
+		<connection flow="in" pinid="5" wireid="68" invert="false"/>
+		<connection flow="in" pinid="6" wireid="69" invert="false"/>
+		<connection flow="in" pinid="7" wireid="70" invert="false"/>
+		<connection flow="in" pinid="8" wireid="72" invert="false"/>
+		<connection flow="in" pinid="9" wireid="71" invert="false"/>
+		<connection flow="in" pinid="10" wireid="73" invert="false"/>
+		<connection flow="in" pinid="11" wireid="74" invert="false"/>
+		<connection flow="in" pinid="12" wireid="75" invert="false"/>
+		<connection flow="in" pinid="13" wireid="76" invert="false"/>
+		<connection flow="in" pinid="14" wireid="77" invert="false"/>
+		<connection flow="in" pinid="15" wireid="78" invert="false"/>
+		<connection flow="in" pinid="16" wireid="79" invert="false"/>
+		<connection flow="in" pinid="17" wireid="63" invert="false"/>
+		<connection flow="in" pinid="18" wireid="62" invert="false"/>
+		<connection flow="in" pinid="19" wireid="61" invert="false"/>
+		<connection flow="in" pinid="20" wireid="60" invert="false"/>
+		<connection flow="in" pinid="21" wireid="59" invert="false"/>
+		<connection flow="in" pinid="22" wireid="58" invert="false"/>
+		<connection flow="in" pinid="23" wireid="57" invert="false"/>
+		<connection flow="in" pinid="24" wireid="56" invert="false"/>
+		<connection flow="in" pinid="25" wireid="55" invert="false"/>
+		<connection flow="in" pinid="26" wireid="54" invert="false"/>
+		<connection flow="in" pinid="27" wireid="53" invert="false"/>
+		<connection flow="in" pinid="28" wireid="52" invert="false"/>
+		<connection flow="in" pinid="29" wireid="51" invert="false"/>
+		<connection flow="in" pinid="30" wireid="50" invert="false"/>
+		<connection flow="in" pinid="31" wireid="49" invert="false"/>
+		<connection flow="in" pinid="32" wireid="48" invert="false"/>
+		<connection flow="out" pinid="33" wireid="31" invert="false"/>
+		<connection flow="out" pinid="34" wireid="30" invert="false"/>
+		<connection flow="out" pinid="35" wireid="29" invert="false"/>
+		<connection flow="out" pinid="36" wireid="28" invert="false"/>
+		<connection flow="out" pinid="37" wireid="27" invert="false"/>
+		<connection flow="out" pinid="38" wireid="26" invert="false"/>
+		<connection flow="out" pinid="39" wireid="25" invert="false"/>
+		<connection flow="out" pinid="40" wireid="24" invert="false"/>
+		<connection flow="out" pinid="41" wireid="23" invert="false"/>
+		<connection flow="out" pinid="42" wireid="22" invert="false"/>
+		<connection flow="out" pinid="43" wireid="21" invert="false"/>
+		<connection flow="out" pinid="44" wireid="20" invert="false"/>
+		<connection flow="out" pinid="45" wireid="19" invert="false"/>
+		<connection flow="out" pinid="46" wireid="18" invert="false"/>
+		<connection flow="out" pinid="47" wireid="17" invert="false"/>
+		<connection flow="out" pinid="48" wireid="16" invert="false"/>
+	</component>
+	<component id="19" def="And" x="-1125" y="-20" direction="right" flip="false">
+		<connection flow="in" pinid="0">
+			<subpin wireid="82" invert="true"/>
+			<subpin wireid="83" invert="false"/>
+			<subpin wireid="84" invert="false"/>
+		</connection>
+		<connection flow="out" pinid="1" wireid="85" invert="false"/>
+	</component>
+	<component id="20" def="Or" x="-1205" y="-10" direction="right" flip="false">
+		<connection flow="in" pinid="0">
+			<subpin wireid="80" invert="false"/>
+			<subpin wireid="81" invert="false"/>
+		</connection>
+		<connection flow="out" pinid="1" wireid="84" invert="false"/>
+	</component>
+	<component id="21" def="Delay 2" x="-1220" y="-70" direction="right" flip="false">
+		<connection flow="in" pinid="0" wireid="83" invert="false"/>
+		<connection flow="out" pinid="1" wireid="82" invert="false"/>
+	</component>
+</custom_component>
