@@ -110,7 +110,7 @@ ghdl -e adder_tb
 
 ghdl -r adder_tb --vcd=adder.vcd
 
-## D Flip-flop and T Flip-flop
+## D Flip-Flop and T Flip-Flop
 
 References:
 
@@ -128,7 +128,7 @@ reference: https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer
 
 reference: https://allaboutfpga.com/vhdl-code-for-1-to-4-demux
 
-## Wave Viewer: GTKWave based on GTK+ (GIMP Toolkit)
+## Wave Viewer: GTKWave Based on GTK+ (GIMP Toolkit)
 
 Reference: http://gtkwave.sourceforge.net
 
