@@ -16,7 +16,9 @@ https://standards.ieee.org/standard/1164-1993.html
 
 ## Labs on FPGA (Field-Programmable Gate Array)
 
-Digilent Nexys A7 Artix-7 FPGA Trainer Board (formerly Nexys 4 DDR)
+Digilent Nexys 4 DDR (or Nexys A7) FPGA Trainer Board 
+
+https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum
 
 https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum
 
@@ -24,7 +26,7 @@ Digilent Pmod Modules: KYPD (16-button keypad), I2S (Inter-IC Sound), and AD1 (t
 
 https://store.digilentinc.com/pmod-modules-connectors
 
-Xilinx Vivado Design Suite - HLx Editions
+Xilinx Vivado Design Suite - HLx (WebPACK) Editions
 
 https://www.xilinx.com/products/design-tools/vivado.html
 
