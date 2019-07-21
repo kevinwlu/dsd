@@ -1,8 +1,8 @@
-# Lab 1: Seven-Segment Decoder
+# Lab 1: Seven-segment decoder
 
 Contributions by Brandon Ip, 2019 Spring
 
-## Part 1 - LED Decoder
+## Part 1 - LED decoder
 
 ### 1. Create a new project in Vivado
 
@@ -10,11 +10,11 @@ Contributions by Brandon Ip, 2019 Spring
 
 * Create a new constraint file of file type XDC and copy the code from leddec.xdc
 
-### 2. Run Synthesis
+### 2. Run synthesis
 
-### 3. Run Implementation and open Implemented Design
+### 3. Run implementation and open implemented design
 
-### 4. Right-click Generate Bitstream and click Bitstream Settings
+### 4. Right-click generate bitstream and click bitstream settings
 
 * Click 'Configure additional bitstream settings' and click the Startup tab
 
@@ -22,7 +22,7 @@ Contributions by Brandon Ip, 2019 Spring
 
 * Click Generate Bitstream
 
-### 5. Open Adept and connect Nexys 4 DDR
+### 5. Connect Nexys 4 DDR
 
 * Initialize Chain
 
@@ -30,7 +30,7 @@ Contributions by Brandon Ip, 2019 Spring
 
 * Click Program
 
-## Part 2 - Hex Counter
+## Part 2 - Hex counter
 
 ### 1. Create a new project in Vivado
 
@@ -40,11 +40,11 @@ Contributions by Brandon Ip, 2019 Spring
 
 * Create a new constraint file of file type XDC and copy the code from hexcount.xdc
 
-### 2. Run Synthesis
+### 2. Run synthesis
 
-### 3. Run Implementation and open Implemented Design
+### 3. Run implementation and open implemented design
 
-### 4. Right-click Generate Bitstream and click Bitstream settings
+### 4. Right-click generate bitstream and click bitstream settings
 
 * Click 'Configure additional bitstream settings' and click the Startup tab
 
