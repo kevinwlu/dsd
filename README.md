@@ -16,7 +16,7 @@ https://standards.ieee.org/standard/1164-1993.html
 
 ## Labs on FPGA (Field-Programmable Gate Array)
 
-Digilent Nexys 4 DDR (or Nexys A7) FPGA Trainer Board 
+Digilent Nexys 4 DDR (or Nexys A7-100T) FPGA Trainer Board 
 
 https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum
 
