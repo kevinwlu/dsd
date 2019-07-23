@@ -4,11 +4,13 @@
 
 ### 1. Create a new RTL project leddec in Vivado Quick Start
 
-* Create a new source file of file type VHDL and copy the code from leddec.vhd
+* Create a new source file of file type VHDL called leddec
 
-* Create a new constraint file of file type XDC and copy the code from leddec.xdc
+* Create a new constraint file of file type XDC called leddec
 
 * Choose Nexys 4 DDR board for the project
+
+* Click 'Finish'
 
 * Click design sources and copy the VHDL code from leddec.vhd
 
@@ -34,11 +36,19 @@
 
 ### 1. Create a new project hexcounter in Vivado
 
-* Add the source file created in Part 1 and upload to project
+* Click 'Add Files' then add leddec.vhd
 
-* Create two new source files of file type VHDL and copy the code from counter.vhd and hexcount.vhd
+* Click 'Create File' then create two new source files of file type VHDL called counter and hexcount
 
-* Create a new constraint file of file type XDC and copy the code from hexcount.xdc
+* Create a new constraint file of file type XDC called hexcount'
+
+* Choose Nexys 4 DDR board for the project
+
+* Click 'Finish'
+
+* Click design sources and copy the VHDL code from counter.vhd and hexcount.vhd
+
+* Click constraints and copy the code from hexcount.xdc
 
 ### 2. Run synthesis
 
