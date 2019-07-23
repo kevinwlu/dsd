@@ -1,38 +1,38 @@
 # Lab 1: Seven-segment decoder
 
-Contributions by Brandon Ip, 2019 Spring
+## Project 1 - LED decoder
 
-## Part 1 - LED decoder
-
-### 1. Create a new project in Vivado
+### 1. Create a new RTL project leddec in Vivado Quick Start
 
 * Create a new source file of file type VHDL and copy the code from leddec.vhd
 
 * Create a new constraint file of file type XDC and copy the code from leddec.xdc
 
+* Choose Nexys 4 DDR board for the project
+
+* Click design sources and copy the VHDL code from leddec.vhd
+
+* Click constraints and copy the code from leddec.xdc
+
 ### 2. Run synthesis
 
 ### 3. Run implementation and open implemented design
 
-### 4. Right-click generate bitstream and click bitstream settings
+### 4. Generate bitstream and open hardware manager
 
-* Click 'Configure additional bitstream settings' and click the Startup tab
+* Click 'Generate Bitstream'
 
-* Change the Select Startup Clock dropdown to JTAGCLK and save settings
+* Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click Generate Bitstream
+### 5. Slider switches on Nexys 4 DDR
 
-### 5. Connect Nexys 4 DDR
+* Slider switches 6 and 7 to determine which dsiplay is illuminated
 
-* Initialize Chain
+* Slider switches 0, 1, 2, and 3 to select the value of 4-bit HEX digit
 
-* Under the Config tab, click Browse on FPGA and navigate to the project location and upload the .bit file created from Generate Bitstream
+## Project 2 - Hex counter
 
-* Click Program
-
-## Part 2 - Hex counter
-
-### 1. Create a new project in Vivado
+### 1. Create a new project hexcounter in Vivado
 
 * Add the source file created in Part 1 and upload to project
 
