@@ -40,7 +40,7 @@
 
 * Click 'Create File' then create two new source files of file type VHDL called counter and hexcount
 
-* Create a new constraint file of file type XDC called hexcount'
+* Create a new constraint file of file type XDC called hexcount
 
 * Choose Nexys 4 DDR board for the project
 
