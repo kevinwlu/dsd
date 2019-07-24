@@ -32,4 +32,6 @@
 
 ### 6. Generate memory configuration file
 
-* 
+* Tools > Generate Memory Configuration File > FormatL MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hexcount.mcs, Load bitstream files: hexcount.bit
+
+* Open Hardware Manager > Add Configuration Memory Device
