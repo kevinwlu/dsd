@@ -1,18 +1,20 @@
 # Lab 2: Four-Digit Hex Counter
 
-### 1. Create a new RTL project hex4counter in Vivado Quick Start
+### 1. Create a new project hex4counter in Vivado
 
-* Create a new source file of file type VHDL called leddec
+* Click 'Add Files' then add leddec.vhd
 
-* Create a new constraint file of file type XDC called leddec
+* Click 'Create File' then create two new source files of file type VHDL called counter and hexcount
+
+* Create a new constraint file of file type XDC called hexcount
 
 * Choose Nexys 4 DDR board for the project
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from leddec.vhd
+* Click design sources and copy the VHDL code from counter.vhd and hexcount.vhd
 
-* Click constraints and copy the code from leddec.xdc
+* Click constraints and copy the code from hexcount.xdc
 
 ### 2. Run synthesis
 
@@ -24,8 +26,6 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-### 5. Slider switches on Nexys 4 DDR
+### 5. Connect Nexys 4 DDR
 
-* Slider switches 6 and 7 to determine which dsiplay is illuminated
-
-* Slider switches 0, 1, 2, and 3 to select the value of 4-bit HEX digit
+* The least significant 7-segment decoder counts cycles from 0 to F
