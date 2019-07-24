@@ -6,3 +6,4 @@
 
 ### 3. Copy the extracted /new/board_files/nexys4_ddr folder to C:/Xilinx/Vivado/2019.1/data/boards/board_files
 
+### 4. Reference manual at https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual
