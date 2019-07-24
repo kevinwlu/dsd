@@ -5,7 +5,7 @@ USE IEEE.STD_LOGIC_1164.ALL;
 
 ENTITY hexcount IS
 	PORT (
-		clk_50MHz : IN STD_LOGIC;
+		clk_100MHz : IN STD_LOGIC;
 		anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
 		seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)
 	);
@@ -36,7 +36,7 @@ ARCHITECTURE Behavioral OF hexcount IS
 
 BEGIN
 	C1 : counter
-	PORT MAP(clk => clk_50MHz, count => S, mpx => md);
+	PORT MAP(clk => clk_100MHz, count => S, mpx => md);
 	L1 : leddec
 	PORT MAP(dig => md, data => display, anode => anode, seg => seg);
 	--mpx
