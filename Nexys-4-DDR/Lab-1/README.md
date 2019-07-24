@@ -54,12 +54,12 @@
 
 ### 3. Run implementation and open implemented design
 
-### 4. Right-click generate bitstream and click bitstream settings
+### 4. Generate bitstream and open hardware manager
 
-* Click 'Configure additional bitstream settings' and click the Startup tab
+* Click 'Generate Bitstream'
 
-* Change the Select Startup Clock dropdown to JTAGCLK and save settings
+* Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click Generate Bitstream
+### 5. Connect Nexys 4 DDR
 
-* Open Hardware Manager, Auto-Connect, Program Device
+* The least significant 7-segment decoder counts cycles from 0 to F
