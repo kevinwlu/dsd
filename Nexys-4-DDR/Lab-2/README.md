@@ -28,4 +28,8 @@
 
 ### 5. Connect Nexys 4 DDR
 
-* The least significant 7-segment decoder counts cycles from 0 to F
+* The four digit counter counts from 0000 to FFFF
+
+### 6. Generate memory configuration file
+
+* 
