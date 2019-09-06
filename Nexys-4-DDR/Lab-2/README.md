@@ -34,7 +34,7 @@
 
 ### 6. Generate memory configuration file
 
-* Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hexcount.mcs, Load bitstream files: hexcount.bit
+* Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hexcount.mcs, Load bitstream files: hexcount.bit, check "Overwrite"
 
 * Open Hardware Manager > Add Configuration Memory Device > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4, Configuration file: hexcount.mcs, PRM file: hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully."
 
