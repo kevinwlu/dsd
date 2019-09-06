@@ -18,21 +18,23 @@
 
 ### 2. Run synthesis
 
-### 3. Run implementation and open implemented design
+### 3. Run implementation
 
-* Tools > Edit Device Properties > Configuration Modes > Check Master SPIx1
+### 4. Open implemented design
 
-### 4. Generate bitstream and open hardware manager
+* Tools > Edit Device Properties > Configuration Modes > Check "Master SPIx1"
+
+### 5. Generate bitstream and open hardware manager
 
 * Click 'Generate Bitstream'
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-### 5. Connect Nexys 4 DDR
+### 6. Connect Nexys 4 DDR
 
 * The four digit counter counts from 0000 to FFFF
 
-### 6. Generate memory configuration file
+### 7. Generate memory configuration file
 
 * Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hexcount.mcs, Load bitstream files: hexcount.bit, check "Overwrite"
 
