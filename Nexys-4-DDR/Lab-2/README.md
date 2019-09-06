@@ -20,6 +20,8 @@
 
 ### 3. Run implementation and open implemented design
 
+* Tools > Edit Device Properties > Configuration Modes > Check Master SPIx1
+
 ### 4. Generate bitstream and open hardware manager
 
 * Click 'Generate Bitstream'
@@ -31,8 +33,6 @@
 * The four digit counter counts from 0000 to FFFF
 
 ### 6. Generate memory configuration file
-
-* Click "Open Implemented Design" then Tools > Edit Device Properties > Configuration Modes > Check Master SPIx1
 
 * Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hexcount.mcs, Load bitstream files: hexcount.bit
 
