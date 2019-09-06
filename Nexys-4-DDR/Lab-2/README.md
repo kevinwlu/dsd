@@ -40,4 +40,4 @@
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0 > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4, Configuration file: hexcount.mcs, PRM file: hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully." > OK
 
-* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device
+* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > POWER OFF > POWER ON
