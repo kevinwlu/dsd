@@ -32,6 +32,8 @@
 
 ### 6. Connect Nexys 4 DDR
 
+* Move the blue MODE jumper from JTAG to QSPI
+
 * The four digit counter counts from 0000 to FFFF
 
 ### 7. Generate memory configuration file
@@ -40,4 +42,4 @@
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0 > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4, Configuration file: hexcount.mcs, PRM file: hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully." > OK
 
-* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > POWER OFF > POWER ON
+* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > POWER OFF > POWER ON > POWER OFF > Move the blue MODE jumper from QSPI to JTAG
