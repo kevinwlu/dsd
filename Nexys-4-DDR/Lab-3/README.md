@@ -1,6 +1,6 @@
 # Lab 3: Bouncing Ball I
 
-Program the FPGA to display a "bouncing ball" on a 640 x 480 Video Graphics Array (VGA) monitor.
+* Program the FPGA to display a "bouncing ball" on a 640 x 480 Video Graphics Array (VGA) monitor
 
 ### 1. Create a new RTL project VGAball in Vivado Quick Start
 
@@ -25,3 +25,9 @@ Program the FPGA to display a "bouncing ball" on a 640 x 480 Video Graphics Arra
 * Click 'Generate Bitstream'
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
+
+### 5. Change the size and color of the ball
+
+### 6. Change the square ball to a round ball
+
+### 7. Introduce a new signal ball_x_motion to allow the ball to move both horizontally and vertically
