@@ -26,3 +26,30 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
+### 5. Use keypad and buttons
+
+* Enter a multi-digit hex number using the keypad one character at a time to appear on the 7-segments displays
+
+* Enter the first operand, press the “+” key (BTN0)
+
+* Enter the second operand and press the “=” key (BTN1) so that the value of the sum of the operands appears on the display
+
+* Press the “clear” key (BTN3) to set the result on the display to zero
+
+### 6. Modify the leddec16 module to that it performs leading zero suppression (i.e. it does not display zeros ahead of the first non-zero digit)
+
+* For example, the number “0023” should appear as “23” with the leading zeros suppressed
+
+* Hint: You can turn off any digit in the display by never taking its anode to ‘0’
+
+* Modify the “anode <=” conditional assignment statement in leddec16 so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
+
+### 7. Expand the calculator to also do subtraction operations
+
+* Use the button BTN2 (pin E18 on the Nexys 4 DDR board) as the “–” key
+
+* Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed
+
+* Create a new signal which will record whether the “+” key or the “–” key was pushed
+
+* Then, when in state ENTER_OP and the “=” key is pressed, test your new signal to determine whether you should do an addition or a subtraction
