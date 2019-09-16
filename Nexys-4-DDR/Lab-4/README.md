@@ -4,13 +4,17 @@
 
 ### 1. Create a new RTL project Hexcalc in Vivado Quick Start
 
-* Create three new source files of file type VHDL called keypad.vhd, leddec16.vhd, and hexcalc.vhd
+* Create three new source files of file type VHDL called keypad, leddec16, and hexcalc
 
-* Create a new constraint file of file type XDC called hexcalc.xdc
+* Create a new constraint file of file type XDC called hexcalc
 
 * Choose Nexys 4 DDR board for the project
 
 * Click 'Finish'
+
+* Click design sources and copy the VHDL code from keypad.vhd, leddec16.vhd, and hexcalc.vhd
+
+* Click constraints and copy the code from hexcalc.xdc
 
 ### 2. Run synthesis
 
