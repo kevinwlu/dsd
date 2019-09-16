@@ -21,3 +21,4 @@
 * Click 'Generate Bitstream'
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
+
