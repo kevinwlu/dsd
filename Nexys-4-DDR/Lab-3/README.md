@@ -4,13 +4,17 @@
 
 ### 1. Create a new RTL project VGAball in Vivado Quick Start
 
-* Create three new source files of file type VHDL called vga_sync.vhd, ball.vhd, and vga_top.vhd
+* Create three new source files of file type VHDL called vga_sync, ball, and vga_top
 
-* Create a new constraint file of file type XDC called vga_top.xdc
+* Create a new constraint file of file type XDC called vga_top
 
 * Choose Nexys 4 DDR board for the project
 
 * Click 'Finish'
+
+* Click design sources and copy the VHDL code from vga_sync.vhd, ball.vhd, and vga_top.vhd
+
+* Click constraints and copy the code from vga_top.xdc
 
 ### 2. Run synthesis
 
