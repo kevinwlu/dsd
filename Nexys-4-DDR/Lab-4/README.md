@@ -46,7 +46,7 @@
 
 ### 7. Expand the calculator to also do subtraction operations
 
-* Use the button BTN2 (pin ? on the Nexys 4 DDR board) as the “–” key
+* Use the button BTN2 (pin P18 on the Nexys 4 DDR board) as the “–” key
 
 * Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed
 
