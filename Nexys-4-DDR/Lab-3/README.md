@@ -12,10 +12,6 @@
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from leddec.vhd
-
-* Click constraints and copy the code from leddec.xdc
-
 ### 2. Run synthesis
 
 ### 3. Run implementation and open implemented design
