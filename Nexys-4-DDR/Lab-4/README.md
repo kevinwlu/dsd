@@ -36,9 +36,9 @@
 
 * Press the “clear” key (BTN3) to set the result on the display to zero
 
-### 6. Modify the leddec16 module to that it performs leading zero suppression (i.e. it does not display zeros ahead of the first non-zero digit)
+### 6. Modify the leddec16 module to perform leading zero suppression
 
-* For example, the number “0023” should appear as “23” with the leading zeros suppressed
+* With the leading zeros suppressed, the number “0023” appears as “23” 
 
 * Hint: You can turn off any digit in the display by never taking its anode to ‘0’
 
