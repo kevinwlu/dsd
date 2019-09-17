@@ -20,7 +20,7 @@
 
 ### 3. Run implementation and open implemented design
 
-### 4. Generate bitstream and open hardware manager
+### 4. Generate bitstream, open hardware manager, and program device
 
 * Click 'Generate Bitstream'
 
@@ -60,7 +60,7 @@
 
 ### 3. Run implementation and open implemented design
 
-### 4. Generate bitstream and open hardware manager
+### 4. Generate bitstream, open hardware manager, and program device
 
 * Click 'Generate Bitstream'
 
