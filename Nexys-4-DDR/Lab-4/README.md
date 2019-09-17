@@ -32,11 +32,11 @@
 
 * Enter a multi-digit hex number using the keypad one character at a time to appear on the 7-segments displays
 
-* Enter the first operand, press the “+” key (BTN0)
+* Enter the first operand, press the “+” key (BTNU)
 
-* Enter the second operand and press the “=” key (BTN1) so that the value of the sum of the operands appears on the display
+* Enter the second operand and press the “=” key (BTNL) so that the value of the sum of the operands appears on the display
 
-* Press the “clear” key (BTN3) to set the result on the display to zero
+* Press the “clear” key (BTNC) to set the result on the display to zero
 
 ### 6. Modify the leddec16 module to perform leading zero suppression
 
