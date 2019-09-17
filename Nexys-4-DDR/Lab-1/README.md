@@ -34,6 +34,10 @@
 
 * Slider switches 0, 1, 2, and 3 to select the value of 4-bit HEX digit
 
+### 6. Close project
+
+* File > Close Project
+
 ## Project 2 - Hex counter
 
 ### 1. Create a new project hexcounter in Vivado
@@ -65,3 +69,7 @@
 * Click 'Program Device' then xc7a100t_0 to download hexcount.bit to the Nexys 4 DDR board
 
 * The least significant 7-segment decoder counts cycles from 0 to F
+
+### 5. Close project
+
+* File > Close Project
