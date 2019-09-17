@@ -26,4 +26,23 @@ Extend the FPGA code developed in Lab 3 (Bouncing Ball) with Pmod ADC, potentiom
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-### 5. 
+### 5. Change ball speed
+
+* The ball speed is currently 6 pixels per video frame
+
+* Use the slide switches on the Nexys 4 DDR board to program the ball speed in the range of 1-32 pixels per frame
+
+* Avoid setting the speed to zero as the ball will then never reach the bat or wall
+
+* See how fast to move the ball and still keep it in play
+
+### 6. Change bat width
+
+* Double the width of the bat to make the game really easy
+
+* Modify the code so that the bat width decreases one pixel each time successfully hitting the ball and then resets to
+starting width when missing the ball
+
+* See how many times hitting the ball in a row as the bat slowly shrinks
+
+* Count the number of successful hits after each serve and display the count in binary on the LEDs on the Nexys 4 DDR board
