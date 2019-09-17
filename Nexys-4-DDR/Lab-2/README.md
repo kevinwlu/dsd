@@ -24,19 +24,19 @@
 
 * Tools > Edit Device Properties > Configuration Modes > Check "Master SPIx1"
 
-### 5. Generate bitstream and open hardware manager
+### 5. Generate bitstream, open hardware manager, and program device
 
 * Click 'Generate Bitstream'
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-### 6. Connect Nexys 4 DDR
+* Click 'Program Device' then xc7a100t_0 to download hexcount.bit to the Nexys 4 DDR board
 
 * Move the blue MODE jumper from JTAG to QSPI
 
 * The four digit counter counts from 0000 to FFFF
 
-### 7. Generate memory configuration file
+### 6. Generate memory configuration file
 
 * Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hexcount.mcs, Load bitstream files: hexcount.bit, check "Overwrite"
 
