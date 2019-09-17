@@ -26,7 +26,9 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-### 5. Slider switches on Nexys 4 DDR
+* Click 'Program Device' then xc7a100t_0 to download leddec.bit to the Nexys 4 DDR board
+
+### 5. Slider switches on the Nexys 4 DDR board
 
 * Slider switches 6 and 7 to determine which dsiplay is illuminated
 
@@ -60,6 +62,6 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-### 5. Connect Nexys 4 DDR
+* Click 'Program Device' then xc7a100t_0 to download hexcount.bit to the Nexys 4 DDR board
 
 * The least significant 7-segment decoder counts cycles from 0 to F
