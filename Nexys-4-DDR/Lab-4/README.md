@@ -48,10 +48,10 @@
 
 ### 7. Expand the calculator to also do subtraction operations
 
-* Use the button BTN2 (pin P18 on the Nexys 4 DDR board) as the “–” key
+* Use the button BTND (pin P18 on the Nexys 4 DDR board) as the “–” key
 
 * Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed
 
-* Create a new signal which will record whether the “+” key or the “–” key was pushed
+* Create a new signal to record whether the “+” key or the “–” key was pushed
 
-* Then, when in state ENTER_OP and the “=” key is pressed, test your new signal to determine whether you should do an addition or a subtraction
+* Then, when in state ENTER_OP and the “=” key is pressed, test the new signal to determine whether to do an addition or a subtraction
