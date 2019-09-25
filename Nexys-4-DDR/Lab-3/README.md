@@ -1,6 +1,6 @@
 # Lab 3: Bouncing Ball I
 
-* Program the FPGA to display a "bouncing ball" on a 640 x 480 Video Graphics Array (VGA) monitor
+* Program the FPGA to display a "bouncing ball" on a 640 x 480 Video Graphics Array (VGA) monitor (See Section 9 VGA Port of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ### 1. Create a new RTL project VGAball in Vivado Quick Start
 
