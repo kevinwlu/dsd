@@ -1,5 +1,7 @@
 # Lab 1: Seven-segment decoder
 
+* The Nexys4 DDR board contains two four-digit common anode seven-segment LED displays (See Section 10.1 Seven-Segment Display of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+
 ## Project 1 - LED decoder
 
 ### 1. Create a new RTL project leddec in Vivado Quick Start
