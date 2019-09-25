@@ -1,6 +1,6 @@
 # Lab 6: Video Game "PONG"
 
-Extend the FPGA code developed in Lab 3 (Bouncing Ball) with Pmod ADC, potentiometer, and VGA display to build a PONG game 
+Extend the FPGA code developed in Lab 3 (Bouncing Ball) with an analog-to-digital converter called Pmod ADC, a potentiometer, and a VGA display to build a PONG game
 
 ### 1. Create a new RTL project Pong in Vivado Quick Start
 
