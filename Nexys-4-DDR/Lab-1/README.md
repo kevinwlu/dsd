@@ -1,6 +1,6 @@
 # Lab 1: Seven-segment decoder
 
-* The Nexys4 DDR board contains two four-digit common anode seven-segment LED displays (See Section 10.1 Seven-Segment Display of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+* Built a single-digit (4-bit) hex counter to display its value on both four-digit common anode seven-segment LED displays (See Section 10.1 Seven-Segment Display of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ## Project 1 - LED decoder
 
@@ -34,13 +34,15 @@
 
 * Slider switches 6 and 7 to determine which dsiplay is illuminated
 
-* Slider switches 0, 1, 2, and 3 to select the value of 4-bit HEX digit
+* Slider switches 0, 1, 2, and 3 to select the value of 4-bit hex digit
 
 ### 6. Close project
 
 * File > Close Project
 
 ## Project 2 - Hex counter
+
+* Build a 4-bit counter to display a hex character
 
 ### 1. Create a new project hexcounter in Vivado
 
