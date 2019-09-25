@@ -1,6 +1,6 @@
 # Lab 4: Hex Calculator
 
-* Program the FPGA on the Nexys 4 DDR board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module Pmod KYPD
+* Program the FPGA on the Nexys 4 DDR board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module (Pmod KYPD) connected to the Pmod port JA (See Section 11 of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ### 1. Create a new RTL project Hexcalc in Vivado Quick Start
 
