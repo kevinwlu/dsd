@@ -1,6 +1,6 @@
 # Lab 5: DAC Siren
 
-Program the FPGA on the Nexys 4 DDR board to generate a wailing audio siren using a Digital-to-Analog (DAC) Converter called Pmod Inter-IC Sound (I2S) with a headphone or speaker connected to the top pins of the Pmod port JA (See Section 11 of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+Program the FPGA on the Nexys 4 DDR board to generate a wailing audio siren using a digital-to-analog (DAC) converter called Pmod Inter-IC Sound (I2S) with a headphone or speaker connected to the top pins of the Pmod port JA (See Section 11 of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ### 1. Create a new RTL project Siren in Vivado Quick Start
 
