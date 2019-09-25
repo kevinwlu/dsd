@@ -1,5 +1,7 @@
 # Lab 2: Four-Digit Hex Counter
 
+Build a four-digit (16-bit) counter to display its value on 7-segment displays (See Section 10.1 Seven-Segment Display of the refenece manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+
 ### 1. Create a new project hex4counter in Vivado
 
 * Click 'Add Files' then add leddec.vhd
