@@ -1,6 +1,6 @@
 # Lab 6: Video Game "PONG"
 
-Extend the FPGA code developed in Lab 3 (Bouncing Ball) with an analog-to-digital converter called Pmod ADC, a potentiometer, and a VGA display to build a PONG game
+Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game using a VGA display and a potentiometer with an analog-to-digital converter called Pmod ADC connected to the top pins of the Pmod port JA (See Section 11 of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ### 1. Create a new RTL project Pong in Vivado Quick Start
 
@@ -27,6 +27,8 @@ Extend the FPGA code developed in Lab 3 (Bouncing Ball) with an analog-to-digita
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
 * Click 'Program Device' then xc7a100t_0 to download pong.bit to the Nexys 4 DDR board
+
+* Push BTNC to start the bouncing ball and use the bat to keep the ball in play
 
 ### 5. Change ball speed
 
