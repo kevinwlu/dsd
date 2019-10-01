@@ -14,7 +14,7 @@
 
 ## 3. File > New > University Program VWF (Vector Waveform File)
 
-* Right click "Name" > Insert > Insert Node or Bus > Node Finder
+* Right click "Name" > Insert Node or Bus > Node Finder
 
 * Click ">>" > OK
 
