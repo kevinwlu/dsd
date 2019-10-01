@@ -16,7 +16,7 @@
 
 * Right click "Name" > Insert Node or Bus > Node Finder
 
-* Click ">>" > OK
+* Click "List" then ">>" > OK
 
   Right click "a" > Value > Random Value
 
