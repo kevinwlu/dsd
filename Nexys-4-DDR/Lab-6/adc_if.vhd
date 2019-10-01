@@ -9,7 +9,7 @@ ENTITY adc_if IS
 		SDATA2 : IN STD_LOGIC; -- serial data channel 2
 		CS : IN STD_LOGIC; -- chip select that initiates A/D conversion
 		data_1 : OUT STD_LOGIC_VECTOR(11 DOWNTO 0); -- parallel 12-bit data ch1
-	data_2 : OUT STD_LOGIC_VECTOR(11 DOWNTO 0)); -- parallel 12-bit data ch2
+		data_2 : OUT STD_LOGIC_VECTOR(11 DOWNTO 0)); -- parallel 12-bit data ch2
 END adc_if;
 
 ARCHITECTURE Behavioral OF adc_if IS
