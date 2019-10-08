@@ -12,7 +12,7 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
 
 * File > New > VHDL File > OK
 
-* Copy and paste adder.vhd
+* Copy and paste adder.vhdl
 
 * Click the arrow to compile
 
