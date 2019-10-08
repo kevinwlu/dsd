@@ -1,5 +1,7 @@
 # Terasic DE0-CV FPGA Board
 
+DE0-Nano FPGA and VHDL beginner tutorial https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/
+
 ## 1. Download and install Intel Quartus Prime Lite Edition on Windows
 
 ## 2. Create a New Project > Next
