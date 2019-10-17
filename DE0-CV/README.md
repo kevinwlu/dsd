@@ -20,7 +20,7 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
 
 * Right click the space under "Name" > Insert Node or Bus > Node Finder
 
-* Click "List" then ">>" > OK
+* Click "List" then ">>" > OK > OK
 
   Right click "a" > Value > Random Value
 
