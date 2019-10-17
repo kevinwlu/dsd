@@ -22,13 +22,13 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
 
 * Click "List" then ">>" > OK > OK
 
-  Right click "a" > Value > Random Value
+  Right click "a" > Click the Symbol for Random Values > Every grid interval > OK
 
-  Right click "b" > Value > Random Value
+  Right click "b" > Click the Symbol for Random Values > Every grid interval > OK
 
-  Right click "carry_in" > Value > Random Value
+  Right click "carry_in" > Click the Symbol for Random Values > Every grid interval > OK
 
-* Save > click the arrow to complie
+* Simulation > Generate ModelSim Testbench and Script
 
 ## 4. Program FPGA board
 
@@ -46,6 +46,6 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
   
   sum > PIN_AA2
   
-* Click the arrow to compile
+* Click the blue arrows under Compilation one at a time
 
 ## 5. Tool > Programmer > Hardware Setup > USB Blaster > Start
