@@ -46,6 +46,6 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
   
   sum > PIN_AA2
   
-* Click the blue arrows under Compilation one at a time
+* Double-click the blue arrows under Compilation one at a time
 
 ## 5. Tool > Programmer > Hardware Setup > USB Blaster > Start
