@@ -18,7 +18,7 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
 
 ## 3. File > New > University Program VWF (Vector Waveform File)
 
-* Right click "Name" > Insert Node or Bus > Node Finder
+* Right click the space under "Name" > Insert Node or Bus > Node Finder
 
 * Click "List" then ">>" > OK
 
