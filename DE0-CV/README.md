@@ -38,15 +38,15 @@ DE0-CV User Manual, Pages 24 to 25: https://www.intel.com/content/dam/altera-www
 
 * Assignment > Pin Planner
 
-  a > PIN_U7
+  a > PIN_U7 -- KEY0
 
-  b > PIN_W9
+  b > PIN_W9 -- KEY1
 
-  carry_in > PIN_M7
+  carry_in > PIN_M7 -- KEY2
 
-  carry_out > PIN_AA1
+  carry_out > PIN_AA1 -- LEDR1
   
-  sum > PIN_AA2
+  sum > PIN_AA2 -- LEDR0
   
 * Double-click the blue arrows under Compilation one at a time
 
