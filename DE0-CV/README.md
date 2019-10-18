@@ -32,6 +32,8 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
 
 ## 4. Program FPGA board
 
+DE0-CV User Manual, Pages 24 to 25: https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf
+
 * Assignment > Device > Cyclone V E > 5CEBA4F23C7
 
 * Assignment > Pin Planner
