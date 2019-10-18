@@ -1,5 +1,7 @@
 # Terasic DE0-CV FPGA Board
 
+DE0-CV User Manual: https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf
+
 DE0-Nano FPGA and VHDL beginner tutorial https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/
 
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
