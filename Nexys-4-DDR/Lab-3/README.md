@@ -1,10 +1,10 @@
 # Lab 3: Bouncing Ball I
 
-* Program the FPGA to display a "bouncing ball" on a 640 x 480 Video Graphics Array (VGA) monitor (See Section 9 on VGA Port and Subsection 9.1 on VGA System Timing of the Nexys 4 DDR Reference Manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+* Program the FPGA to display a "bouncing ball" on a 800 x 600 Video Graphics Array (VGA) monitor (See Section 9 on VGA Port and Subsection 9.1 on VGA System Timing of the Nexys 4 DDR Reference Manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
 ### 1. Create a new RTL project VGAball in Vivado Quick Start
 
-* Create three new source files of file type VHDL called vga_sync, ball, and vga_top
+* Create five new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, ball, and vga_top
 
 * Create a new constraint file of file type XDC called vga_top
 
@@ -12,7 +12,7 @@
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from vga_sync.vhd, ball.vhd, and vga_top.vhd
+* Click design sources and copy the VHDL code from clk_wiz_0.vhd, clk_wiz_0_clk_wiz.vhd, vga_sync.vhd, ball.vhd, and vga_top.vhd
 
 * Click constraints and copy the code from vga_top.xdc
 
