@@ -4,7 +4,7 @@ Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game usi
 
 ### 1. Create a new RTL project Pong in Vivado Quick Start
 
-* Create four new source files of file type VHDL called vga_sync, bat_n_ball, adc_if, and pong
+* Create four new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, bat_n_ball, adc_if, and pong
 
 * Create a new constraint file of file type XDC called pong
 
@@ -12,7 +12,7 @@ Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game usi
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from vga_sync.vhd, bat_n_ball.vhd, adc_if.vhd, pong.vhd
+* Click design sources and copy the VHDL code from clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync.vhd, bat_n_ball.vhd, adc_if.vhd, pong.vhd
 
 * Click constraints and copy the code from pong.xdc
 
