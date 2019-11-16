@@ -1,10 +1,12 @@
 # Lab 6: Video Game "PONG"
 
-Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game using a VGA display and a potentiometer with an analog-to-digital converter called Pmod ADC connected to the top pins of the Pmod port JA (See Section 11 of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+* Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game using a 800x600 Video Graphics Array (VGA) display and a potentiometer with an analog-to-digital converter called Pmod ADC connected to the top pins of the Pmod port JA (See Section 11 of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+
+* 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
 ### 1. Create a new RTL project Pong in Vivado Quick Start
 
-* Create four new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, bat_n_ball, adc_if, and pong
+* Create six new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, bat_n_ball, adc_if, and pong
 
 * Create a new constraint file of file type XDC called pong
 
