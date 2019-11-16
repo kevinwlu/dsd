@@ -4,57 +4,66 @@ USE IEEE.STD_LOGIC_UNSIGNED.ALL;
 
 ENTITY vga_sync IS
 	PORT (
-		clock_25MHz : IN STD_LOGIC;
-		red : IN STD_LOGIC;
-		green : IN STD_LOGIC;
-		blue : IN STD_LOGIC;
-		red_out : OUT STD_LOGIC;
-		green_out : OUT STD_LOGIC;
-		blue_out : OUT STD_LOGIC;
-		hsync : OUT STD_LOGIC;
-		vsync : OUT STD_LOGIC;
-		pixel_row : OUT STD_LOGIC_VECTOR (9 DOWNTO 0);
-		pixel_col : OUT STD_LOGIC_VECTOR (9 DOWNTO 0)
+		pixel_clk : IN STD_LOGIC;
+		red_in    : IN STD_LOGIC_VECTOR (3 DOWNTO 0);
+		green_in  : IN STD_LOGIC_VECTOR (3 DOWNTO 0);
+		blue_in   : IN STD_LOGIC_VECTOR (3 DOWNTO 0);
+		red_out   : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+		green_out : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+		blue_out  : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+		hsync     : OUT STD_LOGIC;
+		vsync     : OUT STD_LOGIC;
+		pixel_row : OUT STD_LOGIC_VECTOR (10 DOWNTO 0);
+		pixel_col : OUT STD_LOGIC_VECTOR (10 DOWNTO 0)
 	);
 END vga_sync;
 
 ARCHITECTURE Behavioral OF vga_sync IS
-	SIGNAL h_cnt, v_cnt : STD_LOGIC_VECTOR (9 DOWNTO 0);
+	SIGNAL h_cnt, v_cnt : STD_LOGIC_VECTOR (10 DOWNTO 0);
+
+    CONSTANT H      : INTEGER := 800;
+    CONSTANT V      : INTEGER := 600;
+    CONSTANT H_FP   : INTEGER := 40;
+    CONSTANT H_BP   : INTEGER := 88;
+    CONSTANT H_SYNC : INTEGER := 128;
+    CONSTANT V_FP   : INTEGER := 1;
+    CONSTANT V_BP   : INTEGER := 23;
+    CONSTANT V_SYNC : INTEGER := 4;
+
+    CONSTANT FREQ   : INTEGER := 60;
+
 BEGIN
 	sync_pr : PROCESS
 		VARIABLE video_on : STD_LOGIC;
 	BEGIN
-		WAIT UNTIL rising_edge(clock_25MHz);
+		WAIT UNTIL rising_edge(pixel_clk);
 		-- Generate Horizontal Timing Signals for Video Signal
-		-- h_cnt counts pixels across line (800 total = 640 active + extras for sync and blanking)
-		-- Active picture for 0 <= h_cnt <= 639
-		-- Hsync for 659 <= h_cnt <= 755
-		IF h_cnt >= 799 THEN
-			h_cnt <= "0000000000";
+        -- total horizontal line width = H + H_FP + H_SYNC + H_BP
+        -- Reset h_cnt when at end of line
+		IF (h_cnt >= H + H_FP + H_SYNC + H_BP - 1) THEN
+			h_cnt <= (others => '0');
 		ELSE
 			h_cnt <= h_cnt + 1;
 		END IF;
-		IF (h_cnt >= 659) AND (h_cnt <= 755) THEN
+        -- Pull down hsync after front porch
+		IF (h_cnt >= H + H_FP) AND (h_cnt <= H + H_FP + H_SYNC) THEN
 			hsync <= '0';
 		ELSE
 			hsync <= '1';
 		END IF;
-		-- Generate Vertical Timing Signals for Video Signal
-		-- v_cnt counts lines down screen (525 total = 480 active + extras for sync and blanking)
-		-- Active picture for 0 <= v_cnt <= 479
-		-- Vsync for 493 <= h_cnt <= 494
-		IF (v_cnt >= 524) AND (h_cnt = 699) THEN
-			v_cnt <= "0000000000";
-		ELSIF h_cnt = 699 THEN
+
+		IF (v_cnt >= V + V_FP + V_SYNC + V_BP - 1) AND (h_cnt = H + FREQ - 1) THEN
+			v_cnt <= (others => '0');
+		ELSIF (h_cnt = H + FREQ - 1) THEN
 			v_cnt <= v_cnt + 1;
 		END IF;
-		IF (v_cnt >= 493) AND (v_cnt <= 494) THEN
+		IF (v_cnt >= V + V_FP) AND (v_cnt <= V + V_FP + V_SYNC) THEN
 			vsync <= '0';
 		ELSE
 			vsync <= '1';
 		END IF;
 		-- Generate Video Signals and Pixel Address
-		IF (h_cnt <= 639) AND (v_cnt <= 479) THEN
+		IF (h_cnt < H) AND (v_cnt < V) THEN  
 			video_on := '1';
 		ELSE
 			video_on := '0';
@@ -62,8 +71,14 @@ BEGIN
 		pixel_col <= h_cnt;
 		pixel_row <= v_cnt;
 		-- Register video to clock edge and suppress video during blanking and sync periods
-		red_out <= red AND video_on;
-		green_out <= green AND video_on;
-		blue_out <= blue AND video_on;
+        if video_on = '1' then
+          red_out <= red_in;
+          green_out <= green_in;
+          blue_out <= blue_in;
+        else
+          red_out <= "0000";
+          green_out <= "0000";
+          blue_out <= "0000";
+        end if;
 	END PROCESS;
 END Behavioral;
