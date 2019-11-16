@@ -1,8 +1,8 @@
 # Lab 3: Bouncing Ball I
 
-* Program the FPGA to display a "bouncing ball" on a 800 x 600 Video Graphics Array (VGA) monitor (See Section 9 on VGA Port and Subsection 9.1 on VGA System Timing of the Nexys 4 DDR Reference Manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+* Program the FPGA to display a "bouncing ball" on a 800x600 Video Graphics Array (VGA) monitor (See Section 9 on VGA Port and Subsection 9.1 on VGA System Timing of the Nexys 4 DDR Reference Manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
-* 2019-11-03 pull request by Peter Ho
+* 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
 ### 1. Create a new RTL project VGAball in Vivado Quick Start
 
