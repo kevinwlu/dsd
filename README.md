@@ -45,37 +45,26 @@ Lab 6: Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
 ## GHDL Open-Source Simulator by Tristan Gingold
 
 Download GHDL from https://github.com/ghdl/ghdl/releases
-
-cd Downloads
-
-mv ghdl-0.36-macosx-mcode /usr/local
-
-cd
-
-PATH=$PATH\:/usr/local/ghdl-0.35-mcode-macosx/bin ; export PATH
-
-echo $PATH
-
+```sh
+$ cd Downloads
+$ mv ghdl-0.36-macosx-mcode /usr/local
+$ cd
+$ PATH=$PATH\:/usr/local/ghdl-0.36-mcode-macosx/bin ; export PATH
+$ echo $PATH
+```
 ## GHDL Quick Start Guide
 
 Reference: https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
-
-git clone https://github.com/kevinwlu/dsd.git
-
-mkdir vhdl
-
-cd vhdl
-
-cp ~/dsd/hello.vhdl .
-
-ghdl --version
-
-ghdl -a hello.vhdl
-
-ghdl -e hello_world
-
-ghdl -r hello_world
-
+```sh
+$ git clone https://github.com/kevinwlu/dsd.git
+$ mkdir vhdl
+$ cd vhdl
+$ cp ~/dsd/hello.vhdl .
+$ ghdl --version
+$ ghdl -a hello.vhdl
+$ ghdl -e hello_world
+$ ghdl -r hello_world
+```
 ## Half Adder (HA)
 
 References:
@@ -83,35 +72,25 @@ References:
 https://en.wikipedia.org/wiki/Adder_(electronics)
 
 https://www.youtube.com/watch?v=dvLeDNbXfFw
-
-cp ~/dsd/ha.vhdl .
-
-cp ~/dsd/ha_tb.vhdl .
-
-ghdl -a ha.vhdl
-
-ghdl -a ha_tb.vhdl
-
-ghdl -e ha_tb
-
-ghdl -r ha_tb --vcd=ha.vcd
-
+```sh
+$ cp ~/dsd/ha.vhdl .
+$ cp ~/dsd/ha_tb.vhdl .
+$ ghdl -a ha.vhdl
+$ ghdl -a ha_tb.vhdl
+$ ghdl -e ha_tb
+$ ghdl -r ha_tb --vcd=ha.vcd
+```
 ## Full Adder
 
 Reference: http://ghdl.free.fr/ghdl/A-full-adder.html
-
-cp ~/dsd/adder.vhdl .
-
-cp ~/dsd/adder_tb.vhdl .
-
-ghdl -a adder.vhdl
-
-ghdl -a adder_tb.vhdl
-
-ghdl -e adder_tb
-
-ghdl -r adder_tb --vcd=adder.vcd
-
+```sh
+$ cp ~/dsd/adder.vhdl .
+$ cp ~/dsd/adder_tb.vhdl .
+$ ghdl -a adder.vhdl
+$ ghdl -a adder_tb.vhdl
+$ ghdl -e adder_tb
+$ ghdl -r adder_tb --vcd=adder.vcd
+```
 ## D Flip-flop and T Flip-flop
 
 References:
@@ -134,14 +113,16 @@ reference: https://allaboutfpga.com/vhdl-code-for-1-to-4-demux
 
 Reference: http://gtkwave.sourceforge.net
 
-gtkwave ha.vcd
+## GTKWave > File > Open New Tab > vhdl >
 
-gtkwave adder.vcd
+ha.vcd
 
-gtkwave dff.vcd
+adder.vcd
 
-gtkwave tff.vcd
+dff.vcd
 
-gtkwave mux.vcd
+tff.vcd
 
-gtkwave demux.vcd
+mux.vcd
+
+demux.vcd
