@@ -52,6 +52,8 @@ $ cd
 $ PATH=$PATH\:/usr/local/ghdl-0.36-mcode-macosx/bin ; export PATH
 $ echo $PATH
 ```
+...:/usr/local/ghdl-0.35-mcode-macosx/bin:...
+
 ## GHDL Quick Start Guide
 
 Reference: https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
