@@ -1,4 +1,4 @@
-# Digilent Nexys A7 FPGA Trainer Board
+# Digilent Nexys A7-100T FPGA Trainer Board
 
 ### 1. Use the Web Installer to install Vivado High Level (HL) WebPACK at https://www.xilinx.com/support/download.html
 
