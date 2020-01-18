@@ -1,1 +1,1 @@
-# Nexys A7
+# Digilent Nexys A7 FPGA Trainer Board
