@@ -4,6 +4,6 @@
 
 ### 2. Download and extract the FPGA board files from https://github.com/Digilent/vivado-boards/archive/master.zip
 
-### 3. Copy the extracted /new/board_files/nexys4_ddr folder to C:/Xilinx/Vivado/2019.1/data/boards/board_files
+### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to C:/Xilinx/Vivado/2019.2/data/boards/board_files
 
 ### 4. Reference manual at https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start
