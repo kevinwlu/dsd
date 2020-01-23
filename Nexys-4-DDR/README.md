@@ -1,6 +1,12 @@
 # Digilent Nexys 4 DDR FPGA Trainer Board
 
-### 1. Use the Web Installer to install Vivado High Level (HL) WebPACK at https://www.xilinx.com/support/download.html
+### 1. Use the Unified Xilinx Installer to install Vivado High Level (HL) WebPACK at https://www.xilinx.com/support/download.html
+
+#### Design Tools > Vivado Design Suite
+
+#### Devices > 7 Series
+
+#### Installation Options > Install Cable Drivers
 
 ### 2. Download and extract the FPGA board files from https://github.com/Digilent/vivado-boards/archive/master.zip
 
