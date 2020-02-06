@@ -60,7 +60,10 @@ $ echo $PATH
 Reference: https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 ```sh
 $ git clone https://github.com/kevinwlu/dsd.git
+$ wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gnat-4.6/libgnat-4.6_4.6.4-0ubuntu5_amd64.deb
+$ wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gnat-4.6/gnat-4.6-base_4.6.4-0ubuntu5_amd64.deb
 $ sudo dpkg -i *.deb
+$ rm *.deb
 $ mkdir vhdl
 $ cd vhdl
 $ cp ~/dsd/hello.vhdl .
