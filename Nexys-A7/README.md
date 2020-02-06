@@ -14,6 +14,6 @@
 
 ### 4. Reference manual at https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start
 
-### 5. Create projects with source/constraint files, and choose the board xc7a100tcsg324-1
+### 5. Create projects with source/constraint files, and select the board from digilentinc.com and Nexys A7-100T
 
 ### 6. Copy code from dsd/Nexys-4-DDR/Lab-1 through Lab-6
