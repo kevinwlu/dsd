@@ -16,4 +16,4 @@
 
 ### 5. Create projects with source/constraint files, and choose the board xc7a100tcsg324-1
 
-### 6. Copy code from Lab-1 through Lab-6 for Nexys-4-DDR
+### 6. Copy code from dsd/Nexys-4-DDR/Lab-1 through Lab-6
