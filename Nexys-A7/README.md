@@ -13,3 +13,5 @@
 ### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to C:/Xilinx/Vivado/2019.2/data/boards/board_files
 
 ### 4. Reference manual at https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start
+
+### 5. Follow the same code for Nexys-4-DDR
