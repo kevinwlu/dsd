@@ -10,13 +10,13 @@
 
 * Create a new constraint file of file type XDC called leddec
 
-* Choose Boards Vendor: digilentinc.com and Name: Nexys4 DDR board for the project
+* Default Part > Boards > Boards Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T
 
-* Click 'Finish'
+* New Project Summary > Finish
 
-* Click design sources, copy the VHDL code from leddec.vhd, and save file
+* Click design sources, copy leddec.vhd from the GitHub Raw, and save file
 
-* Click constraints, copy the code from leddec.xdc, and save file
+* Click constraints, copy leddec.xdc from the GitHub Raw, and save file
 
 ### 2. Run synthesis
 
@@ -30,7 +30,7 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download .../leddec/leddec.runs/impl_1/leddec.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download leddec.runs/impl_1/leddec.bit to the Nexys 4 DDR board
 
 ### 5. Slider switches on the Nexys 4 DDR board
 
@@ -48,19 +48,19 @@
 
 ### 1. Create a new project called hexcounter in Vivado
 
-* Click 'Add Files' then add leddec.vhd
+* Click 'Add Files' then add leddec.srcs/sources_1/new/leddec.vhd
 
 * Click 'Create File' then create two new source files of file type VHDL called counter and hexcount
 
 * Create a new constraint file of file type XDC called hexcount
 
-* Choose Nexys 4 DDR board for the project
+* Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T
 
 * Click 'Finish'
 
-* Click design sources, copy the VHDL code from counter.vhd and hexcount.vhd, and save files
+* Click design sources, copy counter.vhd and hexcount.vhd from the GitHub Raw, and save files
 
-* Click constraints, copy the code from hexcount.xdc, and save file
+* Click constraints, copy hexcount.xdc from the GitHub Raw, and save file
 
 ### 2. Run synthesis
 
@@ -72,7 +72,7 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download hexcount.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download hexconter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
 * The least significant 7-segment decoder counts cycles from 0 to F
 
