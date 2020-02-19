@@ -2,7 +2,7 @@
 
 Build a four-digit (16-bit) counter to display its value on 7-segment displays (See Section 9.1 Seven-Segment Display of the refenece manual https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)
 
-### 1. Create a new Vivado RTL project called hex4counter
+### 1. Create a new RTL project called hex4counter in Vivado Quick Start
 
 * Click 'Add Files' then add leddec.srcs/sources_1/new/leddec.vhd
 
