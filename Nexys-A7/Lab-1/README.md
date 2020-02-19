@@ -1,6 +1,6 @@
 # Lab 1: Seven-segment decoder
 
-* Built a single-digit (4-bit) hex counter to display its value on both four-digit common anode seven-segment LED displays (See Section 10.1 Seven-Segment Display of the reference manual https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+* Built a single-digit (4-bit) hex counter to display its value on both four-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the reference manual https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)
 
 ## Project 1 - LED decoder
 
