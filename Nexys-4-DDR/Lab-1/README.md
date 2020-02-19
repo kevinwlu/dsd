@@ -4,7 +4,7 @@
 
 ## Project 1 - LED decoder
 
-### 1. Create a new RTL project leddec in Vivado Quick Start
+### 1. Create a new RTL project called leddec in Vivado Quick Start
 
 * Create a new source file of file type VHDL called leddec
 
@@ -30,7 +30,7 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download leddec.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download .../leddec/leddec.runs/impl_1/leddec.bit to the Nexys 4 DDR board
 
 ### 5. Slider switches on the Nexys 4 DDR board
 
@@ -46,7 +46,7 @@
 
 * Build a 4-bit counter to display a hex character
 
-### 1. Create a new project hexcounter in Vivado
+### 1. Create a new project called hexcounter in Vivado
 
 * Click 'Add Files' then add leddec.vhd
 
