@@ -10,7 +10,7 @@
 
 * Create a new constraint file of file type XDC called leddec
 
-* Choose Nexys 4 DDR board for the project
+* Choose Boards Vendor: digilentinc.com and Name: Nexys4 DDR board for the project
 
 * Click 'Finish'
 
@@ -25,6 +25,8 @@
 ### 4. Generate bitstream, open hardware manager, and program device
 
 * Click 'Generate Bitstream'
+
+* Connect the Nexys 4 DDR board to the computer and switch the power ON
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
