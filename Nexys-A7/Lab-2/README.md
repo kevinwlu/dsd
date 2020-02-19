@@ -24,7 +24,7 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 ### 4. Open implemented design
 
-* Tools > Edit Device Properties > Configuration Modes > Check "Master SPIx1"
+* Tools > Edit Device Properties > Configuration Modes > Check "Master SPI x1"
 
 ### 5. Generate bitstream, open hardware manager, and program device
 
@@ -32,7 +32,7 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download hexcount.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download hex4counter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
 * Move the blue MODE jumper from JTAG to QSPI
 
@@ -44,4 +44,4 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0 > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4, Configuration file: hex4counter.runs/impl_1/hexcount.mcs, PRM file: hex4counter.runs/impl_1/hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully." > OK
 
-* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > POWER OFF > POWER ON > POWER OFF > Move the blue MODE jumper from QSPI to JTAG
+* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > POWER OFF > Move the blue MODE jumper from QSPI to JTAG
