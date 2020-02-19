@@ -14,9 +14,9 @@
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from leddec.vhd
+* Click design sources, copy the VHDL code from leddec.vhd, and save file
 
-* Click constraints and copy the code from leddec.xdc
+* Click constraints, copy the code from leddec.xdc, and save file
 
 ### 2. Run synthesis
 
@@ -56,9 +56,9 @@
 
 * Click 'Finish'
 
-* Click design sources and copy the VHDL code from counter.vhd and hexcount.vhd
+* Click design sources, copy the VHDL code from counter.vhd and hexcount.vhd, and save files
 
-* Click constraints and copy the code from hexcount.xdc
+* Click constraints, copy the code from hexcount.xdc, and save file
 
 ### 2. Run synthesis
 
