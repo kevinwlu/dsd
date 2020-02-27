@@ -44,6 +44,6 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0 > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4, Configuration file: hex4counter.runs/impl_1/hexcount.mcs, PRM file: hex4counter.runs/impl_1/hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully." > OK
 
-* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts > POWER OFF
+* Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts > Close Hradware Manager > POWER OFF
 
 * POWER ON > Wait for 9 seconds > The four digit counter starts > POWER OFF > Move the blue MODE jumper from QSPI to JTAG
