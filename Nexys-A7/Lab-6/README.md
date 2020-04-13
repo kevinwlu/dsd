@@ -10,7 +10,7 @@
 
 * Create a new constraint file of file type XDC called pong
 
-* Choose Nexys 4 DDR board for the project
+* Choose Nexys A7 board for the project
 
 * Click 'Finish'
 
@@ -28,7 +28,7 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download pong.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download pong.bit to the Nexys A7 board
 
 * Push BTNC to start the bouncing ball and use the bat to keep the ball in play
 
@@ -36,7 +36,7 @@
 
 * The ball speed is currently 6 pixels per video frame
 
-* Use the slide switches on the Nexys 4 DDR board to program the ball speed in the range of 1-32 pixels per frame
+* Use the slide switches on the Nexys A7 board to program the ball speed in the range of 1-32 pixels per frame
 
 * Avoid setting the speed to zero as the ball will then never reach the bat or wall
 
@@ -51,4 +51,4 @@ starting width when missing the ball
 
 * See how many times hitting the ball in a row as the bat slowly shrinks
 
-* Count the number of successful hits after each serve and display the count in binary on the LEDs on the Nexys 4 DDR board
+* Count the number of successful hits after each serve and display the count in binary on the LEDs on the Nexys A7 board
