@@ -34,7 +34,7 @@ Program the FPGA on the Nexys A7 board to generate a wailing audio siren using a
 
 * Add this push button as an input to siren.vhd and pass its value down to the tone module
 
-* Get the correct pin number for this push button from the Nexys 4 DDR Reference Manual
+* Get the correct pin number for this push button from the Nexys A7 Reference Manual
 
 * Note the difference in the quality of the tone when switching to a square wave tone
 
