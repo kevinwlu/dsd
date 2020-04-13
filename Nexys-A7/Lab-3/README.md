@@ -28,7 +28,7 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download vga_top.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download vga_top.bit to the Nexys A7 board
 
 ### 5. Change the size and color of the ball
 
