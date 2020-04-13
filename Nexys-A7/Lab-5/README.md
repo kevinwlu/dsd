@@ -1,6 +1,6 @@
 # Lab 5: DAC Siren
 
-Program the FPGA on the Nexys 4 DDR board to generate a wailing audio siren using a digital-to-analog (DAC) converter called Pmod Inter-IC Sound (I2S) with a headphone or speaker connected to the top pins of the Pmod port JA (See Section 10 of the reference manual https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)
+Program the FPGA on the Nexys A7 board to generate a wailing audio siren using a digital-to-analog (DAC) converter called Pmod Inter-IC Sound (I2S) with a headphone or speaker connected to the top pins of the Pmod port JA (See Section 10 of the reference manual https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)
 
 ### 1. Create a new RTL project Siren in Vivado Quick Start
 
@@ -8,7 +8,7 @@ Program the FPGA on the Nexys 4 DDR board to generate a wailing audio siren usin
 
 * Create a new constraint file of file type XDC called siren
 
-* Choose Nexys 4 DDR board for the project
+* Choose Nexys A7 board for the project
 
 * Click 'Finish'
 
@@ -26,7 +26,7 @@ Program the FPGA on the Nexys 4 DDR board to generate a wailing audio siren usin
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download siren.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download siren.bit to the Nexys A7 board
 
 ### 5. Change the upper and lower tone limits
 
@@ -40,11 +40,11 @@ Program the FPGA on the Nexys 4 DDR board to generate a wailing audio siren usin
 
 ### 6. Change the wailing speed
 
-* Use the eight slide switches (SW0-SW7) on the Nexys 4 DDR board to set the wailing speed
+* Use the eight slide switches (SW0-SW7) on the Nexys A7 board to set the wailing speed
 
 * Add these as inputs to siren.vhd
 
-* Get the correct pin numbers for these switches from the Nexys 4 DDR Reference Manual
+* Get the correct pin numbers for these switches from the Nexys A7 Reference Manual
 
 ### 7. Add a second wail instance to drive the right audio channel
 
