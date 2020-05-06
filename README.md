@@ -2,9 +2,7 @@
 
 ## VHDL: VHSIC (Very High Speed Integrated Circuit) Hardware Description Language
 
-Textbook: Free Range VHDL by Bryan Mealy and Fabrizio Tappero
-
-http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf
+Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) by Bryan Mealy and Fabrizio Tappero
 
 IEEE 1076-2019: [IEEE Standard VHDL Language Reference Manual](https://standards.ieee.org/standard/1076-2019.html)
 
