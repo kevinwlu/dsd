@@ -37,10 +37,10 @@ Download GHDL from https://github.com/ghdl/ghdl/releases
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
-$ PATH=$PATH\:/usr/local/ghdl-0.37-mcode-macosx/bin ; export PATH
+$ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
 $ echo $PATH
 ```
-... :/usr/local/ghdl-0.36-mcode-macosx/bin: ...
+... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
 
 ## GHDL Quick Start Guide
 
