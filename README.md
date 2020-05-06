@@ -16,9 +16,7 @@ Digilent [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-boa
 
 Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/): 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/), Inter-IC Sound [I2S](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/), two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/), and [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) or [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
 
-Xilinx Vivado Design Suite - HLx (WebPACK) Editions
-
-https://www.xilinx.com/products/design-tools/vivado.html
+[Xilinx Vivado Design Suite - HLx Editions](https://www.xilinx.com/products/design-tools/vivado.html) (WebPACK)
 
 Lab 1: Seven-Segment Decoder
 
