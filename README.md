@@ -6,9 +6,7 @@ Textbook: Free Range VHDL by Bryan Mealy and Fabrizio Tappero
 
 http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf
 
-IEEE 1076-2008: IEEE Standard VHDL Language Reference Manual
-
-https://standards.ieee.org/content/ieee-standards/en/standard/1076-2008.html
+IEEE 1076-2019: [IEEE Standard VHDL Language Reference Manual](https://standards.ieee.org/standard/1076-2019.html)
 
 IEEE 1164-1993: IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)
 
