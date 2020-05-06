@@ -6,17 +6,11 @@ Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500f
 
 IEEE 1076-2019: [IEEE Standard VHDL Language Reference Manual](https://standards.ieee.org/standard/1076-2019.html)
 
-IEEE 1164-1993: IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)
-
-https://standards.ieee.org/standard/1164-1993.html
+IEEE 1164-1993: [IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)](https://standards.ieee.org/standard/1164-1993.html)
 
 ## Labs on FPGA (Field-Programmable Gate Array)
 
-Digilent Nexys 4 DDR (or Nexys A7-100T) FPGA Trainer Board 
-
-https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum
-
-https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum
+Digilent [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) or [Nexys 4 DDR](https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum) FPGA Trainer Board 
 
 Digilent Pmod Modules: KYPD (16-button keypad), I2S (Inter-IC Sound), and AD1 (two channel, 12-bit analog-to-digital converter)
 
