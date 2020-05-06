@@ -35,9 +35,9 @@ Lab 6: Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
 Download GHDL from https://github.com/ghdl/ghdl/releases
 ```sh
 $ cd Downloads
-$ mv ghdl-0.36-macosx-mcode /usr/local
+$ mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
-$ PATH=$PATH\:/usr/local/ghdl-0.36-mcode-macosx/bin ; export PATH
+$ PATH=$PATH\:/usr/local/ghdl-0.37-mcode-macosx/bin ; export PATH
 $ echo $PATH
 ```
 ... :/usr/local/ghdl-0.36-mcode-macosx/bin: ...
