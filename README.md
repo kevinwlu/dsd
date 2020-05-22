@@ -102,7 +102,7 @@ reference: https://allaboutfpga.com/vhdl-code-for-1-to-4-demux
 
 ## Wave Viewer: GTKWave Based on GTK+ (GIMP Toolkit)
 
-Reference: http://gtkwave.sourceforge.net
+[Download latest version](https://sourceforge.net/projects/gtkwave/files/)
 
 ## GTKWave > File > Open New Tab > vhdl >
 
