@@ -1,7 +1,8 @@
 # Digital System Design
 
-## [VHDL](https://en.wikipedia.org/wiki/VHDL): [VHSIC](https://en.wikipedia.org/wiki/VHSIC) 
-(Very High Speed Integrated Circuit) Hardware Description Language
+## [VHDL](https://en.wikipedia.org/wiki/VHDL)
+
+[VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit) Hardware Description Language
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by Bryan Mealy and Fabrizio Tappero
@@ -17,22 +18,21 @@ by Bryan Mealy and Fabrizio Tappero
 * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
 
 ### Digilent [Nexys 4 DDR](https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum) 
-FPGA Trainer Board 
 
 * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
-Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/)
+### Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/)
 
-* 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/), 
+* 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/)
 
-* Inter-IC Sound [I2S](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/), 
+* Inter-IC Sound [I2S](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
 
-* two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/), 
+* Two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/)
 
-* [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) 
-or [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
+* Cable [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) 
+or [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/)
 
-[Xilinx Vivado Design Suite - HLx Editions](https://www.xilinx.com/products/design-tools/vivado.html) (WebPACK)
+### [Xilinx Vivado Design Suite - HLx Editions](https://www.xilinx.com/products/design-tools/vivado.html) (WebPACK)
 
 * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
 
@@ -50,15 +50,17 @@ and VGA display)
 
 ### [Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
 
-[Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV) for 
-Terasic [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
-or [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
+* Terasic [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
+
+* Terasic [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
+
+* [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
 
 ## GHDL Open-Source Simulator by Tristan Gingold
 
-[Download GHDL](https://github.com/ghdl/ghdl/releases)
+* [Download GHDL](https://github.com/ghdl/ghdl/releases)
 
-[Nerdey Dave video](https://www.youtube.com/watch?v=dvLeDNbXfFw)
+* [Nerdey Dave video](https://www.youtube.com/watch?v=dvLeDNbXfFw)
 
 Extract, edit Environment Variables | Path
 ```sh
@@ -88,7 +90,7 @@ $ ghdl -r hello_world
 ```
 ## [Adder](https://en.wikipedia.org/wiki/Adder_(electronics))
 
-Half Adder (HA)
+Half Adder
 ```sh
 $ cp ~/dsd/ha.vhdl .
 $ cp ~/dsd/ha_tb.vhdl .
