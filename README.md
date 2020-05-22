@@ -44,8 +44,7 @@ $ echo $PATH
 
 ## [Hello, World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-[GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html)
-Analyze files, elaborate unit, run unit
+[GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html): help, version, analyze, elaborate, run
 ```sh
 $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
