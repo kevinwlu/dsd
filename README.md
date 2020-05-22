@@ -18,17 +18,17 @@ Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-module
 
 [Xilinx Vivado Design Suite - HLx Editions](https://www.xilinx.com/products/design-tools/vivado.html) (WebPACK)
 
-Lab 1: Seven-Segment Decoder
+[Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
 
-Lab 2: Four-Digit Hex Counter
+[Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
 
-Lab 3: Bouncing Ball I (VGA display)
+[Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball I (VGA display)
 
-Lab 4: Hex Calculator (Pmod KYPD)
+[Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator (Pmod KYPD)
 
-Lab 5: Digital-to-Analog Converter (DAC) Siren (Pmod I2S and headphone)
+[Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren (Pmod I2S and headphone)
 
-Lab 6: Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
+[Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
 
 ## GHDL Open-Source Simulator by Tristan Gingold
 
