@@ -32,7 +32,7 @@ Lab 6: Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
 
 ## GHDL Open-Source Simulator by Tristan Gingold
 
-[Download GHDL](https://github.com/ghdl/ghdl/releases)
+[Download GHDL](https://github.com/ghdl/ghdl/releases), extract, edit Environment Variables | Path
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
@@ -42,9 +42,10 @@ $ echo $PATH
 ```
 ... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
 
-## GHDL Quick Start Guide
+## [Hello, World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-Reference: https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
+[GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html)
+Analyze files, elaborate unit, run unit
 ```sh
 $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
