@@ -43,9 +43,11 @@ or [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
 [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game "PONG" (Pmod AD1, potentiometer, 
 and VGA display)
 
+[Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
+
+[Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV) for 
 Terasic [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
 or [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
-[labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
 
 ## GHDL Open-Source Simulator by Tristan Gingold
 
