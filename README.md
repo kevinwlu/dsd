@@ -1,6 +1,6 @@
 # Digital System Design
 
-## VHDL: VHSIC (Very High Speed Integrated Circuit) Hardware Description Language
+## [VHDL](https://en.wikipedia.org/wiki/VHDL): [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit) Hardware Description Language
 
 Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) by Bryan Mealy and Fabrizio Tappero
 
@@ -8,7 +8,7 @@ IEEE 1076-2019: [IEEE Standard VHDL Language Reference Manual](https://standards
 
 IEEE 1164-1993: [IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)](https://standards.ieee.org/standard/1164-1993.html)
 
-## Labs on FPGA (Field-Programmable Gate Array)
+## Labs on Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 
 Digilent [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) or [Nexys 4 DDR](https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum) FPGA Trainer Board 
 
