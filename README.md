@@ -58,11 +58,9 @@ $ ghdl -r hello_world
 ```
 ## Half Adder (HA)
 
-References:
+[Adder](https://en.wikipedia.org/wiki/Adder_(electronics))
 
-https://en.wikipedia.org/wiki/Adder_(electronics)
-
-https://www.youtube.com/watch?v=dvLeDNbXfFw
+[Nerdey Dave video](https://www.youtube.com/watch?v=dvLeDNbXfFw)
 ```sh
 $ cp ~/dsd/ha.vhdl .
 $ cp ~/dsd/ha_tb.vhdl .
@@ -71,9 +69,7 @@ $ ghdl -a ha_tb.vhdl
 $ ghdl -e ha_tb
 $ ghdl -r ha_tb --vcd=ha.vcd
 ```
-## Full Adder
-
-Reference: http://ghdl.free.fr/ghdl/A-full-adder.html
+## [Full Adder](http://ghdl.free.fr/ghdl/A-full-adder.html)
 ```sh
 $ cp ~/dsd/adder.vhdl .
 $ cp ~/dsd/adder_tb.vhdl .
@@ -82,23 +78,15 @@ $ ghdl -a adder_tb.vhdl
 $ ghdl -e adder_tb
 $ ghdl -r adder_tb --vcd=adder.vcd
 ```
-## D Flip-flop and T Flip-flop
+## [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
-References:
+[D Flip-flop](https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html)
 
-https://en.wikipedia.org/wiki/Flip-flop_(electronics)
+[T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
 
-https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html
+## [4-to-1 Multiplexer](https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer)
 
-https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html
-
-## 4-to-1 Multiplexer
-
-reference: https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer
-
-## 1-to-4 Demultiplexer
-
-reference: https://allaboutfpga.com/vhdl-code-for-1-to-4-demux
+## [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
 
 ## Wave Viewer: GTKWave Based on GTK+ (GIMP Toolkit)
 
