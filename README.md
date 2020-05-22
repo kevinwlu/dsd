@@ -1,8 +1,10 @@
 # Digital System Design
 
-## [VHDL](https://en.wikipedia.org/wiki/VHDL): [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit) Hardware Description Language
+## [VHDL](https://en.wikipedia.org/wiki/VHDL): [VHSIC](https://en.wikipedia.org/wiki/VHSIC) 
+(Very High Speed Integrated Circuit) Hardware Description Language
 
-Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) by Bryan Mealy and Fabrizio Tappero
+Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
+by Bryan Mealy and Fabrizio Tappero
 
 IEEE 1076-2019: [IEEE Standard VHDL Language Reference Manual](https://standards.ieee.org/standard/1076-2019.html)
 
@@ -10,11 +12,20 @@ IEEE 1164-1993: [IEEE Standard Multivalue Logic System for VHDL Model Interopera
 
 ## Labs on Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 
-Digilent [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) or [Nexys 4 DDR](https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum) FPGA Trainer Board 
+Digilent [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) 
+or [Nexys 4 DDR](https://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum) 
+FPGA Trainer Board 
 
 [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
 
-Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/): 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/), Inter-IC Sound [I2S](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/), two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/), and [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) or [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
+[Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+
+Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/): 
+16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/), 
+Inter-IC Sound [I2S](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/), 
+two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/), 
+and [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) 
+or [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
 
 [Xilinx Vivado Design Suite - HLx Editions](https://www.xilinx.com/products/design-tools/vivado.html) (WebPACK)
 
@@ -26,9 +37,15 @@ Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-module
 
 [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator (Pmod KYPD)
 
-[Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren (Pmod I2S and headphone)
+[Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren 
+(Pmod I2S and headphone)
 
-[Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game "PONG" (Pmod AD1, potentiometer, and VGA display)
+[Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game "PONG" (Pmod AD1, potentiometer, 
+and VGA display)
+
+Terasic [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
+or [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
+[labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
 
 ## GHDL Open-Source Simulator by Tristan Gingold
 
