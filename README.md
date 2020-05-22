@@ -122,7 +122,7 @@ $ ghdl -a demux_tb.vhdl
 $ ghdl -e demux_tb
 $ ghdl -r demux_tb --vcd=adder.vcd
 ```
-## Wave Viewer: GTKWave Based on GTK+ (GIMP Toolkit)
+## Wave Viewer: GTKWave Based on [GTK](https://en.wikipedia.org/wiki/GTK)
 
 [Download latest version](https://sourceforge.net/projects/gtkwave/files/)
 
