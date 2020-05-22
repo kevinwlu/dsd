@@ -50,7 +50,8 @@ $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
 $ cd vhdl
 $ cp ~/dsd/hello.vhdl .
-$ ghdl --version
+$ ghdl -h
+$ ghdl -v
 $ ghdl -a hello.vhdl
 $ ghdl -e hello_world
 $ ghdl -r hello_world
