@@ -81,13 +81,41 @@ $ ghdl -r adder_tb --vcd=adder.vcd
 ## [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 [D Flip-flop](https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html)
-
+```sh
+$ cp ~/dsd/dff.vhdl .
+$ cp ~/dsd/dff_tb.vhdl .
+$ ghdl -a dff.vhdl
+$ ghdl -a dff_tb.vhdl
+$ ghdl -e dff_tb
+$ ghdl -r dff_tb --vcd=adder.vcd
+```
 [T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
-
+```sh
+$ cp ~/dsd/tff.vhdl .
+$ cp ~/dsd/tff_tb.vhdl .
+$ ghdl -a tff.vhdl
+$ ghdl -a tff_tb.vhdl
+$ ghdl -e tff_tb
+$ ghdl -r tff_tb --vcd=adder.vcd
+```
 ## [4-to-1 Multiplexer](https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer)
-
+```sh
+$ cp ~/dsd/mux.vhdl .
+$ cp ~/dsd/mux_tb.vhdl .
+$ ghdl -a mux.vhdl
+$ ghdl -a mux_tb.vhdl
+$ ghdl -e mux_tb
+$ ghdl -r mux_tb --vcd=adder.vcd
+```
 ## [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
-
+```sh
+$ cp ~/dsd/demux.vhdl .
+$ cp ~/dsd/demux_tb.vhdl .
+$ ghdl -a demux.vhdl
+$ ghdl -a demux_tb.vhdl
+$ ghdl -e demux_tb
+$ ghdl -r demux_tb --vcd=adder.vcd
+```
 ## Wave Viewer: GTKWave Based on GTK+ (GIMP Toolkit)
 
 [Download latest version](https://sourceforge.net/projects/gtkwave/files/)
