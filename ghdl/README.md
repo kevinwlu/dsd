@@ -1,18 +1,24 @@
 # GHDL Open-Source Simulator by Tristan Gingold
 
+* [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw)
+
+* [Getting Started With VHDL on Linux (GHDL & GTKWave)](https://www.youtube.com/watch?v=dvLeDNbXfFw)
+
 * [Download GHDL](https://github.com/ghdl/ghdl/releases)
 
-* [Nerdey Dave video](https://www.youtube.com/watch?v=dvLeDNbXfFw)
+* [Download GTKWave](https://sourceforge.net/projects/gtkwave/files/)
 
-Extract, edit Environment Variables | Path
+* Extract Zip files, edit Environment Variables | Path
+
+* For macOS
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
 $ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
 $ echo $PATH
-```
 ... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
+```
 
 ## [Hello, World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
