@@ -24,12 +24,15 @@ $ echo $PATH
 
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html)
 
-* Help, version, analyze, elaborate, run
+* Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
 ```sh
 $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
 $ cd vhdl
 $ cp ~/dsd/hello.vhdl .
+```
+* GHDL options: help, version, analyze, elaborate, run
+```sh
 $ ghdl -h
 $ ghdl -v
 $ ghdl -a hello.vhdl
