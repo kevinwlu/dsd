@@ -11,6 +11,10 @@ by Bryan Mealy and Fabrizio Tappero
 
 * IEEE 1164-1993: [IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)](https://standards.ieee.org/standard/1164-1993.html)
 
+## GHDL Open-Source Simulator by Tristan Gingold
+
+* [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl)
+
 ## Labs on Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 
 ### Digilent [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) 
@@ -55,11 +59,3 @@ and VGA display)
 * Terasic [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
 
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
-
-## GHDL Open-Source Simulator by Tristan Gingold
-
-* [Download GHDL](https://github.com/ghdl/ghdl/releases)
-
-* [Nerdey Dave video](https://www.youtube.com/watch?v=dvLeDNbXfFw)
-
-* [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl)
