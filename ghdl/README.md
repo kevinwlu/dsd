@@ -10,7 +10,7 @@
 
 * Extract Zip files, edit Environment Variables | Path
 
-** For macOS
+- For macOS
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
