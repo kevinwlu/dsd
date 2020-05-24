@@ -6,11 +6,11 @@
 
 * [Download GHDL](https://github.com/ghdl/ghdl/releases)
 
-* [Download GTKWave](https://sourceforge.net/projects/gtkwave/files/)
+* [Download GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
 * Extract Zip files, edit Environment Variables | Path
 
-- For macOS
+* For macOS
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
