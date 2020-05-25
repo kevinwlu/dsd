@@ -10,7 +10,7 @@
 
 * Extract Zip files, edit Environment Variables | Path
 
-* For macOS
+* Export PATH for GHDL on macOS; GTKWave on macOS can be found at Applications
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
@@ -49,6 +49,7 @@ $ ghdl -a ha.vhdl
 $ ghdl -a ha_tb.vhdl
 $ ghdl -e ha_tb
 $ ghdl -r ha_tb --vcd=ha.vcd
+$ gtkwave ha.vcd
 ```
 ### [Full Adder](http://ghdl.free.fr/ghdl/A-full-adder.html)
 ```sh
@@ -58,6 +59,7 @@ $ ghdl -a adder.vhdl
 $ ghdl -a adder_tb.vhdl
 $ ghdl -e adder_tb
 $ ghdl -r adder_tb --vcd=adder.vcd
+$ gtkwave adder.vcd
 ```
 ## [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
@@ -68,7 +70,8 @@ $ cp ~/dsd/dff_tb.vhdl .
 $ ghdl -a dff.vhdl
 $ ghdl -a dff_tb.vhdl
 $ ghdl -e dff_tb
-$ ghdl -r dff_tb --vcd=adder.vcd
+$ ghdl -r dff_tb --vcd=dff.vcd
+$ gtkwave dff.vcd
 ```
 ### [T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
 ```sh
@@ -77,7 +80,8 @@ $ cp ~/dsd/tff_tb.vhdl .
 $ ghdl -a tff.vhdl
 $ ghdl -a tff_tb.vhdl
 $ ghdl -e tff_tb
-$ ghdl -r tff_tb --vcd=adder.vcd
+$ ghdl -r tff_tb --vcd=tff.vcd
+$ gtkwave tff.vcd
 ```
 ## [Multiplexer](https://en.wikipedia.org/wiki/Multiplexer)
 
@@ -88,7 +92,8 @@ $ cp ~/dsd/mux_tb.vhdl .
 $ ghdl -a mux.vhdl
 $ ghdl -a mux_tb.vhdl
 $ ghdl -e mux_tb
-$ ghdl -r mux_tb --vcd=adder.vcd
+$ ghdl -r mux_tb --vcd=mux.vcd
+$ gtkwave mux.vcd
 ```
 ### [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
 ```sh
@@ -97,11 +102,10 @@ $ cp ~/dsd/demux_tb.vhdl .
 $ ghdl -a demux.vhdl
 $ ghdl -a demux_tb.vhdl
 $ ghdl -e demux_tb
-$ ghdl -r demux_tb --vcd=adder.vcd
+$ ghdl -r demux_tb --vcd=demux.vcd
+$ gtkwave demux.vcd
 ```
-## Wave Viewer: GTKWave Based on [GTK](https://en.wikipedia.org/wiki/GTK)
-
-[Download latest version](https://sourceforge.net/projects/gtkwave/files/)
+## Open GTKWave Wave Viewer on macOS
 
 GTKWave > File > Open New Tab > vhdl >
 
