@@ -1,7 +1,7 @@
 # GHDL Open-Source Simulator by Tristan Gingold
 
 * [Getting Started With VHDL on Linux (GHDL & GTKWave)](https://www.youtube.com/watch?v=dvLeDNbXfFw) by Nerdy Dave
-
+  * Ubuntu 18.04
 ```sh
 $ sudo apt update
 $ sudo apt install gtkwave
