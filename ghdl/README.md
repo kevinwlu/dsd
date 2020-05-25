@@ -1,14 +1,18 @@
 # GHDL Open-Source Simulator by Tristan Gingold
 
-* [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
-
 * [Getting Started With VHDL on Linux (GHDL & GTKWave)](https://www.youtube.com/watch?v=dvLeDNbXfFw) by Nerdy Dave
+
+```sh
+$ sudo apt update
+$ sudo apt install ghdl gtkwave
+```
+* [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
 
 * [Download GHDL](https://github.com/ghdl/ghdl/releases)
 
 * [Download GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
-* On Windows, extract Zip files, edit Environment Variables | Path
+* Extract Zip files, edit Environment Variables | Path
 
 * On macOS, export PATH for GHDL; GTKWave on macOS can be found at Applications
 ```sh
