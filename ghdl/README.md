@@ -8,11 +8,11 @@ $ sudo apt install ghdl gtkwave
 ```
 * [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
 
- * [Download GHDL](https://github.com/ghdl/ghdl/releases)
+  * [Download GHDL](https://github.com/ghdl/ghdl/releases)
 
- * [Download GTKWave](https://sourceforge.net/projects/gtkwave/files)
+  * [Download GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
- * Extract Zip files, edit Environment Variables | Path
+  * Extract Zip files, edit Environment Variables | Path
 
 * On macOS, export PATH for GHDL; GTKWave on macOS can be found at Applications
 ```sh
