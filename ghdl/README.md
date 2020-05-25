@@ -4,7 +4,13 @@
 
 ```sh
 $ sudo apt update
-$ sudo apt install ghdl gtkwave
+$ sudo apt install gtkwave
+$ sudo apt install git make gnat zlib1g-dev
+$ git clone https://github.com/ghdl/ghdl
+$ cd ghdl
+$ ./configure --prefix=/usr/local
+$ make
+$ sudo make install
 ```
 * [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
 
@@ -33,7 +39,7 @@ $ echo $PATH
 $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
 $ cd vhdl
-$ cp ~/dsd/hello.vhdl .
+$ cp ~/dsd/ghdl/hello.vhdl .
 ```
 * GHDL options: help, version, analyze, elaborate, run
 ```sh
@@ -47,8 +53,8 @@ $ ghdl -r hello_world
 
 ### Half Adder
 ```sh
-$ cp ~/dsd/ha.vhdl .
-$ cp ~/dsd/ha_tb.vhdl .
+$ cp ~/dsd/ghdl/ha.vhdl .
+$ cp ~/dsd/ghdl/ha_tb.vhdl .
 $ ghdl -a ha.vhdl
 $ ghdl -a ha_tb.vhdl
 $ ghdl -e ha_tb
@@ -57,8 +63,8 @@ $ gtkwave ha.vcd
 ```
 ### [Full Adder](http://ghdl.free.fr/ghdl/A-full-adder.html)
 ```sh
-$ cp ~/dsd/adder.vhdl .
-$ cp ~/dsd/adder_tb.vhdl .
+$ cp ~/dsd/ghdl/adder.vhdl .
+$ cp ~/dsd/ghdl/adder_tb.vhdl .
 $ ghdl -a adder.vhdl
 $ ghdl -a adder_tb.vhdl
 $ ghdl -e adder_tb
@@ -69,8 +75,8 @@ $ gtkwave adder.vcd
 
 ### [D Flip-flop](https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html)
 ```sh
-$ cp ~/dsd/dff.vhdl .
-$ cp ~/dsd/dff_tb.vhdl .
+$ cp ~/dsd/ghdl/dff.vhdl .
+$ cp ~/dsd/ghdl/dff_tb.vhdl .
 $ ghdl -a dff.vhdl
 $ ghdl -a dff_tb.vhdl
 $ ghdl -e dff_tb
@@ -79,8 +85,8 @@ $ gtkwave dff.vcd
 ```
 ### [T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
 ```sh
-$ cp ~/dsd/tff.vhdl .
-$ cp ~/dsd/tff_tb.vhdl .
+$ cp ~/dsd/ghdl/tff.vhdl .
+$ cp ~/dsd/ghdl/tff_tb.vhdl .
 $ ghdl -a tff.vhdl
 $ ghdl -a tff_tb.vhdl
 $ ghdl -e tff_tb
@@ -91,8 +97,8 @@ $ gtkwave tff.vcd
 
 ### [4-to-1 Multiplexer](https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer)
 ```sh
-$ cp ~/dsd/mux.vhdl .
-$ cp ~/dsd/mux_tb.vhdl .
+$ cp ~/dsd/ghdl/mux.vhdl .
+$ cp ~/dsd/ghdl/mux_tb.vhdl .
 $ ghdl -a mux.vhdl
 $ ghdl -a mux_tb.vhdl
 $ ghdl -e mux_tb
@@ -101,8 +107,8 @@ $ gtkwave mux.vcd
 ```
 ### [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
 ```sh
-$ cp ~/dsd/demux.vhdl .
-$ cp ~/dsd/demux_tb.vhdl .
+$ cp ~/dsd/ghdl/demux.vhdl .
+$ cp ~/dsd/ghdl/demux_tb.vhdl .
 $ ghdl -a demux.vhdl
 $ ghdl -a demux_tb.vhdl
 $ ghdl -e demux_tb
