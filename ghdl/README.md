@@ -8,9 +8,9 @@
 
 * [Download GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
-* Extract Zip files, edit Environment Variables | Path
+* On Windows, extract Zip files, edit Environment Variables | Path
 
-* Export PATH for GHDL on macOS; GTKWave on macOS can be found at Applications
+* On macOS, export PATH for GHDL; GTKWave on macOS can be found at Applications
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
