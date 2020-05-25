@@ -14,7 +14,7 @@ $ sudo apt install ghdl gtkwave
 
   * Extract Zip files, edit Environment Variables | Path
 
-* On macOS, export PATH for GHDL; GTKWave on macOS can be found at Applications
+* On macOS, down GHDL and GTKWave, export PATH for GHDL, and find GTKWave at Application
 ```sh
 $ cd Downloads
 $ mv ghdl-0.37-macosx-mcode /usr/local
