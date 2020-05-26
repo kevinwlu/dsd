@@ -1,6 +1,6 @@
 # Lab 4: Hex Calculator
 
-* Program the FPGA on the Nexys A7 board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module (Pmod KYPD) connected to the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
+* Program the FPGA on the Nexys A7-100T board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module (Pmod KYPD) connected to the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
 ### 1. Create a new RTL project Hexcalc in Vivado Quick Start
 
@@ -8,7 +8,7 @@
 
 * Create a new constraint file of file type XDC called hexcalc
 
-* Choose Nexys A7 board for the project
+* Choose Nexys A7-100T board for the project
 
 * Click 'Finish'
 
@@ -26,11 +26,11 @@
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download hexcalc.bit to the Nexys A7 board
+* Click 'Program Device' then xc7a100t_0 to download hexcalc.bit to the Nexys A7-100T board
 
 ### 5. Use keypad and buttons
 
-* Enter a multi-digit hex number using the keypad one character at a time to appear on the 7-segments displays
+* Enter a multi-digit hex number using the keypad one character at a time to appear on the 7-segment displays
 
 * Enter the first operand, press the “+” key (BTNU)
 
@@ -48,7 +48,7 @@
 
 ### 7. Expand the calculator to also do subtraction operations
 
-* Use the button BTND (pin P18 on the Nexys A7 board) as the “–” key
+* Use the button BTND (pin P18 on the Nexys A7-100T board) as the “–” key
 
 * Hint: Modify the ENTER_ACC state to also test for the “–” key being depressed
 
