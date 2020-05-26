@@ -1,6 +1,6 @@
 # Lab 3: Bouncing Ball
 
-* Program the FPGA to display a "bouncing ball" on a 800x600 Video Graphics Array (VGA) monitor (See Section 8 on VGA Port and Subsection 8.1 on VGA System Timing of the Nexys A7 [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
+* Program the FPGA to display a "bouncing ball" on a 800x600 Video Graphics Array (VGA) monitor (See Section 8 on VGA Port and Subsection 8.1 on VGA System Timing of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
 * 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
@@ -10,7 +10,7 @@
 
 * Create a new constraint file of file type XDC called vga_top
 
-* Choose Nexys A7 board for the project
+* Choose Nexys A7-100T board for the project
 
 * Click 'Finish'
 
