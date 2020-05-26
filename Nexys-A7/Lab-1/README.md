@@ -26,13 +26,13 @@
 
 * Click 'Generate Bitstream'
 
-* Connect the Nexys 4 DDR board to the computer and switch the power ON
+* Connect the Nexys A7-100T board to the computer and switch the power ON
 
 * Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
 
-* Click 'Program Device' then xc7a100t_0 to download leddec.runs/impl_1/leddec.bit to the Nexys 4 DDR board
+* Click 'Program Device' then xc7a100t_0 to download leddec.runs/impl_1/leddec.bit to the Nexys A7-100T board
 
-### 5. Slider switches on the Nexys 4 DDR board
+### 5. Slider switches on the Nexys A7-100T board
 
 * Slider switches 6 and 7 to determine which dsiplay is illuminated
 
