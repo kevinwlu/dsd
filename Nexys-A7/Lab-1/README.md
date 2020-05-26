@@ -1,8 +1,8 @@
-# Lab 1: Seven-segment decoder
+# Lab 1: Seven-Segment Decoder
 
-* Built a single-digit (4-bit) hex counter to display its value on both four-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the reference manual https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)
+* Built a single-digit (4-bit) hex counter to display its value on both four-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
-## Project 1 - LED decoder
+## Project 1 - LED Decoder
 
 ### 1. Create a new RTL project called leddec in Vivado Quick Start
 
@@ -42,7 +42,7 @@
 
 * File > Close Project
 
-## Project 2 - Hex counter
+## Project 2 - Hex Counter
 
 * Build a 4-bit counter to display a hex character
 
