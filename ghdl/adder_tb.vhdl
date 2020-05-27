@@ -1,3 +1,4 @@
+--  https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html
 --  A testbench has no ports.
 entity adder_tb is
 end adder_tb;
