@@ -1,3 +1,4 @@
+--  https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer/
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 
