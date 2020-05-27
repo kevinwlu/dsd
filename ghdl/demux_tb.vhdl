@@ -1,3 +1,4 @@
+--  https://allaboutfpga.com/vhdl-code-for-1-to-4-demux/
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 
