@@ -32,7 +32,7 @@ $ echo $PATH
 
 ## [Hello, World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-* [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html)
+* [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
 * Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
 ```sh
