@@ -1,3 +1,4 @@
+--  https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html
 library ieee;
 use ieee.std_logic_1164.all;
 
