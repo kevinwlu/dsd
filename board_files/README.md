@@ -1,3 +1,3 @@
-# Board Files
+# Vivado Board Files for Digilent FPGA Boards
 
-[Digilent Vivado board files](https://github.com/Digilent/vivado-boards)
+[Board files](https://github.com/Digilent/vivado-boards)
