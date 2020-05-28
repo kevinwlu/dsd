@@ -3,7 +3,7 @@
 [SmartSim](https://smartsim.org.uk/) is a digital logic circuit design and simulation package for Windows and Linux 
 including Raspbian
 
-[Example projects](https://smartsim.org.uk/index.php?page=examples)
+[SmartSim example projects](https://smartsim.org.uk/index.php?page=examples)
 
 * 4-bit Addition
 
