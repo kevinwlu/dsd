@@ -1,6 +1,9 @@
 # SmartSim Example Projects
 
-[Site](https://smartsim.org.uk/index.php?page=examples)
+[SmartSim](https://smartsim.org.uk/) is a digital logic circuit design and simulation package for Windows and Linux 
+including Raspberry Pi
+
+[Example projects](https://smartsim.org.uk/index.php?page=examples)
 
 * 4-bit Addition
 
