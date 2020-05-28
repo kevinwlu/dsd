@@ -1,1 +1,1 @@
-# Nexys 4 DDR Board Files
+# Nexys Board Files
