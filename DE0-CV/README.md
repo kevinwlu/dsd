@@ -1,12 +1,12 @@
 # Terasic DE0-CV FPGA Board
 
-DE0-CV User Manual: https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf
+[DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
 
-DE0-Nano FPGA and VHDL beginner tutorial https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/
+[DE0-Nano FPGA and VHDL beginner tutorial](https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/)
 
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
-Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html
+[Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html)
 
 ## 2. Create a New Project > Next
 
@@ -34,7 +34,7 @@ Intel Quartus Prime Lite Edition https://www.intel.com/content/www/us/en/softwar
 
 ## 4. Program FPGA board
 
-DE0-CV User Manual, Pages 24 to 25: https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf
+Refer to Pages 24 and 25 [DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
 
 * Assignment > Device > Cyclone V E > 5CEBA4F23C7
 
