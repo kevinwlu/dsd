@@ -1,4 +1,6 @@
-# [SmartSim Example Projects](https://smartsim.org.uk/index.php?page=examples)
+# SmartSim Example Projects
+
+[Site](https://smartsim.org.uk/index.php?page=examples)
 
 * 4-bit Addition
 
