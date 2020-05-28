@@ -14,4 +14,5 @@ The Nexys 4 DDR board is functionally dentical to the Nexys A7-100T.
 
 ### 3. Copy the extracted /new/board_files/nexys4_ddr folder to C:/Xilinx/Vivado/2019.1/data/boards/board_files
 
-### 4. The [Nexys 4 DDR Reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
+### 4. Refer to the [Reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
+
