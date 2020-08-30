@@ -24,11 +24,11 @@
 
 * Click "List" then ">>" > OK > OK
 
-  Right click "i0" > Click the Symbol for Random Values > Every grid interval > OK
+  Right click "a" > Click the Symbol for Random Values > Every grid interval > OK
 
-  Right click "i1" > Click the Symbol for Random Values > Every grid interval > OK
+  Right click "b" > Click the Symbol for Random Values > Every grid interval > OK
 
-  Right click "ci" > Click the Symbol for Random Values > Every grid interval > OK
+  Right click "carry_in" > Click the Symbol for Random Values > Every grid interval > OK
 
 * Simulation > Generate ModelSim Testbench and Script
 
@@ -40,15 +40,15 @@ Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/d
 
 * Assignment > Pin Planner
 
-  i0 > PIN_U7 -- KEY0
+  a > PIN_U7 -- KEY0
 
-  i1 > PIN_W9 -- KEY1
+  b > PIN_W9 -- KEY1
 
-  ci > PIN_M7 -- KEY2
+  carry_in > PIN_M7 -- KEY2
 
-  co > PIN_AA1 -- LEDR1
+  carry_out > PIN_AA1 -- LEDR1
   
-  s > PIN_AA2 -- LEDR0
+  sum > PIN_AA2 -- LEDR0
   
 * Double-click the blue arrows under Compilation one at a time
 
