@@ -20,15 +20,17 @@ Download and install [Intel Quartus Prime Lite Edition](https://www.intel.com/co
 
 ## 3. File > New > University Program VWF (Vector Waveform File)
 
-* Right click the space under "Name" > Insert Node or Bus > Node Finder
+* Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA\20.1\modelsim_ase\win32aloem
+
+* Double click the space under "Name" > Insert Node or Bus > Node Finder
 
 * Click "List" then ">>" > OK > OK
 
-  Right click "a" > Click the Symbol for Random Values > Every grid interval > OK
+  Click "a" > Click the Symbol for Random Values > Every grid interval > OK
 
-  Right click "b" > Click the Symbol for Random Values > Every grid interval > OK
+  Click "b" > Click the Symbol for Random Values > Every grid interval > OK
 
-  Right click "carry_in" > Click the Symbol for Random Values > Every grid interval > OK
+  Click "carry_in" > Click the Symbol for Random Values > Every grid interval > OK
 
 * Simulation > Generate ModelSim Testbench and Script
 
