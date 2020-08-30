@@ -4,9 +4,15 @@
 
 [DE0-Nano FPGA and VHDL beginner tutorial](https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/)
 
+[Altera USB Blaster Driver Installation Instructions](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions)
+
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
-Download and install [Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html), ModelSim - Intel FPGA Starter Edition, and Cyclone IV and V device support
+* Download [Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html), ModelSim - Intel FPGA Starter Edition, and Cyclone IV and V device support
+
+* Install Intel Quartus Prime Lite Edition and ModelSim - Intel FPGA Starter Edition
+
+* Install the Altera USB-Blaster driver
 
 ## 2. Create a New Project > Next
 
