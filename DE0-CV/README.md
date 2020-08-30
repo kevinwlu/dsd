@@ -38,9 +38,9 @@ Download and install [Intel Quartus Prime Lite Edition](https://www.intel.com/co
 
 Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
 
-* Assignment > Device > Cyclone V E > 5CEBA4F23C7
+* Assignment > Device > Board > DE0-CV Device > Cyclone V 5CEBA4F23C7
 
-* Assignment > Pin Planner
+* Assignment > Pin Planner > Location
 
   a > PIN_U7 -- KEY0
 
@@ -54,4 +54,4 @@ Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/d
   
 * Double-click the blue arrows under Compilation one at a time
 
-## 5. Tool > Programmer > Hardware Setup > USB Blaster > Start
+## 5. Tools > Programmer > Hardware Setup > USB Blaster > Start
