@@ -61,3 +61,7 @@ Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/d
 * Double-click the blue arrows under Compilation one at a time
 
 ## 5. Tools > Programmer > Hardware Setup > USB Blaster > Start
+
+## 6. Press KEY0 (a), KEY1 (b), or KEY2 (carry_in) to input 1's and see the results of LEDR0 (sum) and LEDR1 (carry_out)
+
+## 7. File > Save Project > Close Project > Exit
