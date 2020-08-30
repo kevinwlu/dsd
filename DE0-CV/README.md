@@ -14,13 +14,15 @@
 
 * Install the Altera USB-Blaster driver
 
-## 2. Create a New Project > Next
+## 2. Launch Quartus and create a new project 
+
+* Click New Project Wizard
 
 * Name the project "Full_Adder" > Next > Finish
 
 * File > New > VHDL File > OK
 
-* Copy and paste adder.vhdl
+* Copy and paste Full_Adder.vhdl
 
 * Click the arrow to compile
 
