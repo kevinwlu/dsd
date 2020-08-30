@@ -6,7 +6,7 @@
 
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
-[Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html)
+[Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) plus Cyclone IV and V device support
 
 ## 2. Create a New Project > Next
 
