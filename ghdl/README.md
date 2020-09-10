@@ -38,20 +38,7 @@ $ echo $PATH
 $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
 $ cd vhdl
-$ cp ~/dsd/ghdl/hello.vhdl .
-$ cp ~/dsd/ghdl/ha.vhdl .
-$ cp ~/dsd/ghdl/ha_tb.vhdl .
-$ cp ~/dsd/ghdl/adder.vhdl .
-$ cp ~/dsd/ghdl/adder_tb.vhdl .
-$ cp ~/dsd/ghdl/dff.vhdl .
-$ cp ~/dsd/ghdl/dff_tb.vhdl .
-$ cp ~/dsd/ghdl/tff.vhdl .
-$ cp ~/dsd/ghdl/tff_tb.vhdl .
-$ cp ~/dsd/ghdl/mux.vhdl .
-$ cp ~/dsd/ghdl/mux_tb.vhdl .
-$ cp ~/dsd/ghdl/demux.vhdl .
-$ cp ~/dsd/ghdl/demux_tb.vhdl .
-
+$ cp ~/dsd/ghdl/*vhdl .
 ```
 * GHDL can be run on a Terminal on macOS or GNU/Linux, or on Windows with Git Bash, PowerShell, or Command Prompt
 
