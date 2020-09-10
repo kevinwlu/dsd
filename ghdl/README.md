@@ -34,6 +34,8 @@ $ echo $PATH
 
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
+* Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows
+
 * Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
 ```sh
 $ git clone https://github.com/kevinwlu/dsd.git
