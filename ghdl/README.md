@@ -40,7 +40,7 @@ $ mkdir vhdl
 $ cd vhdl
 $ cp ~/dsd/ghdl/*vhdl .
 ```
-* GHDL can be run on a Terminal on macOS or GNU/Linux, or on Windows with Git Bash, PowerShell, or Command Prompt
+* GHDL can run on a Terminal on macOS or GNU/Linux, or on Windows with Git Bash, PowerShell, or Command Prompt
 
 * GHDL options: help, version, analyze, elaborate, run
 
