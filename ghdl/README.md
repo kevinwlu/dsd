@@ -29,12 +29,9 @@ $ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
 $ echo $PATH
 ... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
 ```
-
-## [Hello, World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
-
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
-* Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows
+* Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Git Bash](https://gitforwindows.org/) on Windows
 
 * Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
 ```sh
@@ -42,8 +39,25 @@ $ git clone https://github.com/kevinwlu/dsd.git
 $ mkdir vhdl
 $ cd vhdl
 $ cp ~/dsd/ghdl/hello.vhdl .
+$ cp ~/dsd/ghdl/ha.vhdl .
+$ cp ~/dsd/ghdl/ha_tb.vhdl .
+$ cp ~/dsd/ghdl/adder.vhdl .
+$ cp ~/dsd/ghdl/adder_tb.vhdl .
+$ cp ~/dsd/ghdl/dff.vhdl .
+$ cp ~/dsd/ghdl/dff_tb.vhdl .
+$ cp ~/dsd/ghdl/tff.vhdl .
+$ cp ~/dsd/ghdl/tff_tb.vhdl .
+$ cp ~/dsd/ghdl/mux.vhdl .
+$ cp ~/dsd/ghdl/mux_tb.vhdl .
+$ cp ~/dsd/ghdl/demux.vhdl .
+$ cp ~/dsd/ghdl/demux_tb.vhdl .
+
 ```
+* GHDL can be run on a Terminal on macOS or GNU/Linux, or on Windows with Git Bash, PowerShell, or Command Prompt
+
 * GHDL options: help, version, analyze, elaborate, run
+
+## [Hello, World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 ```sh
 $ ghdl -h
 $ ghdl -v
@@ -55,8 +69,6 @@ $ ghdl -r hello_world
 
 ### Half Adder
 ```sh
-$ cp ~/dsd/ghdl/ha.vhdl .
-$ cp ~/dsd/ghdl/ha_tb.vhdl .
 $ ghdl -a ha.vhdl
 $ ghdl -a ha_tb.vhdl
 $ ghdl -e ha_tb
@@ -65,8 +77,6 @@ $ gtkwave ha.vcd
 ```
 ### [Full Adder](http://ghdl.free.fr/ghdl/A-full-adder.html)
 ```sh
-$ cp ~/dsd/ghdl/adder.vhdl .
-$ cp ~/dsd/ghdl/adder_tb.vhdl .
 $ ghdl -a adder.vhdl
 $ ghdl -a adder_tb.vhdl
 $ ghdl -e adder_tb
@@ -77,8 +87,6 @@ $ gtkwave adder.vcd
 
 ### [D Flip-flop](https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html)
 ```sh
-$ cp ~/dsd/ghdl/dff.vhdl .
-$ cp ~/dsd/ghdl/dff_tb.vhdl .
 $ ghdl -a dff.vhdl
 $ ghdl -a dff_tb.vhdl
 $ ghdl -e dff_tb
@@ -87,8 +95,6 @@ $ gtkwave dff.vcd
 ```
 ### [T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
 ```sh
-$ cp ~/dsd/ghdl/tff.vhdl .
-$ cp ~/dsd/ghdl/tff_tb.vhdl .
 $ ghdl -a tff.vhdl
 $ ghdl -a tff_tb.vhdl
 $ ghdl -e tff_tb
@@ -99,8 +105,6 @@ $ gtkwave tff.vcd
 
 ### [4-to-1 Multiplexer](https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer)
 ```sh
-$ cp ~/dsd/ghdl/mux.vhdl .
-$ cp ~/dsd/ghdl/mux_tb.vhdl .
 $ ghdl -a mux.vhdl
 $ ghdl -a mux_tb.vhdl
 $ ghdl -e mux_tb
@@ -109,8 +113,6 @@ $ gtkwave mux.vcd
 ```
 ### [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
 ```sh
-$ cp ~/dsd/ghdl/demux.vhdl .
-$ cp ~/dsd/ghdl/demux_tb.vhdl .
 $ ghdl -a demux.vhdl
 $ ghdl -a demux_tb.vhdl
 $ ghdl -e demux_tb
