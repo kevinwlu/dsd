@@ -17,7 +17,7 @@ ARCHITECTURE Behavioral OF adc_if IS
 BEGIN
 	-- this process waits for CS=0 and then clocks serial data from ADC into shift register
 	-- MSBit first. After 16 SCK's, four leading zeros will have fallen out of the most significant
-	-- end of the shift register and the register will contain the parallel12-bit data
+	-- end of the shift register and the register will contain the parallel 12-bit data
 	adpr : PROCESS
 	BEGIN
 		WAIT UNTIL falling_edge (SCK);
