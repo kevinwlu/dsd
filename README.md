@@ -22,7 +22,7 @@ by Bryan Mealy and Fabrizio Tappero
 
 * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
 
-### Digilent Nexys 4 DDR rebranded as Nexys A7
+### Digilent Nexys 4 DDR rebranded as Nexys A7-100T
 
 * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
