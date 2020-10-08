@@ -3,7 +3,7 @@
 The Nexys A7 is a rebrand of the Nexys 4 DDR board with the addition of the Nexys A7-50T variant of the
 Nexys A7, which has a smaller gate array. The Nexys A7-100T variant is functionally identical to the Nexys 4 DDR.
 
-### 1. Use the [Xilinx Unified Installer 2020.1: Windows Self Extracting Web Installer](https://www.xilinx.com/support/download.html) to install Vivado High Level (HL) WebPACK 
+### 1. Use the [Xilinx Unified Installer 2020.1: Self Extracting Web Installer](https://www.xilinx.com/support/download.html) to install Vivado High Level (HL) WebPACK on Windows or Linux
 
 #### Design Tools > Vivado Design Suite
 
