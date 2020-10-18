@@ -2,7 +2,7 @@
 
 Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren using a digital-to-analog (DAC) converter called Pmod Inter-IC Sound (I2S) with a headphone or speaker connected to the top pins of the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
-### 1. Create a new RTL project Siren in Vivado Quick Start
+### 1. Create a new RTL project siren in Vivado Quick Start
 
 * Create four new source files of file type VHDL called dac_if, tone, wail, and siren
 
