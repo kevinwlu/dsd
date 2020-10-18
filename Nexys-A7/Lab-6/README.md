@@ -4,7 +4,7 @@
 
 * 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
-### 1. Create a new RTL project Pong in Vivado Quick Start
+### 1. Create a new RTL project pong in Vivado Quick Start
 
 * Create six new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, bat_n_ball, adc_if, and pong
 
