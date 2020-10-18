@@ -2,7 +2,7 @@
 
 * Program the FPGA on the Nexys A7-100T board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module (Pmod KYPD) connected to the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
-### 1. Create a new RTL project Hexcalc in Vivado Quick Start
+### 1. Create a new RTL project hexcalc in Vivado Quick Start
 
 * Create three new source files of file type VHDL called keypad, leddec16, and hexcalc
 
