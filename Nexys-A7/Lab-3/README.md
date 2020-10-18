@@ -4,7 +4,7 @@
 
 * 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
-### 1. Create a new RTL project VGAball in Vivado Quick Start
+### 1. Create a new RTL project vgaball in Vivado Quick Start
 
 * Create five new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, ball, and vga_top
 
