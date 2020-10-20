@@ -34,11 +34,11 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * Click 'Program Device' then xc7a100t_0 to download hex4counter.runs/impl_1/hexcount.bit to the Nexys A7-100T board
 
-* Move the blue MODE jumper from JTAG to QSPI
-
 * The four digit counter counts from 0000 to FFFF
 
 ### 6. Generate memory configuration file
+
+* Move the blue MODE jumper on the board from JTAG to QSPI
 
 * Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hex4counter.runs/impl_1/hexcount.mcs, Load bitstream files: hex4counter.runs/impl_1/hexcount.bit, check "Overwrite"
 
@@ -46,4 +46,6 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts > Close Hardware Manager > POWER OFF
 
-* POWER ON > Wait for 9 seconds > The four digit counter starts > POWER OFF > Move the blue MODE jumper from QSPI to JTAG
+* POWER ON > Wait for 9 seconds > The four digit counter starts
+
+* POWER OFF > Move the blue MODE jumper from QSPI to JTAG
