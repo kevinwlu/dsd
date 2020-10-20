@@ -38,7 +38,7 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 ### 6. Generate memory configuration file
 
-* Move the blue MODE jumper on the board from JTAG to QSPI
+* Move the blue MODE jumper on the board from [JTAG](https://en.wikipedia.org/wiki/JTAG) to QSPI (Queued [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface))
 
 * Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hex4counter.runs/impl_1/hexcount.mcs, Load bitstream files: hex4counter.runs/impl_1/hexcount.bit, check "Overwrite"
 
