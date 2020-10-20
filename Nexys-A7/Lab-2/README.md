@@ -48,4 +48,4 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * POWER ON > Wait for 9 seconds > The four digit counter starts
 
-* POWER OFF > Move the blue MODE jumper from QSPI to JTAG
+* POWER OFF > Move the blue MODE jumper on the board from QSPI to JTAG
