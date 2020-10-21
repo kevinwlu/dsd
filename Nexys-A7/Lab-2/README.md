@@ -46,8 +46,10 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts
 
-* File > Close Hardware Manager > POWER OFF
+* File > Close Hardware Manager 
 
-* POWER ON > Wait for 9 seconds > The four digit counter starts
+* File > Close Project 
+
+* POWER OFF > POWER ON > Wait for 9 seconds > The four digit counter starts
 
 * POWER OFF > Move the blue MODE jumper on the board from QSPI to JTAG
