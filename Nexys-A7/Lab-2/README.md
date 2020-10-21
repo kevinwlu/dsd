@@ -36,7 +36,7 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 * The four digit counter counts from 0000 to FFFF
 
-### 6. Generate memory configuration file
+### 6. Generate memory configuration file and close project
 
 * Move the blue MODE jumper on the board from [JTAG](https://en.wikipedia.org/wiki/JTAG) to QSPI (Quad-[SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface))
 
