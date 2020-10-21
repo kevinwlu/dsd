@@ -31,6 +31,7 @@ $ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
 $ echo $PATH
 ... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
 ```
+
   * Apple menu > System Preferences > Security & Privacy > General > Allow ghdl
 
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
