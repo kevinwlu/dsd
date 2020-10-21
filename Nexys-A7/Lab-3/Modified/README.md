@@ -1,4 +1,4 @@
-# Modification
+# Modified ball.vhd
 
 * Change the size and color of the ball
 
