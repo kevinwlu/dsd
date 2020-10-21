@@ -25,7 +25,7 @@ $ sudo make install
   * Export PATH for GHDL, and find GTKWave at Application
 ```sh
 $ cd Downloads
-$ mv ghdl-0.37-macosx-mcode /usr/local
+$ sudo mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
 $ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
 $ echo $PATH
