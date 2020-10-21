@@ -22,7 +22,7 @@ $ sudo make install
 
 * On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
-  * Export PATH for GHDL, and find GTKWave at Application
+  * Export PATH for GHDL on a Terminal, and find GTKWave at Application
 ```sh
 $ cd Downloads
 $ sudo mv ghdl-0.37-macosx-mcode /usr/local
@@ -31,6 +31,8 @@ $ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
 $ echo $PATH
 ... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
 ```
+  * Apple menu > System Preferences > Security & Privacy > General > Allow ghdl
+
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
 * Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Git Bash](https://gitforwindows.org/) on Windows
