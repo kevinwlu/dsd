@@ -32,8 +32,6 @@ $ echo $PATH
 ... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
 ```
 
-  * Apple menu > System Preferences > Security & Privacy > General > Allow ghdl
-
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
 * Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Git Bash](https://gitforwindows.org/) on Windows
@@ -46,6 +44,8 @@ $ cd vhdl
 $ cp ~/dsd/ghdl/*vhdl .
 ```
 * GHDL can run on a Terminal on macOS or GNU/Linux, or on Windows with Git Bash, PowerShell, or Command Prompt
+
+  * Apple menu > System Preferences > Security & Privacy > General > Allow ghdl
 
 * GHDL options: help, version, analyze, elaborate, run
 
