@@ -48,9 +48,9 @@ BEGIN
 		BEGIN
 			WAIT UNTIL rising_edge(v_sync);
 			IF ball_x + size >= 600 THEN
-				ball_x_motion <= "1111111100"; -- -4 pixels
+				ball_x_motion <= "11111111100"; -- -4 pixels
 			ELSIF ball_x <= size THEN
-				ball_x_motion <= "0000000100"; -- +4 pixels
+				ball_x_motion <= "00000000100"; -- +4 pixels
 			END IF;
 			-- allow for bounce off top or bottom of screen
 			IF ball_y + size >= 600 THEN
