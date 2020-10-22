@@ -1,5 +1,7 @@
-# Modified hexcalc.vhd, leddec16.vhd, and hexcalc.xdc
+# Modified Design Sources and Constraints
 
-* Leading zero suppression
+* leddec16.vhd: leading zero suppression
 
-* Subtraction operations
+* hexcalc.vhd: subtraction operations
+
+* hexcalc.xdc: the BTND (P18) button for substraction
