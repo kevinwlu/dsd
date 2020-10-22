@@ -47,7 +47,7 @@ BEGIN
 		mball : PROCESS
 		BEGIN
 			WAIT UNTIL rising_edge(v_sync);
-			IF ball_x + size >= 600 THEN
+			IF ball_x + size >= 800 THEN
 				ball_x_motion <= "11111111100"; -- -4 pixels
 			ELSIF ball_x <= size THEN
 				ball_x_motion <= "00000000100"; -- +4 pixels
