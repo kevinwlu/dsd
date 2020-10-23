@@ -41,7 +41,7 @@ cnt_pr: process
  with quad select
   data_sq <= to_signed(16383,16) when "00",
   to_signed(-16383,16) when "01",
-     to_signed(16383,16) when "10",
+  to_signed(16383,16) when "10",
   to_signed(-16383,16) when others;
  with quad select
   data_tri <= index when "00",
