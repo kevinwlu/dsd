@@ -13,8 +13,8 @@ ENTITY bat_n_ball IS
         red : OUT STD_LOGIC;
         green : OUT STD_LOGIC;
         blue : OUT STD_LOGIC;
-        ball_speed: IN STD_LOGIC_VECTOR (10 DOWNTO 0);
-        count: INOUT Std_logic_vector (8 DOWNTO 0)
+        SW : IN STD_LOGIC_VECTOR (4 DOWNTO 0);
+        hits: OUT STD_LOGIC_VECTOR (15 DOWNTO 0)
     );
 END bat_n_ball;
 
@@ -23,6 +23,7 @@ ARCHITECTURE Behavioral OF bat_n_ball IS
     SIGNAL bat_w : INTEGER := 40; -- bat width in pixels
     CONSTANT bat_h : INTEGER := 3; -- bat height in pixels
     -- distance ball moves each frame
+    SIGNAL ball_speed : STD_LOGIC_VECTOR (9 DOWNTO 0);
     SIGNAL ball_on : STD_LOGIC; -- indicates whether ball is at current pixel position
     SIGNAL bat_on : STD_LOGIC; -- indicates whether bat at over current pixel position
     SIGNAL game_on : STD_LOGIC := '0'; -- indicates whether ball is in play
@@ -32,7 +33,9 @@ ARCHITECTURE Behavioral OF bat_n_ball IS
     -- bat vertical position
     CONSTANT bat_y : STD_LOGIC_VECTOR(10 DOWNTO 0) := CONV_STD_LOGIC_VECTOR(500, 11);
     -- current ball motion - initialized to (+ ball_speed) pixels/frame in both X and Y directions
-    SIGNAL ball_x_motion, ball_y_motion : STD_LOGIC_VECTOR(10 DOWNTO 0):= ball_speed;
+    SIGNAL ball_x_motion, ball_y_motion : STD_LOGIC_VECTOR(10 DOWNTO 0) := ball_speed;
+    SIGNAL hitcount : STD_LOGIC_VECTOR(15 DOWNTO 0);
+    SIGNAL stop_dbl_hit : STD_LOGIC; -- stops the counter from registering 2 hits at once
 BEGIN
     red <= NOT bat_on; -- color setup for red ball and cyan bat on white background
     green <= NOT ball_on;
@@ -72,16 +75,22 @@ BEGIN
             bat_on <= '0';
         END IF;
     END PROCESS;
-    -- process to move ball once every frame (i.e. once every vsync pulse)
+    -- process to move ball once every frame (i.e., once every vsync pulse)
     mball : PROCESS
         VARIABLE temp : STD_LOGIC_VECTOR (11 DOWNTO 0);
     BEGIN
+        ball_speed <= (9 DOWNTO SW'length => '0') & SW;
         WAIT UNTIL rising_edge(v_sync);
         IF serve = '1' AND game_on = '0' THEN -- test for new serve
             game_on <= '1';
             ball_y_motion <= (NOT ball_speed) + 1; -- set vspeed to (- ball_speed) pixels
+            ball_x_motion <= ball_speed + 1;
+            bat_w <= 40;
+            hitcount <= CONV_STD_LOGIC_VECTOR(0, 16);
+            stop_dbl_hit <= '0';
         ELSIF ball_y <= bsize THEN -- bounce off top wall
             ball_y_motion <= ball_speed; -- set vspeed to (+ ball_speed) pixels
+            stop_dbl_hit <= '0';
         ELSIF ball_y + bsize >= 600 THEN -- if ball meets bottom wall
             ball_y_motion <= (NOT ball_speed) + 1; -- set vspeed to (- ball_speed) pixels
             game_on <= '0'; -- and make ball disappear
@@ -96,13 +105,13 @@ BEGIN
         IF (ball_x + bsize/2) >= (bat_x - bat_w) AND
          (ball_x - bsize/2) <= (bat_x + bat_w) AND
              (ball_y + bsize/2) >= (bat_y - bat_h) AND
-             (ball_y - bsize/2) <= (bat_y + bat_h) THEN
+             (ball_y - bsize/2) <= (bat_y + bat_h) AND
+             stop_dbl_hit = '0' THEN
                 ball_y_motion <= (NOT ball_speed) + 1; -- set vspeed to (- ball_speed) pixels
-                count <= count+1;
-                if bat_w = 0 then
-                    game_on <= '0';
-                else bat_w <= bat_w - 1;
-                end if;
+                bat_w <= bat_w - 1;
+                hitcount <= hitcount + 1;
+                hits <= hitcount;
+                stop_dbl_hit <= '1';
         END IF;
         -- compute next ball vertical position
         -- variable temp adds one more bit to calculation to fix unsigned underflow problems
