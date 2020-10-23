@@ -6,4 +6,4 @@
 
 * pong.vhd: 
 
-* pong.xdc: 
+* pong.xdc: 7-segment display
