@@ -98,7 +98,7 @@ BEGIN
     led_mpx <= cnt(18 DOWNTO 17); -- 7-seg multiplexing clock
     serial_clk <= NOT count(4); -- 1.5 MHz serial clock for ADC
     ADC_SCLK <= serial_clk;
-    sample_clk <= count(8); -- sampling clock is low for 16 SCLKs
+    sample_clk <= count(9); -- sampling clock is low for 16 SCLKs
     ADC_CS <= sample_clk;
     -- Multiplies ADC output (0-4095) by 5/32 to give bat position (0-640)
     --batpos <= ('0' & adout(11 DOWNTO 3)) + adout(11 DOWNTO 5);
