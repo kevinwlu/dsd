@@ -13,8 +13,8 @@ ENTITY bat_n_ball IS
         red : OUT STD_LOGIC;
         green : OUT STD_LOGIC;
         blue : OUT STD_LOGIC;
-        SW : IN STD_LOGIC_VECTOR (4 DOWNTO 0);
-        hits: OUT STD_LOGIC_VECTOR (15 DOWNTO 0)
+        SW : IN STD_LOGIC_VECTOR (4 DOWNTO 0); -- ball speed
+        hits: OUT STD_LOGIC_VECTOR (15 DOWNTO 0) -- count the number of successful hits
     );
 END bat_n_ball;
 
