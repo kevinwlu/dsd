@@ -79,7 +79,7 @@ BEGIN
     mball : PROCESS
         VARIABLE temp : STD_LOGIC_VECTOR (11 DOWNTO 0);
     BEGIN
-        ball_speed <= (9 DOWNTO SW'length => '0') & SW;
+        ball_speed <= (10 DOWNTO SW'length => '0') & SW;
         WAIT UNTIL rising_edge(v_sync);
         IF serve = '1' AND game_on = '0' THEN -- test for new serve
             game_on <= '1';
