@@ -23,7 +23,7 @@ ARCHITECTURE Behavioral OF bat_n_ball IS
     SIGNAL bat_w : INTEGER := 40; -- bat width in pixels
     CONSTANT bat_h : INTEGER := 3; -- bat height in pixels
     -- distance ball moves each frame
-    SIGNAL ball_speed : STD_LOGIC_VECTOR (10 DOWNTO 0);
+    CONSTANT ball_speed : STD_LOGIC_VECTOR (10 DOWNTO 0) := CONV_STD_LOGIC_VECTOR (6, 11);
     SIGNAL ball_on : STD_LOGIC; -- indicates whether ball is at current pixel position
     SIGNAL bat_on : STD_LOGIC; -- indicates whether bat at over current pixel position
     SIGNAL game_on : STD_LOGIC := '0'; -- indicates whether ball is in play
