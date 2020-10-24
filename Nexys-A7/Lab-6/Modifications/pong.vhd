@@ -123,8 +123,8 @@ BEGIN
         red => S_red, 
         green => S_green, 
         blue => S_blue,
-        ball_speed => ball_spd,
-        count => counter
+        SW => SW,
+        hits => display
     );
     vga_driver : vga_sync
     PORT MAP(--instantiate vga_sync component
