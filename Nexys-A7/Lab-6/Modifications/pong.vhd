@@ -73,14 +73,20 @@ ARCHITECTURE Behavioral OF pong IS
             pixel_col : OUT STD_LOGIC_VECTOR (10 DOWNTO 0)
         );
     END COMPONENT;
-
-    component clk_wiz_0 is
-    port (
-      clk_in1  : in std_logic;
-      clk_out1 : out std_logic
-    );
-    end component;
-    
+    COMPONENT clk_wiz_0 is
+        PORT (
+            clk_in1  : in std_logic;
+            clk_out1 : out std_logic
+        );
+    END COMPONENT;
+    COMPONENT leddec16 IS
+        PORT (
+            dig : IN STD_LOGIC_VECTOR (1 DOWNTO 0);
+            data : IN STD_LOGIC_VECTOR (15 DOWNTO 0);
+            anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+            seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)
+        );
+    END COMPONENT;    
 BEGIN
     -- Process to generate clock signals
     ckp : PROCESS
