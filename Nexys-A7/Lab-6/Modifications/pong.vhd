@@ -15,8 +15,8 @@ ENTITY pong IS
         ADC_SCLK : OUT STD_LOGIC;
         ADC_SDATA1 : IN STD_LOGIC;
         ADC_SDATA2 : IN STD_LOGIC;
-        SW : IN STD_LOGIC_VECTOR (4 DOWNTO 0);
         btn0 : IN STD_LOGIC; -- button to initiate serve
+        SW : IN STD_LOGIC_VECTOR (4 DOWNTO 0); -- ball speed
         SEG7_anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0); -- anodes of four 7-seg displays
         SEG7_seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0) -- common segments of 7-seg displays
         );
