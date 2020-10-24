@@ -15,9 +15,10 @@ ENTITY pong IS
         ADC_SCLK : OUT STD_LOGIC;
         ADC_SDATA1 : IN STD_LOGIC;
         ADC_SDATA2 : IN STD_LOGIC;
-    btn0 : IN STD_LOGIC; -- button to initiate serve
-    sw: IN STD_LOGIC_VECTOR(5 DOWNTO 0);
-    counter: INOUT Std_logic_vector(8 DOWNTO 0));
+        btn0 : IN STD_LOGIC; -- button to initiate serve
+        SEG7_anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0); -- anodes of four 7-seg displays
+        SEG7_seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0) -- common segments of 7-seg displays
+        );
 END pong;
 
 ARCHITECTURE Behavioral OF pong IS
@@ -29,8 +30,10 @@ ARCHITECTURE Behavioral OF pong IS
     SIGNAL batpos : STD_LOGIC_VECTOR (10 DOWNTO 0); -- 9 downto 0
     SIGNAL serial_clk, sample_clk : STD_LOGIC;
     SIGNAL adout : STD_LOGIC_VECTOR (11 DOWNTO 0);
-    SIGNAL ball_spd: STD_LOGIC_VECTOR(10 DOWNTO 0);
     SIGNAL count : STD_LOGIC_VECTOR (8 DOWNTO 0); -- counter to generate ADC clocks
+    SIGNAL display : std_logic_vector (15 DOWNTO 0); -- value to be displayed
+    SIGNAL led_mpx : STD_LOGIC_VECTOR (1 DOWNTO 0); -- 7-seg multiplexing clock
+    SIGNAL cnt : std_logic_vector(20 DOWNTO 0); -- counter to generate timing signals
     COMPONENT adc_if IS
         PORT (
             SCK : IN STD_LOGIC;
@@ -51,8 +54,8 @@ ARCHITECTURE Behavioral OF pong IS
             red : OUT STD_LOGIC;
             green : OUT STD_LOGIC;
             blue : OUT STD_LOGIC;
-            ball_speed: STD_LOGIC_VECTOR(10 DOWNTO 0);
-            count: inout Std_logic_vector(8 downto 0)
+            SW : IN STD_LOGIC_VECTOR (4 DOWNTO 0);
+            hits : OUT STD_LOGIC_VECTOR (15 DOWNTO 0)
         );
     END COMPONENT;
     COMPONENT vga_sync IS
@@ -85,6 +88,7 @@ BEGIN
         WAIT UNTIL rising_edge(clk_in);
         count <= count + 1; -- counter to generate ADC timing signals
     END PROCESS;
+    led_mpx <= cnt(18 DOWNTO 17); -- 7-seg multiplexing clock
     serial_clk <= NOT count(4); -- 1.5 MHz serial clock for ADC
     ADC_SCLK <= serial_clk;
     sample_clk <= count(8); -- sampling clock is low for 16 SCLKs
@@ -93,7 +97,6 @@ BEGIN
     --batpos <= ('0' & adout(11 DOWNTO 3)) + adout(11 DOWNTO 5);
     batpos <= ("00" & adout(11 DOWNTO 3)) + adout(11 DOWNTO 4);
     -- 512 + 256 = 768
-    ball_spd <= ("00000" & sw) +1 ;
     adc : adc_if
     PORT MAP(-- instantiate ADC serial to parallel interface
         SCK => serial_clk, 
@@ -136,5 +139,10 @@ BEGIN
     port map (
       clk_in1 => clk_in,
       clk_out1 => pxl_clk
+    );
+    led1 : leddec16
+    PORT MAP(
+      dig => led_mpx, data => display, 
+      anode => SEG7_anode, seg => SEG7_seg
     );
 END Behavioral;
