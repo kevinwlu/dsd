@@ -55,4 +55,4 @@ starting width when missing the ball
 
 * See how many times hitting the ball in a row as the bat slowly shrinks
 
-* Count the number of successful hits after each serve and display the count in binary on the LEDs on the Nexys A7-100T board
+* Count the number of successful hits after each serve and display the count in binary on the 7-segment displays on the Nexys A7-100T board
