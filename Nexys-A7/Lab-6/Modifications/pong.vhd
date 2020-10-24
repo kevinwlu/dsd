@@ -31,7 +31,7 @@ ARCHITECTURE Behavioral OF pong IS
     SIGNAL batpos : STD_LOGIC_VECTOR (10 DOWNTO 0); -- 9 downto 0
     SIGNAL serial_clk, sample_clk : STD_LOGIC;
     SIGNAL adout : STD_LOGIC_VECTOR (11 DOWNTO 0);
-    SIGNAL count : STD_LOGIC_VECTOR (8 DOWNTO 0); -- counter to generate ADC clocks
+    SIGNAL count : STD_LOGIC_VECTOR (9 DOWNTO 0); -- counter to generate ADC clocks
     SIGNAL display : std_logic_vector (15 DOWNTO 0); -- value to be displayed
     SIGNAL led_mpx : STD_LOGIC_VECTOR (1 DOWNTO 0); -- 7-seg multiplexing clock
     SIGNAL cnt : std_logic_vector(20 DOWNTO 0); -- counter to generate timing signals
