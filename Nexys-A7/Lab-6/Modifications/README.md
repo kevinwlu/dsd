@@ -14,4 +14,4 @@
 
   * Avoid setting the speed to zero as the ball will then never reach the bat or wall
 
-* pong.xdc: 7-segment display
+* pong.xdc: 7-segment displays
