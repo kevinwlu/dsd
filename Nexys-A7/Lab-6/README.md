@@ -4,6 +4,8 @@
 
 * 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
+![ad1.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-6/ad1.png)
+
 ![knob.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-6/knob.jpg)
 
 ![potentiometer](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-6/potentiometer.jpg)
