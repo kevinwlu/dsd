@@ -32,11 +32,13 @@
 
 * Click 'Program Device' then xc7a100t_0 to download leddec.runs/impl_1/leddec.bit to the Nexys A7-100T board
 
-### 5. Slider switches on the Nexys A7-100T board
+### 5. Slide switches on the Nexys A7-100T board
 
-* Slider switches 6 and 7 to determine which dsiplay is illuminated
+* Slide switches 6 and 7 to determine which dsiplay is illuminated
 
-* Slider switches 0, 1, 2, and 3 to select the value of 4-bit hex digit
+* Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
+
+* Slide only one switch at a time to display the [Gray code](https://en.wikipedia.org/wiki/Gray_code) from 0 to F, i.e., 0-1-3-2-6-7-5-4-C-d-F-E-A-b-9-8
 
 ### 6. Close project
 
