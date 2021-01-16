@@ -13,7 +13,7 @@ by Bryan Mealy and Fabrizio Tappero
 
 ## GHDL Open-Source Simulator by Tristan Gingold
 
-* [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including half adder, full adder, D flip-flop, T flip-flop,
+* [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including hello_world, half adder, full adder, D flip-flop, T flip-flop,
 4-to-1 multiplexer, and 1-to-4 demultiplexer
 
 ## Labs on Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
