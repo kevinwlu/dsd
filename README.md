@@ -1,4 +1,6 @@
-# Digital System Design
+# Digital System Design (DSD)
+
+* [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
 
 ## [VHDL](https://en.wikipedia.org/wiki/VHDL)
 
