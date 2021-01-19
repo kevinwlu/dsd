@@ -10,9 +10,7 @@
 * [GIPHY Capture](https://giphy.com/apps/giphycapture)
 * [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
 
-## [VHDL](https://en.wikipedia.org/wiki/VHDL)
-
-[VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit) Hardware Description Language
+## [VHDL](https://en.wikipedia.org/wiki/VHDL): [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit) Hardware Description Language
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by Bryan Mealy and Fabrizio Tappero
