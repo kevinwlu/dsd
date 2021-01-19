@@ -30,7 +30,9 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Click 'Program Device' then xc7a100t_0 to download siren.bit to the Nexys A7-100T board
 
-### 5. Change the upper and lower tone limits
+### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5/Modifications)
+
+#### Change the upper and lower tone limits
 
 * Modify the tone module to create a square wave instead of a triangle wave when the upper push button (BTNU) is depressed
 
@@ -40,7 +42,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Note the difference in the quality of the tone when switching to a square wave tone
 
-### 6. Change the wailing speed
+#### Change the wailing speed
 
 * Use the eight slide switches (SW0-SW7) on the Nexys A7-100T board to set the wailing speed
 
@@ -48,6 +50,11 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * Get the correct pin numbers for these switches from the Reference Manual
 
-### 7. Add a second wail instance to drive the right audio channel
+#### Add a second wail instance to drive the right audio channel
 
 * Use different high and low tone limits and wailing speed for the right audio channel
+
+### 6. Close project
+
+* File > Close Project
+
