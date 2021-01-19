@@ -30,7 +30,7 @@
 
 * Click 'Program Device' then xc7a100t_0 to download vga_top.bit to the Nexys A7 board
 
-### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3/Modifications)
+### 5. Edit ball.vhd with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3/Modifications)
 
 * Change the size and color of the ball
 
