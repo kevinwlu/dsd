@@ -25,6 +25,7 @@ by Bryan Mealy and Fabrizio Tappero
 
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including hello_world, half adder, full adder, D flip-flop, T flip-flop,
 4-to-1 multiplexer, and 1-to-4 demultiplexer
+* [Textbook Chapters 3, 4, 5, 7, 8, 9, 10 Exercises by Sarah Bertussi](https://github.com/sbertussi/CPE-487/tree/master/textbook)
 
 ## Labs on Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 
