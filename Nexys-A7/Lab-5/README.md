@@ -32,7 +32,6 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 ### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5/Modifications)
 
-
   #### A) Change the upper and lower tone limits
 
 * Modify the tone module to create a square wave instead of a triangle wave when the upper push button (BTNU) is depressed
