@@ -42,7 +42,7 @@
 
 * Push BTNC to start the bouncing ball and use the bat to keep the ball in play
 
-### 5. Edit code with the following [modifications]()
+### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6/Modifications)
 
 #### A) Change ball speed
 
@@ -54,7 +54,7 @@
 
 * See how fast to move the ball and still keep it in play
 
-#### B) Change bat width
+#### B) Change bat width and count hits
 
 * Double the width of the bat to make the game really easy
 
