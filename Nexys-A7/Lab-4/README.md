@@ -40,7 +40,9 @@
 
 * Press the “clear” key (BTNC) to set the result on the display to zero
 
-### 6. Modify the leddec16 module to perform leading zero suppression
+### 6. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4/Modifications)
+
+#### Edit the leddec16 module to perform leading zero suppression
 
 * With the leading zeros suppressed, the number “0023” appears as “23” 
 
@@ -48,7 +50,7 @@
 
 * Modify the “anode <=” conditional assignment statement in leddec16 so that it only turns on a particular digit if it is non-zero or if there is non-zero information in the higher order digits of the data word
 
-### 7. Expand the calculator to also do subtraction operations
+#### Expand the calculator to also do subtraction operations
 
 * Use the button BTND (pin P18 on the Nexys A7-100T board) as the “–” key
 
@@ -57,3 +59,7 @@
 * Create a new signal to record whether the “+” key or the “–” key was pushed
 
 * Then, when in state ENTER_OP and the “=” key is pressed, test the new signal to determine whether to do an addition or a subtraction
+
+### 7. Close project
+
+* File > Close Project
