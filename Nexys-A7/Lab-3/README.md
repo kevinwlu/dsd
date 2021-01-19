@@ -30,8 +30,10 @@
 
 * Click 'Program Device' then xc7a100t_0 to download vga_top.bit to the Nexys A7 board
 
-### 5. Change the size and color of the ball
+### 5. Edit code with the following [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3/Modifications)
 
-### 6. Change the square ball to a round ball
+* Change the size and color of the ball
 
-### 7. Introduce a new signal ball_x_motion to allow the ball to move both horizontally and vertically
+* Change the square ball to a round ball
+
+* Introduce a new signal ball_x_motion to allow the ball to move both horizontally and vertically
