@@ -42,7 +42,9 @@
 
 * Push BTNC to start the bouncing ball and use the bat to keep the ball in play
 
-### 5. Change ball speed
+### 5. Edit code with the following [modifications]()
+
+#### A) Change ball speed
 
 * The ball speed is currently 6 pixels per video frame
 
@@ -52,7 +54,7 @@
 
 * See how fast to move the ball and still keep it in play
 
-### 6. Change bat width
+#### B) Change bat width
 
 * Double the width of the bat to make the game really easy
 
@@ -62,3 +64,7 @@ starting width when missing the ball
 * See how many times hitting the ball in a row as the bat slowly shrinks
 
 * Count the number of successful hits after each serve and display the count in binary on the 7-segment displays of the Nexys A7-100T board
+
+### 6. Close project
+
+* File > Close Project
