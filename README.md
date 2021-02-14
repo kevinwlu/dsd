@@ -56,3 +56,12 @@ and VGA Display)
 * Terasic [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
 * Terasic [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
+
+### TinyFPGA [BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
+
+* [User Guide](https://tinyfpga.com/bx/guide.html) (First Project Tutorial in Verilog)
+* [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX)
+* [Atom](https://atom.io) integrated development environment (IDE)
+* [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
+* [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
+* [Adafruit](https://www.adafruit.com/product/4038)
