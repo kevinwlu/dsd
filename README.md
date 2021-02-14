@@ -62,7 +62,7 @@ and VGA Display)
 * [User Guide](https://tinyfpga.com/bx/guide.html)
 * [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX)
 * First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](https://github.com/tinyfpga/TinyFPGA-BX/blob/master/apio_template/top.v)) with the user LED on the board blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
-* [Atom](https://atom.io) [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) (IDE)
+* [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
 * [APIO](https://github.com/FPGAwars/apio-ide) IDE
 * [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
