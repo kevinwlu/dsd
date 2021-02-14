@@ -61,7 +61,7 @@ and VGA Display)
 
 * [User Guide](https://tinyfpga.com/bx/guide.html) (First Project Tutorial in Verilog)
 * [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX)
-* [Atom](https://atom.io) integrated development environment (IDE)
+* [Atom](https://atom.io) [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) (IDE)
 * [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
 * [Adafruit](https://www.adafruit.com/product/4038)
