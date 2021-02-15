@@ -4,7 +4,7 @@
 
 * 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
-* [Zikang Sheng](https://github.com/karlsheng99/CPE487_dsd/tree/master/lab/lab%206) used on-board BTNL and BTNR buttons to control the motion of the bat without the potentiometer and analog-to-digital converter
+* In 2020 Fall, [Zikang Sheng](https://github.com/karlsheng99/CPE487_dsd/tree/master/lab/lab%206) used on-board BTNL and BTNR buttons to control the motion of the bat without the potentiometer and analog-to-digital converter
 
 ![ad1.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-6/ad1.png)
 
