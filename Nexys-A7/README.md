@@ -3,7 +3,7 @@
 The Nexys A7 is a rebrand of the Nexys 4 DDR board with the addition of the Nexys A7-50T variant of the
 Nexys A7, which has a smaller gate array. The Nexys A7-100T variant is functionally identical to the Nexys 4 DDR.
 Refer to Xilinx Design Constraints ([XDC](https://github.com/Digilent/digilent-xdc)) for other Digilent boards.
-The Nexys A7-100T contains 15,850 [logical slices](https://www.ni.com/en-us/support/documentation/supplemental/18/slices-on-an-fpga-chip.html) 
+The Nexys A7-100T contains 15,850 [logic slices](https://www.ni.com/en-us/support/documentation/supplemental/18/slices-on-an-fpga-chip.html) 
 each with 4 look-up tables (LUTs) and 8 flip-flops.
 
 ### 1. Use the [Xilinx Unified Installer 2020.2: Windows (or Linux) Self Extracting Web Installer](https://www.xilinx.com/support/download.html) to install Vivado High Level (HL) WebPACK
