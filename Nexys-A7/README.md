@@ -14,7 +14,7 @@ Refer to Xilinx Design Constraints ([XDC](https://github.com/Digilent/digilent-x
 
 ### 2. Download and extract the [FPGA board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
 
-### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to C:/Xilinx/Vivado/2020.1/data/boards/board_files
+### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to C:/Xilinx/Vivado/2020.2/data/boards/board_files
 
 ### 4. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
