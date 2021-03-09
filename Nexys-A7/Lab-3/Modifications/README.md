@@ -1,4 +1,4 @@
-# Modified Design Sources
+# Modified Design
 
 ball.vhd
 
