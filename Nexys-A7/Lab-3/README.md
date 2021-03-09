@@ -3,6 +3,7 @@
 * Program the FPGA to display a "bouncing ball" on a 800x600 Video Graphics Array (VGA) monitor (See Section 8 on VGA Port and Subsection 8.1 on VGA System Timing of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
 * 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
+  * The Xilinx [Clocking Wizard](https://www.xilinx.com/products/intellectual-property/clocking_wizard.html)
 
 ### 1. Create a new RTL project vgaball in Vivado Quick Start
 
