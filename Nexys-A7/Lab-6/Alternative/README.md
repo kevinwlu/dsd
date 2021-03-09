@@ -1,5 +1,9 @@
-# Alternative Design Using BTNL and BTNR Instead of Pmod AD1 and Potentiometer
+# Alternative Design 
 
-* pong.vhd: set bat position and speed
+## Using BTNL and BTNR instead of Pmod AD1 and potentiometer
 
-* pong.xdc: add ports btnl and btnr
+* pong.vhd
+  * Set bat position and speed
+
+* pong.xdc
+  * Add ports btnl and btnr
