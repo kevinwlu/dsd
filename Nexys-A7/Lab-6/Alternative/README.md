@@ -4,6 +4,7 @@
 
 * pong.vhd
   * Set bat position and speed
+  * No need for adc_if.vhd
 
 * pong.xdc
   * Add ports btnl and btnr
