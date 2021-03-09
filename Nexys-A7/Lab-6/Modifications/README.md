@@ -1,4 +1,4 @@
-# Modified Design Sources and Constraints
+# Modified Design
 
 * bat_n_ball.vhd
 
