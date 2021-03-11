@@ -8,7 +8,7 @@
 	         "0111" WHEN dig = "11" ELSE --3
 	         "1111";
 ```
-* leddec1.vhd
+* leddec_1.vhd
 ```
 	-- Turn on anode of 7-segment display addressed by 2-bit digit selector dig
 	anode <= "1110" WHEN dig = "11" ELSE --0
