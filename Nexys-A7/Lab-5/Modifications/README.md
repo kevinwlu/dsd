@@ -1,9 +1,9 @@
 # Modified Design Sources and Constraints
 
-* tone.vhd: tone_select, btn_press, data_sq
+* tone_1.vhd: tone_select, btn_press, data_sq
 
-* wail.vhd: btn_press
+* wail_1.vhd: btn_press
 
-* siren.vhd: left and right channels
+* siren_1.vhd: left and right channels
 
-* siren.xdc: BTNU (M18), SW0-SW7
+* siren_1.xdc: BTNU (M18), SW0-SW7
