@@ -34,7 +34,7 @@
 
 ### 5. Slide switches on the Nexys A7-100T board
 
-* Slide switches 6 and 7 to determine which dsiplay is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
+* Slide switches 6 and 7 to determine which display is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
 
 * Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 
