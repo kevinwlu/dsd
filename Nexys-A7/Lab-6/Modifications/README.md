@@ -6,7 +6,7 @@
   
   * Count the number of successful hits after each serve and display the count on the 7-segment displays
 
-* Leddec16_1.vhd
+* Leddec16.vhd
 
 * pong_1.vhd
 
