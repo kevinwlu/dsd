@@ -1,6 +1,6 @@
 # Modified Design
 
-ball.vhd
+ball_1.vhd
 
 * Change the size and color of the ball
 
