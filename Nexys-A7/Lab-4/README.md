@@ -1,15 +1,35 @@
 # Lab 4: Hex Calculator
 
 * Program the FPGA on the Nexys A7-100T board to function as a simple hexadecimal calculator capable of adding and subtracting four-digit hexadecimal numbers using a 16-button keypad module (Pmod KYPD) connected to the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
-
 ![kypd.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/kypd.png)
 ![hexcalc.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/hexcalc.png)
+* The top level source module is called _hexcalc_ that
+  * Creates an instance of the keypad interface and 7-segment decoder interface modules
+  * Make connection to the display, buttons, and external keypad
+  * Has a timing process to generate clocks for the keypad, display multiplexer, and state machine
+  * Implements a finite state machine to implement the operations of the calculator in response to button pushes
+    * The finite state machine uses a number of variables to keep track of the addition operation
+    * The variable acc is an accumulator that holds the current summation result
+    * The variable operand holds the value of the next operand that will be added to the accumulator
+    * The variable display holds the value currently being displayed on the 7-segment displays
+    * The variable pr_state is the current state of the state machine
+    * Depending on the current state, the machine will react to pushed  keypad buttons or operation buttons to update variables, change the output, and select the next state
+    * When the clear button is pushed, the machine enters the ENTER_ACC state
+    * In this state the machine waits for a keypad button to be pushed
+    * When a keypad button is pushed, the code adds the new digit to the 16-bit word in the accumulator and then waits in the ACC_RELEASE state for the button to be released
+    * It then returns to the ENTER_ACC state to wait for the next digit
+    * This process continues until the “+” button is pushed
+    * The machine then enters the START_OP state where it waits for the first digit of the second operand
+    * Once a keypad button has been pushed, it records the hex digit and then enters the OP_RELEASE state waiting for the keypad button to be released
+    * Once released, the machine enters the ENTER_OP state where it continues to received operand digits each time a keypad button is pushed
+    * This continues until the user presses the “=’ button at which point it performs the addition and goes to the SHOW_RESULT state
+    * Once in the SHOW_RESULT state, it shows the result of the addition and waits for a keypad button push to start a new calculation
 
 ### 1. Create a new RTL project hexcalc in Vivado Quick Start
 
-* Create three new source files of file type VHDL called keypad, leddec16, and hexcalc
+* Create three new source files of file type VHDL called _keypad_, _leddec16_, and _hexcalc_
 
-* Create a new constraint file of file type XDC called hexcalc
+* Create a new constraint file of file type XDC called _hexcalc_
 
 * Choose Nexys A7-100T board for the project
 
