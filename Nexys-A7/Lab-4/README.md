@@ -6,13 +6,13 @@
 * The top level source module is called _hexcalc_ that
   * Creates an instance of the keypad interface and 7-segment decoder interface modules
   * Make connection to the display, buttons, and external keypad
-  * Has a timing process to generate clocks for the keypad, display multiplexer, and state machine
-  * Implements a finite state machine to implement the operations of the calculator in response to button pushes
+  * Has a timing process to generate clocks for the keypad, display multiplexer, and finite state machine
+  * Implements a finite state machine for the operations of the calculator in response to button pushes
     * The finite state machine uses a number of variables to keep track of the addition operation
-    * The variable acc is an accumulator that holds the current summation result
-    * The variable operand holds the value of the next operand that will be added to the accumulator
-    * The variable display holds the value currently being displayed on the 7-segment displays
-    * The variable pr_state is the current state of the state machine
+    * The variable _acc_ is an accumulator that holds the current summation result
+    * The variable _operand_ holds the value of the next operand that will be added to the accumulator
+    * The variable _display_ holds the value currently being displayed on the 7-segment displays
+    * The variable _pr_state_ is the current state of the state machine
     * Depending on the current state, the machine will react to pushed  keypad buttons or operation buttons to update variables, change the output, and select the next state
     * When the clear button is pushed, the machine enters the ENTER_ACC state
     * In this state the machine waits for a keypad button to be pushed
