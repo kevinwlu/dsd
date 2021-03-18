@@ -4,11 +4,11 @@
 
 ## Project 1 - LED Decoder
 
-### 1. Create a new RTL project called leddec in Vivado Quick Start
+### 1. Create a new RTL project called _leddec_ in Vivado Quick Start
 
-* Create a new source file of file type VHDL called leddec
+* Create a new source file of file type VHDL called _leddec_
 
-* Create a new constraint file of file type XDC called leddec
+* Create a new constraint file of file type XDC called _leddec_
 
 * Default Part > Boards > Boards Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T
 
