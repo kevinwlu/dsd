@@ -22,11 +22,11 @@
     * In this state the machine waits for a keypad button to be pushed
     * When a keypad button is pushed, the code adds the new digit to the 16-bit word in the accumulator and then waits in the ACC_RELEASE state for the button to be released
     * It then returns to the ENTER_ACC state to wait for the next digit
-  * This process continues until the “+” button is pushed
+  * The process continues until the “+” button is pushed
     * The machine then enters the START_OP state where it waits for the first digit of the second operand
     * Once a keypad button has been pushed, it records the hex digit and then enters the OP_RELEASE state waiting for the keypad button to be released
     * Once released, the machine enters the ENTER_OP state where it continues to received operand digits each time a keypad button is pushed
-  * This continues until the user presses the “=’ button at which point it performs the addition and goes to the SHOW_RESULT state
+  * The process continues until the user presses the “=’ button at which point it performs the addition and goes to the SHOW_RESULT state
     * Once in the SHOW_RESULT state, it shows the result of the addition and waits for a keypad button push to start a new calculation
 
 ### 1. Create a new RTL project hexcalc in Vivado Quick Start
