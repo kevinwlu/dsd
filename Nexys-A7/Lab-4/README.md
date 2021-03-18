@@ -14,7 +14,7 @@
     * The variable _display_ holds the value currently being displayed on the 7-segment displays
     * The variable _pr_state_ is the current state of the state machine
     * Depending on the current state, the machine will react to pushed  keypad buttons or operation buttons to update variables, change the output, and select the next state
-    * When the clear button is pushed, the machine enters the ENTER_ACC state
+    * When the _clear_ button is pushed, the machine enters the ENTER_ACC state
     * In this state the machine waits for a keypad button to be pushed
     * When a keypad button is pushed, the code adds the new digit to the 16-bit word in the accumulator and then waits in the ACC_RELEASE state for the button to be released
     * It then returns to the ENTER_ACC state to wait for the next digit
