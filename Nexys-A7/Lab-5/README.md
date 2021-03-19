@@ -6,7 +6,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 ![i2s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s.png)
 
-* The [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with the [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/) with blue in and green out
+* The [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with the [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/): stereo audio input (blue) and output (green)
 
 ![i2s2.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s2.jpg)
 
