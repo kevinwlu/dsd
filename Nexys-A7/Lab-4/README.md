@@ -4,7 +4,7 @@
 
 ![kypd.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/kypd.png)
 
-* The top level source module is called _hexcalc_ that
+* The top level source module is called **_hexcalc_** that
   * Creates an instance of the keypad interface and 7-segment decoder interface modules
   * Make connection to the display, buttons, and external keypad
   * Has a timing process to generate clocks for the keypad, display multiplexer, and [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
@@ -31,9 +31,9 @@
 
 ### 1. Create a new RTL project hexcalc in Vivado Quick Start
 
-* Create three new source files of file type VHDL called _keypad_, _leddec16_, and _hexcalc_
+* Create three new source files of file type VHDL called **_keypad_**, **_leddec16_**, and **_hexcalc_**
 
-* Create a new constraint file of file type XDC called _hexcalc_
+* Create a new constraint file of file type XDC called **_hexcalc_**
 
 * Choose Nexys A7-100T board for the project
 
