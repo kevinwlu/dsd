@@ -6,7 +6,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 ![i2s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s.png)
 
-* Pmod I2S is superseded by I2S2 with blue in and green out
+* Pmod I2S is superseded by Pmod I2S2 with blue in and green out
 
 ![i2s2.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s2.jpg)
 
