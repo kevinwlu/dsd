@@ -10,11 +10,11 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 ![i2s2.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s2.jpg)
 
-### 1. Create a new RTL project siren in Vivado Quick Start
+### 1. Create a new RTL project _siren_ in Vivado Quick Start
 
-* Create four new source files of file type VHDL called dac_if, tone, wail, and siren
+* Create four new source files of file type VHDL called **_dac_if_**, **_tone_**, **_wail_**, and **_siren_**
 
-* Create a new constraint file of file type XDC called siren
+* Create a new constraint file of file type XDC called **_siren_**
 
 * Choose Nexys A7-100T board for the project
 
