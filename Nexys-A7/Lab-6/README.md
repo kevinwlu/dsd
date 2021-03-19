@@ -2,6 +2,8 @@
 
 * Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game using a 800x600 Video Graphics Array (VGA) display and a 5k&Omega; potentiometer with a 12-bit analog-to-digital (ADC) converter called [Pmod AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) connected to the top pins of the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
+Alternatively, use onboard left and right buttons instead of AD1 and potentiometer
+
 * 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
 
 * In 2020 Fall, [Zikang Sheng](https://github.com/karlsheng99/CPE487_dsd/tree/master/lab/lab%206) used on-board BTNL and BTNR buttons to control the motion of the bat without the potentiometer and analog-to-digital converter
