@@ -12,7 +12,7 @@
 
 ![hexcalc.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/hexcalc.png)
 
-* The finite state machine uses a number of variables to keep track of the addition operation
+* The [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) uses a number of variables to keep track of the addition operation
   * The variable _acc_ is an accumulator that holds the current summation result
   * The variable _operand_ holds the value of the next operand that will be added to the accumulator
   * The variable _display_ holds the value currently being displayed on the 7-segment displays
