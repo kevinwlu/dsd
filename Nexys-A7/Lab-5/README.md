@@ -1,12 +1,12 @@
 # Lab 5: DAC Siren
 
-Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren using a digital-to-analog (DAC) converter called Pmod Inter-IC Sound (I2S) with a speaker or headphoneconnected to the top pins of the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
+Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren using a digital-to-analog (DAC) converter called Pmod I2S ([Inter-IC Sound](https://en.wikipedia.org/wiki/I%C2%B2S)) with a speaker or headphoneconnected to the top six pins of the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
 * WARNING: the siren is loud
 
 ![i2s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s.png)
 
-* Pmod I2S is superseded by Pmod I2S2 with blue in and green out
+* The [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with the [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/) with blue in and green out
 
 ![i2s2.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s2.jpg)
 
