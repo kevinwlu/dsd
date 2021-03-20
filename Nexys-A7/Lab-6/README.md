@@ -12,15 +12,15 @@
 
 ![potentiometer.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-6/potentiometer.jpg)
 
-### 1. Create a new RTL project pong in Vivado Quick Start
+### 1. Create a new RTL project _pong_ in Vivado Quick Start
 
-* Create six new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, bat_n_ball, adc_if, and pong
+* Create six new source files of file type VHDL called **_clk_wiz_0_**, **_clk_wiz_0_clk_wiz_**, **_vga_sync_**, **_bat_n_ball_**, **_adc_if_**, and **_pong_**
 
   * clk_wiz_0.vhd and clk_wiz_0_clk_wiz.vhd are the same files as in Lab 3
   
   * vga_sync.vhd, bat_n_ball.vhd, adc_if.vhd, and pong.vhd are new files for Lab 6
 
-* Create a new constraint file of file type XDC called pong
+* Create a new constraint file of file type XDC called **_pong_**
 
 * Choose Nexys A7-100T board for the project
 
