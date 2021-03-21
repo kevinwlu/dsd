@@ -2,6 +2,17 @@
 
 Build a four-digit (16-bit) counter to display its value on 7-segment displays (See Section 9.1 Seven-Segment Display of the [Refenece Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
+![mpx.png]()
+
+By time multiplexing the 7-segment displays that share the same cathode lines, four different digits can appear on one display at a time.
+* Turn on display 0 for a few milliseconds by enabling its common anode AN0 and decoding count (0~3) to drive the cathode lines.
+* Switch to display 1 for a few milliseconds by turning off AN0, turning on AN1 and decoding count (4~7) to drive the cathode lines.
+* Shift to display 2 for a few milliseconds and then finally display 3 for a few milliseconds, after that go back and start again at display 0.
+* Each digit is thus illuminated only one quarter of the time
+* If this multiplexing is fast enough (at least 60 complete cycles per second), it will appear as if all four displays are continuously illuminated – each with their own four bits of information.
+* The mpx output from the new counter module now drives the dig input of the leddec module.
+* The 2-bit mpx signal is also used to select which 4-bits of the 16-bit count output should be sent to the data input of the leddec module.
+
 ### 1. Create a new RTL project called _hex4counter_ in Vivado Quick Start
 
 * Click 'Add Files' then add leddec.srcs/sources_1/new/leddec.vhd
