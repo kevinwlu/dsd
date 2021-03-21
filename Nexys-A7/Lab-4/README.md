@@ -29,7 +29,7 @@
   * The process continues until the user presses the “=’ button at which point it performs the addition and goes to the SHOW_RESULT state
     * Once in the SHOW_RESULT state, it shows the result of the addition and waits for a keypad button push to start a new calculation
 
-### 1. Create a new RTL project hexcalc in Vivado Quick Start
+### 1. Create a new RTL project _hexcalc_ in Vivado Quick Start
 
 * Create three new source files of file type VHDL called **_keypad_**, **_leddec16_**, and **_hexcalc_**
 
