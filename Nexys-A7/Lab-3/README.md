@@ -8,11 +8,11 @@
 * 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
   * The Xilinx [Clocking Wizard](https://www.xilinx.com/products/intellectual-property/clocking_wizard.html)
 
-### 1. Create a new RTL project vgaball in Vivado Quick Start
+### 1. Create a new RTL project _vgaball_ in Vivado Quick Start
 
-* Create five new source files of file type VHDL called clk_wiz_0, clk_wiz_0_clk_wiz, vga_sync, ball, and vga_top
+* Create five new source files of file type VHDL called **_clk_wiz_0_**, **_clk_wiz_0_clk_wiz_**, **_vga_sync_**, **_ball_**, and **_vga_top_**
 
-* Create a new constraint file of file type XDC called vga_top
+* Create a new constraint file of file type XDC called **_vga_top_**
 
 * Choose Nexys A7-100T board for the project
 
