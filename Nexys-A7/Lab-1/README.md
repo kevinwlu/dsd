@@ -48,13 +48,13 @@
 
 * Build a 4-bit counter to display a hex character
 
-### 1. Create a new project called hexcounter in Vivado
+### 1. Create a new project called _hexcounter_ in Vivado
 
 * Click 'Add Files' then add leddec.srcs/sources_1/new/leddec.vhd
 
-* Click 'Create File' then create two new source files of file type VHDL called counter and hexcount
+* Click 'Create File' then create two new source files of file type VHDL called **_counter_** and **_hexcount_**
 
-* Create a new constraint file of file type XDC called hexcount
+* Create a new constraint file of file type XDC called **_hexcount_**
 
 * Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T
 
