@@ -21,8 +21,8 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
   * The process cnt_pr generates an unsigned sawtooth waveform count by incrementing a 16-bit counter pitch values every clock cycle.
   * The frequency with which it traverses the whole 16-bit count range is thus proportional to pitch.
   * The lowest possible tone frequency is obtained when pitch=1.
-  * It then takes 216=65,536 cycles to traverse the range of the counter.
-  * The frequency is then 48.8kHz / 216 ~ 0.745 Hz.
+  * It then takes 2<sup>16</sup> or 65,536 cycles to traverse the range of the counter.
+  * The frequency is then 48.8kHz / 216 or 0.745 Hz.
   * If pitch is set to 1000, the frequency would be 1000 x 0.745 Hz or 745 Hz.
   * A select signal assignment statement is then used to convert the unsigned sawtooth count into a signed triangle wave.
   * The sawtooth count is split up into 4 quadrants quad and an index value within the quadrant.
