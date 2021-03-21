@@ -42,8 +42,8 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
   * When the current pitch exceeds hi_pitch, updn is set to ‘0’ so that the pitch will start decreasing.
   * Similarly, when the current pitch is lower than lo_pitch, updn is set to ‘1’ to start the tone rising again.
 
-* The **_siren_** module is the top level that hooks it all together.
-  * The constants lo_tone, hi_tone and wail_speed define the parameters of the siren.
+* The **_siren_** module is the top level.
+  * The constants lo_tone, hi_tone, and wail_speed define the parameters of the siren.
   * The 20-bit timing counter tcount is used to generate all the necessary timing signals.
   * The module wail is instanced to generate the 16-bit signed audio sequences data_L and data_R (the same data is sent to both channels).
   * These sequences are then sent to an instance of dac_if to convert them to the required serial stream.
