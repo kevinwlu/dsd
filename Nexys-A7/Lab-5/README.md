@@ -10,6 +10,26 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 ![i2s2.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s2.jpg)
 
+* The **_dac_if_** module takes 16-bit parallel stereo data and converts it to the serial format required by the digital to analog converter.
+  * When L_start is high, a 16-bit left channel data word  is loaded into the 16-bit serial shift register SREG on the falling edge of SCLK.
+  * When L_start goes low, SCLK shifts the data out of SREG, MSBit first to the serial output SDATA at a rate of 1.56 Mb/s.
+  * Simlarly, when R_start goes high, right channel data is loaded into SREG and then shifted out to SDATA.
+  * Output data changes on the falling edge of SCLK, so that it is stable when the DAC is reading the data on the rising edge of SCLK.
+
+* The **_tone_** module generates a signed triangular wave (a tone) at a sampling rate of 48.8 KHz.
+  * The frequency of the tone is determined by the input pitch.
+  * The process cnt_pr generates an unsigned sawtooth waveform count by incrementing a 16-bit counter pitch values every clock cycle.
+  * The frequency with which it traverses the whole 16-bit count range is thus proportional to pitch.
+  * The lowest possible tone frequency is obtained when pitch=1.
+  * It then takes 216=65,536 cycles to traverse the range of the counter.
+  * The frequency is then 48.8kHz / 216 ~ 0.745 Hz.
+  * If pitch is set to 1000, the frequency would be 1000 x 0.745 Hz or 745 Hz.
+  * A select signal assignment statement is then used to convert the unsigned sawtooth count into a signed triangle wave.
+  * The sawtooth count is split up into 4 quadrants quad and an index value within the quadrant.
+  * The signals quad and index are used to generate a triangle wave.
+
+![wave.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/wave.png)
+
 ### 1. Create a new RTL project _siren_ in Vivado Quick Start
 
 * Create four new source files of file type VHDL called **_dac_if_**, **_tone_**, **_wail_**, and **_siren_**
