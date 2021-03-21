@@ -18,7 +18,7 @@
 
 * The **_ball_** module will be used to generate the red, green, and blue video that will paint the ball on to the VGA display at its current position.
   * This module maintains signals ball_x and ball_y that represent the current position of the ball on the screen.
-  * These are initialized to (400,300) to start the ball in the center of the screen.
+  * These are initialized to (400, 300) to start the ball in the center of the screen.
   * The module also maintains a signal ball_y_motion that represents the number of pixels that the ball should move in one frame period.
   * This is initialized to +4 pixels/frame.
   * The module generates one-bit red, green, and blue video signals that are normally all set to 1.
@@ -31,7 +31,7 @@
   * When the ball reaches the top of the screen, it changes the ball motion to -4 pixels per frame.
   * When it reaches the bottom of the screen it changes the ball motion to +4 pixels per frame.
 
-* The vga_top module will connect the vga_sync and ball modules together and connect the appropriate signals to the board.
+* The **_vga_top_** module will connect the **_vga_sync_** and **_ball_** modules together and connect the appropriate signals to the board.
 
 ### 1. Create a new RTL project _vgaball_ in Vivado Quick Start
 
