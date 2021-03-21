@@ -4,7 +4,7 @@ Build a four-digit (16-bit) counter to display its value on 7-segment displays (
 
 ![mpx.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/mpx.png)
 
-By time multiplexing the 7-segment displays that share the same cathode lines, four different digits can appear on one display at a time.
+By time multiplexing the 7-segment displays that share the same cathode lines (CA to CG), four different digits can appear on one display at a time.
 * Turn on display 0 for a few milliseconds by enabling its common anode AN0 and decoding count (0~3) to drive the cathode lines.
 * Switch to display 1 for a few milliseconds by turning off AN0, turning on AN1 and decoding count (4~7) to drive the cathode lines.
 * Shift to display 2 for a few milliseconds and then finally display 3 for a few milliseconds, after that go back and start again at display 0.
