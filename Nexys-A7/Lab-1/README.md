@@ -4,7 +4,7 @@
 
 ![a7.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/a7.png)
 
-![7s.jpeg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/7s.jpeg)
+![7s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/7s.png)
 
 ## Project 1 - LED Decoder
 
