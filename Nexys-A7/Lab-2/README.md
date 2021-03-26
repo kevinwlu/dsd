@@ -15,9 +15,7 @@
 
 ### 1. Create a new RTL project called _hex4counter_ in Vivado Quick Start
 
-* Click 'Add Files' then add leddec.srcs/sources_1/new/leddec.vhd
-
-* Click 'Create File' then create two new source files of file type VHDL called **_counter_** and **_hexcount_**
+* Click 'Create File' then create three new source files of file type VHDL called **_leddec_**, **_counter_**, and **_hexcount_**
 
 * Create a new constraint file of file type XDC called **_hexcount_**
 
