@@ -25,7 +25,7 @@ ARCHITECTURE Behavioral OF hexcount IS
 		PORT (
 			dig : IN STD_LOGIC_VECTOR (2 DOWNTO 0);
 			data : IN STD_LOGIC_VECTOR (3 DOWNTO 0); --DONT change, data is fixed 4 bits in leddec for each displays
-			anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+			anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0);
 			seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)
 		);
 	END COMPONENT;
