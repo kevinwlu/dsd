@@ -10,11 +10,11 @@
 
 ### 1. Create a new RTL project called _leddec_ in Vivado Quick Start
 
-* Create a New Vivado Project > Next
+* Vivado > Quick Start > Create Project > Create a New Vivado Project > Next
 
 * Project name > leddec
 
-* Project location > C:/Users/... > Next
+  * Project location > C:/Users/... > Next
 
 * RTL Project > Next
 
