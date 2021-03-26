@@ -1,4 +1,4 @@
-# Lab 2: Four-Digit Hex Counter
+# Lab 2: Hex Counter
 
 * Build a four-digit (16-bit) counter to display its value on 7-segment displays (See Section 9.1 Seven-Segment Display of the [Refenece Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
@@ -13,7 +13,7 @@
   * The mpx output from the new counter module now drives the dig input of the leddec module.
   * The 2-bit mpx signal is also used to select which 4-bits of the 16-bit count output should be sent to the data input of the leddec module.
 
-### 1. Create a new RTL project called _hex4counter_ in Vivado Quick Start
+### 1. Create a new RTL project called _hexcount_ in Vivado Quick Start
 
 * Click 'Create File' then create three new source files of file type VHDL called **_leddec_**, **_counter_**, and **_hexcount_**
 
