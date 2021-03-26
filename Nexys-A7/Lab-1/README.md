@@ -10,11 +10,19 @@
 
 ### 1. Create a new RTL project called _leddec_ in Vivado Quick Start
 
-* Create a new source file of file type VHDL called _**leddec**_
+* Create a New Vivado Project > Next
 
-* Create a new constraint file of file type XDC called **_leddec_**
+* Project name > leddec
 
-* Default Part > Boards > Boards Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T
+* Project location > C:/Users/... > Next
+
+* RTL Project > Next
+
+* Add Sources > Create File > a new source file of file type VHDL called _**leddec**_ > Next
+
+* Add Constraints > Create File > a new constraint file of file type XDC called **_leddec_** > Next
+
+* Default Part > Boards > Boards Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T > Next
 
 * New Project Summary > Finish
 
@@ -24,7 +32,7 @@
 
 ### 2. Run synthesis
 
-### 3. Run implementation and open implemented design
+### 3. Run implementation (optional: open implemented design)
 
 ### 4. Generate bitstream, open hardware manager, and program device
 
