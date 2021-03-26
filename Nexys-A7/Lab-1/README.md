@@ -26,9 +26,9 @@
 
 * New Project Summary > Finish
 
-* Click design sources, copy leddec.vhd from the GitHub Raw, and save file
+* Define Module > OK > Yes > Design Sources > Copy and paste leddec.vhd from the GitHub Raw > Save File
 
-* Click constraints, copy leddec.xdc from the GitHub Raw, and save file
+* Click constraints > copy and paste leddec.xdc from the GitHub Raw > Save File
 
 ### 2. Run synthesis
 
