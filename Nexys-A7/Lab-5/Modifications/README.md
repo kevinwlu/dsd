@@ -1,4 +1,4 @@
-# Modified Design Sources and Constraints
+# Modified Design
 
 * tone_1.vhd: tone_select, btn_press, data_sq
 
