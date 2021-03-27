@@ -1,4 +1,4 @@
-# Modifications
+# Modified Design
 
 * Build an eight-digit (32-bit) counter
 
