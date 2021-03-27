@@ -7,12 +7,12 @@ USE IEEE.STD_LOGIC_UNSIGNED.ALL;
 ENTITY counter IS
 	PORT (
 		clk : IN STD_LOGIC;
-		count : OUT STD_LOGIC_VECTOR (15 DOWNTO 0); --NEED REVISE! 16 bits
+		count : OUT STD_LOGIC_VECTOR (31 DOWNTO 0); --NEED REVISE! 16 bits
 		mpx : OUT STD_LOGIC_VECTOR (2 DOWNTO 0)); --NEW ONE ADD! send signal to select displays
 END counter;
 
 ARCHITECTURE Behavioral OF counter IS
-	SIGNAL cnt : STD_LOGIC_VECTOR (38 DOWNTO 0); -- 39 bit counter
+	SIGNAL cnt : STD_LOGIC_VECTOR (54 DOWNTO 0); -- 55 bit counter
 BEGIN
 	PROCESS (clk)
 	BEGIN
@@ -20,6 +20,6 @@ BEGIN
 			cnt <= cnt + 1; -- increment counter
 		END IF;
 	END PROCESS;
-	count <= cnt (38 DOWNTO 23); -- 16bits
+	count <= cnt (54 DOWNTO 23); -- 16bits
 	mpx <= cnt (19 DOWNTO 17); -- 2bits
 END Behavioral;
