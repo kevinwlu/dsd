@@ -1,6 +1,6 @@
 # Lab 1: Seven-Segment Decoder
 
-* Built a single-digit (4-bit) hex counter to display its value on both four-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
+* Built a single-digit (4-bit) hex counter to display its value on eight-digit common anode seven-segment LED displays (See Section 9.1 Seven-Segment Display of the [Reference Manual]( https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
 
 ![a7.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/a7.png)
 
@@ -48,7 +48,7 @@
 
 ### 5. Slide switches on the Nexys A7-100T board
 
-* Slide switches 6 and 7 to determine which display is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
+* Slide switches 6, 7, and 8 to determine which display is illuminated (see [modifications](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1/Modifications))
 
 * Slide switches 0, 1, 2, and 3 to display the value of 4-bit hex digit from 0 to F
 
