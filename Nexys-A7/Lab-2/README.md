@@ -15,9 +15,9 @@
 
 ### 1. Create a new RTL project called _hex4count_ in Vivado Quick Start
 
-* Click 'Create File' then create three new source files of file type VHDL called **_leddec_**, **_counter_**, and **_hex4count_**
+* Click 'Create File' then create three new source files of file type VHDL called **_leddec_**, **_counter_**, and **_hexcount_**
 
-* Create a new constraint file of file type XDC called **_hex4count_**
+* Create a new constraint file of file type XDC called **_hexcount_**
 
 * Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T > Next
 
