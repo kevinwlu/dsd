@@ -9,11 +9,11 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 
 ### 1. Use the [Xilinx Unified Installer 2020.2: Windows (or Linux) Self Extracting Web Installer](https://www.xilinx.com/support/download.html) to install Vivado High Level (HL) WebPACK
 
-#### Design Tools > Vivado Design Suite
+* Design Tools > Vivado Design Suite
 
-#### Devices > 7 Series
+* Devices > 7 Series
 
-#### Installation Options > Install Cable Drivers
+* Installation Options > Install Cable Drivers
 
 ### 2. Download and extract the [FPGA board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
 
