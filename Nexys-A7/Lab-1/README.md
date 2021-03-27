@@ -12,15 +12,15 @@
 
 * Vivado > Quick Start > Create Project > Create a New Vivado Project > Next
 
-* Project name > leddec
+* Project name > **_leddec_**
 
   * Project location > C:/Users/... > Next
 
 * RTL Project > Next
 
-* Add Sources > Create File > a new source file of file type VHDL called _**leddec**_ > Next
+* Add Sources > Create File > Create a new source file of file type VHDL called _**leddec**_ > Next
 
-* Add Constraints > Create File > a new constraint file of file type XDC called **_leddec_** > Next
+* Add Constraints > Create File > Create a new constraint file of file type XDC called **_leddec_** > Next
 
 * Default Part > Boards > Boards Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T > Next
 
@@ -28,9 +28,9 @@
 
 * Define Module > OK > Yes
 
-* Sources > Design Sources > Right click to open leddec.vhd > Copy and paste leddec.vhd from the GitHub Raw > Save File
+* Sources > Design Sources > Right click to open, copy, and paste leddec.vhd from the GitHub Raw > Save File
 
-* Sources > Constraints > Right click to open leddec.xdc > Copy and paste leddec.xdc from the GitHub Raw > Save File
+* Sources > Constraints > Right click to open, copy, and paste leddec.xdc from the GitHub Raw > Save File
 
 ### 2. Run synthesis
 
@@ -62,21 +62,29 @@
 
 * Build a 4-bit counter to display a hex character
 
-### 1. Create a new project called _hexcounter_ in Vivado
+### 1. Create a new project called _hexcount_ in Vivado
 
-* Click 'Add Files' then add leddec.srcs/sources_1/new/leddec.vhd
+* Vivado > Quick Start > Create Project > Create a New Vivado Project > Next
 
-* Click 'Create File' then create two new source files of file type VHDL called **_counter_** and **_hexcount_**
+* Project name > hexcount
 
-* Create a new constraint file of file type XDC called **_hexcount_**
+  * Project location > C:/Users/... > Next
 
-* Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T
+* RTL Project > Next
 
-* Click 'Finish'
+* Add Sources > Create File > Create three new source files of file type VHDL called _**leddec**_, **_counter_**, and **_hexcount_** > Next
 
-* Click design sources, copy counter.vhd and hexcount.vhd from the GitHub Raw, and save files
+* Add Constraints > Create File > Create a new constraint file of file type XDC called **_hexcount_** > Next
 
-* Click constraints, copy hexcount.xdc from the GitHub Raw, and save file
+* Default Part > Boards > Vendor: digilentinc.com > Name: Nexys A7-100T > Click Nexys A7-100T > Next
+
+* New Project Summary > Finish
+
+* Define Module > OK > Yes
+
+* Sources > Design Sources > Right click to open, copy, and paste leddec.vhd, counter.vhd, and hexcount.vhd from the GitHub Raw, and save files
+
+* Sources > Constraints > Right click to open, copy, and paste hexcount.xdc from the GitHub Raw, and save file
 
 ### 2. Run synthesis
 
