@@ -32,7 +32,7 @@ ARCHITECTURE Behavioral OF hexcount IS
 
 	SIGNAL S : STD_LOGIC_VECTOR (31 DOWNTO 0); -- connect C1 and L1 for values of 8 digits
 	SIGNAL md : STD_LOGIC_VECTOR (2 DOWNTO 0); -- mpx selects displays
-	SIGNAL display : STD_LOGIC_VECTOR (3 DOWNTO 0); -- send digit for only one display to leddec
+	SIGNAL display : STD_LOGIC_VECTOR (7 DOWNTO 0); -- send digit for only one display to leddec
 
 BEGIN
 	C1 : counter
