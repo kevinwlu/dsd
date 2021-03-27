@@ -1,4 +1,4 @@
-# Modified Design Sources and Constraints
+# Modified Design
 
 * leddec16_1.vhd: leading zero suppression
 
