@@ -8,6 +8,25 @@
 
 * A '0' on the cathode turns a segment on
 
+| Four-Bit Input | Hex Digit | LED Segment Code CA-CG |
+| --- | --- | --- |
+| 0000 | 0 | 0000001 |
+| 0001 | 1 | 1001111 |
+| 0010 | 2 | 0010010 |
+| 0011 | 3 | 0000110 |
+| 0100 | 4 | 1001100 |
+| 0101 | 5 | 0100100 |
+| 0110 | 6 | 0100000 |
+| 0111 | 7 | 0001111 |
+| 1000 | 8 | 0000000 |
+| 1001 | 9 | 0000100 |
+| 1010 | A | 0001000 |
+| 1011 | b | 1100000 |
+| 1100 | C | 0110001 |
+| 1101 | d | 1000010 |
+| 1110 | E | 0110000 |
+| 1111 | F | 0111000 |
+
 ## Project 1 - LED Decoder
 
 ### 1. Create a new RTL project called _leddec_ in Vivado Quick Start
