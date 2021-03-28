@@ -21,5 +21,5 @@ BEGIN
 		END IF;
 	END PROCESS;
 	count <= cnt (38 DOWNTO 23); -- 16 bits
-	mpx <= cnt (19 DOWNTO 17); -- 2 bits
+	mpx <= cnt (19 DOWNTO 17); -- 3 bits
 END Behavioral;
