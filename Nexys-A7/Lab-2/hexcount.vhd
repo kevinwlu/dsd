@@ -56,10 +56,6 @@ BEGIN
 	display <= S(3 DOWNTO 0) WHEN md = "000" ELSE
 	           S(7 DOWNTO 4) WHEN md = "001" ELSE
 	           S(11 DOWNTO 8) WHEN md = "010" ELSE
-	           S(15 DOWNTO 12) WHEN md = "011" ELSE
-	           S(19 DOWNTO 16) WHEN md = "100" ELSE
-	           S(23 DOWNTO 20) WHEN md = "101" ELSE
-	           S(27 DOWNTO 24) WHEN md = "110" ELSE
-	           S(31 DOWNTO 28);
+	           S(15 DOWNTO 12);
 
 END Behavioral;
