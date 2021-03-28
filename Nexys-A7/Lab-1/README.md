@@ -64,9 +64,9 @@
 
 ![cnt.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/cnt.png)
 
-* The counter module builds a 29-bit binary counter cnt clocked by the input clk.
-* Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder.
-* If the input clock is running at 50MHz, the value of count will change at a frequency of 50 MHz ÷ 2<sup>25</sup> ≈ 1.5 Hz that is slow enough to see.
+* The counter module builds a 29-bit binary counter cnt clocked by the input clk
+* Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder
+* If the input clock is running at 50MHz, the value of count will change at a frequency of 50 MHz ÷ 2<sup>25</sup> ≈ 1.49 Hz that is slow enough to see
 
 ### 1. Create a new project called _hexcount_ in Vivado
 
