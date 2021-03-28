@@ -6,6 +6,8 @@
 
 ![7s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/7s.png)
 
+* A '0' on the cathode turns a segment on
+
 ## Project 1 - LED Decoder
 
 ### 1. Create a new RTL project called _leddec_ in Vivado Quick Start
