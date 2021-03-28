@@ -10,7 +10,7 @@
 
 * The counter module generates a 16-bit count value using bits 23 to 38 of the 39-bit binary counter.
 
-* The binary counter bits 17 and 18 generate a 0 to 3 count sequence at a frequency of 95 Hz (50 MHz divided by 4 X 2<sup>17</sup> $\approx$ 95 Hz).
+* The binary counter bits 17 and 18 generate a 0 to 3 count sequence at a frequency of 95 Hz (50 MHz divided by 4 X 2<sup>17</sup>).
 
 * By time multiplexing the 7-segment displays that share the same cathode lines (CA to CG), four different digits can appear on one display at a time.
   * Turn on display 0 for a few milliseconds by enabling its common anode AN0 and decoding count (0~3) to drive the cathode lines.
