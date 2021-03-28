@@ -8,9 +8,11 @@
 
 ![hexcount.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcount.png)
 
-* The counter module generates a 16-bit count value using bits 23 to 38 of the 39-bit binary counter.
+* The counter module generates a 16-bit count value using bits 23 to 38 of the 39-bit binary counter at a frequency of 100 MHz / 2<sup>23</sup> ≈ 12 Hz
 
-* The binary counter bits 17 and 18 generate a 0 to 3 count sequence at a frequency of 95 Hz (50 MHz divided by 4 X 2<sup>17</sup>) that is fast enough to eliminate any visual flicker in the displays.
+* The binary counter bits 17 and 18 generate a 0 to 3 count sequence at a frequency of 100 MHz / 2<sup>17</sup> ≈ 763 Hz
+
+* The sequence repeats at a frequency of approximately 763 Hz / 4  ≈ 191 Hz that is fast enough to eliminate any visual flicker in the displays.
 
 * This multiplexing is fast enough (at least 60 complete cycles per second) to appear as if all four displays are continuously illuminated – each with their own four bits of information.
 
