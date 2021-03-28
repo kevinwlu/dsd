@@ -62,6 +62,12 @@
 
 * Build a 4-bit counter to display a hex character
 
+![cnt.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-1/cnt.png)
+
+* The counter module builds a 29-bit binary counter cnt clocked by the input clk.
+* Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder.
+* If the input clock is running at 50MHz, the value of count will change at a frequency of 50 MHz ÷ 2^25 ≈ 1.5 Hz which will be slow enough for us to see.
+
 ### 1. Create a new project called _hexcount_ in Vivado
 
 * Vivado > Quick Start > Create Project > Create a New Vivado Project > Next
