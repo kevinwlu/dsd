@@ -6,7 +6,7 @@ ENTITY leddec16 IS
 		dig : IN STD_LOGIC_VECTOR (1 DOWNTO 0); -- which digit to currently display
 		data : IN STD_LOGIC_VECTOR (15 DOWNTO 0); -- 16-bit (4-digit) data
 		anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0); -- which anode to turn on
-	seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)); -- segment code for current digit
+		seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)); -- segment code for current digit
 END leddec16;
 
 ARCHITECTURE Behavioral OF leddec16 IS
