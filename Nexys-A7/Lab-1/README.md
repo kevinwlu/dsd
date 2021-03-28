@@ -87,7 +87,7 @@
 
 * The counter module builds a 29-bit binary counter cnt clocked by the input clk
 * Bits 25 to 28 generate a 4-bit value count used to drive the LED decoder
-* If the input clock is running at 50MHz, the value of count will change at a frequency of 50 MHz ÷ 2<sup>25</sup> ≈ 1.49 Hz that is slow enough to see
+* If the input clock is running at 100 MHz, the value of count will change at a frequency of 100 MHz ÷ 2<sup>25</sup> ≈ 2.98 Hz with a complete cylce taking approximately 16  ÷ 2.98 ≈ 5.37 seconds
 
 ### 1. Create a new project called _hexcount_ in Vivado
 
