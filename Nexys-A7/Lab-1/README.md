@@ -9,7 +9,7 @@
 * A '0' on the cathode turns a segment on
 
 | Four-Bit Input | Hex Digit | LED Segment Code CA-CG |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | 0000 | 0 | 0000001 |
 | 0001 | 1 | 1001111 |
 | 0010 | 2 | 0010010 |
