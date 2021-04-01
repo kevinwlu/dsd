@@ -26,7 +26,9 @@
 
 * Click the arrow to compile
 
-## 3. File > New > University Program VWF (Vector Waveform File)
+## 3. Run simulation
+
+* File > New > University Program VWF (Vector Waveform File)
 
 * Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA\20.1\modelsim_ase\win32aloem
 
@@ -42,9 +44,9 @@
 
 * Simulation > Generate ModelSim Testbench and Script
 
-## 4. Program FPGA board
+## 4. Assign pins
 
-Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
+* Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
 
 * Assignment > Device > Board > DE0-CV Device > Cyclone V 5CEBA4F23C7
 
@@ -62,8 +64,12 @@ Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/d
   
 * Double-click the blue arrows under Compilation one at a time
 
-## 5. Tools > Programmer > Hardware Setup > USB Blaster > Start
+## 5. Program FPGA board
 
-## 6. Press KEY0 (a), KEY1 (b), or KEY2 (carry_in) to input 1's and see the results of LEDR0 (sum) and LEDR1 (carry_out)
+* Tools > Programmer > Hardware Setup > USB Blaster > Start
 
-## 7. File > Save Project > Close Project > Exit
+* Press KEY0 (a), KEY1 (b), or KEY2 (carry_in) to input 1's and see the results of LEDR0 (sum) and LEDR1 (carry_out)
+
+## 6. Save, close, and exit project
+
+* File > Save Project > Close Project > Exit
