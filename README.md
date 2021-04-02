@@ -23,6 +23,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ## GHDL Open-Source Simulator
 
 * [GHDL](http://ghdl.free.fr) by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864)
+  * [Tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) at FOSDEM 2018
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including hello_world, half adder, full adder, D flip-flop, T flip-flop,
 4-to-1 multiplexer, and 1-to-4 demultiplexer
 * [Textbook Exercises of Chapters 3 to 5 and Chapters 7 to 10 by Sarah Bertussi](https://github.com/sbertussi/CPE-487/tree/master/textbook)
