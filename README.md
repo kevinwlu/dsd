@@ -76,7 +76,9 @@ and VGA Display)
 
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
 
-### TinyFPGA [BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
+### [TinyFPGA](https://tinyfpga.com/)
+
+#### [BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 
 * [User Guide](https://tinyfpga.com/bx/guide.html)
 * [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX)
