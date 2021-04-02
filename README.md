@@ -9,6 +9,7 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [GIPHY Capture](https://giphy.com/apps/giphycapture)
 * [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
+* [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 
 ## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
 
