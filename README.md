@@ -10,7 +10,9 @@
 * [GIPHY Capture](https://giphy.com/apps/giphycapture)
 * [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
 
-## [VHDL](https://en.wikipedia.org/wiki/VHDL): [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit) [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
+## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
+
+### [VHDL](https://en.wikipedia.org/wiki/VHDL): Very High Speed Integrated Circuit ([VHSIC](https://en.wikipedia.org/wiki/VHSIC)) HDL
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
@@ -20,14 +22,25 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * IEEE 1076-2019: [IEEE Standard VHDL Language Reference Manual](https://standards.ieee.org/standard/1076-2019.html)
 * IEEE 1164-1993: [IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)](https://standards.ieee.org/standard/1164-1993.html)
 
-## GHDL Open-Source Simulator
+### [Verilog](https://en.wikipedia.org/wiki/Verilog)
 
-* [GHDL](http://ghdl.free.fr) by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864)
-  * [Tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) at FOSDEM 2018
+* [IEEE 1364](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
+
+### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
+
+* [IEEE 1800](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
+
+## Open-Source Simulators
+
+### [GHDL](http://ghdl.free.fr) 
+* [Tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864) at FOSDEM 2018
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including hello_world, half adder, full adder, D flip-flop, T flip-flop,
 4-to-1 multiplexer, and 1-to-4 demultiplexer
 * [Textbook Exercises of Chapters 3 to 5 and Chapters 7 to 10 by Sarah Bertussi](https://github.com/sbertussi/CPE-487/tree/master/textbook)
 * [Textbook Chapter 13 Test Benches by Jake Foglia](https://github.com/jakefoglia/foglia-DSD/tree/master/GHDL%20Test%20Directory/ch13)
+
+### [Icarus Verilog](http://iverilog.icarus.com/)
+* [Stephen Williams](http://stevewilliams.icarus.com/)
 
 ## Labs on Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 
