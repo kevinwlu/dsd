@@ -1,6 +1,7 @@
 # Digital System Design (DSD)
 
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
+* [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
@@ -9,7 +10,6 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [GIPHY Capture](https://giphy.com/apps/giphycapture)
 * [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
-* [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 
 ## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
 
