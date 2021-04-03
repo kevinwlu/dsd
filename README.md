@@ -3,6 +3,7 @@
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit)
+* [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
@@ -12,7 +13,7 @@
 * [GIPHY Capture](https://giphy.com/apps/giphycapture)
 * [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
 
-## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
+## Hardware Description Languages
 
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL): VHSIC HDL
 
