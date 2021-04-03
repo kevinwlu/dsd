@@ -23,17 +23,17 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * Page 19: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."
   * Page 132: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."
   * Page 142: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”
-* [IEEE 1076](https://standards.ieee.org/standard/1076-2019.html): IEEE Standard VHDL Language Reference Manual
-* [IEEE 1164](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
+* [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
+* [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html): IEEE Standard VHDL Language Reference Manual
 
 ### [Verilog](https://en.wikipedia.org/wiki/Verilog)
 
-* [IEEE 1364](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
+* [IEEE 1364-2005](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
 * IEEE 1364-2005 was superseded by IEEE 1800-2009
 
 ### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
 
-* [IEEE 1800](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
+* [IEEE 1800-2017](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
 
 ## Open-Source Simulators
 
