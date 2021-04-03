@@ -11,7 +11,7 @@
 * [GIPHY Capture](https://giphy.com/apps/giphycapture)
 * [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
 
-## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
+## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL): Very High Speed Integrated Circuit ([VHSIC](https://en.wikipedia.org/wiki/VHSIC)) HDL
 
