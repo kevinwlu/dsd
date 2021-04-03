@@ -29,6 +29,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ### [Verilog](https://en.wikipedia.org/wiki/Verilog)
 
 * [IEEE 1364](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
+* IEEE 1364-2005 was superseded by IEEE 1800-2009
 
 ### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
 
