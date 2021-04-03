@@ -4,6 +4,7 @@
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit)
 * [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
+* [Field-Programmable Gate Array](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
@@ -45,7 +46,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ### [Icarus Verilog](http://iverilog.icarus.com/)
 * [Stephen Williams](http://stevewilliams.icarus.com/)
 
-## Field-Programmable Gate Array ([FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
+## Field-Programmable Gate Arrays (FPGAs)
 
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
