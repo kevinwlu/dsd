@@ -2,6 +2,7 @@
 
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
+* [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
@@ -13,7 +14,7 @@
 
 ## [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 
-### [VHDL](https://en.wikipedia.org/wiki/VHDL): Very High Speed Integrated Circuit ([VHSIC](https://en.wikipedia.org/wiki/VHSIC)) HDL
+### [VHDL](https://en.wikipedia.org/wiki/VHDL): VHSIC HDL
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
