@@ -28,7 +28,7 @@
 
 ## Hardware Description Languages
 
-### [VHDL](https://en.wikipedia.org/wiki/VHDL): VHSIC HDL
+### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
