@@ -5,19 +5,19 @@
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
-* [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+* [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Moore machine](https://en.wikipedia.org/wiki/Moore_machine)
   * [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine)
-* [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level)
+* [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
-* [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation)
+* [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
 * [Very High Speed Integrated Circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
-* [Field-Programmable Gate Array](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
+* [Field-Programmable Gate Array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
 
 ## Basics
 
-* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
+* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
 * [GitHub Pages](https://pages.github.com/)
@@ -28,7 +28,7 @@
 
 ## Hardware Description Languages
 
-### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
+### [VHDL](https://en.wikipedia.org/wiki/VHDL), i.e., VHSIC HDL
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
