@@ -66,6 +66,10 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 ## Field-Programmable Gate Arrays (FPGAs)
 
+### Projects
+
+* [FPGA4students](https://www.fpga4student.com)
+
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
 * Digilent Nexys 4 DDR rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) 
