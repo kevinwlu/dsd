@@ -38,6 +38,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
 * [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html): IEEE Standard VHDL Language Reference Manual
 * [VHDL GitHub repositories](https://github.com/search?q=VHDL)
+* [VHDL Language Refernece Guide](https://peterfab.com/ref/vhdl/vhdl_renerta/)
 * VHDL tutorials
   * [Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/) by VHDLwhiz
   * [VHDL Tutorial: Learn by Example](http://esd.cs.ucr.edu/labs/tutorial/) by Weijun Zhang, UC Riverside, July 2001
@@ -46,7 +47,8 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ### [Verilog](https://en.wikipedia.org/wiki/Verilog)
 
 * [IEEE 1364-2005](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
-* IEEE 1364-2005 was superseded by IEEE 1800-2009
+  * IEEE 1364-2005 was superseded by IEEE 1800-2009
+* [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
 
 ### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
 
