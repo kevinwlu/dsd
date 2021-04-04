@@ -11,7 +11,7 @@
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation)
-* [VHSIC](https://en.wikipedia.org/wiki/VHSIC) (Very High Speed Integrated Circuit)
+* [Very High Speed Integrated Circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Field-Programmable Gate Array](https://en.wikipedia.org/wiki/Field-programmable_gate_array))
 
