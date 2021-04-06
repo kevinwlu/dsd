@@ -8,7 +8,7 @@
 
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
-* Download [Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html), ModelSim - Intel FPGA Starter Edition, and Cyclone IV and V device support
+* Download the combined files of [Intel Quartus Prime Lite Edition Software](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) (Device support included: ModelSim - Intel FPGA Starter Edition, and Cyclone IV and V device support)
 
 * Install Intel Quartus Prime Lite Edition and ModelSim - Intel FPGA Starter Edition
 
