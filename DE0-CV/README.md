@@ -23,6 +23,8 @@
   * Create shortcuts on Desktop
   * Launch Quartus Prime Lite Edition
 
+* Select "Run the Quartus Prime software"
+
 ## 2. Launch Quartus and create a new project 
 
 * Click New Project Wizard
