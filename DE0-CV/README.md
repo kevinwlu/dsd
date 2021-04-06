@@ -17,7 +17,11 @@
     * Cyclone V
   * ModelSim - Intel FPGA Starter Edition
 
-* Install the Altera USB-Blaster driver
+* Select the following to finish installation
+
+  * Launch USB Blaster II driver installation
+  * Create shortcuts on Desktop
+  * Launch Quartus Prime Lite Edition
 
 ## 2. Launch Quartus and create a new project 
 
