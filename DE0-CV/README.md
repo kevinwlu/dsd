@@ -8,9 +8,9 @@
 
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
-* Download the combined files of [Intel Quartus Prime Lite Edition Software](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) (Device support included: ModelSim - Intel FPGA Starter Edition, and Cyclone IV and V device support)
+* Download the combined files of [Intel Quartus Prime Lite Edition Software](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) (Device support included)
 
-* Install Intel Quartus Prime Lite Edition and ModelSim - Intel FPGA Starter Edition
+* Select Intel Quartus Prime Lite Edition, Cyclone IV, Cyclone V, and ModelSim - Intel FPGA Starter Edition to install
 
 * Install the Altera USB-Blaster driver
 
