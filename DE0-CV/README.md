@@ -18,7 +18,7 @@
 
 * Click New Project Wizard
 
-* Name the project "Full_Adder" > Next > Finish
+* Name the project "Full_Adder" > Next > Empty project > Next > File name: Full_Adder.vhdl > Next > Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available devices: 5CEBA4F23C7 > Next > Finish
 
 * File > New > VHDL File > OK
 
