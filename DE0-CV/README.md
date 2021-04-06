@@ -33,7 +33,7 @@
 
 * File > New > VHDL File > OK
 
-* Copy and paste Full_Adder.vhdl
+* Copy and paste Full_Adder.vhd
 
 * Click the arrow to compile
 
