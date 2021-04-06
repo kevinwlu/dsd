@@ -27,15 +27,15 @@
 
 ## 2. Launch Quartus and create a new project 
 
-* Click New Project Wizard
-
-* Name the project "Full_Adder" > Next > Empty project > Next > File name: Full_Adder.vhd > Next > Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available devices: 5CEBA4F23C7 > Next > Finish
-
 * File > New > VHDL File > OK
 
 * Copy and paste Full_Adder.vhd
 
-* Click the arrow to compile
+* Save file as Full_Adder.vhd
+
+* File > New Project Wizard > Name the project "Full_Adder" > Next > Empty project > Next > File name: Full_Adder.vhd > Next > Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available devices: 5CEBA4F23C7 > Next > Finish
+
+* Click the arrow next to STOP (or Ctrl+L) to start compilation
 
 ## 3. Run simulation
 
