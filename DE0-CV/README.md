@@ -23,6 +23,8 @@
   * Create shortcuts on Desktop
   * Launch Quartus Prime Lite Edition
 
+* Device Driver Installation Wizard > Next > Finish
+
 * Select "Run the Quartus Prime software" > OK
 
 ## 2. Launch Quartus and create a new project 
