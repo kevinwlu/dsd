@@ -80,7 +80,7 @@
 
 * Tools > Programmer > Hardware Setup > USB Blaster > Start
 
-* Press KEY0 (a), KEY1 (b), or KEY2 (carry_in) to input 1's and see the results of LEDR0 (sum) and LEDR1 (carry_out)
+* Press KEY0 (a), KEY1 (b), or KEY2 (carry_in) to input 1's and see the results of LEDR0 (sum) and LEDR1 (carry_out) with ON = 0 and OFF = 1
 
 ## 6. Save, close, and exit project
 
