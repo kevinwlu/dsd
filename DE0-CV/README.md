@@ -46,11 +46,8 @@
 * Simulation Waveform Editor > Double click the space under "Name" > Insert Node or Bus > Node Finder
 
 * List >> OK > OK
-
   * a > Click the Symbol for Random Values > Every grid interval > OK
-
   * b > Click the Symbol for Random Values > Every grid interval > OK
-
   * carry_in > Click the Symbol for Random Values > Every grid interval > OK
 
 * Simulation > Generate ModelSim Testbench and Script > Yes > Full_Adder > Save > Full_Adder.vwf
