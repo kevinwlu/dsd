@@ -27,53 +27,53 @@
 
 ## 2. Launch Quartus and create a new project 
 
-* File > New > VHDL File > OK
+* File > New Project Wizard > Name the project "Full_Adder" > Next > Empty project > Next > File name: Full_Adder.vhd > Next > Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available devices: 5CEBA4F23C7 > Next > Finish
+
+* File > New > Design Files > VHDL File > OK
 
 * Copy and paste Full_Adder.vhd
 
 * Save file as Full_Adder.vhd
 
-* File > New Project Wizard > Name the project "Full_Adder" > Next > Empty project > Next > File name: Full_Adder.vhd > Next > Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available devices: 5CEBA4F23C7 > Next > Finish
-
 * Click the arrow next to STOP (or Ctrl+L) to start compilation
 
 ## 3. Run simulation
 
-* File > New > University Program VWF (Vector Waveform File)
+* File > New > Verification/Debugginh Files > University Program VWF (Vector Waveform File) > OK
 
-* Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA\20.1\modelsim_ase\win32aloem
+* Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA_lite\20.1\modelsim_ase\win32aloem
 
-* Double click the space under "Name" > Insert Node or Bus > Node Finder
+* Simulation Waveform Editor > Double click the space under "Name" > Insert Node or Bus > Node Finder
 
-* Click "List" then ">>" > OK > OK
+* List >> OK > OK
 
-  Click "a" > Click the Symbol for Random Values > Every grid interval > OK
+  * a > Click the Symbol for Random Values > Every grid interval > OK
 
-  Click "b" > Click the Symbol for Random Values > Every grid interval > OK
+  * b > Click the Symbol for Random Values > Every grid interval > OK
 
-  Click "carry_in" > Click the Symbol for Random Values > Every grid interval > OK
+  * carry_in > Click the Symbol for Random Values > Every grid interval > OK
 
-* Simulation > Generate ModelSim Testbench and Script
+* Simulation > Generate ModelSim Testbench and Script > Yes > Full_Adder > Save > Full_Adder.vwf
 
 ## 4. Assign pins
 
 * Refer to Pages 24 and 25 of [DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
 
-* Assignment > Device > Board > DE0-CV Device > Cyclone V 5CEBA4F23C7
+* Assignments > Device > Board > DE0-CV Device > Cyclone V 5CEBA4F23C7 > OK
 
-* Assignment > Pin Planner > Location
-
-  a > PIN_U7 -- KEY0
-
-  b > PIN_W9 -- KEY1
-
-  carry_in > PIN_M7 -- KEY2
-
-  carry_out > PIN_AA1 -- LEDR1
-  
-  sum > PIN_AA2 -- LEDR0
+* Assignments > Pin Planner > Location
+  * a > PIN_U7 -- KEY0
+  * b > PIN_W9 -- KEY1
+  * carry_in > PIN_M7 -- KEY2
+  * carry_out > PIN_AA1 -- LEDR1  
+  * sum > PIN_AA2 -- LEDR0
   
 * Double-click the blue arrows under Compilation one at a time
+  * I/O Assignment Analysis
+  * Fitter (Place & Route)
+  * Assembler (Generate programming files)
+  * Timimg Analysis
+  * EDA Netlist Writer
 
 ## 5. Program FPGA board
 
