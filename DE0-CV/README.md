@@ -29,17 +29,16 @@
 
 ## 2. Launch Quartus and create a new project 
 
-* File > New Project Wizard > 
+* File > New > Design Files > VHDL File > OK
+  * Copy and paste Full_Adder.vhd from the GitHub raw
+  * Save file as Full_Adder.vhd
+  * Do you want to create a new project with this file? > Yes
+
+* New Project Wizard > 
   * The working directory for this project: C:/Users/... 
   * The name of this project: Full_Adder
   * The name of the top-level design entity for this roject: Full_Adder
   * Next > Empty project > Next > File name: Full_Adder.vhd > Next > Board: Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available boards: DE0-CV Development Board (Device: 5CEBA4F23C7 > Next > Next > Finish
-
-* File > New > Design Files > VHDL File > OK
-
-* Copy and paste Full_Adder.vhd from the GitHub raw
-
-* Save file as Full_Adder.vhd
 
 * Click the arrow next to STOP or enter Ctrl+L to start compilation
 
