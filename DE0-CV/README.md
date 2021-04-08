@@ -37,7 +37,7 @@
 
 * File > New > Design Files > VHDL File > OK
 
-* Copy and paste Full_Adder.vhd
+* Copy and paste the raw of Full_Adder.vhd
 
 * Save file as Full_Adder.vhd
 
