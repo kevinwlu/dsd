@@ -7,7 +7,7 @@
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
 * Download the combined files of [Intel Quartus Prime Lite Edition Software](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) (Device support included)
-  * [Altera USB Blaster Driver](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions#Driver) may still be used for the Terasic DE0-CV and DE0-Nano boards
+  * [Altera USB Blaster Driver](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions#Driver) may still be used for the Terasic DE0-CV and DE0-Nano boards if the USB Blaster II driver doesn't work
   * [Altera USB Blaster Driver Installation Instructions](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions)
 
 * Select the following to install:
