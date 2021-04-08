@@ -29,7 +29,11 @@
 
 ## 2. Launch Quartus and create a new project 
 
-* File > New Project Wizard > Name the project "Full_Adder" > Next > Empty project > Next > File name: Full_Adder.vhd > Next > Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available devices: 5CEBA4F23C7 > Next > Finish
+* File > New Project Wizard > 
+  * The working directory for this project: C:/Users/... 
+  * The name of this project: Full_Adder
+  * The name of the top-level design entity for this roject: Full_Adder
+  * Next > Empty project > Next > File name: Full_Adder.vhd > Next > Board: Family: Cyclone V (E/GX/GT/SX/SE/ST) > Available boards: DE0-CV Development Board (Device: 5CEBA4F23C7 > Next > Next > Finish
 
 * File > New > Design Files > VHDL File > OK
 
