@@ -37,11 +37,11 @@
 
 * File > New > Design Files > VHDL File > OK
 
-* Copy and paste the raw of Full_Adder.vhd
+* Copy and paste Full_Adder.vhd from the GitHub raw
 
 * Save file as Full_Adder.vhd
 
-* Click the arrow next to STOP (or Ctrl+L) to start compilation
+* Click the arrow next to STOP or enter Ctrl+L to start compilation
 
 ## 3. Run simulation
 
