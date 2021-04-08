@@ -7,7 +7,7 @@
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
 
 * Download the combined files of [Intel Quartus Prime Lite Edition Software](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/download.html) (Device support included)
-  * [Altera USB Blaster Driver](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions#Driver) is still required for the Terasic DE0-CV and DE0-Nano boards
+  * [Altera USB Blaster Driver](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions#Driver) may still be used for the Terasic DE0-CV and DE0-Nano boards
   * [Altera USB Blaster Driver Installation Instructions](http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions)
 
 * Select the following to install:
@@ -47,7 +47,7 @@
 
 * File > New > Verification/Debugginh Files > University Program VWF (Vector Waveform File) > OK
 
-* Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA_lite\20.1\modelsim_ase\win32aloem
+* Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA_lite\20.1\modelsim_ase\win32aloem > OK
 
 * Simulation Waveform Editor > Double click the space under "Name" > Insert Node or Bus > Node Finder
 
