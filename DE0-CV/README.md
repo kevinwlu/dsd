@@ -44,7 +44,7 @@
 
 ## 3. Run simulation
 
-* File > New > Verification/Debugginh Files > University Program VWF (Vector Waveform File) > OK
+* File > New > Verification/Debugging Files > University Program VWF (Vector Waveform File) > OK
 
 * Tools > Options > General > EDA Tool Options > ModelSim > C:\intelFPGA_lite\20.1\modelsim_ase\win32aloem > OK
 
