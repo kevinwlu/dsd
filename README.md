@@ -28,7 +28,7 @@
 
 ## Hardware Description Languages
 
-### [VHDL](https://en.wikipedia.org/wiki/VHDL), i.e., VHSIC HDL
+### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
@@ -45,14 +45,14 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [VHDL Tutorial: Learn by Example](http://esd.cs.ucr.edu/labs/tutorial/) by Weijun Zhang, UC Riverside, July 2001
   * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by Jan Van der Spiegel, University of Pennsylvania
 
-### [Verilog](https://en.wikipedia.org/wiki/Verilog)
+### [Verilog](https://en.wikipedia.org/wiki/Verilog) HDL
 
 * [IEEE 1364-2005](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
   * IEEE 1364-2005 was superseded by IEEE 1800-2009
 * [Verilog Quick Reference Card](https://www.ece.uvic.ca/~fayez/courses/ceng465/vlogref.pdf)
 * [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
 
-### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
+### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) HDL
 
 * [IEEE 1800-2017](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
 
