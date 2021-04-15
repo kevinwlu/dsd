@@ -69,7 +69,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ### [Icarus Verilog](http://iverilog.icarus.com/)
 * [Stephen Williams](http://stevewilliams.icarus.com/)
 * [Installation Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
-* [Icarus Verilog for Windows](http://bleyer.org/icarus/)
+  * [Icarus Verilog for Windows](http://bleyer.org/icarus/)
 * [iverilog](https://github.com/steveicarus/iverilog)
 * [ivtest](https://github.com/steveicarus/ivtest)
 
