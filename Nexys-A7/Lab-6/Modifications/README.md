@@ -12,6 +12,6 @@
 
   * Use the slide switches on the board to program the ball speed
 
-  * Avoid setting the speed to zero as the ball will then never reach the bat or wall
+  * **WARNING: Avoid setting the speed to zero as the ball will then never reach the bat or wall**
 
 * pong_1.xdc: 7-segment displays
