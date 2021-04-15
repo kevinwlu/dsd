@@ -72,7 +72,7 @@
 
 * Use the slide switches on the Nexys A7-100T board to program the ball speed in the range of 1-32 pixels per frame
 
-  * WARNING: Avoid setting the speed to zero as the ball will then never reach the bat or wall
+  * **WARNING: Avoid setting the speed to zero as the ball will then never reach the bat or wall**
 
 * See how fast to move the ball and still keep it in play
 
