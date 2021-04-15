@@ -68,10 +68,8 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 ### [Icarus Verilog](http://iverilog.icarus.com/)
 * [Stephen Williams](http://stevewilliams.icarus.com/)
-```
-$ git clone git://github.com/steveicarus/iverilog.git
-$ git clone git://github.com/steveicarus/ivtest.git
-```
+* [iverilog](https://github.com/steveicarus/iverilog)
+* [ivtest](https://github.com/steveicarus/ivtest)
 
 ## Field-Programmable Gate Arrays (FPGAs)
 
