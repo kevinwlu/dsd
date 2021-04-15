@@ -66,11 +66,12 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [Textbook](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) Exercises of Chapters 3 to 5 and Chapters 7 to 10 by [Sarah Bertussi](https://github.com/sbertussi/CPE-487/tree/master/textbook)
 * Textbook Chapter 13 Test Benches by [Jake Foglia](https://github.com/jakefoglia/foglia-DSD/tree/master/GHDL%20Test%20Directory/ch13)
 
-### [Icarus Verilog](http://iverilog.icarus.com/)
+### [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog)
 * [Stephen Williams](http://stevewilliams.icarus.com/)
 * [Installation Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
   * [Icarus Verilog for Windows](http://bleyer.org/icarus/)
 * [iverilog](https://github.com/steveicarus/iverilog)
+  * [Examples](https://github.com/steveicarus/iverilog/tree/master/examples)
 * [ivtest](https://github.com/steveicarus/ivtest)
 
 ## Field-Programmable Gate Arrays (FPGAs)
