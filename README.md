@@ -16,7 +16,8 @@
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
-* [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence)) [Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
+* [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
+  * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
 
 ## GitHub Basics
 
