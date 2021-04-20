@@ -11,12 +11,14 @@
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
-* [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit)
+* [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
+* [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
+* [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence)) [Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
 
-## Basics
+## GitHub Basics
 
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [Git](https://en.wikipedia.org/wiki/Git)
