@@ -78,7 +78,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [Installation Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
   * [Icarus Verilog for Windows](http://bleyer.org/icarus/)
 * [iverilog](https://github.com/steveicarus/iverilog)
-  * [Examples](https://github.com/steveicarus/iverilog/tree/master/examples) including hello, configurable [logic block](https://en.wikipedia.org/wiki/Logic_block) (CLB) flip-flop, square root, [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (DES) encryptor, etc.
+  * [Examples](https://github.com/steveicarus/iverilog/tree/master/examples) including hello, square-root device, configurable [logic block](https://en.wikipedia.org/wiki/Logic_block) (CLB) flip-flop, [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (DES) encryptor, etc.
 * [ivtest](https://github.com/steveicarus/ivtest)
 
 ## Field-Programmable Gate Arrays (FPGAs)
