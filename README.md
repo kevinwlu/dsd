@@ -87,7 +87,10 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 ### Projects
 
+* [FPGA4fun](https://www.fpga4fun.com/)
 * [FPGA4students](https://www.fpga4student.com)
+* [Xilinx community projects](https://www.xilinx.com/community/projects.html)
+* [Hackaday FPGA projects](https://hackaday.io/projects?tag=FPGA)
 
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
