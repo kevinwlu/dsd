@@ -89,7 +89,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
-* Digilent Nexys 4 DDR rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) 
+* Digilent Nexys 4 [DDR](https://en.wikipedia.org/wiki/Double_data_rate) rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) 
   * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
   * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
 
