@@ -17,6 +17,7 @@
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
+* [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
