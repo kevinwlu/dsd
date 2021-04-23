@@ -3,6 +3,7 @@
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Byte](https://en.wikipedia.org/wiki/Byte)
+* [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
