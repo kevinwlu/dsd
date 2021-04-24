@@ -134,4 +134,4 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [APIO](https://github.com/FPGAwars/apio-ide) IDE
 * [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
-* [Adafruit](https://www.adafruit.com/product/4038)
+* Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
