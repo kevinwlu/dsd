@@ -128,7 +128,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 #### [BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 
 * [User Guide](https://tinyfpga.com/bx/guide.html)
-* [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX)
+* [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
 * First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](https://github.com/tinyfpga/TinyFPGA-BX/blob/master/apio_template/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
 * [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
 * [APIO](https://github.com/FPGAwars/apio-ide) IDE
