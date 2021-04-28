@@ -21,6 +21,8 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 
 ### 4. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
+* [Out-of-box (OOB) demo](https://github.com/Digilent/Nexys-4-DDR-OOB/releases)
+
 ### 5. Create projects with source/constraint files, and select the board from digilentinc.com and Nexys A7-100T (xc7a100tcsg324-1)
 
 * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
