@@ -1,4 +1,4 @@
-# Digilent Nexys A7-100T FPGA Trainer Board
+# NI Digilent Nexys A7-100T FPGA Trainer Board
 
 The NI Digilent [Nexys A7](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/) is 
 a rebrand of the Nexys 4 DDR board with the addition of the Nexys A7-50T variant of the Nexys A7, which has a smaller gate array. 
