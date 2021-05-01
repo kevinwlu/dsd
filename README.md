@@ -39,7 +39,6 @@
 ## Hardware Description Languages
 
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
-
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
   * Page 19: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."
@@ -56,7 +55,6 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by Jan Van der Spiegel, University of Pennsylvania
 
 ### [Verilog](https://en.wikipedia.org/wiki/Verilog) HDL and [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) HDL
-
 * [IEEE 1364-2005](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
   * IEEE 1364-2005 was superseded by IEEE 1800-2009
 * [IEEE 1800-2017](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
@@ -65,7 +63,6 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
 ### Others
-
 * [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
 * [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
