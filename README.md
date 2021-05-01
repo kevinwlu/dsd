@@ -66,6 +66,10 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 * [IEEE 1800-2017](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
 
+### [PYNQ](http://www.pynq.io/) Python productivity for Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html)
+
+* [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
+
 ## Open-Source Simulators
 
 ### [GHDL](http://ghdl.free.fr) 
