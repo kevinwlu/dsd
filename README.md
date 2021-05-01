@@ -93,6 +93,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ### [Veripool](https://www.veripool.org/)
 
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
+* [Verilator GitHub repository](https://github.com/verilator/verilator)
 
 ## Field-Programmable Gate Arrays (FPGAs)
 
