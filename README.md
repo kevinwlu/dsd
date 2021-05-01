@@ -61,6 +61,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * IEEE 1364-2005 was superseded by IEEE 1800-2009
 * [Verilog Quick Reference Card](https://www.ece.uvic.ca/~fayez/courses/ceng465/vlogref.pdf)
 * [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
+* [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
 ### [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) HDL
 
