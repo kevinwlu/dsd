@@ -90,6 +90,10 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [Examples](https://github.com/steveicarus/iverilog/tree/master/examples) including hello, square-root device, configurable [logic block](https://en.wikipedia.org/wiki/Logic_block) (CLB) flip-flop, [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (DES) encryptor, etc.
 * [ivtest](https://github.com/steveicarus/ivtest)
 
+### [Veripool](https://www.veripool.org/)
+
+* [Verilator](https://en.wikipedia.org/wiki/Verilator)
+
 ## Field-Programmable Gate Arrays (FPGAs)
 
 ### Projects
