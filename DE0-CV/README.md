@@ -15,7 +15,7 @@
   * Devices
     * Cyclone IV (e.g., Terasic DE0-Nano)
     * Cyclone V (e.g., Terasic DE0-CV)
-  * ModelSim - Intel FPGA Starter Edition
+  * [ModelSim](https://en.wikipedia.org/wiki/ModelSim) - Intel FPGA Starter Edition
 
 * Select the following to finish installation
 
