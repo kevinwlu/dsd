@@ -65,6 +65,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 ### Others
 * [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
+  * [MyHDL GitHub repository](https://github.com/myhdl/myhdl)
 * [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
   * PYNQ uses the Python language and libraries with Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
   * [PYNQ introduction](https://pynq.readthedocs.io)
