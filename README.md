@@ -64,13 +64,14 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
-### [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
+### Others
 
-### [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
-
-* PYNQ uses the Python language and libraries with Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
-* [PYNQ introduction](https://pynq.readthedocs.io)
-* [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
+* [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
+* [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
+* [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
+  * PYNQ uses the Python language and libraries with Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
+  * [PYNQ introduction](https://pynq.readthedocs.io)
+  * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
 
 ## Open-Source Simulators
 
