@@ -13,4 +13,4 @@ including [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 
 * 8-bit Division Using Finite State Machine (FSM)
 
-* 16-bit One Instruction Set Computer (OISC)
+* 16-bit [One-Instruction Set Computer](https://en.wikipedia.org/wiki/One-instruction_set_computer) (OISC)
