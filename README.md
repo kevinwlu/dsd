@@ -72,6 +72,12 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [PYNQ introduction](https://pynq.readthedocs.io)
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
 
+## Electronic Design Automation
+
+* [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
+* [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
+* [Siemens EDA](https://en.wikipedia.org/wiki/Mentor_Graphics)
+
 ## Open-Source Simulators
 
 ### [GHDL](http://ghdl.free.fr) 
