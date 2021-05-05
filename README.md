@@ -76,6 +76,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
 * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
+  * [Virtuoso Layout Suite](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) supports custom analog, digital, and mixed-signal designs at the device, cell, block, and chip levels
 * [Siemens EDA](https://en.wikipedia.org/wiki/Mentor_Graphics)
 
 ## Open-Source Simulators
