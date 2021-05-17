@@ -33,6 +33,7 @@
 * [GitHub Pages](https://pages.github.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
 * [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
 ## Hardware Description Languages
