@@ -6,6 +6,7 @@
 * [VHDL Image Processing](https://github.com/EKozlakov/DSDFP)
 # 2020 Fall
 * [Frogger](https://github.com/sbertussi/CPE-487/tree/master/Frogger_Project)
+* [Space Invaders](https://github.com/chungiee/DigitalSystemDesign/tree/master/spaceInvaders)
 # 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
 # 2019 Fall
