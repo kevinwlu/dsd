@@ -10,6 +10,7 @@
 * [Flappy Attila](https://github.com/BriannaPGarland/FlappyAttila)
 * [Frogger](https://github.com/sbertussi/CPE-487/tree/master/Frogger_Project)
 * [Space Invaders](https://github.com/chungiee/DigitalSystemDesign/tree/master/spaceInvaders)
+* [Tic-Tac-Toe](https://github.com/RaZeragon/CPE487/tree/master/FinalProject)
 # 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
 # 2019 Fall
