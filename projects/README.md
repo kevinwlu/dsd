@@ -13,5 +13,6 @@
 * [Tic-Tac-Toe](https://github.com/RaZeragon/CPE487/tree/master/FinalProject)
 # 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
+* [Qix](https://github.com/jschmidtnj/cpe487/tree/master/code/final_project)
 # 2019 Fall
 * [FPGA Paint](https://github.com/PeterHo8888/FPGA_Paint)
