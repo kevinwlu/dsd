@@ -11,6 +11,7 @@
 * [Frogger](https://github.com/sbertussi/CPE-487/tree/master/Frogger_Project)
 * [Space Invaders](https://github.com/chungiee/DigitalSystemDesign/tree/master/spaceInvaders)
 * [Tic-Tac-Toe](https://github.com/RaZeragon/CPE487/tree/master/FinalProject)
+* [ViperHDL](https://github.com/JMavorah/SnakeVHDL)
 # 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
 * [Qix](https://github.com/jschmidtnj/cpe487/tree/master/code/final_project)
