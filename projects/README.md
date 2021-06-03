@@ -17,6 +17,7 @@
 * [Qix](https://github.com/jschmidtnj/cpe487/tree/master/code/final_project)
 * [Space Invaders](https://github.com/mbozinov/CPE487-DSD/tree/master/FinalProject_DSD)
 # 2019 Fall
+* [Robotic Platform](https://github.com/TommyPinto/CPE487FinalProject)
 * [Duck in the Hudson](https://github.com/tarasewiczregan/DuckInTheHudson)
 * [FPGA Paint](https://github.com/PeterHo8888/FPGA_Paint)
 * [Tetris](https://github.com/ygunarso/tetris-vhdl)
