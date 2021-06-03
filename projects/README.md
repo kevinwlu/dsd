@@ -19,6 +19,7 @@
 # 2019 Fall
 * [Duck in the Hudson](https://github.com/tarasewiczregan/DuckInTheHudson)
 * [FPGA Paint](https://github.com/PeterHo8888/FPGA_Paint)
+* [Tetris](https://github.com/ygunarso/tetris-vhdl)
 # 2019 Spring
 * [Morse Code Transmitter](https://sites.google.com/stevens.edu/dsds19-zhec/projects/morse-code-transmitter)
 * [Tetris](https://github.com/danpelis/CPE487/tree/master/tetris_ex)
