@@ -19,6 +19,7 @@
 # 2019 Fall
 * [Duck in the Hudson](https://github.com/tarasewiczregan/DuckInTheHudson)
 * [FPGA Paint](https://github.com/PeterHo8888/FPGA_Paint)
+* [Random Six Digit Hex Number Generator](https://sites.google.com/stevens.edu/cpe-487-2019f/project/final-design-random-six-digit-hex-number-generator)
 * [Robotic Platform](https://github.com/TommyPinto/CPE487FinalProject)
 * [Tetris](https://github.com/ygunarso/tetris-vhdl)
 # 2019 Spring
