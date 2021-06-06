@@ -24,5 +24,6 @@
 * [Robotic Platform](https://github.com/TommyPinto/CPE487FinalProject)
 * [Tetris](https://github.com/ygunarso/tetris-vhdl)
 # 2019 Spring
+* [Flappy Bird](https://sites.google.com/stevens.edu/cpe487website/project)
 * [Morse Code Transmitter](https://sites.google.com/stevens.edu/dsds19-zhec/projects/morse-code-transmitter)
 * [Tetris](https://github.com/danpelis/CPE487/tree/master/tetris_ex)
