@@ -21,6 +21,7 @@
 * [Duck in the Hudson](https://github.com/tarasewiczregan/DuckInTheHudson)
 * [FPGA Paint](https://github.com/PeterHo8888/FPGA_Paint)
 * [Random Six Digit Hex Number Generator](https://sites.google.com/stevens.edu/cpe-487-2019f/project/final-design-random-six-digit-hex-number-generator)
+* [Racing Game](https://github.com/rsistoso/Racing-Game-CPE-487)
 * [Robotic Platform](https://github.com/TommyPinto/CPE487FinalProject)
 * [Snake](https://sites.google.com/stevens.edu/digital-system-design-cpe-487/project)
 * [Tetris](https://github.com/ygunarso/tetris-vhdl)
