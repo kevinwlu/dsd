@@ -6,6 +6,7 @@
 * [VHDL Image Processing](https://github.com/EKozlakov/DSDFP)
 # 2020 Fall
 * [Audio Visual Equalizer](https://github.com/karlsheng99/CPE487_dsd/tree/master/project)
+* [Blackjack](https://sites.google.com/stevens.edu/ee322amartora/cpe-487/blackjack)
 * [Brick Breaker](https://github.com/anishashin/CPE-487/tree/master/Final-Project)
 * [Flappy Attila](https://github.com/BriannaPGarland/FlappyAttila)
 * [Frogger](https://github.com/sbertussi/CPE-487/tree/master/Frogger_Project)
