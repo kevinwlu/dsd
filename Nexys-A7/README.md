@@ -7,8 +7,10 @@ Refer to Xilinx Design Constraints ([XDC](https://github.com/Digilent/digilent-x
 The Nexys A7-100T contains 15,850 [logic slices](https://www.ni.com/en-us/support/documentation/supplemental/18/slices-on-an-fpga-chip.html) 
 each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) and 8 [flip-flops](https://en.wikipedia.org/wiki/Flip-flop_(electronics)).
 
-### 1. [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer for Vivado High Level (HL) WebPACK
-#### Alternatively, Xilinx Lab Edition: Windows (or Linux)
+### 1. [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
+#### Alternatively, download Xilinx Lab Edition: Windows (or Linux)
+
+* Select Vivado High Level (HL) WebPACK
 
 * Design Tools > Vivado Design Suite
 
