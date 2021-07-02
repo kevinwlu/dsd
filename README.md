@@ -115,9 +115,13 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
-* Digilent Nexys 4 [DDR](https://en.wikipedia.org/wiki/Double_data_rate) rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum) 
+* [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
+  * Digilent Nexys 4 [DDR](https://en.wikipedia.org/wiki/Double_data_rate) rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum)
+* Reference Manuals
   * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
   * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
+  * [Basys 3 Reference Manual](https://reference.digilentinc.com/programmable-logic/basys-3/reference-manual)
+  * [Cmod A7 Reference Manual](https://reference.digilentinc.com/programmable-logic/cmod-a7/reference-manual)
 
 #### [Vivado Design Suite - HLx Editions](https://www.xilinx.com/products/design-tools/vivado.html) (WebPACK) by [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 
