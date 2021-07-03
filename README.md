@@ -28,13 +28,19 @@
 ## GitHub Basics
 
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
+  * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Git](https://en.wikipedia.org/wiki/Git)
+  * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
+  * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
+  * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
+  * [Octodex](https://octodex.github.com/)
 * [GitHub Pages](https://pages.github.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
-* [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
+  * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
+  * [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
 ## Hardware Description Languages
 
