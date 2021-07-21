@@ -62,7 +62,7 @@
 
 * Move the blue MODE jumper on the board from [JTAG](https://en.wikipedia.org/wiki/JTAG) to QSPI (Quad-[SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface))
 
-* Tools > Generate Memory Configuration File > Format: MCS, Memory Part: s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hex4counter.runs/impl_1/hexcount.mcs, Load bitstream files: hex4counter.runs/impl_1/hexcount.bit, check "Overwrite"
+* Tools > Generate Memory Configuration File > Format: MCS, Memory Part > Manufacturer > Spansion > s25fl128sxxxxxx0-spi-x1-x2-x4, Filename: hex4counter.runs/impl_1/hexcount.mcs, Load bitstream files: hex4counter.runs/impl_1/hexcount.bit, check "Overwrite"
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0 > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1-x2-x4, Configuration file: hex4counter.runs/impl_1/hexcount.mcs, PRM file: hex4counter.runs/impl_1/hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully." > OK
 
