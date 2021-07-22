@@ -70,7 +70,14 @@
   * Load bitstream files: hex4counter.runs/impl_1/hexcount.bit
   * Check "Overwrite"
 
-* Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0 > Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4 > "Do you want to program the configuration memory device now?" > OK > Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4, Configuration file: hex4counter.runs/impl_1/hexcount.mcs, PRM file: hex4counter.runs/impl_1/hexcount.prm, Address Range: Entire Configuration Memory Device > OK > "Flash programming completed successfully." > OK
+* Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0
+  * Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4
+
+* Program Configuration Memory Device
+  * Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4
+  * Configuration file: hex4counter.runs/impl_1/hexcount.mcs
+  * PRM file: hex4counter.runs/impl_1/hexcount.prm
+  * Address Range: Entire Configuration Memory Device
 
 * Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts
 
