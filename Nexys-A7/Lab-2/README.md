@@ -62,8 +62,11 @@
 
 * Move the blue MODE jumper on the board from [JTAG](https://en.wikipedia.org/wiki/JTAG) to QSPI (Quad-[SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface))
 
-* Tools > Generate Memory Configuration File > Format: MCS, Memory Part > Manufacturer > Spansion > s25fl128sxxxxxx0-spi-x1_x2_x4
+* Tools > Generate Memory Configuration File
+  * Format: MCS
+  * Memory Part > Manufacturer > Spansion > s25fl128sxxxxxx0-spi-x1_x2_x4
   * Filename: hex4counter.runs/impl_1/hexcount.mcs
+  * Interface: SPIx1
   * Load bitstream files: hex4counter.runs/impl_1/hexcount.bit
   * Check "Overwrite"
 
