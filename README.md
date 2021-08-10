@@ -38,16 +38,18 @@
   * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
   * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
   * [Octodex](https://octodex.github.com/)
-* [GitHub Pages](https://pages.github.com/)
+  * [GitHub Pages](https://pages.github.com/)
 * [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
   * [GitLab](https://en.wikipedia.org/wiki/GitLab)
   * [Gitea](https://en.wikipedia.org/wiki/Gitea)
   * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [GitLab Flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html)
 * [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
   * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
   * [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
+  * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
 
 ## Hardware Description Languages
 
