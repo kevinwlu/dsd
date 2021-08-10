@@ -61,6 +61,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * Page 142: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
 * [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html): IEEE Standard VHDL Language Reference Manual
+  * [IEEE P1076 GitLab subgroups and projects](https://gitlab.com/IEEE-P1076)
 * [VHDL GitHub repositories](https://github.com/search?q=VHDL)
 * [VHDL Quick Reference Cards](https://github.com/fabriziotappero/Free-Range-VHDL-book/tree/master/pics/ref_cards)
 * [VHDL Language Refernece Guide](https://peterfab.com/ref/vhdl/vhdl_renerta/)
