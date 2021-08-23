@@ -85,6 +85,6 @@
 
 * File > Close Project 
 
-* POWER OFF > POWER ON > Wait for 9 seconds > The four digit counter starts
+* POWER OFF > POWER ON > Wait for 10 seconds > The four digit counter starts
 
 * POWER OFF > Move the blue MODE jumper on the board from QSPI to JTAG
