@@ -88,3 +88,5 @@
 * POWER OFF > POWER ON > Wait for 10 seconds > The four digit counter starts
 
 * POWER OFF > Move the blue MODE jumper on the board from QSPI to JTAG
+
+![hexcounter.gif](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcounter.gif)
