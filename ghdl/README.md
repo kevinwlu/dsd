@@ -14,6 +14,8 @@ $ sudo make install
 ```
 * [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
 
+  * Download [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) Installer: [Current Version](https://notepad-plus-plus.org/)
+  
   * Download [GHDL](https://github.com/ghdl/ghdl/releases)
 
   * Download [GTKWave](https://sourceforge.net/projects/gtkwave/files)
