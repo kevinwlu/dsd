@@ -9,15 +9,14 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 
 ### 1. [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer and Xilinx Lab Edition: Windows (or Linux)
 
-* Select Vivado ML Standard
+* Select Lab Edition
 
-* Design Tools > Vivado Design Suite
+* Alternative: Vivado
+  * Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * Optional: DocNav
-
-* Devices > 7 Series > Artix-7
-
-* Installation Options > Install Cable Drivers
+  * Devices > 7 Series > Artix-7
+  * Installation Options > Install Cable Drivers
 
 ### 2. Download and extract the [FPGA board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
 
