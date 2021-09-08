@@ -9,10 +9,11 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 
 ### 1. [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer and Xilinx Lab Edition: Windows (or Linux)
 
-* Select Vivado High Level (HL) WebPACK
+* Select Vivado ML Standard
 
 * Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
+  * Optional: DocNav
 
 * Devices > 7 Series > Artix-7
 
