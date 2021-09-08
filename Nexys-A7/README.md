@@ -12,8 +12,9 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 * Select Vivado High Level (HL) WebPACK
 
 * Design Tools > Vivado Design Suite
+  * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
 
-* Devices > 7 Series
+* Devices > 7 Series > Artix-7
 
 * Installation Options > Install Cable Drivers
 
