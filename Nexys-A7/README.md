@@ -9,9 +9,7 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 
 ### 1. [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer and Xilinx Lab Edition: Windows (or Linux)
 
-* Select Lab Edition
-
-* Alternative: Vivado
+* Select Vivado
   * Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * Optional: DocNav
@@ -21,8 +19,7 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 ### 2. Download and extract the [FPGA board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
 
 ### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to
-* C:/Xilinx/Vivado_Lab/2021.1/data/boards/board_schemas
-* Alternative: C:/Xilinx/Vivado/2021.1/data/boards/board_files
+* C:/Xilinx/Vivado/2021.1/data/boards/board_files
 
 ### 4. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
