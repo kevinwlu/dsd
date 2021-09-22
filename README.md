@@ -143,6 +143,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 #### [Vivado Standard Edition](https://www.xilinx.com/products/design-tools/vivado.html) by [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 
+* [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
 * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
 * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
 * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
