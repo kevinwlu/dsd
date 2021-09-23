@@ -186,6 +186,6 @@ board = TinyFPGA-BX
 * Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
 
 ### FPGA Design Contests
-* [InnovateFPGA Design Contest](https://www.innovatefpga.com/)
-* [Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
+* [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
+* [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
 * [Xilinx Design Contests](https://www.xilinx.com/support/university/design-contests.html)
