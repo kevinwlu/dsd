@@ -185,4 +185,4 @@ board = TinyFPGA-BX
 * Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
 
 ### FPGA Design Contests
-* InnovateFPGA Design Contest](https://www.innovatefpga.com/)
+* [InnovateFPGA Design Contest](https://www.innovatefpga.com/)
