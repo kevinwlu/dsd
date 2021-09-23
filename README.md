@@ -186,3 +186,4 @@ board = TinyFPGA-BX
 
 ### FPGA Design Contests
 * [InnovateFPGA Design Contest](https://www.innovatefpga.com/)
+* [Xilinx Design Contests](https://www.xilinx.com/support/university/design-contests.html)
