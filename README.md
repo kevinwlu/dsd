@@ -89,6 +89,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * PYNQ uses the Python language and libraries with Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
   * [PYNQ introduction](https://pynq.readthedocs.io)
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
+  * [Face Detection and Recognition] by Chao Shi
 
 ## Electronic Design Automation
 
