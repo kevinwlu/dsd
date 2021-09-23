@@ -19,7 +19,7 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 ### 2. Download and extract the [FPGA board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
 
 ### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to
-* C:/Xilinx/Vivado/2021.1/data/boards/board_files
+* C:/Xilinx/Vivado/2021.1/data/boards/board_schemas
 
 ### 4. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
