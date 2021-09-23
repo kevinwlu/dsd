@@ -2,7 +2,7 @@
 
 set_property -dict {PACKAGE_PIN U12 IOSTANDARD LVCMOS33} [get_ports {dig[0]}]
 set_property -dict {PACKAGE_PIN U11 IOSTANDARD LVCMOS33} [get_ports {dig[1]}]
-set_property -dict {PACKAGE_PIN U10 IOSTANDARD LVCMOS33} [get_ports {dig[2]}]
+set_property -dict {PACKAGE_PIN V10 IOSTANDARD LVCMOS33} [get_ports {dig[2]}]
 
 set_property -dict {PACKAGE_PIN J15 IOSTANDARD LVCMOS33} [get_ports {data[0]}]
 set_property -dict {PACKAGE_PIN L16 IOSTANDARD LVCMOS33} [get_ports {data[1]}]
