@@ -16,18 +16,15 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
   * Devices > 7 Series > Artix-7
   * Installation Options > Install Cable Drivers
 
-### 2. Download and extract the [FPGA board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
+### 2. Refer to the [FPGA board files](https://github.com/Digilent/vivado-boards)
 
-### 3. Copy the extracted /new/board_files/nexys-a7-100t folder to
-* C:/Xilinx/Vivado/2021.1/data/boards/board_schemas
-
-### 4. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
+### 3. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
 * [Out-of-box (OOB) demo](https://github.com/Digilent/Nexys-A7-100T-OOB)
   * [Overview](https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-user-demo/start)
   * [Releases](https://github.com/Digilent/Nexys-A7-100T-OOB/releases)
 
-### 5. Create projects with source/constraint files, and select the board from digilentinc.com and Nexys A7-100T (xc7a100tcsg324-1)
+### 4. Create projects with source/constraint files, and select the board from digilentinc.com, install Nexsys 4DDR (i.e., Nexys A7-100T or xc7a100tcsg324-1)
 
 * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
 
