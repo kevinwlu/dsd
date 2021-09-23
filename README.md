@@ -183,3 +183,6 @@ board = TinyFPGA-BX
 * [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
 * Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
+
+### FPGA Design Contests
+* InnovateFPGA Design Contest](https://www.innovatefpga.com/)
