@@ -188,7 +188,7 @@ board = TinyFPGA-BX
 
 ### Lattice iCE FPGA
 * [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
-### Lattice ECP5 FPGA
+### Lattice [ECP5](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) FPGA
 * [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
 * [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
 
