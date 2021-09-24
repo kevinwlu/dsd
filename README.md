@@ -186,6 +186,12 @@ board = TinyFPGA-BX
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
 * Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
 
+### Lattice iCE FPGA
+* [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
+### Lattice ECP5 FPGA
+* [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
+* [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
+
 ### FPGA Design Contests
 * [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
 * [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
