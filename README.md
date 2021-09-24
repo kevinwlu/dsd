@@ -192,6 +192,9 @@ board = TinyFPGA-BX
 * [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
 * [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
 
+### Lattice [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
+* [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
+
 ### FPGA Design Contests
 * [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
 * [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
