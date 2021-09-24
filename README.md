@@ -90,6 +90,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [PYNQ introduction](https://pynq.readthedocs.io)
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
+* [OpenQASM](https://en.wikipedia.org/wiki/OpenQASM)
 
 ## Electronic Design Automation
 
