@@ -134,6 +134,12 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [The Hobbyists Guide to FPGAs](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas)
 * [Greg Scott Davill](https://gregdavill.com/) (GsD)
   * [LED Icosahedron](https://github.com/gregdavill/d20-hardware)
+
+### FPGA Design Contests
+* [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
+* [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
+* [Xilinx Design Contests](https://www.xilinx.com/support/university/design-contests.html)
+
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
 * [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
@@ -169,7 +175,11 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
 
-### [TinyFPGA](https://tinyfpga.com/)
+### [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
+
+#### [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
+* [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
+* [TinyFPGA](https://tinyfpga.com/)
 
 #### [BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 
@@ -187,16 +197,9 @@ board = TinyFPGA-BX
 * Lattice [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
 * Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
 
-### Lattice [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
-* [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
-### Lattice [ECP5](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) FPGA
+#### [ECP5](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) FPGA
 * [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
 * [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
 
-### Lattice [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
+#### [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
 * [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
-
-### FPGA Design Contests
-* [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
-* [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
-* [Xilinx Design Contests](https://www.xilinx.com/support/university/design-contests.html)
