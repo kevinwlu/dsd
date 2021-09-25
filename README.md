@@ -132,7 +132,8 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [Xilinx community projects](https://www.xilinx.com/community/projects.html)
 * [Hackaday FPGA projects](https://hackaday.io/projects?tag=FPGA)
   * [The Hobbyists Guide to FPGAs](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas)
-
+* [Greg Scott Davill](https://gregdavill.com/) (GsD)
+  * [LED Icosahedron](https://github.com/gregdavill/d20-hardware)
 ### [NI](https://en.wikipedia.org/wiki/National_Instruments) Digilent
 
 * [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
