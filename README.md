@@ -134,44 +134,37 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
   * [Basys 3 Reference Manual](https://reference.digilentinc.com/programmable-logic/basys-3/reference-manual)
   * [Cmod A7 Reference Manual](https://reference.digilentinc.com/programmable-logic/cmod-a7/reference-manual)
-
-#### [Vivado Standard Edition](https://www.xilinx.com/products/design-tools/vivado.html) by Xilinx
-
-* [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
-* [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
-* [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
-* [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
-* [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator
-* [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
-* [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
-
-#### Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/)
-
-* Lab 4: 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
-* Lab 5: Inter-IC Sound [I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
-* Lab 6: Two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
+* [Vivado Standard Edition](https://www.xilinx.com/products/design-tools/vivado.html) by Xilinx
+  * [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
+  * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
+  * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
+  * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
+  * [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator
+  * [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
+  * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
+* Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/)
+  * Lab 4: 16-button Keypad [KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
+  * Lab 5: Inter-IC Sound [I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
+  * Lab 6: Two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
 
 ### Intel [Altera](https://en.wikipedia.org/wiki/Altera)
 
-* [Terasic](https://www.terasic.com.tw/en/) [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
-* Terasic [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
-
-#### [Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) by [Intel](https://en.wikipedia.org/wiki/Intel)
-
-* [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
+* [Terasic](https://www.terasic.com.tw/en/) boards
+  * [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
+  * [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
+* [Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) by [Intel](https://en.wikipedia.org/wiki/Intel)
+  * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
 
 ### [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 
-#### [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
-* [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
-* [TinyFPGA](https://tinyfpga.com/)
-
-#### [ECP5](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) FPGA
-* [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
-* [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
-
-#### [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
-* [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
+* [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
+  * [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
+  * [TinyFPGA](https://tinyfpga.com/)
+* [ECP5](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) FPGA
+  * [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
+  * [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
+* [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
+  * [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
 
 ### Projects
 
