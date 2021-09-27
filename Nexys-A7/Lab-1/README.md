@@ -43,7 +43,7 @@
 
 * Add Constraints > Create File > Create a new constraint file of file type XDC called **_leddec_** > Next
 
-* Default Part > Boards > Refresh > Vendor: digilentinc.com > Name: Nexys4DDR (Part: xc7a100ttcsg324-1) > Click to highlight Nexys4DDR > Next
+* Default Part > Boards > Refresh > Vendor: digilentinc.com > Name: Nexys4DDR (Part: xc7a100tcsg324-1) > Click to highlight Nexys4DDR > Next
 
 * New Project Summary > Finish
 
