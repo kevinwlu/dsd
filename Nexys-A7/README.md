@@ -24,7 +24,7 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
   * [Overview](https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-user-demo/start)
   * [Releases](https://github.com/Digilent/Nexys-A7-100T-OOB/releases)
 
-### 4. Create projects with source/constraint files, select the board from digilentinc.com, install Nexsys 4DDR (Part: xc7a100tcsg324-1)
+### 4. Create projects with source/constraint files, select the board from digilentinc.com, install Nexsys 4 DDR (Part: xc7a100tcsg324-1)
 
 * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
 
