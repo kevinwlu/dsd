@@ -37,13 +37,13 @@
 
   * Project location > C:/Users/... > Next
 
-* RTL Project > Target Language > VHDL > Next
+* RTL Project > Next
 
-* Add Sources > Create File > Create a new source file of file type VHDL called _**leddec**_ > Next
+* Add Sources > Target language > VHDL > Simulator language > VHDL > Create File > Create a new source file of file type VHDL called _**leddec**_ > Next
 
 * Add Constraints > Create File > Create a new constraint file of file type XDC called **_leddec_** > Next
 
-* Default Part > Boards > Refresh > Boards Vendor: digilentinc.com > Name: Nexys4DDR > Click to highlight Nexys4DDR > Next
+* Default Part > Boards > Refresh > Vendor: digilentinc.com > Name: Nexys4DDR (Part: xc7a100ttcsg324-1) > Click to highlight Nexys4DDR > Next
 
 * New Project Summary > Finish
 
