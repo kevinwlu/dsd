@@ -93,7 +93,7 @@
 
 * Vivado > Quick Start > Create Project > Create a New Vivado Project > Next
 
-* Project name > hexcount
+* Project name > **_hexcount_**
 
   * Project location > C:/Users/... > Next
 
