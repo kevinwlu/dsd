@@ -99,7 +99,7 @@
 
 * RTL Project > Next
 
-* Add Sources > Create File > Create three new source files of file type VHDL called _**leddec**_, **_counter_**, and **_hexcount_** > Next
+* Add Sources > Target language > VHDL > Simulator language > VHDL > Create File > Create three new source files of file type VHDL called _**leddec**_, **_counter_**, and **_hexcount_** > Next
 
 * Add Constraints > Create File > Create a new constraint file of file type XDC called **_hexcount_** > Next
 
