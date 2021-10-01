@@ -19,8 +19,8 @@ The Nexys A7-50T contains 8,150 logic slices.
 * [Vidado Design Suite User Guide](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2021_1/ug973-vivado-release-notes-install-license.pdf): Release Notes, Installation, and Licensing
   * [Installing Vivado and Digilent Board Files](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-sdk)
   * [FPGA board files](https://github.com/Digilent/vivado-boards)
-* [Getting Started With Vivado](https://digilent.com/reference/vivado/getting_started/start)
-* Design Hubs
+  * [Getting Started With Vivado](https://digilent.com/reference/vivado/getting_started/start)
+  * [Design Hubs](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
 
 ## [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
