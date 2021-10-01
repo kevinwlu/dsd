@@ -17,6 +17,8 @@ The Nexys A7-50T contains 8,150 logic slices.
   * Devices > 7 Series > Artix-7
   * Installation Options > Install Cable Drivers
 
+* [Vidado Design Suite User Guide](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2021_1/ug973-vivado-release-notes-install-license.pdf): Release Notes, Installation, and Licensing
+
 ### 2. Refer to the [FPGA board files](https://github.com/Digilent/vivado-boards)
 
 ### 3. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
