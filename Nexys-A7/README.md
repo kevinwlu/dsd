@@ -8,7 +8,7 @@ The Nexys A7-100T contains 15,850 [logic slices](https://www.ni.com/en-us/suppor
 each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) and 8 [flip-flops](https://en.wikipedia.org/wiki/Flip-flop_(electronics)).
 The Nexys A7-50T contains 8,150 logic slices.
 
-### 1. [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
+## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
 
 * Select Vivado
   * Design Tools > Vivado Design Suite
@@ -19,15 +19,15 @@ The Nexys A7-50T contains 8,150 logic slices.
 
 * [Vidado Design Suite User Guide](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2021_1/ug973-vivado-release-notes-install-license.pdf): Release Notes, Installation, and Licensing
 
-### 2. Refer to the [FPGA board files](https://github.com/Digilent/vivado-boards)
+* [FPGA board files](https://github.com/Digilent/vivado-boards)
 
-### 3. Refer to the [Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
+## [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
 * [Out-of-box (OOB) demo](https://github.com/Digilent/Nexys-A7-100T-OOB)
   * [Overview](https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-user-demo/start)
   * [Releases](https://github.com/Digilent/Nexys-A7-100T-OOB/releases)
 
-### 4. Create projects with source/constraint files, select the board from digilentinc.com, install Nexsys 4 DDR (Part: xc7a100tcsg324-1)
+## Create projects with source/constraint files, select the board from digilentinc.com, install Nexsys 4 DDR (Part: xc7a100tcsg324-1)
 
 * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
 
