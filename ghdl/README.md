@@ -131,6 +131,7 @@ mux.vcd
 demux.vcd
 
 ## 8-Bit Square Root
+* [Reference](https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml#sqrt8)
 ```sh
 $ ghdl -a --ieee=synopsys sqrt8.vhdl
 $ ghdl -e --ieee=synopsys sqrt8
