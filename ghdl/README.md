@@ -129,3 +129,11 @@ tff.vcd
 mux.vcd
 
 demux.vcd
+
+## 8-Bit Square Root
+```sh
+$ ghdl -a --ieee=synopsys sqrt8.vhdl
+$ ghdl -e --ieee=synopsys sqrt8
+$ ghdl -r --ieee=synopsys sqrt8 --stop-time=512ns > sqrt8.out
+$ cat sqrt8.out
+```
