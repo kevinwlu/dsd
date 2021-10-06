@@ -36,7 +36,7 @@
 
 * New Project Summary > Finish
 
-* Click design sources, copy counter.vhd and hexcount.vhd from the GitHub Raw, and save files
+* Click design sources, copy leddec.vhd, counter.vhd, and hexcount.vhd from the GitHub Raw, and save files
 
 * Click constraints, copy hexcount.xdc from the GitHub Raw, and save file
 
