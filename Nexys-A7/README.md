@@ -11,16 +11,24 @@ The Nexys A7-50T contains 8,150 logic slices.
 ## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
 
 * Select Vivado
-  * Design Tools > Vivado Design Suite
+* Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * Optional: DocNav
-  * Devices > 7 Series > Artix-7
-  * Installation Options > Install Cable Drivers
+* Devices > 7 Series > Artix-7
+* Installation Options > Install Cable Drivers
+* Make a new folder called board_files as This PC > Local Disk (C:) > Xilinx > Vivado > 2021.1 > data > boards > board_files 
+* Copy [Nexys A7-100T board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-100t/D.0)
+* There should be four files in This PC > Local Disk (C:) > Xilinx > Vivado > 2021.1 > data > boards > board_files > nexys-a7-100t > D.0
+  * board.xml
+  * mig.prj
+  * part0_pins.xml
+  * preset.xml
+* References
   * [Vidado Design Suite User Guide](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2021_1/ug973-vivado-release-notes-install-license.pdf): Release Notes, Installation, and Licensing
-* [Installing Vivado and Digilent board files](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-sdk)
+  * [Installing Vivado and Digilent board files](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-sdk)
   * [FPGA board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files)
   * [Add boards and example designs to Vivado environment](https://support.xilinx.com/s/article/72033?language=en_US)
-* [Getting Started With Vivado](https://digilent.com/reference/vivado/getting_started/start)
+  * [Getting Started With Vivado](https://digilent.com/reference/vivado/getting_started/start)
   * [Design Hubs](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
 
 ## [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
