@@ -1,6 +1,6 @@
 # GHDL Open-Source Simulator by Tristan Gingold
 
-* [Getting Started With VHDL on Linux (GHDL & GTKWave)](https://www.youtube.com/watch?v=dvLeDNbXfFw) by Nerdy Dave
+## [Getting Started With VHDL on Linux (GHDL & GTKWave)](https://www.youtube.com/watch?v=dvLeDNbXfFw) by Nerdy Dave
   * Ubuntu 18.04
 ```sh
 $ sudo apt update
@@ -12,33 +12,33 @@ $ ./configure --prefix=/usr/local
 $ make
 $ sudo make install
 ```
-* [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
+## [Getting Started With VHDL on Windows (GHDL & GTKWave)](https://www.youtube.com/watch?v=H2GyAIYwZbw) by Nerdy Dave
 
-  * Download [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) Installer: [Current Version](https://notepad-plus-plus.org/)
+* Download [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) Installer: [Current Version](https://notepad-plus-plus.org/)
   
-  * Download [GHDL](https://github.com/ghdl/ghdl/releases)
+* Download [GHDL](https://github.com/ghdl/ghdl/releases)
 
-  * Download [GTKWave](https://sourceforge.net/projects/gtkwave/files)
+* Download [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
-  * Extract Zip files, edit Environment Variables | Path
+* Extract Zip files, edit Environment Variables | Path
 
-* On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
+## On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
-  * Open a Terminal
+* Open a Terminal
 ```sh
 $ cd Downloads
 $ sudo mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
 $ sudo nano /etc/paths
 ```
-  * Go to the bottom of the file, and enter
+* Go to the bottom of the file, and enter
 ```sh
 /usr/local/ghdl-0.37-macosx-mcode/bin
 ```
-  * Hit control-x to quit
-  * Enter “Y” to save the modified buffer
+* Hit control-x to quit
+* Enter “Y” to save the modified buffer
 
-* [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
+## [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
 * Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Git Bash](https://gitforwindows.org/) on Windows
 
