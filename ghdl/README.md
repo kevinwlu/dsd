@@ -24,14 +24,17 @@ $ sudo make install
 
 * On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
-  * Export PATH for GHDL on a Terminal, and find GTKWave at Application
+  * Open a Terminal
 ```sh
 $ cd Downloads
 $ sudo mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
 $ sudo nano /etc/paths
 ```
-  * Go to the bottom of the file, and enter ```/usr/local/ghdl-0.37-macosx-mcode/bin```
+  * Go to the bottom of the file, and enter
+```sh
+/usr/local/ghdl-0.37-macosx-mcode/bin
+```
   * Hit control-x to quit
   * Enter “Y” to save the modified buffer
 
