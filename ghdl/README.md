@@ -29,10 +29,11 @@ $ sudo make install
 $ cd Downloads
 $ sudo mv ghdl-0.37-macosx-mcode /usr/local
 $ cd
-$ PATH=$PATH\:/usr/local/ghdl-0.37-macosx-mcode/bin ; export PATH
-$ echo $PATH
-... :/usr/local/ghdl-0.37-macosx-mcode/bin: ...
+$ sudo nano /etc/paths
 ```
+  * Go to the bottom of the file, and enter ```/usr/local/ghdl-0.37-macosx-mcode/bin```
+  * Hit control-x to quit
+  * Enter “Y” to save the modified buffer
 
 * [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
