@@ -37,6 +37,7 @@ $ sudo nano /etc/paths
 ```
 * Hit control-x to quit
 * Enter “Y” to save the modified buffer
+* Close the Terminal
 
 ## [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
 
