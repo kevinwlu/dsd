@@ -42,7 +42,7 @@ The Nexys A7-50T contains 8,150 logic slices.
 * Add sources with both target language and simulator language in VHDL
 * Add constraints (an XDC file)
 * Select the board from digilentinc.com
-* Select Nexsys 4 DDR or Nexys A7-100T (Part: xc7a100tcsg324-1)
+* Select Nexys A7-100T (Part: xc7a100tcsg324-1)
 * Project VHDL and XDC files
   * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
   * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
