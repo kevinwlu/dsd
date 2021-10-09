@@ -135,6 +135,15 @@ mux.vcd
 
 demux.vcd
 
+## SR Flop Flop
+* [Reference](https://technobyte.org/vhdl-code-flip-flops-behavioral/)
+```sh
+$ ghdl -a --ieee=synopsys sr_ff.vhdl
+$ ghdl -a --ieee=synopsys sr_ff_tb.vhdl
+$ ghdl -e --ieee=synopsys sr_ff_tb
+$ ghdl -r --ieee=synopsys sr_ff_tb --stop-time=100ns --vcd=sr_ff.vcd
+```
+
 ## 8-Bit Square Root
 * [Reference](https://www.csee.umbc.edu/portal/help/VHDL/samples/samples.shtml#sqrt8)
 ```sh
