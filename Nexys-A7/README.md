@@ -16,8 +16,10 @@ The Nexys A7-50T contains 8,150 logic slices.
   * Optional: DocNav
 * Devices > 7 Series > Artix-7
 * Installation Options > Install Cable Drivers
+* Download and extract [board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
+  * The ZIP file has a folder called new/board_files including a folder called [nexys-a7-100t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-100t/D.0)
 * Make a new folder called board_files as This PC > Local Disk (C:) > Xilinx > Vivado > 2021.1 > data > boards > board_files 
-* Copy [Nexys A7-100T board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-100t/D.0)
+* Copy and paste the nexys-a7-100t folder
 * There should be four files in This PC > Local Disk (C:) > Xilinx > Vivado > 2021.1 > data > boards > board_files > nexys-a7-100t > D.0
   * board.xml
   * mig.prj
