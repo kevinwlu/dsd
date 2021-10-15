@@ -25,6 +25,7 @@
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
 * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
+* [TinyML That Can Be Upgraded Without Resynthesizing or Rebooting the FPGA](https://www.iotforall.com/tinyml-that-can-be-updated-without-resynthesizing-or-rebooting-the-fpga) by Martin Kellermann
 * [Deep learning processor](https://en.wikipedia.org/wiki/Deep_learning_processor)
 * [Neural processor](https://en.wikichip.org/wiki/neural_processor)
 * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
