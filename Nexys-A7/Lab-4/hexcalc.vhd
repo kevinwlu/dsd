@@ -5,7 +5,7 @@ USE IEEE.STD_LOGIC_UNSIGNED.ALL;
 ENTITY hexcalc IS
 	PORT (
 		clk_50MHz : IN STD_LOGIC; -- system clock (50 MHz)
-		SEG7_anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0); -- anodes of four 7-seg displays
+		SEG7_anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0); -- anodes of eight 7-seg displays
 		SEG7_seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0); -- common segments of 7-seg displays
 		bt_clr : IN STD_LOGIC; -- calculator "clear" button
 		bt_plus : IN STD_LOGIC; -- calculator "+" button
@@ -28,7 +28,7 @@ ARCHITECTURE Behavioral OF hexcalc IS
 		PORT (
 			dig : IN STD_LOGIC_VECTOR (1 DOWNTO 0);
 			data : IN STD_LOGIC_VECTOR (15 DOWNTO 0);
-			anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+			anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0);
 			seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)
 		);
 	END COMPONENT;
