@@ -5,7 +5,7 @@ ENTITY leddec16 IS
 	PORT (
 		dig : IN STD_LOGIC_VECTOR (1 DOWNTO 0); -- which digit to currently display
 		data : IN STD_LOGIC_VECTOR (15 DOWNTO 0); -- 16-bit (4-digit) data
-		anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0); -- which anode to turn on
+		anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0); -- which anode to turn on
 		seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)); -- segment code for current digit
 END leddec16;
 
@@ -35,10 +35,14 @@ BEGIN
 	       "0110000" WHEN data4 = "1110" ELSE -- E
 	       "0111000" WHEN data4 = "1111" ELSE -- F
 	       "1111111";
-	-- Turn on anode of 7-segment display addressed by 2-bit digit selector dig
-	anode <= "1110" WHEN dig = "00" ELSE -- digit 0
-	         "1101" WHEN dig = "01" ELSE -- digit 1
-	         "1011" WHEN dig = "10" ELSE -- digit 2
-	         "0111" WHEN dig = "11" ELSE -- digit 3
-	         "1111";
+	-- Turn on anode of 7-segment display addressed by 3-bit digit selector dig
+	anode <= "11111110" WHEN dig = "000" ELSE -- 0
+	         "11111101" WHEN dig = "001" ELSE -- 1
+	         "11111011" WHEN dig = "010" ELSE -- 2
+	         "11110111" WHEN dig = "011" ELSE -- 3
+--	         "11101111" WHEN dig = "100" ELSE -- 4
+--	         "11011111" WHEN dig = "101" ELSE -- 5 
+--	         "10111111" WHEN dig = "110" ELSE -- 6
+--	         "01111111" WHEN dig = "111" ELSE -- 7
+	         "11111111";
 END Behavioral;
