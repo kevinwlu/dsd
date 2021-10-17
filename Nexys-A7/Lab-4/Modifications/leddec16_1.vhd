@@ -36,9 +36,9 @@ BEGIN
 	       "0111000" WHEN data4 = "1111" ELSE -- F
 	       "1111111";
 	-- Turn on anode of 7-segment display addressed by 2-bit digit selector dig
-	anode <= "1110" WHEN dig = "00" and data /= X"0000" ELSE -- digit 0
-	         "1101" WHEN dig = "01" and data(15 downto 4) /= X"000" ELSE -- digit 1
-	         "1011" WHEN dig = "10" and data(15 downto 8) /= X"00" ELSE -- digit 2
-	         "0111" WHEN dig = "11" and data(15 downto 12) /= X"0" ELSE -- digit 3
-	         "1111";
+	anode <= "11111110" WHEN dig = "000" and data /= X"0000" ELSE -- digit 0
+	         "11111101" WHEN dig = "001" and data(15 downto 4) /= X"000" ELSE -- digit 1
+	         "11111011" WHEN dig = "010" and data(15 downto 8) /= X"00" ELSE -- digit 2
+	         "11110111" WHEN dig = "011" and data(15 downto 12) /= X"0" ELSE -- digit 3
+	         "11111111";
 END Behavioral;
