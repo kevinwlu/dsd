@@ -33,7 +33,7 @@ ARCHITECTURE Behavioral OF pong IS
     SIGNAL adout : STD_LOGIC_VECTOR (11 DOWNTO 0);
     SIGNAL count : STD_LOGIC_VECTOR (9 DOWNTO 0); -- counter to generate ADC clocks
     SIGNAL display : std_logic_vector (15 DOWNTO 0); -- value to be displayed
-    SIGNAL led_mpx : STD_LOGIC_VECTOR (1 DOWNTO 0); -- 7-seg multiplexing clock
+    SIGNAL led_mpx : STD_LOGIC_VECTOR (2 DOWNTO 0); -- 7-seg multiplexing clock
     SIGNAL cnt : std_logic_vector(20 DOWNTO 0); -- counter to generate timing signals
     COMPONENT adc_if IS
         PORT (
@@ -95,7 +95,7 @@ BEGIN
         WAIT UNTIL rising_edge(clk_in);
         count <= count + 1; -- counter to generate ADC timing signals
     END PROCESS;
-    led_mpx <= cnt(18 DOWNTO 17); -- 7-seg multiplexing clock
+    led_mpx <= cnt(19 DOWNTO 17); -- 7-seg multiplexing clock
     serial_clk <= NOT count(4); -- 1.5 MHz serial clock for ADC
     ADC_SCLK <= serial_clk;
     sample_clk <= count(9); -- sampling clock is low for 16 SCLKs
