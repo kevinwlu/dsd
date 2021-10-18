@@ -38,7 +38,7 @@ ARCHITECTURE Behavioral OF hexcalc IS
 	SIGNAL nx_acc, acc : std_logic_vector (15 DOWNTO 0); -- accumulated sum
 	SIGNAL nx_operand, operand : std_logic_vector (15 DOWNTO 0); -- operand
 	SIGNAL display : std_logic_vector (15 DOWNTO 0); -- value to be displayed
-	SIGNAL led_mpx : STD_LOGIC_VECTOR (1 DOWNTO 0); -- 7-seg multiplexing clock
+	SIGNAL led_mpx : STD_LOGIC_VECTOR (2 DOWNTO 0); -- 7-seg multiplexing clock
 	TYPE state IS (ENTER_ACC, ACC_RELEASE, START_OP, OP_RELEASE, 
 	ENTER_OP, SHOW_RESULT); -- state machine states
 	SIGNAL pr_state, nx_state : state; -- present and next states
@@ -51,7 +51,7 @@ BEGIN
 	END PROCESS;
 	kp_clk <= cnt(15); -- keypad interrogation clock
 	sm_clk <= cnt(20); -- state machine clock
-	led_mpx <= cnt(18 DOWNTO 17); -- 7-seg multiplexing clock
+	led_mpx <= cnt(19 DOWNTO 17); -- 7-seg multiplexing clock
 	kp1 : keypad
 	PORT MAP(
 		samp_ck => kp_clk, col => KB_col, 
