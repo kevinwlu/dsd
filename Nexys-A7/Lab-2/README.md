@@ -64,20 +64,24 @@
 
 * Tools > Generate Memory Configuration File
   * Format: MCS
-  * Memory Part > Manufacturer > Spansion > s25fl128sxxxxxx0-spi-x1_x2_x4
-  * Filename: hex4counter.runs/impl_1/hexcount.mcs
+  * Select "Memory Part" > Click ... > Manufacturer > Spansion > Density (Mb) > 128 > s25fl128sxxxxxx0-spi-x1_x2_x4 > OK
+  * Filename > Recent Directories > C:/Users/.../hex4count > add hex4count.runs/impl_1/hexcount.mcs > Save
   * Interface: SPIx1
-  * Load bitstream files: hex4counter.runs/impl_1/hexcount.bit
+  * Check "Load bitstream files > Select C:/Users/.../hex4count/hex4count.runs/impl_1/hexcount.bit > OK
   * Check "Overwrite"
+  * Generate momory configuration file completed successfully > OK
 
 * Open Hardware Manager > Add Configuration Memory Device > xc7a100t_0
-  * Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4
+  * Filter > Manufacturer > Spansion > Density (Mb) > 128
+  * Configuration Memory Part > s25fl128sxxxxxx0-spi-x1_x2_x4 > OK
+  * Do you want to program the configuration memory device now? > OK
 
 * Program Configuration Memory Device
   * Memory Device: s25fl128sxxxxxx0-spi-x1_x2_x4
-  * Configuration file: hex4counter.runs/impl_1/hexcount.mcs
-  * PRM file: hex4counter.runs/impl_1/hexcount.prm
-  * Address Range: Entire Configuration Memory Device
+  * Configuration file > Click ... > Select C:/Users/.../hex4counter.runs/impl_1/hexcount.mcs > OK
+  * PRM file > Click ... > Select C:/Users/.../hex4counter.runs/impl_1/hexcount.prm > OK
+  * Address Range > Click V > Select "Entire Configuration Memory Device" > OK
+  * Flash programming completed successfully > OK
 
 * Right click xc7a100t_0 under "Hardware" > Boot from Configuration Memory Device > The four digit counter starts
 
