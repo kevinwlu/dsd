@@ -84,7 +84,7 @@ ARCHITECTURE Behavioral OF pong IS
         PORT (
             dig : IN STD_LOGIC_VECTOR (2 DOWNTO 0);
             data : IN STD_LOGIC_VECTOR (15 DOWNTO 0);
-            anode : OUT STD_LOGIC_VECTOR (3 DOWNTO 0);
+            anode : OUT STD_LOGIC_VECTOR (7 DOWNTO 0);
             seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0)
         );
     END COMPONENT;    
