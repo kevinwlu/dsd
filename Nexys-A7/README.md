@@ -10,7 +10,8 @@ The Nexys A7-50T contains 8,150 logic slices.
 
 ## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
 
-* Select Vivado
+* Download, extract, and open Xilinx Unified Installer
+* Select Vivado > Vivado ML Standard
 * Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * Optional: DocNav
