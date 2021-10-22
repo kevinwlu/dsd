@@ -60,7 +60,7 @@
 
 ### 6. Generate and boot from configuration memory, and close project
 
-* Move the blue MODE jumper on the board from [JTAG](https://en.wikipedia.org/wiki/JTAG) to QSPI (Quad-[SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface))
+* Move the blue MODE jumper on the board from [JTAG](https://en.wikipedia.org/wiki/JTAG) to QSPI (Quad-[SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)) ([Refenece Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf)) Sections 2.1, 2.2, and 3.2)
 
 * Tools > Generate Memory Configuration File
   * Format: MCS
