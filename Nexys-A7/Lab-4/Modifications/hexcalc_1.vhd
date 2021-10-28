@@ -9,10 +9,10 @@ ENTITY hexcalc IS
 		SEG7_seg : OUT STD_LOGIC_VECTOR (6 DOWNTO 0); -- common segments of 7-seg displays
 		bt_clr : IN STD_LOGIC; -- calculator "clear" button
 		bt_plus : IN STD_LOGIC; -- calculator "+" button
-		bt_eq : IN STD_LOGIC; -- calculator "-" button
+		bt_eq : IN STD_LOGIC; -- calculator "=" button
 		KB_col : OUT STD_LOGIC_VECTOR (4 DOWNTO 1); -- keypad column pins
-	KB_row : IN STD_LOGIC_VECTOR (4 DOWNTO 1); -- keypad row pins
-	bt_sub : IN STD_LOGIC);
+		KB_row : IN STD_LOGIC_VECTOR (4 DOWNTO 1); -- keypad row pins
+		bt_sub : IN STD_LOGIC);
 END hexcalc;
 
 ARCHITECTURE Behavioral OF hexcalc IS
