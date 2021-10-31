@@ -1,9 +1,8 @@
 # Lab 6: Video Game PONG
 
-* Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game using a 800x600 Video Graphics Array (VGA) display and a 5k&Omega; potentiometer with a 12-bit [analog-to-digital converter](https://en.wikipedia.org/wiki/Analog-to-digital_converter) (ADC) called [Pmod AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) connected to the top pins of the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
-
+* Extend the FPGA code developed in Lab 3 (Bouncing Ball) to build a PONG game using a 5k&Omega; potentiometer with a 12-bit [analog-to-digital converter](https://en.wikipedia.org/wiki/Analog-to-digital_converter) (ADC) called [Pmod AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) connected to the top pins of the Pmod port JA (See Section 10 of the [Reference Manual](https://reference.digilentinc.com/_media/reference/programmable-logic/nexys-a7/nexys-a7_rm.pdf))
+* The Digilent Nexys A7-100T board has a female [VGA connector](https://en.wikipedia.org/wiki/VGA_connector) that can be connected to a VGA monitor via a VGA cable or a [High-Definition Multimedia Interface](https://en.wikipedia.org/wiki/HDMI) (HDMI) monitor via a [VGA-to-HDMI converter](https://www.ventioncable.com/product/vga-to-hdmi-converter/) with a [micro-B USB](https://en.wikipedia.org/wiki/USB_hardware) power supply.
 * 2019-11-15 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
-
 * In 2020 Fall, [Zikang Sheng](https://github.com/karlsheng99/CPE487_dsd/tree/master/lab/lab%206) made an [alternative design](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6/Alternative) that used onboard BTNL and BTNR buttons to control the motion of the bat without Pmod AD1 and potentiometer
 
 ![ad1.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-6/ad1.jpg)
