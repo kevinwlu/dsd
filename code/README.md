@@ -2,6 +2,7 @@
 
 * [VHDLrepositories](https://github.com/search?q=VHDL)
 * [Verilog repositories](https://github.com/search?q=Verilog)
+* [SystemVerilog repositories](https://github.com/search?q=SystemVerilog)
 * [Free Range Factory IP Cores](http://freerangefactory.org/cores.html)
   * Arithmetic core
   * Prototype board
