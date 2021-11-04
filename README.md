@@ -28,6 +28,7 @@
 * [Deep learning processor](https://en.wikipedia.org/wiki/Deep_learning_processor)
 * [Neural processor](https://en.wikichip.org/wiki/neural_processor)
 * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
+* [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
