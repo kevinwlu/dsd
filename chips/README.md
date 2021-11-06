@@ -1,6 +1,7 @@
 # Chips
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 * [Apple silicon](https://en.wikipedia.org/wiki/Apple_silicon)
+* [Cerebras](https://en.wikipedia.org/wiki/Cerebras) Wafer-Scale Engine (WSE)
 * [Exynos](https://en.wikipedia.org/wiki/Exynos) by Samsung
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum_(microprocessor))
