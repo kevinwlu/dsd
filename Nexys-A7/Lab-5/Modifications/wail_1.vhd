@@ -29,7 +29,7 @@ signal curr_pitch: UNSIGNED (13 downto 0);  -- current wailing pitch
 begin
 
  -- this process modulates the current pitch. It keep a variable updn to indicate
- -- whether tome is currently rising or falling. Each wclk period it increments
+ -- whether time is currently rising or falling. Each wclk period it increments
  -- (or decrements) the current pitch by wspeed. When it reaches hi_pitch, it
  -- starts counting down. When it reaches lo_pitch, it starts counting up
 wp: process
