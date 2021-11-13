@@ -71,7 +71,7 @@ BEGIN
             bat_on <= '0';
         END IF;
     END PROCESS;
-    -- process to move ball once every frame (i.e. once every vsync pulse)
+    -- process to move ball once every frame (i.e., once every vsync pulse)
     mball : PROCESS
         VARIABLE temp : STD_LOGIC_VECTOR (11 DOWNTO 0);
     BEGIN
