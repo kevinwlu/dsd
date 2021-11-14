@@ -48,7 +48,7 @@ cnt_pr: process
   16383 - index when "01",
   0 - index when "10",
   index - 16383 when others;
--- with quad select
+--with quad select
         --data <= index when "00", -- 1st quadrant
         --16383 - index when "01", -- 2nd quadrant
         --0 - index when "10", -- 3rd quadrant
