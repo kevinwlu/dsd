@@ -2,7 +2,7 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 
-  -- Generates a 16-bit signed triangle wave sequence at a sampling rate determined
+ -- Generates a 16-bit signed triangle wave sequence at a sampling rate determined
  -- by input clk and with a frequency of (clk*pitch)/65,536
 entity tone is
  Port (    clk : in STD_LOGIC;    -- 48.8 kHz audio sampling clock
@@ -48,7 +48,7 @@ cnt_pr: process
   16383 - index when "01",
   0 - index when "10",
   index - 16383 when others;
---with quad select
+-- with quad select
         --data <= index when "00", -- 1st quadrant
         --16383 - index when "01", -- 2nd quadrant
         --0 - index when "10", -- 3rd quadrant
