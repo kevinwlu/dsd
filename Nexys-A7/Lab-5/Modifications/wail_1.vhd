@@ -4,7 +4,7 @@ use IEEE.NUMERIC_STD.ALL;
 
   -- Generates a "wailing siren" sound by instancing a "tone" module and modulating
  -- the pitch of the tone. The pitch is increased until it reaches hi_pitch and then
- -- decreased until it reaches lo_pitch and then increased again...etc.
+ -- decreased until it reaches lo_pitch and then increased again, etc.
 entity wail is
     Port ( lo_pitch : in  UNSIGNED (13 downto 0); -- lowest pitch (in units of 0.745 Hz)
  hi_pitch : in  UNSIGNED (13 downto 0); -- highest pitch (in units of 0.745 Hz)
