@@ -5,7 +5,6 @@
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
   * [Byte](https://en.wikipedia.org/wiki/Byte)
-  * [Packet](https://en.wikipedia.org/wiki/Network_packet)
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
