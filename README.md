@@ -9,6 +9,7 @@
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+* [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Moore machine](https://en.wikipedia.org/wiki/Moore_machine)
   * [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine)
