@@ -190,7 +190,9 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [LED Icosahedron](https://github.com/gregdavill/d20-hardware)
 * [Martin Kellermann](https://www.linkedin.com/today/author/martinkellermann)
   * [TinyML That Can Be Upgraded Without Resynthesizing or Rebooting the FPGA](https://www.iotforall.com/tinyml-that-can-be-updated-without-resynthesizing-or-rebooting-the-fpga)
+* [Project F: FPGA Development](https://projectf.io/)
 * [T-Rex Run! Implemented in VHDL](https://www.secs.oakland.edu/~llamocca/Courses/ECE4710/W20/FinalProject/Group4_trexonvga.pdf)
+
 ### FPGA Design Contests
 * [Intel Innovate Design Contests](https://www.intel.com/content/www/us/en/programmable/support/training/university/events-contests.html)
 * [Terasic InnovateFPGA Design Contest](https://www.innovatefpga.com/)
