@@ -1,5 +1,17 @@
 # 2021 Fall
+* Brick Breaker
+* Depthcharge
+* Etch a Sketch
+* FPGAsteroids
+* FPGA Snake Game
 * Hexadecimal Calculator
+* Music Box in VHDL
+* Project Serpent
+* Qomplike
+* Space Invaders 2.0
+* Space Race
+* Two-Player Pong
+* VHDL Minipiano
 # 2021 Spring
 * [CodeGolf](https://github.com/glimped/CodeGolf)
 * [Frogger](https://github.com/cbenson1/CPE487/tree/main/Frogger_Final)
