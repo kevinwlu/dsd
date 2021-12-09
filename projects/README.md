@@ -5,13 +5,13 @@
 * FPGAsteroids
 * FPGA Snake Game
 * Hexadecimal Calculator
+* [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
 * Music Box in VHDL
 * Project Serpent
 * Qomplike
 * Space Invaders 2.0
 * Space Race
 * Two-Player Pong
-* VHDL Minipiano
 # 2021 Spring
 * [CodeGolf](https://github.com/glimped/CodeGolf)
 * [Frogger](https://github.com/cbenson1/CPE487/tree/main/Frogger_Final)
