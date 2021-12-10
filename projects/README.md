@@ -12,6 +12,7 @@
 * Space Invaders 2.0
 * Space Race
 * Two-Player Pong
+* VHDL Fonts
 # 2021 Spring
 * [CodeGolf](https://github.com/glimped/CodeGolf)
 * [Frogger](https://github.com/cbenson1/CPE487/tree/main/Frogger_Final)
