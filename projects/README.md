@@ -9,7 +9,7 @@
 * Music Box in VHDL
 * Project Serpent
 * Qomplike
-* Space Invaders 2.0
+* [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
 * Space Race
 * Two-Player Pong
 * VHDL Fonts
