@@ -5,7 +5,7 @@
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
 * FPGAsteroids
 * FPGA Snake Game
-* Hexadecimal Calculator
+* [Hexadecimal Calculator](https://github.com/wwargack/cpe487/tree/main/proj)
 * [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
 * Music Box in VHDL
 * [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/tree/main/FINAL)
