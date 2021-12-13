@@ -7,6 +7,7 @@
 * Hexadecimal Calculator
 * [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
 * Music Box in VHDL
+* Photon Detection
 * Project Serpent
 * [qomplike](https://github.com/kresk0/2021DigitalSystemDesign/tree/main/final_project_qomp-like)
 * [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
