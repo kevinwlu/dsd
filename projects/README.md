@@ -13,7 +13,7 @@
 * [qomplike](https://github.com/kresk0/2021DigitalSystemDesign/tree/main/final_project_qomp-like)
 * [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
 * Space Race
-* Two-Player Pong
+* [Two-Player Pong](https://github.com/kyritzb/CPE487/tree/main/final)
 * [VHDL Font](https://github.com/Alan489/DSD/tree/main/final)
 # 2021 Spring
 * [CodeGolf](https://github.com/glimped/CodeGolf)
