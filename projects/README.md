@@ -12,7 +12,7 @@
 * [Project Serpent](https://github.com/mpiasevo/Project-Serpant)
 * [qomplike](https://github.com/kresk0/2021DigitalSystemDesign/tree/main/final_project_qomp-like)
 * [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
-* Space Race
+* [Space Race](https://github.com/Quentin-Jimenez/CPE-487/tree/main/Space%20Race)
 * [Two-Player Pong](https://github.com/kyritzb/CPE487/tree/main/final)
 * [VHDL Font](https://github.com/Alan489/DSD/tree/main/final)
 # 2021 Spring
