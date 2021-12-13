@@ -2,6 +2,7 @@
 * Brick Breaker
 * Depthcharge
 * Etch a Sketch
+* [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
 * FPGAsteroids
 * FPGA Snake Game
 * Hexadecimal Calculator
