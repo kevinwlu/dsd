@@ -7,7 +7,7 @@ The Nexys A7-100T contains 15,850 [logic slices](https://www.ni.com/en-us/suppor
 each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) and 8 [flip-flops](https://en.wikipedia.org/wiki/Flip-flop_(electronics)).
 The Nexys A7-50T contains 8,150 logic slices.
 
-A [Xilinx Design Constraints](https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file) file provides the physical pins on the FPGA in relation to the HDL code.
+A [Xilinx Design Constraints](https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file) (XDC) file provides the physical pins on the FPGA in relation to the HDL code.
 Here are master XDC files for A7-100T and A7-50T boards:
 * [Nexys-A7-100T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-100T-Master.xdc)
 * [Nexys-A7-50T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-50T-Master.xdc)
