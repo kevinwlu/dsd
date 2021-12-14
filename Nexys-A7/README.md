@@ -3,10 +3,13 @@
 The NI Digilent [Nexys A7](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/) is 
 a rebrand of the Nexys 4 DDR board with the addition of the Nexys A7-50T variant of the Nexys A7, which has a smaller gate array. 
 The Nexys A7-100T variant is functionally identical to the Nexys 4 DDR.
-Refer to Xilinx Design Constraints ([XDC](https://github.com/Digilent/digilent-xdc)) for other Digilent boards.
 The Nexys A7-100T contains 15,850 [logic slices](https://www.ni.com/en-us/support/documentation/supplemental/18/slices-on-an-fpga-chip.html) 
 each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) and 8 [flip-flops](https://en.wikipedia.org/wiki/Flip-flop_(electronics)).
 The Nexys A7-50T contains 8,150 logic slices.
+Here are [Xilinx Design Constraints](url) (https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file) files for A7-100T and A7-50T boards:
+* [Nexys-A7-100T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-100T-Master.xdc)
+* [Nexys-A7-50T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-50T-Master.xdc)
+Refer to [here](https://github.com/Digilent/digilent-xdc) for other Digilent boards.
 
 ## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
 
