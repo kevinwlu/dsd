@@ -7,7 +7,7 @@
 * FPGA Snake Game
 * [Hexadecimal Calculator](https://github.com/wwargack/cpe487/tree/main/proj)
 * [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
-* Music Box in VHDL
+* [Music Box in VHDL](https://github.com/rzhang37/Digital-System-Design/tree/main/FPGA%20Project)
 * [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/tree/main/FINAL)
 * [Project Serpent](https://github.com/mpiasevo/Project-Serpant)
 * [qomplike](https://github.com/kresk0/2021DigitalSystemDesign/tree/main/final_project_qomp-like)
