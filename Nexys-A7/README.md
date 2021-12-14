@@ -10,6 +10,7 @@ The Nexys A7-50T contains 8,150 logic slices.
 Here are [Xilinx Design Constraints](https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file) files for A7-100T and A7-50T boards:
 * [Nexys-A7-100T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-100T-Master.xdc)
 * [Nexys-A7-50T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-50T-Master.xdc)
+
 Refer to [here](https://github.com/Digilent/digilent-xdc) for other Digilent boards.
 
 ## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
