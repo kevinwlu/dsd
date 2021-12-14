@@ -1,5 +1,5 @@
 # 2021 Fall
-* Brick Breaker
+* [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
 * Etch a Sketch
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
