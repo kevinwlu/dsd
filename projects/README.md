@@ -32,6 +32,7 @@
 * [ViperHDL](https://github.com/JMavorah/SnakeVHDL)
 # 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
+* [Interface a Mouse With FPGA](https://github.com/HanlinMiao/CPE-487-A/tree/master/DSD%20Project)
 * [Qix](https://github.com/jschmidtnj/cpe487/tree/master/code/final_project)
 * [Space Invaders](https://github.com/mbozinov/CPE487-DSD/tree/master/FinalProject_DSD)
 # 2019 Fall
