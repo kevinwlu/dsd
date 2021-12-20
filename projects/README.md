@@ -1,11 +1,11 @@
 # 2021 Fall
 * [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
-* Etch a Sketch
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
 * [FPGAsteroids](https://github.com/JohnSiyaga/dsd/tree/main/Projects/asteroids)
 * FPGA Snake Game
 * [Hexadecimal Calculator](https://github.com/wwargack/cpe487/tree/main/proj)
+* [Keep Away](https://github.com/RobotPrinceMV/CPE487/tree/main/Final%20Project)
 * [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
 * [Music Box in VHDL](https://github.com/rzhang37/Digital-System-Design/tree/main/FPGA%20Project)
 * [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/tree/main/FINAL)
