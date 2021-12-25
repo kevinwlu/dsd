@@ -3,7 +3,6 @@
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
 * [FPGAsteroids](https://github.com/JohnSiyaga/dsd/tree/main/Projects/asteroids)
-* FPGA Snake Game
 * [Hexadecimal Calculator](https://github.com/wwargack/cpe487/tree/main/proj)
 * [Keep Away](https://github.com/RobotPrinceMV/CPE487/tree/main/Final%20Project)
 * [Mini Piano](https://github.com/Veggietay97/Vgty97/tree/master/CPE487/FInal_Project)
@@ -11,6 +10,7 @@
 * [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/tree/main/FINAL)
 * [Project Serpent](https://github.com/mpiasevo/Project-Serpant)
 * [qomplike](https://github.com/kresk0/2021DigitalSystemDesign/tree/main/final_project_qomp-like)
+* [Snake Game](https://github.com/veguruh/CPE487/tree/main/Final/Snake)
 * [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
 * [Space Race](https://github.com/Quentin-Jimenez/CPE-487/tree/main/Space%20Race)
 * [Two-Player Pong](https://github.com/kyritzb/CPE487/tree/main/final)
