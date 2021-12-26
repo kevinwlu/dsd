@@ -191,6 +191,10 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [The Hobbyists Guide to FPGAs](https://hackaday.io/project/27550-the-hobbyists-guide-to-fpgas)
 * [Greg Scott Davill](https://gregdavill.com/) (GsD)
   * [LED Icosahedron](https://github.com/gregdavill/d20-hardware)
+* [Jason Mobarack](https://github.com/silverjam/VHDL)
+  * [Eight-bit calculator](https://github.com/silverjam/VHDL/tree/master/8bit-calculator)
+  * [IEEE 754 multiplier](https://github.com/silverjam/VHDL/tree/master/ieee-754-multiplier)
+  * [Vending machine](https://github.com/silverjam/VHDL/tree/master/vending-machine)
 * [Martin Kellermann](https://www.linkedin.com/today/author/martinkellermann)
   * [TinyML That Can Be Upgraded Without Resynthesizing or Rebooting the FPGA](https://www.iotforall.com/tinyml-that-can-be-updated-without-resynthesizing-or-rebooting-the-fpga)
 * [Project F: FPGA Development](https://projectf.io/) in Verilog
