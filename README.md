@@ -192,7 +192,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * [Greg Scott Davill](https://gregdavill.com/) (GsD)
   * [LED Icosahedron](https://github.com/gregdavill/d20-hardware)
 * [Jason Mobarack](https://github.com/silverjam/VHDL)
-  * [Eight-bit calculator](https://github.com/silverjam/VHDL/tree/master/8bit-calculator)
+  * [8-bit calculator](https://github.com/silverjam/VHDL/tree/master/8bit-calculator)
   * [IEEE 754 multiplier](https://github.com/silverjam/VHDL/tree/master/ieee-754-multiplier)
   * [Vending machine](https://github.com/silverjam/VHDL/tree/master/vending-machine)
 * [Martin Kellermann](https://www.linkedin.com/today/author/martinkellermann)
