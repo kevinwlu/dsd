@@ -6,6 +6,7 @@
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
   * [Byte](https://en.wikipedia.org/wiki/Byte)
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
+* [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) Standard for [Floating-Point Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
