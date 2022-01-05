@@ -1,6 +1,8 @@
 # Digital System Design (DSD)
 
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
+  * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
+  * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
