@@ -21,6 +21,8 @@
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
+* [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
+* [Flash memory](https://en.wikipedia.org/wiki/Flash_memory)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
