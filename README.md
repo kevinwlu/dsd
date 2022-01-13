@@ -2,7 +2,10 @@
 
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
   * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
+    * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+    * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
+    * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
