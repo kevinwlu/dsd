@@ -1,4 +1,4 @@
--- Half Adder (HA)
+-- Half adder (HA) of one-bit numbers a and b
 -- Author: Nerdy Dave
 -- Source: https://youtu.be/H2GyAIYwZbw
 library ieee;               
