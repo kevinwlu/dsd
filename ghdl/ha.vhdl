@@ -1,4 +1,4 @@
--- Half adder (HA) of one-bit numbers a and b
+-- Half adder (HA) of binary numbers
 -- Author: Nerdy Dave
 -- Source: https://youtu.be/H2GyAIYwZbw
 library ieee;               
@@ -7,8 +7,8 @@ use ieee.std_logic_1164.all;
 entity ha is
     port
     (
-        a:  in  std_ulogic;
-        b:  in  std_ulogic;
+        a:  in  std_ulogic; -- one-bit input
+        b:  in  std_ulogic; -- one-bit input
         s:  out std_ulogic; -- Sum
         c:  out std_ulogic  -- Carry
     );
