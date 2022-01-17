@@ -135,7 +135,7 @@ mux.vcd
 
 demux.vcd
 
-## SR Flop Flop
+## SR Flip-flop
 * [Reference](https://technobyte.org/vhdl-code-flip-flops-behavioral/)
 ```sh
 $ ghdl -a --ieee=synopsys sr_ff.vhdl
