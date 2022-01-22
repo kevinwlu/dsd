@@ -1,7 +1,9 @@
-# SmartSim Example Projects
+# SmartSim
 
 * [SmartSim](https://smartsim.org.uk/) is a digital logic circuit design and simulation package for Windows and Linux 
 including [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
+
+* [Ashley Newson](https://github.com/ashleynewson)
 
 * [SmartSim example projects](https://smartsim.org.uk/index.php?page=examples)
 
