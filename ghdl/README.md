@@ -41,7 +41,7 @@ $ sudo nano /etc/paths
 
 ## [GHDL Quick Start Guide](https://ghdl.github.io/ghdl/quick_start/index.html)
 
-* Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Git Bash](https://gitforwindows.org/) on Windows
+* Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal) on Windows
 * Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
 ```sh
 $ git clone https://github.com/kevinwlu/dsd.git
