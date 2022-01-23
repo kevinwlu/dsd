@@ -5,6 +5,7 @@
   * GHDL 2.0.0
   * [GNAT](https://en.wikipedia.org/wiki/GNAT) 9.3.0
 ```sh
+$ cat /etc/os-release
 $ sudo apt update
 $ sudo apt install gtkwave
 $ sudo apt install git make gnat zlib1g-dev
