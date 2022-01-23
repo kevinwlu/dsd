@@ -60,6 +60,7 @@ $ ghdl -v
 $ ghdl -a hello.vhdl
 $ ghdl -e hello_world
 $ ghdl -r hello_world
+Hello world!
 ```
 ## [Adder](https://en.wikipedia.org/wiki/Adder_(electronics))
 
