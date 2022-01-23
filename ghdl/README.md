@@ -73,7 +73,7 @@ $ ghdl -r ha_tb --vcd=ha.vcd
 ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
 $ gtkwave ha.vcd
 ```
-![gtkwave.png]()
+![gtkwave.png](https://github.com/kevinwlu/dsd/blob/master/ghdl/gtkwave.png)
 
 ### [Full Adder](http://ghdl.free.fr/ghdl/A-full-adder.html)
 ```sh
