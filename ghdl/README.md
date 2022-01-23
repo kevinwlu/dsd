@@ -120,21 +120,15 @@ $ ghdl -r demux_tb --vcd=demux.vcd
 $ gtkwave demux.vcd
 ```
 ## Open GTKWave Wave Viewer on macOS
-
+```sh
 GTKWave > File > Open New Tab > vhdl >
-
 ha.vcd
-
 adder.vcd
-
 dff.vcd
-
 tff.vcd
-
 mux.vcd
-
 demux.vcd
-
+```
 ## SR Flip-flop
 * [Reference](https://technobyte.org/vhdl-code-flip-flops-behavioral/)
 ```sh
