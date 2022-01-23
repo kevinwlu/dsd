@@ -39,7 +39,7 @@ $ sudo nano /etc/paths
 * Enter “Y” to save the modified buffer
 * Close the Terminal
 
-## [GHDL Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
+## [GHDL Quick Start Guide](https://ghdl.github.io/ghdl/quick_start/index.html)
 
 * Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Git Bash](https://gitforwindows.org/) on Windows
 * Clone 'dsd' repository, make and change directory to a new 'vhdl' directory, copy vhdl code to the current directory '.'
