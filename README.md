@@ -212,6 +212,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
   * [VHDL Etch-a-Sketch](https://digilent.com/blog/vhdl-etch-a-sketch/)
 * [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller)
   * [GitHub repository](https://github.com/julbouln/ice40_eink_controller)
+  * [Controlling a Broken Kindle Display With an FPGA](https://www.hackster.io/news/controlling-a-broken-kindle-display-with-an-fpga-edb6f5666a03)
   * [E Ink](https://en.wikipedia.org/wiki/E_Ink)
 * [FPGA4fun](https://www.fpga4fun.com/)
 * [FPGA4students](https://www.fpga4student.com)
