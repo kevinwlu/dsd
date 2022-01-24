@@ -210,6 +210,9 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
 * [Digilent Blog Projects](https://digilent.com/blog/category/applications/projects/)
   * [VHDL Etch-a-Sketch](https://digilent.com/blog/vhdl-etch-a-sketch/)
+* [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller)
+  * [GitHub repository](https://github.com/julbouln/ice40_eink_controller)
+  * [E Ink](https://en.wikipedia.org/wiki/E_Ink)
 * [FPGA4fun](https://www.fpga4fun.com/)
 * [FPGA4students](https://www.fpga4student.com)
 * [FPGA Based VGA Driver and Arcade Game](https://static.armandas.lt/res/fpga_based_vga_driver_and_arcade_game.pdf)
