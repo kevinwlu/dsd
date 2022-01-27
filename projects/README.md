@@ -9,7 +9,6 @@
 * [Music Box in VHDL](https://github.com/rzhang37/Digital-System-Design/tree/main/FPGA%20Project)
 * [Photon Detection](https://github.com/rkondrat1/FPGA_VHDL/tree/main/FINAL)
 * [Project Serpent](https://github.com/mpiasevo/Project-Serpant)
-* [qomplike](https://github.com/kresk0/2021DigitalSystemDesign/tree/main/final_project_qomp-like)
 * [Snake Game](https://github.com/veguruh/CPE487/tree/main/Final/Snake)
 * [Space Invaders 2.0](https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
 * [Space Race](https://github.com/Quentin-Jimenez/CPE-487/tree/main/Space%20Race)
