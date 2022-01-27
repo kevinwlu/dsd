@@ -23,8 +23,17 @@
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
+  * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
   * [Moore machine](https://en.wikipedia.org/wiki/Moore_machine)
+    * Have outputs defined inside their state bubbles
+    * Transition conditions listed on their transition arrows
+    * May seem a bit more intuitive in their notation
+    * May require more states than a Mealy machine
   * [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine)
+    * Input and output variables listed on transition arrows
+    * May seem a bit more abstract in their notation
+    * Can be more efficient and flexible than Moore machine
+    * May require less hardware to implement
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
