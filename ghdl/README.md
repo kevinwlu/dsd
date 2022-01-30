@@ -38,7 +38,16 @@ $ sudo nano /etc/paths
 * Hit control-x to quit
 * Enter “Y” to save the modified buffer
 * Close the Terminal
-
+## Open GTKWave Wave Viewer on macOS
+```sh
+GTKWave > File > Open New Tab > vhdl >
+ha.vcd
+adder.vcd
+dff.vcd
+tff.vcd
+mux.vcd
+demux.vcd
+```
 ## [GHDL Quick Start Guide](https://ghdl.github.io/ghdl/quick_start/index.html)
 
 * Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) on macOS or GNU/Linux, or [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal) on Windows
@@ -122,16 +131,7 @@ $ ghdl -e demux_tb
 $ ghdl -r demux_tb --vcd=demux.vcd
 $ gtkwave demux.vcd
 ```
-## Open GTKWave Wave Viewer on macOS
-```sh
-GTKWave > File > Open New Tab > vhdl >
-ha.vcd
-adder.vcd
-dff.vcd
-tff.vcd
-mux.vcd
-demux.vcd
-```
+
 ## SR Flip-flop
 * [Reference](https://technobyte.org/vhdl-code-flip-flops-behavioral/)
 ```sh
