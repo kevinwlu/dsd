@@ -74,7 +74,7 @@ $ ghdl -r ha_tb --vcd=ha.vcd
 ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
 $ gtkwave ha.vcd
 ```
-![gtkwave.png](https://github.com/kevinwlu/dsd/blob/master/ghdl/gtkwave.png)
+![ha.png](https://github.com/kevinwlu/dsd/blob/master/ghdl/ha.png)
 
 ### [Full Adder](http://ghdl.free.fr/ghdl/A-full-adder.html)
 ```sh
@@ -82,8 +82,10 @@ $ ghdl -a adder.vhdl
 $ ghdl -a adder_tb.vhdl
 $ ghdl -e adder_tb
 $ ghdl -r adder_tb --vcd=adder.vcd
+adder_tb.vhdl:54:5:@8ns(assertion note): end of test
 $ gtkwave adder.vcd
 ```
+![adder.png](/ghdl/adder.png)
 ## [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 ### [D Flip-flop](https://electronicstopper.blogspot.com/2017/07/d-flip-flop-in-vhdl-with-testbench.html)
