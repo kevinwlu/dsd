@@ -19,8 +19,17 @@ $ sudo make install
 
 * Download [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B) Installer: [Current Version](https://notepad-plus-plus.org/)
 * Download [GHDL](https://github.com/ghdl/ghdl/releases)
+  * ghdl-0.37-mingw32-mcode.zip
+  * Extract All... > ghdl-0.37-mingw32-mcode
 * Download [GTKWave](https://sourceforge.net/projects/gtkwave/files)
-* Extract Zip files, edit Environment Variables | Path
+  * gtkwave-3.3.100-bin-win32.zip
+  * Extract All... > gtkwave-3.3.100-bin-win32
+* File Explorer > This PC > OS (C:) > New folder > eda
+  * Rename the subfolder "This PC > Downloads > ghdl-0.37-mingw32-mcode > GHDL > 0.37-mingw32-mcode" as ghdl and move it to C:\eda
+  * Move the subfolder "This PC > Downloads > gtkwave-3.3.100-bin-win32 > gtkwave" to C:\eda
+* Edit Environment Variables > Path > New
+  * C:\eda\ghdl
+  * C:\eda\gtkwave
 
 ## On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 
