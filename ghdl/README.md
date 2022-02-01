@@ -101,6 +101,7 @@ $ ghdl -e dff_tb
 $ ghdl -r dff_tb --vcd=dff.vcd
 $ gtkwave dff.vcd
 ```
+![dff.png](/ghdl/dff.png)
 ### [T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
 ```sh
 $ ghdl -a tff.vhdl
