@@ -102,6 +102,7 @@ $ ghdl -r dff_tb --vcd=dff.vcd
 $ gtkwave dff.vcd
 ```
 ![dff.png](/ghdl/dff.png)
+
 ### [T Flip-flop](https://electronicstopper.blogspot.com/2017/07/t-flip-flop-in-vhdl-with-testbench.html)
 ```sh
 $ ghdl -a tff.vhdl
@@ -110,6 +111,8 @@ $ ghdl -e tff_tb
 $ ghdl -r tff_tb --vcd=tff.vcd
 $ gtkwave tff.vcd
 ```
+![tff.png](/ghdl/tff.png)
+
 ## [Multiplexer](https://en.wikipedia.org/wiki/Multiplexer)
 
 ### [4-to-1 Multiplexer](https://allaboutfpga.com/vhdl-4-to-1-mux-multiplexer)
@@ -120,6 +123,7 @@ $ ghdl -e mux_tb
 $ ghdl -r mux_tb --vcd=mux.vcd
 $ gtkwave mux.vcd
 ```
+
 ### [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
 ```sh
 $ ghdl -a demux.vhdl
