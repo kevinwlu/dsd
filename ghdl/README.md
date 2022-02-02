@@ -142,6 +142,7 @@ $ ghdl -e demux_tb
 $ ghdl -r demux_tb --vcd=demux.vcd
 $ gtkwave demux.vcd
 ```
+![demux.png](/ghdl/demux.png)
 
 ## SR Flip-flop
 * [Reference](https://technobyte.org/vhdl-code-flip-flops-behavioral/)
