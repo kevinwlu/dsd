@@ -132,6 +132,7 @@ $ ghdl -e mux_tb
 $ ghdl -r mux_tb --vcd=mux.vcd
 $ gtkwave mux.vcd
 ```
+![mux.png](/ghdl/mux.png)
 
 ### [1-to-4 Demultiplexer](https://allaboutfpga.com/vhdl-code-for-1-to-4-demux)
 ```sh
