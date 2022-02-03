@@ -45,6 +45,7 @@
 * [Flash memory](https://en.wikipedia.org/wiki/Flash_memory)
 * [SD card](https://en.wikipedia.org/wiki/SD_card)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
+* [Programmable Array Logic](https://en.wikipedia.org/wiki/Programmable_Array_Logic) (PAL)
 * [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
