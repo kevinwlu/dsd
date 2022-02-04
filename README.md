@@ -13,6 +13,7 @@
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
   * [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm) by Prof. [Irving Herman](http://www.columbia.edu/~iph1/herman.html)
+      > If you didn't document it, you didn't do it.
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
