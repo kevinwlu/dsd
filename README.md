@@ -110,6 +110,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 * IEEE [Design Automation Standards Committee](https://en.wikipedia.org/wiki/Design_Automation_Standards_Committee) (DASC)
 * [Accellera](https://en.wikipedia.org/wiki/Accellera)
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
+  * [std_logic vs. std_ulogic](https://vhdlwhiz.com/std_logic-vs-std_ulogic/)
 * [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html): IEEE Standard VHDL Language Reference Manual
   * [IEEE P1076 GitLab subgroups and projects](https://gitlab.com/IEEE-P1076)
 * [VHDL GitHub repositories](https://github.com/search?q=VHDL)
