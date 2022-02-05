@@ -25,8 +25,9 @@
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
-    > "The Moore outputs are only a function of the states and not the external inputs."
-    > "The Mealy outputs are a function of the states and the external inputs."
+    * The Moore-type outputs are only a function of the states and not the external inputs
+    * The Mealy-type outputs are a function of the states and the external inputs
+    * A hybrid FSM that contains both a Mealy and Moore-type output would be considered a Mealy-type FSM
   * [Moore machine](https://en.wikipedia.org/wiki/Moore_machine) by [Edward Moore](https://en.wikipedia.org/wiki/Edward_F._Moore) 1925-2003
     * Have outputs defined inside their state bubbles
     * Transition conditions listed on their transition arrows
