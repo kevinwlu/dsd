@@ -118,6 +118,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Accellera](https://en.wikipedia.org/wiki/Accellera)
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
   * [std_logic vs. std_ulogic](https://vhdlwhiz.com/std_logic-vs-std_ulogic/) by VHDLwhiz
+  * [Signed vs. Unsigned in VHDL](https://www.nandland.com/vhdl/examples/example-signed-unsigned.html) by Nandland
 * [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html): IEEE Standard VHDL Language Reference Manual
   * [IEEE P1076 GitLab subgroups and projects](https://gitlab.com/IEEE-P1076)
 * [VHDL GitHub repositories](https://github.com/search?q=VHDL)
@@ -126,7 +127,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Overloading](https://www.vhdl-online.de/vhdl_reference_93/overloading) allows defining operators of the same names as predefined operators, but for different operand types
   * [Predefined attributes](https://www.csee.umbc.edu/portal/help/VHDL/attribute.html), e.g.,  CLK'event: the attribute "event" of the signal CLK followed by an apostrophe
 * VHDL tutorials
-  * [Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/) by VHDLwhiz
+  * [Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/) of [VHDLwhiz](https://vhdlwhiz.com/) by [Jonas Julian Jensen](https://jonasjulianjensen.com/)
   * [VHDL Tutorial: Learn by Example](http://esd.cs.ucr.edu/labs/tutorial/) by Weijun Zhang, UC Riverside, July 2001
   * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by Jan Van der Spiegel, University of Pennsylvania
   * [VHDL reference material](https://www.csee.umbc.edu/portal/help/VHDL/index.shtml) by [UMBC CSEE](https://www.csee.umbc.edu/portal/help/)
