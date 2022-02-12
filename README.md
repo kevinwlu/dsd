@@ -193,7 +193,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
 ### [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 
 * [NI](https://en.wikipedia.org/wiki/National_Instruments) [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
-  * Digilent Nexys 4 [DDR](https://en.wikipedia.org/wiki/Double_data_rate) rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum)
+  * Digilent Nexys 4 DDR rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum)
+  * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
 * Reference Manuals
   * [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
   * [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual)
