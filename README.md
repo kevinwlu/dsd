@@ -132,7 +132,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Predefined attributes](https://www.csee.umbc.edu/portal/help/VHDL/attribute.html), e.g.,  CLK'event: the attribute "event" of the signal CLK followed by an apostrophe
 * VHDL tutorials
   * [Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/) of [VHDLwhiz](https://vhdlwhiz.com/) by [Jonas Julian Jensen](https://jonasjulianjensen.com/)
-  * [Eduvance FPGA Design Using VHDL Lectures](https://youtube.com/playlist?list=PLZv8x7uxq5XY-IQfQFb6mC6OXzz0h8ceF)
+  * [FPGA Design Using VHDL Lectures](https://youtube.com/playlist?list=PLZv8x7uxq5XY-IQfQFb6mC6OXzz0h8ceF) of [Eduvance](https://www.eduvance.in/) by Jonathan Joshi and Amit Kathuria
   * [VHDL Tutorial and Examples](https://www.nandland.com/vhdl/tutorials/index.html) of [Nandland](https://www.nandland.com/) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
   * [VHDL Tutorial: Learn by Example](http://esd.cs.ucr.edu/labs/tutorial/) by Weijun Zhang, UC Riverside, July 2001
   * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by Jan Van der Spiegel, University of Pennsylvania
