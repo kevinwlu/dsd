@@ -237,6 +237,11 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ### Projects
 
+* [All About FPGA](https://allaboutfpga.com/) by Shahul Akthar of Invent Logics
+  * [Binary Counter FPGA Implementation](https://allaboutfpga.com/binary-counter-fpga-implementation/)
+  * [BCD to 7 Segment FPGA Implementation](https://allaboutfpga.com/bcd-to-7-segment-fpga-implementation/)
+  * [ALU Structural Modeling FPGA Implementation](https://allaboutfpga.com/tutorial-3-alu-structural-modelling-fpga-implementation/)
+  * [VHDL Code for 4-Bit ALU](https://allaboutfpga.com/vhdl-code-for-4-bit-alu/)
 * [Digilent Blog Projects](https://digilent.com/blog/category/applications/projects/)
   * [VHDL Etch-a-Sketch](https://digilent.com/blog/vhdl-etch-a-sketch/)
 * [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller)
