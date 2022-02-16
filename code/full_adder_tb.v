@@ -1,4 +1,4 @@
-module tb_fulladd;  
+module full_adder_tb;  
     // 1. Declare testbench variables  
    reg [3:0] a;  
    reg [3:0] b;  
