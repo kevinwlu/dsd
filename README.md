@@ -147,6 +147,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [IEEE 1800-2017](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
 * [Verilog Quick Reference Card](https://www.ece.uvic.ca/~fayez/courses/ceng465/vlogref.pdf)
 * [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
+* [Verilog for Beginners](https://esrd2014.blogspot.com/)
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
 ### Others
