@@ -8,7 +8,7 @@ each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) 
 The Nexys A7-50T contains 8,150 logic slices.
 
 A [Xilinx Design Constraints](https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file) (XDC) file provides the physical pins on the FPGA in relation to the HDL code.
-Here are master XDC files for A7-100T and A7-50T boards:
+Here are master XDC files for A7-100T and A7-50T boards with identical constraints:
 * [Nexys-A7-100T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-100T-Master.xdc)
 * [Nexys-A7-50T-Master.xdc](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Nexys-A7-50T-Master.xdc)
 
