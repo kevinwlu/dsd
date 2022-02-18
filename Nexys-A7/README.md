@@ -39,6 +39,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
   * [Add boards and example designs to Vivado environment](https://support.xilinx.com/s/article/72033?language=en_US)
   * [Getting Started With Vivado](https://digilent.com/reference/vivado/getting_started/start)
   * [Design Hubs](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
+  * [Tool command language](https://vhdlwhiz.com/why-you-need-to-learn-tcl/) (Tcl)
 
 ## [Nexys A7 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/start)
 
