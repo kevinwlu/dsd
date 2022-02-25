@@ -25,9 +25,10 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * Installation Options > Install Cable Drivers
 * Download and extract [board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
   * The ZIP file has a folder called new/board_files including a folder called [nexys-a7-100t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-100t/D.0)
-* Make a new folder called board_files as This PC > Local Disk (C:) > Xilinx > Vivado > 2021.1 > data > boards > board_files 
+  * For the Nexys A7-50T board, use [nexys-a7-50t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-50t/D.0) instead
+* Make a new folder called board_files as This PC > Local Disk (C:) > Xilinx > Vivado > 2021.2 > data > boards > board_files 
 * Copy and paste the nexys-a7-100t folder
-* There should be four files in This PC > Local Disk (C:) > Xilinx > Vivado > 2021.1 > data > boards > board_files > nexys-a7-100t > D.0
+* There should be four files in This PC > Local Disk (C:) > Xilinx > Vivado > 2021.2 > data > boards > board_files > nexys-a7-100t > D.0
   * board.xml
   * mig.prj
   * part0_pins.xml
