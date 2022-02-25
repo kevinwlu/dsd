@@ -18,12 +18,16 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 
 * Download, extract, and open Xilinx Unified Installer
   * To reduce installation time, disable any anti-virus software and power saving settings when running the installer
+* Provide Xilinx user account credentials to download the required files
+* Select "Download and Install Now"
 * Select Vivado > Vivado ML Standard
 * Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * Optional: DocNav
 * Devices > 7 Series > Artix-7
 * Installation Options > Install Cable Drivers
+  * Cable Drivers are not installed on Linux
+  * Please follow the instructions in [UG973](https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0013-vivado-installation-and-licensing-hub.html) to install Linux cable drivers
 * Download and extract [board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
   * The ZIP file has a folder called new/board_files including a folder called [nexys-a7-100t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-100t/D.0)
   * For the Nexys A7-50T board, use [nexys-a7-50t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-50t/D.0) instead
