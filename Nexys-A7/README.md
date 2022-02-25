@@ -17,6 +17,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 ## [Xilinx Downloads](https://www.xilinx.com/support/download.html) provide Xilinx Unified Installer: Windows (or Linux) Self Extracting Web Installer
 
 * Download, extract, and open Xilinx Unified Installer
+  * To reduce installation time, disable any anti-virus software and power saving settings when running the installer
 * Select Vivado > Vivado ML Standard
 * Design Tools > Vivado Design Suite
   * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
