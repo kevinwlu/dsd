@@ -6,6 +6,6 @@
 
 * [ISE Design Suite](https://www.xilinx.com/products/design-tools/ise-design-suite.html)
 
-* [ISE WebPACK Design Software](https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html)
+* [ISE WebPACK Design Software](https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html) for Windows and Linux
 
 * [User Constraints File](https://www.xilinx.com/support/documentation/sw_manuals/xilinx11/platform_studio/ps_p_hdw_setting_up_your_ucf.htm) (UCF)
