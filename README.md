@@ -238,10 +238,14 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
   * [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
 
-### [QuickLogic](https://www.quicklogic.com/)
+### Others
 
-### [SymbiFlow](https://symbiflow.github.io/)
-* [Examples](https://symbiflow-examples.readthedocs.io/en/latest/)
+* [OpenROAD](https://theopenroadproject.org/)
+* [QuickLogic](https://www.quicklogic.com/)
+* [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
+  * [SiFive](https://en.wikipedia.org/wiki/SiFive)
+* [SymbiFlow](https://symbiflow.github.io/)
+  * [Examples](https://symbiflow-examples.readthedocs.io/en/latest/)
 
 ### Projects
 
