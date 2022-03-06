@@ -191,9 +191,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
 * [Verilator GitHub repository](https://github.com/verilator/verilator)
 
-### [SymbiFlow](https://symbiflow.github.io/)
-* 
-
 ## Field-Programmable Gate Arrays (FPGAs)
 
 ### [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
@@ -241,6 +238,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
 
 ### [QuickLogic](https://www.quicklogic.com/)
+
+### [SymbiFlow](https://symbiflow.github.io/)
+* [Examples](https://symbiflow-examples.readthedocs.io/en/latest/)
 
 ### Projects
 
