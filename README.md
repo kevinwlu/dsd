@@ -188,9 +188,11 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [ivtest](https://github.com/steveicarus/ivtest)
 
 ### [Veripool](https://www.veripool.org/)
-
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
 * [Verilator GitHub repository](https://github.com/verilator/verilator)
+
+### [SymbiFlow](https://symbiflow.github.io/)
+* 
 
 ## Field-Programmable Gate Arrays (FPGAs)
 
@@ -237,6 +239,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)
 * [CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA
   * [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
+
+### [QuickLogic](https://www.quicklogic.com/)
 
 ### Projects
 
