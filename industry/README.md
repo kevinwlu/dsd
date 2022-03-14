@@ -109,7 +109,7 @@
 * [Inventec](https://en.wikipedia.org/wiki/Inventec)
 * [MediaTek](https://en.wikipedia.org/wiki/MediaTek)
 * [Formosa Plastics Group](https://en.wikipedia.org/wiki/Formosa_Plastics_Group)
-  * Nanya Technology Corporation
+  * [Nanya Technology Corporation](https://www.nanya.com/en/)
 * [Pegatron](https://en.wikipedia.org/wiki/Pegatron)
 * [Powerchip](https://en.wikipedia.org/wiki/Powerchip)
 * [Quanta Computer](https://en.wikipedia.org/wiki/Quanta_Computer)
