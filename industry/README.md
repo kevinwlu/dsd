@@ -1,4 +1,7 @@
 # Semiconductor Industry
+* [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
+  * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
+* [List](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductor materials
 * [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
   * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
   * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
