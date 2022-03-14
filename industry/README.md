@@ -14,12 +14,12 @@
 * [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
-    * TSMC
-    * GlobalFoundries
-    * UMC
-    * SMIC
-    * Intel Tower Semiconductor
-    * Innovations for High Performance Microelectronics (IHP)
+    * [TSMC](https://en.wikipedia.org/wiki/TSMC)
+    * [GlobalFoundries](https://en.wikipedia.org/wiki/GlobalFoundries) (GF)
+    * [UMC](https://en.wikipedia.org/wiki/United_Microelectronics_Corporation)
+    * [SMIC](https://en.wikipedia.org/wiki/Semiconductor_Manufacturing_International_Corporation)
+    * Intel [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
+    * [Innovations for High Performance Microelectronics](https://en.wikipedia.org/wiki/Innovations_for_High_Performance_Microelectronics) (IHP)
   * [Fabless manufacturing](https://en.wikipedia.org/wiki/Fabless_manufacturing)
   * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
   * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
