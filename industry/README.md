@@ -12,8 +12,12 @@
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA](https://en.wikipedia.org/wiki/KLA_Corporation)
 * [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
+  * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
+  * [Pure play](https://en.wikipedia.org/wiki/Pure_play)
+  * [Fabless manufacturing](https://en.wikipedia.org/wiki/Fabless_manufacturing)
   * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
   * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
+* [List](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants) of semiconductor fabrication plants
 
 ## America
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
