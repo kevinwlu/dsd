@@ -13,7 +13,13 @@
   * [KLA](https://en.wikipedia.org/wiki/KLA_Corporation)
 * [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
-  * [Pure play](https://en.wikipedia.org/wiki/Pure_play)
+  * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
+    * TSMC
+    * GlobalFoundries
+    * UMC
+    * SMIC
+    * Intel Tower Semiconductor
+    * Innovations for High Performance Microelectronics (IHP)
   * [Fabless manufacturing](https://en.wikipedia.org/wiki/Fabless_manufacturing)
   * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
   * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
