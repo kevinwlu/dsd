@@ -2,6 +2,7 @@
 * [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
 * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
 * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
+* [List](https://en.wikipedia.org/wiki/List_of_silicon_producers) of silicon producers
 * Suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
