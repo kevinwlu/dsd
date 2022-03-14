@@ -1,12 +1,9 @@
 # Semiconductor Industry
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
-* [List](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductor materials
-* [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
-  * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
-  * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
 * [List](https://en.wikipedia.org/wiki/List_of_silicon_producers) of silicon producers
-* Suppliers
+* [List](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductor materials
+* Material and equipment suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
     * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
@@ -14,6 +11,10 @@
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA](https://en.wikipedia.org/wiki/KLA_Corporation)
+* [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
+  * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
+  * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
+
 ## America
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
