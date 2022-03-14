@@ -71,6 +71,7 @@
 * [NEC](https://en.wikipedia.org/wiki/NEC)
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
 * [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
+  * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ### South Korea
@@ -94,16 +95,15 @@
 * [Realtek](https://en.wikipedia.org/wiki/Realtek)
 * [Wistron](https://en.wikipedia.org/wiki/Wistron)
 ## Europe
-* ams AG
-* ARM
-* Dialog Semiconductor (acquired by Renesas)
-* FTDI
-* Melexis
-* Nexperia
-* Nordic Semiconductor
-* NXP
-* Infineon
+* [ams AG](https://en.wikipedia.org/wiki/Ams_AG)
+* [ARM](https://en.wikipedia.org/wiki/Arm_Ltd.)
+* [FTDI](https://en.wikipedia.org/wiki/FTDI)
+* [Melexis](https://de.wikipedia.org/wiki/Melexis)
+* [Nexperia](https://en.wikipedia.org/wiki/Nexperia)
+* [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
+* [NXP Semiconductors](https://en.wikipedia.org/wiki/NXP_Semiconductors)
+* [Infineon Technologies](https://en.wikipedia.org/wiki/Infineon_Technologies)
   * [Cypress](https://en.wikipedia.org/wiki/Cypress_Semiconductor)
-* RS Components
-* STMicroelectronics
-* u-blox
+* [RS Components](https://en.wikipedia.org/wiki/RS_Components)
+* [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics)
+* [u-blox](https://en.wikipedia.org/wiki/U-blox)
