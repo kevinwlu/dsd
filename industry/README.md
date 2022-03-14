@@ -47,12 +47,60 @@
 * Western Digital
 ## Asia
 ### China
-* 
+* Alibaba
+* Baidu
+* BBK (including Oppo, Vivo)
+* Bitmain
+* Canaan Creative
+* Haier
+* HiSilicon
+* Huawei
+* Innosilicon
+* Lenovo
+* Meizu
+* Tencent
+* Unisoc
+* Xiaomi
+* ZTE
 ### Japan
-* 
+* Fujitsu
+* Hitachi
+* Kioxia
+* Murata
+* NEC
+* Panasonic
+* Renesas
+* Sony
+* Toshiba
 ### South Korea
-* 
+* LG
+* Samsung Electronics
+* SK Hynix
 ### Taiwan
-*
+* Acer
+* Asus
+* BenQ
+* Compal
+* Foxconn
+* Inventec
+* MediaTek
+* Nanya
+* Pegatron
+* Powerchip
+* Quanta
+* Ralink
+* Realtek
+* Wistron
 ## Europe
-* 
+* ams AG
+* ARM
+* Dialog Semiconductor (acquired by Renesas)
+* FTDI
+* Melexis
+* Nexperia
+* Nordic Semiconductor
+* NXP
+* Infineon
+* RS Components
+* STMicroelectronics
+* u-blox
