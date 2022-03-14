@@ -2,10 +2,12 @@
 * [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
 * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
 * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
-* Equipment suppliers
+* Suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
-  * ASML [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
+    * [Cymer](https://en.wikipedia.org/wiki/Cymer)
+    * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
   * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
+  * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA](https://en.wikipedia.org/wiki/KLA_Corporation)
 ## America
