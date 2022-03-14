@@ -1,7 +1,12 @@
 # Semiconductor Industry
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
+  * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [List](https://en.wikipedia.org/wiki/List_of_silicon_producers) of silicon producers
+  * [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
+  * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
+  * [GlobalWafers](https://www.gw-semi.com)
+  * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
 * [List](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductor materials
 * Material and equipment suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
