@@ -64,34 +64,35 @@
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ### Japan
-* Fujitsu
-* Hitachi
-* Kioxia
-* Murata
-* NEC
-* Panasonic
-* Renesas
-* Sony
-* Toshiba
+* [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
+* [Hitachi](https://en.wikipedia.org/wiki/Hitachi)
+* [Kioxia](https://en.wikipedia.org/wiki/Kioxia)
+* [Murata](https://en.wikipedia.org/wiki/Murata_Manufacturing)
+* [NEC](https://en.wikipedia.org/wiki/NEC)
+* [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
+* [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
+* [Sony](https://en.wikipedia.org/wiki/Sony)
+* [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ### South Korea
-* LG
-* Samsung Electronics
-* SK Hynix
+* [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)
+* [Samsung Electronics](https://en.wikipedia.org/wiki/Samsung_Electronics)
+* [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 ### Taiwan
-* Acer
-* Asus
-* BenQ
-* Compal
-* Foxconn
-* Inventec
-* MediaTek
-* Nanya
-* Pegatron
-* Powerchip
-* Quanta
-* Ralink
-* Realtek
-* Wistron
+* [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
+* [Asus](https://en.wikipedia.org/wiki/Asus)
+* [BenQ](https://en.wikipedia.org/wiki/BenQ)
+* [Compal Electronics](https://en.wikipedia.org/wiki/Compal_Electronics)
+* [Foxconn](https://en.wikipedia.org/wiki/Foxconn)
+* [Inventec](https://en.wikipedia.org/wiki/Inventec)
+* [MediaTek](https://en.wikipedia.org/wiki/MediaTek)
+* [Formosa Plastics Group](https://en.wikipedia.org/wiki/Formosa_Plastics_Group)
+  * Nanya Technology Corporation
+* [Pegatron](https://en.wikipedia.org/wiki/Pegatron)
+* [Powerchip](https://en.wikipedia.org/wiki/Powerchip)
+* [Quanta Computer](https://en.wikipedia.org/wiki/Quanta_Computer)
+* [Ralink](https://en.wikipedia.org/wiki/Ralink)
+* [Realtek](https://en.wikipedia.org/wiki/Realtek)
+* [Wistron](https://en.wikipedia.org/wiki/Wistron)
 ## Europe
 * ams AG
 * ARM
