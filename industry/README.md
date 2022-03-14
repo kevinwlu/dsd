@@ -12,7 +12,7 @@
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
-* AMD [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
+  * AMD [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
   * [Maxim Integrated](https://en.wikipedia.org/wiki/Maxim_Integrated)
 * [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
@@ -47,21 +47,22 @@
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
 ## Asia
 ### China
-* Alibaba
-* Baidu
-* BBK (including Oppo, Vivo)
-* Bitmain
-* Canaan Creative
-* Haier
-* HiSilicon
-* Huawei
-* Innosilicon
-* Lenovo
-* Meizu
-* Tencent
-* Unisoc
-* Xiaomi
-* ZTE
+* [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
+* [Baidu](https://en.wikipedia.org/wiki/Baidu)
+* [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)
+  * [Oppo Digital](https://en.wikipedia.org/wiki/Oppo_Digital)
+* [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
+* [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
+* [Haier](https://en.wikipedia.org/wiki/Haier)
+* [Huawei](https://en.wikipedia.org/wiki/Huawei)
+  * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
+* [Innosilicon](https://www.innosilicon.com/)
+* [Lenovo](https://en.wikipedia.org/wiki/Lenovo)
+* [Meizu](https://en.wikipedia.org/wiki/Meizu)
+* [Tencent](https://en.wikipedia.org/wiki/Tencent)
+* [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
+* [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
+* [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ### Japan
 * Fujitsu
 * Hitachi
