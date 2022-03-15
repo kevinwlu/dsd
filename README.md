@@ -226,6 +226,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
 * [Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) by [Intel](https://en.wikipedia.org/wiki/Intel)
   * [Labs](https://github.com/kevinwlu/dsd/tree/master/DE0-CV)
+* Cornell E[CE 5760](https://people.ece.cornell.edu/land/courses/ece5760/index.html) Advanced Microcontroller Design and System-on-Chip [Projects](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/)
+* Georgia Tech [ECE 2031](https://www.ece.gatech.edu/courses/course_outline/ECE2031) Digital Design Laboratory, [DE2](https://hamblen.ece.gatech.edu/DE2/)
+  * [J. Hamblen](https://hamblen.ece.gatech.edu/), T. Hall, and M. Furman, *Rapid Prototyping of Digital Systems*, SoPC (System-on-a-Programmable Chip) Edition ([PDF](https://hamblen.ece.gatech.edu/book/slides_qe/)), 2007
 
 ### [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 
