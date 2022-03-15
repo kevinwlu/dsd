@@ -2,6 +2,13 @@
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
+  * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
+  * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
+  * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
+  * [Three-dimensional integrated circuit](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit) (3D IC)
+  * [Through-silicon via](https://en.wikipedia.org/wiki/Through-silicon_via) (TSV)
+  * [Chiplet](https://en.wikichip.org/wiki/chiplet)
+  * [Multi-chip module](https://en.wikipedia.org/wiki/Multi-chip_module) (MCM)
 * [List](https://en.wikipedia.org/wiki/List_of_silicon_producers) of silicon producers
   * [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
   * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
