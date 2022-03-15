@@ -193,7 +193,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilator GitHub repository](https://github.com/verilator/verilator)
 
 ## Field-Programmable Gate Arrays (FPGAs)
-
+* Ryan Kastner, Janarbek Matai, and Stephen Neuendorffer, *[Parallel Programming for FPGAs](https://kastner.ucsd.edu/hlsbook/)* Kastner Research Group (KRG), UC San Diego
 ### [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 
 * [NI](https://en.wikipedia.org/wiki/National_Instruments) [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
