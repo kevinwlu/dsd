@@ -150,13 +150,13 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
 * [Verilog for Beginners](https://esrd2014.blogspot.com/)
 * [SystemVerilog Language Reference Manual](https://courses.engr.illinois.edu/ece411/fa2018/mp/SystemVerilog_3.1a.pdf)
-* Stuart Sutherland, [Verilog HDL Quick Reference Guide](https://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf))
-* Verilog HDL Quick Reference (PDF) by Rajeev Madhavan
-* Samir Palnitkar, [*Verilog HDL: A Guide to Digital Design and Synthesis*](https://d1.amobbs.com/bbs_upload782111/files_33/ourdev_585395BQ8J9A.pdf)), Second Edition
+* Stuart Sutherland, [Verilog HDL Quick Reference Guide](https://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf)
+* Rajeev Madhavan, [*Quick Reference for Verilog HDL*](https://www.ece.ucdavis.edu/~bbaas/281/docs/QuickRefForVerilog_2up.pdf)
+* Samir Palnitkar, [*Verilog HDL: A Guide to Digital Design and Synthesis*](https://d1.amobbs.com/bbs_upload782111/files_33/ourdev_585395BQ8J9A.pdf), Second Edition
 * M. Morris Mano and Michael D. Ciletti, [*Digital Design With an Introduction to the Verilog HDL*](http://e4uhu.com/down/Logic/5e.pdf)
-* Pong P. Chu, [*FPGA Prototyping by Verilog Examples, Xilinx Spartan-3 Version*](https://faculty.kfupm.edu.sa/COE/aimane/coe405/FPGA%20Prototyping%20with%20Verilog%20examples.pdf))
-* Jayaram Bhasker [*Verilog HDL Synthesis: A Practical Primer*](http://ebook.pldworld.com/_eBook/FPGA%EF%BC%8FHDL/-Eng-/Verilog%20HDL%20Synthesis.%20A%20Practical%20Primet%20(Bhasker).pdf))
-* LinkedIn Learning (formerly Lynda) course "Learning FPGA Development" by Eduardo Corpeño (1h 9m)
+* Pong P. Chu, [*FPGA Prototyping by Verilog Examples, Xilinx Spartan-3 Version*](https://faculty.kfupm.edu.sa/COE/aimane/coe405/FPGA%20Prototyping%20with%20Verilog%20examples.pdf)
+* Jayaram Bhasker [*Verilog HDL Synthesis: A Practical Primer*](http://ebook.pldworld.com/_eBook/FPGA%EF%BC%8FHDL/-Eng-/Verilog%20HDL%20Synthesis.%20A%20Practical%20Primet%20(Bhasker).pdf)
+* Eduardo Corpeño, [*Learning FPGA Development*](https://www.linkedin.com/learning/learning-fpga-development/)
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
 ### Others
