@@ -9,6 +9,15 @@
   * [Through-silicon via](https://en.wikipedia.org/wiki/Through-silicon_via) (TSV)
   * [Chiplet](https://en.wikichip.org/wiki/chiplet)
   * [Multi-chip module](https://en.wikipedia.org/wiki/Multi-chip_module) (MCM)
+  * [Die shrink](https://en.wikipedia.org/wiki/Die_shrink) provides more chips onto each wafer, resulting in lowered manufacturing costs per chip
+  * [Multigate device](https://en.wikipedia.org/wiki/Multigate_device)
+  * [Field-effect transistor](https://en.wikipedia.org/wiki/Field-effect_transistor) (FET)
+  * [FinFET](https://en.wikipedia.org/wiki/FinFET)
+  * [Gate-all-around FET](https://en.wikipedia.org/wiki/Multigate_device#GAAFET) (GAAFET)
+  * [Leakage](https://en.wikipedia.org/wiki/Leakage_(electronics))
+  * [Iddq testing](https://en.wikipedia.org/wiki/Iddq_testing)
+  * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
+  * [Monolithic microwave integrated circuit](https://en.wikipedia.org/wiki/Monolithic_microwave_integrated_circuit) (MMIC)
 * [List](https://en.wikipedia.org/wiki/List_of_silicon_producers) of silicon producers
   * [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
   * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
