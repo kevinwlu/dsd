@@ -149,6 +149,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilog Quick Reference Card](https://www.ece.uvic.ca/~fayez/courses/ceng465/vlogref.pdf)
 * [Verilog Language Reference Guide](https://peterfab.com/ref/verilog/verilog_renerta/)
 * [Verilog for Beginners](https://esrd2014.blogspot.com/)
+* [SystemVerilog Language Reference Manual](https://courses.engr.illinois.edu/ece411/fa2018/mp/SystemVerilog_3.1a.pdf)
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
 ### Others
@@ -169,6 +170,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * [Virtuoso Layout Suite](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) supports custom analog, digital, and mixed-signal designs at the device, cell, block, and chip levels
 * [Siemens EDA](https://en.wikipedia.org/wiki/Mentor_Graphics)
+* [Aldec](https://en.wikipedia.org/wiki/Aldec)
 
 ## Open-Source Simulators
 
