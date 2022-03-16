@@ -5,6 +5,7 @@
   * [VHDL examples](http://www.csun.edu/edaasic/roosta/VHDL_Examples.pdf) by Prof. [Ramin Roosta](url) of [California State University, Northridge](https://en.wikipedia.org/wiki/California_State_University,_Northridge) (CSUN)
   * [VHDL examples](https://lauri.xn--vsandi-pxa.com/search.html#VHDL) by [Lauri Võsandi](https://lauri.xn--vsandi-pxa.com/)
 * [Verilog repositories](https://github.com/search?q=Verilog)
+  * [Verilog for Beginners](https://esrd2014.blogspot.com/) 
 * [SystemVerilog repositories](https://github.com/search?q=SystemVerilog)
 * [Free Range Factory IP Cores](http://freerangefactory.org/cores.html)
   * Arithmetic core
