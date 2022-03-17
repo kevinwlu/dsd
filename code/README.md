@@ -7,6 +7,7 @@
 * [Verilog repositories](https://github.com/search?q=Verilog)
   * [Verilog for Beginners](https://esrd2014.blogspot.com/) 
 * [SystemVerilog repositories](https://github.com/search?q=SystemVerilog)
+  * [SystemVerilog design](https://www.accellera.org/images/resources/videos/systemverilog-design-tutorial-2015.pdf) by Stuart Sutherland
   * [SystemVerilog examples](https://github.com/JeffDeCola/my-systemverilog-examples) by Jeff DeCola
   * [SystemVerilog examples](https://www.asic-world.com/examples/systemverilog/index.html) by Deepak Kumar Tala
   * [SystemVerilog tutorial](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
