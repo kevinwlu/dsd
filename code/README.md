@@ -7,6 +7,10 @@
 * [Verilog repositories](https://github.com/search?q=Verilog)
   * [Verilog for Beginners](https://esrd2014.blogspot.com/) 
 * [SystemVerilog repositories](https://github.com/search?q=SystemVerilog)
+  * [SystemVerilog examples](https://github.com/JeffDeCola/my-systemverilog-examples) by Jeff DeCola
+  * [SystemVerilog examples](https://www.asic-world.com/examples/systemverilog/index.html) by Deepak Kumar Tala
+  * [SystemVerilog tutorial](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
+  * [SystemVerilog testbench examples](https://verificationguide.com/systemverilog-examples/systemverilog-testbench-examples/)
 * [Free Range Factory IP Cores](http://freerangefactory.org/cores.html)
   * Arithmetic core
   * Prototype board
