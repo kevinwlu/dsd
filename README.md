@@ -15,7 +15,7 @@
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
   * [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm) by Prof. [Irving Herman](http://www.columbia.edu/~iph1/herman.html)
 * [Semiconductor industry](/industry)
-* Popular [chips](/chips)
+* [Chips](/chips)
 * Course [projects](/projects)
 * [Code](/code) repositories
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
