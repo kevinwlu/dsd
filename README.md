@@ -19,6 +19,9 @@
   * [Chips](/chips)
 * Course [projects](/projects)
 * [Code](/code) repositories
+
+## Background
+
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
