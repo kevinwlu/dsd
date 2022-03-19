@@ -20,7 +20,7 @@
 * Course [projects](/projects)
 * [Code](/code) repositories
 
-## Fundamentals
+## DSD Fundamentals
 
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
