@@ -111,7 +111,7 @@
   * [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
   * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
 
-## Hardware Description Languages
+## Hardware Description Languages (HDL)
 
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 * Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
@@ -178,7 +178,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
 * [OpenQASM](https://en.wikipedia.org/wiki/OpenQASM)
 
-## Electronic Design Automation
+## Electronic Design Automation (EDA)
 
 * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
 * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
@@ -208,7 +208,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
 * [Verilator GitHub repository](https://github.com/verilator/verilator)
 
-## Field-Programmable Gate Arrays (FPGAs)
+## Field-Programmable Gate Array (FPGA)
 * Ryan Kastner, Janarbek Matai, and Stephen Neuendorffer, *[Parallel Programming for FPGAs](https://kastner.ucsd.edu/hlsbook/)* ArXiv e-prints, May 11, 2018, arXiv:1805.03648 [cs.AR] ([PDF](https://kastner.ucsd.edu/wp-content/uploads/2018/03/admin/pp4fpgas.pdf))
 * [Kastner Research Group](https://kastner.ucsd.edu/) (KRG), UC San Diego
 
