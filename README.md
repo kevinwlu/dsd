@@ -69,6 +69,7 @@
   * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
   * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor)
+* Microelectromechanical systems (MEMS)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
 * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
