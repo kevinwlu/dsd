@@ -45,6 +45,7 @@
   * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
   * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
 * [List](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants) of semiconductor fabrication plants
+* [List](https://en.wikipedia.org/wiki/List_of_MEMS_foundries) of MEMS foundries
 
 ## America
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
