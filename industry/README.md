@@ -140,6 +140,7 @@
 * [Nexperia](https://en.wikipedia.org/wiki/Nexperia)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
 * [NXP Semiconductors](https://en.wikipedia.org/wiki/NXP_Semiconductors)
+  * [Signetics](https://en.wikipedia.org/wiki/Signetics)
 * [Infineon Technologies](https://en.wikipedia.org/wiki/Infineon_Technologies)
   * [Cypress](https://en.wikipedia.org/wiki/Cypress_Semiconductor)
 * [RS Components](https://en.wikipedia.org/wiki/RS_Components)
