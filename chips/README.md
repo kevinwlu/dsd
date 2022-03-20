@@ -11,6 +11,7 @@
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
 
 ## Others
+* [555 timer IC](https://en.wikipedia.org/wiki/555_timer_IC)
 * [AVR microcontrollers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
 * [Cerebras](https://en.wikipedia.org/wiki/Cerebras) Wafer-Scale Engine (WSE)
 * [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum_(microprocessor))
