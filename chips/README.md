@@ -1,5 +1,5 @@
 # Chips
-## Wiki
+* [The Basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 
 ## Lists
