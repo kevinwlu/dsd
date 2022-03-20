@@ -9,6 +9,7 @@
 * [Exynos](https://en.wikipedia.org/wiki/Exynos) by Samsung
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
+* [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
 
 ## Others
 * [555 timer IC](https://en.wikipedia.org/wiki/555_timer_IC)
