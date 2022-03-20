@@ -64,6 +64,7 @@
 * [Intel](https://en.wikipedia.org/wiki/Intel)
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Marvell](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
+* [Menlo Micro](https://en.wikipedia.org/wiki/Menlo_Micro)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
