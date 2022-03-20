@@ -6,14 +6,18 @@
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
-* [Exynos](https://en.wikipedia.org/wiki/Exynos) by Samsung
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
+* Qualcomm [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
+* Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 
 ## Others
 * [555 timer IC](https://en.wikipedia.org/wiki/555_timer_IC)
 * [AVR microcontrollers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
 * [Cerebras](https://en.wikipedia.org/wiki/Cerebras) Wafer-Scale Engine (WSE)
+* [ESP32](https://en.wikipedia.org/wiki/ESP32)
 * [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum_(microprocessor))
+* Raspberry Pi [RP2040](https://en.wikipedia.org/wiki/RP2040)
+$ [STM32](https://en.wikipedia.org/wiki/STM32)
 * [Tesla Dojo Technology](https://cdn.motor1.com/pdf-files/535242876-tesla-dojo-technology.pdf): A Guide to Tesla's Configurable Floating Point Formats and Arithmetic
