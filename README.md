@@ -237,7 +237,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * Lab 5: Inter-IC Sound [I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
   * Lab 6: Two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
 
-### Intel [Altera](https://en.wikipedia.org/wiki/Altera)
+### [Intel](https://en.wikipedia.org/wiki/Intel) [Altera](https://en.wikipedia.org/wiki/Altera)
 
 * [Terasic](https://www.terasic.com.tw/en/) boards
   * [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
