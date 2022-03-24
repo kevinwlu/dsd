@@ -51,7 +51,7 @@
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
-  * AMD [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
+  * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
   * [Maxim Integrated](https://en.wikipedia.org/wiki/Maxim_Integrated)
 * [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
