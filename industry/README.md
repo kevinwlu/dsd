@@ -83,6 +83,7 @@
 * [Skyworks](https://en.wikipedia.org/wiki/Skyworks_Solutions)
 * [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 * [TI](https://en.wikipedia.org/wiki/Texas_Instruments)
+* [Uhnder](https://www.uhnder.com/)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
 ## Asia
