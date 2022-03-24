@@ -116,6 +116,7 @@
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ### South Korea
 * [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)
+* [Magnachip](https://www.magnachip.com/)
 * [Samsung Electronics](https://en.wikipedia.org/wiki/Samsung_Electronics)
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 ### Taiwan
