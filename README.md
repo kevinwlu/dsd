@@ -186,6 +186,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Virtuoso Layout Suite](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) supports custom analog, digital, and mixed-signal designs at the device, cell, block, and chip levels
 * [Siemens EDA](https://en.wikipedia.org/wiki/Mentor_Graphics)
 * [Aldec](https://en.wikipedia.org/wiki/Aldec)
+* [Altium](https://en.wikipedia.org/wiki/Altium)
 
 ## Open-Source Simulators
 
