@@ -73,6 +73,7 @@
 * [Micron](https://en.wikipedia.org/wiki/Micron_Technology)
 * [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
 * [Nvidia](https://en.wikipedia.org/wiki/Nvidia)
+  * [Ageia](https://en.wikipedia.org/wiki/Ageia)
 * [Onsemi](https://en.wikipedia.org/wiki/Onsemi)
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
