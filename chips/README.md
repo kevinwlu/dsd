@@ -22,6 +22,8 @@
 * [STM32](https://en.wikipedia.org/wiki/STM32)
 * [Tesla Dojo Technology](https://cdn.motor1.com/pdf-files/535242876-tesla-dojo-technology.pdf): A Guide to Tesla's Configurable Floating Point Formats and Arithmetic
 
+## Memories
+* [Semiconductor memory](https://en.wikipedia.org/wiki/Semiconductor_memory)
 
 ## Batteries
 * [On-Chip Batteries for Dust-Sized Computers](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)
