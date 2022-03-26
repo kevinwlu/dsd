@@ -18,6 +18,7 @@
 * [Cerebras](https://en.wikipedia.org/wiki/Cerebras) Wafer-Scale Engine (WSE)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
 * [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum_(microprocessor))
+* [On-Chip Batteries for Dust-Sized Computers](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)
 * [RP2040](https://en.wikipedia.org/wiki/RP2040)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
 * [Tesla Dojo Technology](https://cdn.motor1.com/pdf-files/535242876-tesla-dojo-technology.pdf): A Guide to Tesla's Configurable Floating Point Formats and Arithmetic
