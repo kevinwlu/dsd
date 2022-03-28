@@ -21,9 +21,9 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * Provide Xilinx user account credentials to download the required files
 * Select "Download and Install Now"
 * Select Vivado > Vivado ML Standard
-* Design Tools > Vivado Design Suite -- uncheck all others
-  * Optional: Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
-  * Optional: DocNav
+* Design Tools > Vivado Design Suite -- uncheck all others such as
+  * Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
+  * DocNav
 * Devices > 7 Series > Artix-7 -- uncheck all others
 * Installation Options > Install Cable Drivers -- this is required
   * To install cable drivers on Linux, follow the instructions on P. 47 in [UG973](https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0013-vivado-installation-and-licensing-hub.html) and enter the following commands as root
