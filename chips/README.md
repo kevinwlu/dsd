@@ -1,5 +1,5 @@
 # Chips
-* [The Basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
+* [The basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 
 ## Lists
@@ -26,5 +26,5 @@
 * [Semiconductor memory](https://en.wikipedia.org/wiki/Semiconductor_memory)
 
 ## Batteries
-* [On-Chip Batteries for Dust-Sized Computers](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)
+* [On-chip batteries for dust-sized computers](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)
 * [Thermally drawn rechargeable battery fiber enables pervasive power](https://www.sciencedirect.com/science/article/abs/pii/S1369702121004077)
