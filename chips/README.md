@@ -1,6 +1,8 @@
 # Chips
 * [The basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
+* [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit)
+* [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
 
 ## Lists
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
