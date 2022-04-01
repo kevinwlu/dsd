@@ -40,3 +40,7 @@
 * [Load value injection](https://en.wikipedia.org/wiki/Load_value_injection)
 * [Spoiler](https://en.wikipedia.org/wiki/Spoiler_(security_vulnerability))
 * [Microarchitectural Data Sampling](https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling) (MDS)
+
+## Autodidacts
+* [Jeri Ellsworth](https://en.wikipedia.org/wiki/Jeri_Ellsworth)
+* [Sam Zeloof](https://en.wikipedia.org/wiki/Sam_Zeloof)
