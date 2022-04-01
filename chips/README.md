@@ -28,3 +28,15 @@
 ## Batteries
 * [On-chip batteries for dust-sized computers](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)
 * [Thermally drawn rechargeable battery fiber enables pervasive power](https://www.sciencedirect.com/science/article/abs/pii/S1369702121004077)
+
+## Hardware Security
+* [Hardware security bug](https://en.wikipedia.org/wiki/Hardware_security_bug)
+* [Transient execution CPU vulnerability](https://en.wikipedia.org/wiki/Transient_execution_CPU_vulnerability)
+* [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))
+* [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
+* [Foreshadow](https://en.wikipedia.org/wiki/Foreshadow)
+* [Speculative Store Bypass](https://en.wikipedia.org/wiki/Speculative_Store_Bypass) (SSB)
+* [Lazy FP state restore](https://en.wikipedia.org/wiki/Lazy_FP_state_restore)
+* [Load value injection](https://en.wikipedia.org/wiki/Load_value_injection)
+* [Spoiler](https://en.wikipedia.org/wiki/Spoiler_(security_vulnerability))
+* [Microarchitectural Data Sampling](https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling) (MDS)
