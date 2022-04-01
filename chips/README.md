@@ -3,6 +3,7 @@
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
+* [Integrated quantum photonics](https://en.wikipedia.org/wiki/Integrated_quantum_photonics)
 
 ## Lists
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
