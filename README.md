@@ -175,7 +175,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [MyHDL website](http://www.myhdl.org)
   * [MyHDL GitHub repository](https://github.com/myhdl/myhdl)
 * [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
-  * PYNQ uses the Python language and libraries with Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
+  * PYNQ uses the Python language and libraries with AMD Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq MPSoC, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
   * [PYNQ introduction](https://pynq.readthedocs.io)
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
