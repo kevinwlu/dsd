@@ -22,7 +22,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * Select "Download and Install Now"
 * Select Vivado > Vivado ML Standard
 * Design Tools > Vivado Design Suite -- uncheck all others such as
-  * Vitis Model Composer (Xilinx Toobox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
+  * Vitis Model Composer (Xilinx Toolbox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * DocNav
 * Devices > 7 Series > Artix-7 -- uncheck all others
 * Installation Options > Install Cable Drivers -- this is required
