@@ -4,3 +4,4 @@
 * [Kria](https://www.xilinx.com/products/som/kria.html) [System-on-Module](https://www.xilinx.com/products/som/what-is-a-som.html) (SOM)
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 * Zynq UltraScale+ MPSoC [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
+* Zynq UltraScale+ RFSoC [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
