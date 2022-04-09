@@ -74,6 +74,7 @@
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
 * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
+* [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
 * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
   * [Coral](https://coral.ai/products/accelerator/)
 * [Vision processing unit](https://en.wikipedia.org/wiki/Vision_processing_unit) (VPU)
