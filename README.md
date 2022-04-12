@@ -96,6 +96,9 @@
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
 * [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC, H.264, or MPEG-4 Part 10)
 * [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) (HEVC, H.265, or MPEG-H Part 2)
+* [Versatile Video Coding](https://en.wikipedia.org/wiki/Versatile_Video_Coding) (VVC, H.266, or MPEG-I Part 3)
+* [Essential Video Coding](https://en.wikipedia.org/wiki/Essential_Video_Coding) (EVC or MPEG-5 Part 1)
+* [8K resolution](https://en.wikipedia.org/wiki/8K_resolution)
 
 ## GitHub Basics
 
