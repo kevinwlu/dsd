@@ -94,6 +94,8 @@
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
+* [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC, H.264, or MPEG-4 Part 10)
+* [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) (HEVEG-H Part 2)
 
 ## GitHub Basics
 
