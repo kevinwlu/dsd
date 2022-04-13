@@ -74,6 +74,7 @@
   * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
   * [Serializer/Deserializer](https://en.wikipedia.org/wiki/SerDes) (SerDes)
   * [Xilinx high speed serial](https://www.xilinx.com/products/technology/high-speed-serial.html)
+  * [SYZYGY](https://syzygyfpga.io/)
   * [Bit error rate](https://en.wikipedia.org/wiki/Bit_error_rate)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
   * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
