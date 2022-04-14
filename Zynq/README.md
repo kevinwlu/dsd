@@ -1,5 +1,0 @@
-# Zynq Devices
-* [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview)
-* [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
-* [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC)
-* [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
