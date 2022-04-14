@@ -7,6 +7,6 @@
 ## Zynq Devices
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
 * [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC)
+  * Zynq UltraScale+ MPSoC [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
-* Zynq UltraScale+ MPSoC [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
-* Zynq UltraScale+ RFSoC [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
+  * Zynq UltraScale+ RFSoC [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
