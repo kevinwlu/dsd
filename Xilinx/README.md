@@ -2,7 +2,9 @@
 * [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview)
 * [List of Xilinx FPGAs](https://en.wikipedia.org/wiki/List_of_Xilinx_FPGAs)
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
-* [Kria](https://www.xilinx.com/products/som/kria.html) [System-on-Module](https://www.xilinx.com/products/som/what-is-a-som.html) (SOM)
+* [Kria](https://www.xilinx.com/products/som/kria.html)
+  * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
+  * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Zynq Devices
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
