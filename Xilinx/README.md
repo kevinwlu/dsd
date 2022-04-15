@@ -8,7 +8,13 @@
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Zynq Devices
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
+* [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000)
+  * [ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
 * [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC)
-  * Zynq UltraScale+ MPSoC [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
+  * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
+  * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
+  * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
-  * Zynq UltraScale+ RFSoC [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
+  * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
+  * [ZCU216](https://www.xilinx.com/products/boards-and-kits/zcu216.html) Evaluation Kit
+  * [ZCU670](https://www.xilinx.com/products/boards-and-kits/zcu670.html) Evaluation Kit
