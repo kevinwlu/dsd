@@ -10,6 +10,8 @@
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000)
   * [ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
+  * [ZC702](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc702-g.html)
+  * [ZC706](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html)
 * [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC)
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
@@ -18,3 +20,5 @@
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU216](https://www.xilinx.com/products/boards-and-kits/zcu216.html) Evaluation Kit
   * [ZCU670](https://www.xilinx.com/products/boards-and-kits/zcu670.html) Evaluation Kit
+  * [ZCU1275](https://www.xilinx.com/products/boards-and-kits/zcu1275.html) Characterization Kit
+  * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
