@@ -12,7 +12,7 @@
 
 * The **_vga_sync_** module uses a clock to drive horizontal and vertical counters h_cnt and v_cnt, respectively.
   * These counters are then used to generate the various timing signals.
-  * The vertical and horizontal sync waveforms, vsync and hsync, will go directly to the VGA display with the column and row address, pixel_col and pixel_row, of the current pixel being displayed.
+  * The vertical and horizontal sync waveforms, vsync and hsync, will go directly to the VGA display with the column and row address, pixel_col and pixel_row, of the current [pixel](https://en.wikipedia.org/wiki/Pixel) being displayed.
   * This module also takes as input the current red, green, and blue video data and gates it with a signal called video_on.
   * This ensures that no video is sent to the display during the sync and blanking periods.
   * Note that red, green, and blue video are each represented as 1-bit (on-off) quantities.
