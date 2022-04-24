@@ -111,7 +111,7 @@
 * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
   * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
-  * [N connector](https://en.wikipedia.org/wiki/N_connector) named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968
+  * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
 
 ## GitHub Basics
 
