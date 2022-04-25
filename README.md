@@ -97,6 +97,7 @@
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
+* [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT)
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
