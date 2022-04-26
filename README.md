@@ -108,6 +108,7 @@
 * [Versatile Video Coding](https://en.wikipedia.org/wiki/Versatile_Video_Coding) (VVC, H.266, or MPEG-I Part 3)
 * [Essential Video Coding](https://en.wikipedia.org/wiki/Essential_Video_Coding) (EVC or MPEG-5 Part 1)
 * [VP9](https://en.wikipedia.org/wiki/VP9)
+* [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)
 * [4K resolution](https://en.wikipedia.org/wiki/4K_resolution) (3840 × 2160)
 * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
