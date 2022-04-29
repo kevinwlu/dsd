@@ -209,6 +209,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
 * [OpenQASM](https://en.wikipedia.org/wiki/OpenQASM)
+* [Sigasi](https://www.sigasi.com/)
 
 ## Electronic Design Automation (EDA)
 
