@@ -1,5 +1,6 @@
 # 2022 Spring
 * [MazeGame](https://github.com/Crystal-Link/CPE487-Work/tree/main/Final%20Project%20-%20MazeGame)
+* [Noise Detector](https://github.com/Arif12467/Digital-System-Design-AIA/tree/main/Final-Project)
 # 2021 Fall
 * [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
