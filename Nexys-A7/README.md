@@ -53,6 +53,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * [Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
   * Powered from micro-USB or a [5V external power supply](https://digilent.com/shop/5v-2-5a-switching-power-supply/) with center-positive 5.5 x 2.1 x 9.5 mm [coaxial power connector](https://en.wikipedia.org/wiki/Coaxial_power_connector)
   * The blue power select jumper JP3 (near the power jack) determines which source (USB or Wall) is used
+  * [Schematic](https://digilent.com/reference/_media/reference/programmable-logic/nexys-4-ddr/nexys_a7_sch-public.pdf)
 * [Out-of-box (OOB) demo](https://github.com/Digilent/Nexys-A7-100T-OOB)
   * [Overview](https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-user-demo/start)
   * [Releases](https://github.com/Digilent/Nexys-A7-100T-OOB/releases)
