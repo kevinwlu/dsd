@@ -1,4 +1,5 @@
 # 2022 Spring
+* [Crossy Road](https://github.com/alex-waldron/CPE487/tree/main/FinalProject)
 * [MazeGame](https://github.com/Crystal-Link/CPE487-Work/tree/main/Final%20Project%20-%20MazeGame)
 * [Noise Detector](https://github.com/Arif12467/Digital-System-Design-AIA/tree/main/Final-Project)
 # 2021 Fall
