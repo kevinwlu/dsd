@@ -66,8 +66,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * Select the board from digilentinc.com
 * Select Nexys A7-100T (Part: xc7a100tcsg324-1)
 * Review New Project Summary" > Finish
-* Tools > Settings > Tool Settings > Text Editor > Current Editor > Vivado Text Editor (default)
-  * Vivado 2021.2 Tools > Settings > Tool Settings > Text Editor > Syntax Checking > Vivado
+* Tools > Settings > Tool Settings > Text Editor > Syntax Checking > Vivado
 * Project VHDL and XDC files
   * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
   * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
