@@ -3,6 +3,7 @@
 * [Crossy Road](https://github.com/alex-waldron/CPE487/tree/main/FinalProject)
 * [MazeGame](https://github.com/Crystal-Link/CPE487-Work/tree/main/Final%20Project%20-%20MazeGame)
 * [Noise Detector](https://github.com/Arif12467/Digital-System-Design-AIA/tree/main/Final-Project)
+* [Simon Says](https://github.com/nlim2/Digital-System-Design/tree/main/Simon%20Says%20-%20Final%20Project)
 # 2021 Fall
 * [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
