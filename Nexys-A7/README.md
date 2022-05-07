@@ -30,6 +30,8 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 ```sh
 ./tools/Xilinx/data/xicom/cable_drivers/lin64/install_script/install_drivers/install_drivers
 ```
+![install-1.png](/Nexys-A7/install-1.png)
+![install-2.png](/Nexys-A7/install-2.png)
 * Download and extract [board files](https://github.com/Digilent/vivado-boards/archive/master.zip)
   * The ZIP file has a folder called new/board_files including a folder called [nexys-a7-100t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-100t/D.0)
   * For the Nexys A7-50T board, use [nexys-a7-50t](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/nexys-a7-50t/D.0) instead
