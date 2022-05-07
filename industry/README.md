@@ -105,6 +105,7 @@
 * [Lenovo](https://en.wikipedia.org/wiki/Lenovo)
 * [Meizu](https://en.wikipedia.org/wiki/Meizu)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
+* [Trolink](http://en.tro-link.com/)
 * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
