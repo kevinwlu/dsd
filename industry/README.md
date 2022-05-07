@@ -92,6 +92,7 @@
 ## Asia
 ### China
 * [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
+* [Allwinner](https://en.wikipedia.org/wiki/Allwinner_Technology)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
 * [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)
   * [Oppo Digital](https://en.wikipedia.org/wiki/Oppo_Digital)
