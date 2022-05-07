@@ -56,7 +56,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
   * Powered from micro-USB
   * The blue power select jumper JP3 (near the power jack) determines which source (USB or Wall) is used
   * If necessary, make sure to use a [5V external power supply](https://digilent.com/shop/5v-2-5a-switching-power-supply/) with center-positive 5.5 x 2.1 x 9.5 mm [coaxial power connector](https://en.wikipedia.org/wiki/Coaxial_power_connector)
-  * If demaged, the part for the D16 diode is [SMBJ5.0A](https://www.digikey.com/en/products/detail/littelfuse-inc/SMBJ5.0A/285951) and the part for the R287 fuse is [TR/0603FA5-R](https://www.digikey.com/en/products/detail/eaton-electronics-division/TR-0603FA5-R/724158) (that replaces the obsolete [0603SFV350F/32-2](https://www.digikey.com/en/products/detail/littelfuse-inc/0603SFV350F-32-2/4310647))
+  * If demaged, the part for the D16 diode is [SMBJ5.0A](https://www.digikey.com/en/products/detail/littelfuse-inc/SMBJ5.0A/285951) and the part for the R287 fuse is [TR/0603FA5-R](https://www.digikey.com/en/products/detail/eaton-electronics-division/TR-0603FA5-R/724158) that replaces the obsolete [0603SFV350F/32-2](https://www.digikey.com/en/products/detail/littelfuse-inc/0603SFV350F-32-2/4310647)
 * [Out-of-box (OOB) demo](https://github.com/Digilent/Nexys-A7-100T-OOB)
   * [Overview](https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-4-ddr-user-demo/start)
   * [Releases](https://github.com/Digilent/Nexys-A7-100T-OOB/releases)
