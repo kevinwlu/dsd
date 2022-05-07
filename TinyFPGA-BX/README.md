@@ -9,6 +9,7 @@
 board = TinyFPGA-BX
 ```
 * [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
+* [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
 * [APIO](https://github.com/FPGAwars/apio-ide) IDE
 * [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
 * Lattice [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
