@@ -1,6 +1,6 @@
 # TinyFPGA BX
 * [TinyFPGA](https://tinyfpga.com/)
-* [TinyFPGA BX](https://store.tinyfpga.com/products/tinyfpga-bx) on Crowdsupply (https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
+* [TinyFPGA BX](https://store.tinyfpga.com/products/tinyfpga-bx) on [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 * [User Guide](https://tinyfpga.com/bx/guide.html)
 * [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
 * First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](https://github.com/tinyfpga/TinyFPGA-BX/blob/master/apio_template/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
