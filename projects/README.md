@@ -4,6 +4,7 @@
 * [MazeGame](https://github.com/Crystal-Link/CPE487-Work/tree/main/Final%20Project%20-%20MazeGame)
 * [Noise Detector](https://github.com/Arif12467/Digital-System-Design-AIA/tree/main/Final-Project)
 * [Simon Says](https://github.com/nlim2/Digital-System-Design/tree/main/Simon%20Says%20-%20Final%20Project)
+* [Space Invaders 3.0](https://github.com/MiscellaneousMongoose/Digital-Signal-Design/tree/main/Final%20Project)
 * [VHDL Platformer](https://github.com/Cmurphy5-stevens/CPE487/tree/main/Project)
 # 2021 Fall
 * [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
