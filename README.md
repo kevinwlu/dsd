@@ -22,7 +22,7 @@
 
 ## DSD Fundamentals
 
-> [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915-1998, True greatness is when your name is like ampere, watt, and fourier when its spelled with a lower case letter.
+> [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, True greatness is when your name is like ampere, watt, and fourier&mdash;when its spelled with a lower case letter.
 
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
