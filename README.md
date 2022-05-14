@@ -1,7 +1,5 @@
 # Digital System Design (DSD)
 
-> [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915-1998, True greatness is when your name is like ampere, watt, and fourier when its spelled with a lower case letter.
-
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081) from 2018 Fall to 2022 Spring
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
@@ -23,6 +21,8 @@
 * [Code](/code) repositories
 
 ## DSD Fundamentals
+
+> [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915-1998, True greatness is when your name is like ampere, watt, and fourier when its spelled with a lower case letter.
 
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
