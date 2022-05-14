@@ -1,5 +1,7 @@
 # Digital System Design (DSD)
 
+> True greatness is when your name is like ampere, watt, and fourier when its spelled with a lower case letter.
+
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081) from 2018 Fall to 2022 Spring
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
