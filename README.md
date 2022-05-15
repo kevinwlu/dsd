@@ -17,7 +17,7 @@
     * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
-  * [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm) by Prof. [Irving Herman](http://www.columbia.edu/~iph1/herman.html)
+  * [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
 * [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
   * [Industry](/industry)
   * [Chips](/chips)
