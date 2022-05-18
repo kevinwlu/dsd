@@ -9,7 +9,7 @@
 * [Simon Says](https://github.com/nlim2/Digital-System-Design/tree/main/Simon%20Says%20-%20Final%20Project)
 * [Siren with Pmod Frequency Control](https://github.com/bobberySmith/cpe-487-final-project)
 * [Space Invaders 3.0](https://github.com/MiscellaneousMongoose/Digital-Signal-Design/tree/main/Final%20Project)
-* [T-Rex Dinosaur Run]([url](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/FinalProject))
+* [T-Rex Dinosaur Run](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/FinalProject)
 * [VHDL Platformer](https://github.com/Cmurphy5-stevens/CPE487/tree/main/Project)
 # 2021 Fall
 * [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
