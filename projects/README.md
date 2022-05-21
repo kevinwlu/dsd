@@ -2,6 +2,7 @@
 * [2 Player Pong](https://github.com/marcusats/CPE-487-A/tree/main/FinalProject)
 * [4 Player Pong](https://github.com/joeyp2k/CPE487/tree/main/final)
 * [Brick Breaker](https://github.com/dsmith15/CPE487-DSD/tree/main/Final%20Project%20-%20Brick%20Breaker)
+* [Crazy Pong](https://github.com/DanNovikov1/Digital-System-Design/tree/main/Final_Project)
 * [Crossy Road](https://github.com/alex-waldron/CPE487/tree/main/FinalProject)
 * [MazeGame](https://github.com/Crystal-Link/CPE487-Work/tree/main/Final%20Project%20-%20MazeGame)
 * [Noise Detector](https://github.com/Arif12467/Digital-System-Design-AIA/tree/main/Final-Project)
