@@ -4,10 +4,10 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
  
-ENTITY tb_car_parking_system_VHDL IS
-END tb_car_parking_system_VHDL;
+ENTITY Car_Parking_System_VHDL_tb IS
+END Car_Parking_System_VHDL_tb;
  
-ARCHITECTURE behavior OF tb_car_parking_system_VHDL IS 
+ARCHITECTURE behavior OF Car_Parking_System_VHDL_tb IS 
  
     -- Component Declaration for the car parking system in VHDL
  
