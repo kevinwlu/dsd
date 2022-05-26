@@ -20,12 +20,12 @@
   * [Iddq testing](https://en.wikipedia.org/wiki/Iddq_testing)
   * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
   * [Monolithic microwave integrated circuit](https://en.wikipedia.org/wiki/Monolithic_microwave_integrated_circuit) (MMIC)
-* [List](https://en.wikipedia.org/wiki/List_of_silicon_producers) of silicon producers
+* [List of silicon producers](https://en.wikipedia.org/wiki/List_of_silicon_producers)
   * [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
   * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
   * [GlobalWafers](https://www.gw-semi.com)
   * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
-* [List](https://en.wikipedia.org/wiki/List_of_semiconductor_materials) of semiconductor materials
+* [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
 * Material and equipment suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
@@ -34,7 +34,7 @@
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA](https://en.wikipedia.org/wiki/KLA_Corporation)
-* [List](https://en.wikichip.org/wiki/list_of_semiconductor_companies) of semiconductor companies
+* [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
     * [TSMC](https://en.wikipedia.org/wiki/TSMC)
@@ -46,8 +46,9 @@
   * [Fabless manufacturing](https://en.wikipedia.org/wiki/Fabless_manufacturing)
   * [Integrated device manufacturer](https://en.wikipedia.org/wiki/Integrated_device_manufacturer) (IDM)
   * [Original design manufacturer](https://en.wikipedia.org/wiki/Original_design_manufacturer) (ODM)
-* [List](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants) of semiconductor fabrication plants
-* [List](https://en.wikipedia.org/wiki/List_of_MEMS_foundries) of MEMS foundries
+* [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants)
+* [List of MEMS foundries](https://en.wikipedia.org/wiki/List_of_MEMS_foundries)
+* [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
 
 ## America
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
