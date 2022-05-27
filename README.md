@@ -56,6 +56,7 @@
     * Can be more efficient and flexible than Moore machine
     * May require less hardware to implement
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
+* [High-level synthesis](https://en.wikipedia.org/wiki/High-level_synthesis) (HLS)
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
   * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
@@ -85,7 +86,7 @@
   * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
   * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor)
-* Microelectromechanical systems (MEMS)
+* [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
 * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
