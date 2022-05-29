@@ -70,11 +70,11 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * Review New Project Summary" > Finish
 * Tools > Settings > Tool Settings > Text Editor > Syntax Checking > Vivado
 * Project VHDL and XDC files
-  * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
-  * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
-  * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball (VGA Display)
-  * [Lab 4](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-4): Hex Calculator (Pmod KYPD)
-  * [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren 
+  * [Lab 1](/Nexys-A7/Lab-1): Seven-Segment Decoder
+  * [Lab 2](/Nexys-A7/Lab-2): Four-Digit Hex Counter
+  * [Lab 3](/Nexys-A7/Lab-3): Bouncing Ball (VGA Display)
+  * [Lab 4](/Nexys-A7/Lab-4): Hex Calculator (Pmod KYPD)
+  * [Lab 5](/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren 
 (Pmod I2S and Headphone)
-  * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG (Pmod AD1, Potentiometer, 
+  * [Lab 6](/Nexys-A7/Lab-6): Video Game PONG (Pmod AD1, Potentiometer, 
 and VGA Display)
