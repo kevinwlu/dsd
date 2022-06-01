@@ -7,6 +7,7 @@
 
 ## Lists
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
+  * [EPYC](https://en.wikipedia.org/wiki/Epyc)
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
