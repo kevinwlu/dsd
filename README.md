@@ -37,6 +37,7 @@
   * [Three-valued logic](https://en.wikipedia.org/wiki/Three-valued_logic)
 * [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) Standard for [Floating-Point Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
   * [Floating point operations per second](https://en.wikipedia.org/wiki/FLOPS) (FLOPS)
+  * [Petascale computing](https://en.wikipedia.org/wiki/Petascale_computing)
   * [Exascale computing](https://en.wikipedia.org/wiki/Exascale_computing)
   * [Zettascle computing](https://en.wikipedia.org/wiki/Zettascale_computing)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
