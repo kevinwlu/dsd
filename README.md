@@ -30,6 +30,8 @@
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble)
   * [Byte](https://en.wikipedia.org/wiki/Byte)
+  * [Bit rate](https://en.wikipedia.org/wiki/Bit_rate)
+  * [Baud](https://en.wikipedia.org/wiki/Baud)
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
 * [Ternary computer](https://en.wikipedia.org/wiki/Ternary_computer)
   * [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system)
