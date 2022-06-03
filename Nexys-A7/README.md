@@ -45,6 +45,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
 * References
   * [Vivado Design Suite User Guide](https://docs.xilinx.com/r/en-US/ug973-vivado-release-notes-install-license/Release-Notes): Release Notes, Installation, and Licensing (UG973)
   * [Vitis High-Level Synthesis User Guide](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Getting-Started-with-Vitis-HLS) (UG1399)
+  * [Vitis Unified Software Platform Documentation](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis): Application Acceleration Development (UG1393)
   * [Installing Vivado and Digilent board files](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-sdk)
   * [FPGA board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files)
   * [Add boards and example designs to Vivado environment](https://support.xilinx.com/s/article/72033?language=en_US)
