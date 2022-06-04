@@ -7,7 +7,7 @@
 * The top level source module is called **_hexcalc_** that
   * Creates an instance of the keypad interface and 7-segment decoder interface modules
   * Make connection to the display, buttons, and external keypad
-  * Has a timing process to generate clocks for the keypad, display multiplexer, and [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+  * Has a timing process to generate [clock signals](https://en.wikipedia.org/wiki/Clock_signal) for the keypad, display multiplexer, and [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
   * Implements a finite-state machine for the operations of the calculator in response to button pushes
 
 ![hexcalc.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-4/hexcalc.png)
