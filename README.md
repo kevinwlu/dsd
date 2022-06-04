@@ -49,6 +49,7 @@
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
 * [Clock signal](https://en.wikipedia.org/wiki/Clock_signal)
+* [Clock rate](https://en.wikipedia.org/wiki/Clock_rate)
 * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
 * [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate) (QDR)
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
