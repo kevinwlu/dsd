@@ -50,6 +50,7 @@
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
 * [Clock signal](https://en.wikipedia.org/wiki/Clock_signal)
 * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
+* [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate)
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
     * The Moore-type outputs are only a function of the states and not the external inputs
