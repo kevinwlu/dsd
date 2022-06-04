@@ -49,13 +49,13 @@
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
 * [Crystal oscillator](https://en.wikipedia.org/wiki/Crystal_oscillator)
-* [Crystal oscillator frequencies](https://en.wikipedia.org/wiki/Crystal_oscillator_frequencies)
+  * [Crystal oscillator frequencies](https://en.wikipedia.org/wiki/Crystal_oscillator_frequencies)
 * [Electronic oscillator](https://en.wikipedia.org/wiki/Electronic_oscillator)
 * [Clock generator](https://en.wikipedia.org/wiki/Clock_generator)
 * [Clock signal](https://en.wikipedia.org/wiki/Clock_signal)
 * [Clock rate](https://en.wikipedia.org/wiki/Clock_rate)
-* [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
-* [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate) (QDR)
+  * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
+  * [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate) (QDR)
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
     * The Moore-type outputs are only a function of the states and not the external inputs
