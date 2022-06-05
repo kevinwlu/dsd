@@ -231,7 +231,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
   * [MyHDL website](http://www.myhdl.org)
   * [MyHDL GitHub repository](https://github.com/myhdl/myhdl)
+* [Open3D]([url](http://www.open3d.org/))
 * [OpenCL](https://en.wikipedia.org/wiki/OpenCL) (Open Computing Language)
+* [OpenCV](https://en.wikipedia.org/wiki/OpenCV) (Open Source Computer Vision Library)
 * [OpenGL](https://en.wikipedia.org/wiki/OpenGL) (Open Graphics Library)
 * [OpenQASM](https://en.wikipedia.org/wiki/OpenQASM) (Open Quantum Assebly Language)
 * [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
@@ -240,6 +242,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
 * [Sigasi](https://www.sigasi.com/)
+* [XIMEA](https://www.ximea.com/)
 
 ## Electronic Design Automation (EDA)
 
