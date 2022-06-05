@@ -231,7 +231,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
   * [MyHDL website](http://www.myhdl.org)
   * [MyHDL GitHub repository](https://github.com/myhdl/myhdl)
-* [Open3D]([url](http://www.open3d.org/))
+* [Open3D](http://www.open3d.org/)
 * [OpenACC](https://en.wikipedia.org/wiki/OpenACC) (Open Accelerators)
 * [OpenCL](https://en.wikipedia.org/wiki/OpenCL) (Open Computing Language)
 * [OpenCV](https://en.wikipedia.org/wiki/OpenCV) (Open Source Computer Vision Library)
