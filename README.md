@@ -331,6 +331,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 * [Achronix](https://www.achronix.com/)
 * [Efinix](https://www.efinixinc.com/)
+* [Khronos Group](https://en.wikipedia.org/wiki/Khronos_Group)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
 * [OpenROAD](https://theopenroadproject.org/)
 * [QuickLogic](https://www.quicklogic.com/)
