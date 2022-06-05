@@ -231,9 +231,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
   * [MyHDL website](http://www.myhdl.org)
   * [MyHDL GitHub repository](https://github.com/myhdl/myhdl)
-* [OpenCL](https://en.wikipedia.org/wiki/OpenCL) Open Computing Language
-* [OpenGL](https://en.wikipedia.org/wiki/OpenGL) Open Graphics Library
-* [OpenQASM](https://en.wikipedia.org/wiki/OpenQASM) Open Quantum Assebly Language
+* [OpenCL](https://en.wikipedia.org/wiki/OpenCL) (Open Computing Language)
+* [OpenGL](https://en.wikipedia.org/wiki/OpenGL) (Open Graphics Library)
+* [OpenQASM](https://en.wikipedia.org/wiki/OpenQASM) (Open Quantum Assebly Language)
 * [PYNQ](http://www.pynq.io/) (Python productivity for Zynq)
   * PYNQ uses the Python language and libraries with AMD Xilinx [Zynq](https://www.xilinx.com/products/silicon-devices/soc.html), Zynq UltraScale+, Zynq MPSoC, Zynq RFSoC, [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) accelerator boards, and Amazon [EC2 F1](https://aws.amazon.com/ec2/instance-types/f1/) instances
   * [PYNQ introduction](https://pynq.readthedocs.io)
