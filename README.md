@@ -128,8 +128,7 @@
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
-* [Virtual-reality (VR) photography](https://en.wikipedia.org/wiki/VR_photography)
-  * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
+* [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
   * [360 video projection](https://en.wikipedia.org/wiki/360_video_projection)
   * [Equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection)
   * [Curvilinear perspective](https://en.wikipedia.org/wiki/Curvilinear_perspective)
@@ -138,6 +137,8 @@
   * [Fisheye lens](https://en.wikipedia.org/wiki/Fisheye_lens)
   * [Ultra wide angle lens](https://en.wikipedia.org/wiki/Ultra_wide_angle_lens)
   * [Parallax](https://en.wikipedia.org/wiki/Parallax)
+  * [Virtual-reality (VR) photography](https://en.wikipedia.org/wiki/VR_photography)
+  * IcoSweepNet using CrownConv
 * [List of open-source codecs](https://en.wikipedia.org/wiki/List_of_open-source_codecs)
 * [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC, H.264, or MPEG-4 Part 10)
 * [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) (HEVC, H.265, or MPEG-H Part 2)
