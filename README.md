@@ -127,6 +127,8 @@
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Rectilinear lens](https://en.wikipedia.org/wiki/Rectilinear_lens)
+* [Curvilinear perspective](https://en.wikipedia.org/wiki/Curvilinear_perspective)
+* [Distortion (optics)](https://en.wikipedia.org/wiki/Distortion_(optics))
 * [Fisheye lens](https://en.wikipedia.org/wiki/Fisheye_lens)
 * [Ultra wide angle lens](https://en.wikipedia.org/wiki/Ultra_wide_angle_lens)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
