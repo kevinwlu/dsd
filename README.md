@@ -183,7 +183,7 @@
   * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
   * [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
   * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
-  * [Animated GIF Maker](https://ezgif.com/maker)
+  * [EZGIF Video to GIF Converter](https://ezgif.com/video-to-gif)
 
 ## Hardware Description Languages (HDL)
 
