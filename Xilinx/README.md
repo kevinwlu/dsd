@@ -25,3 +25,4 @@
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
 ## Libraries
 * [Vitis Libraries](https://github.com/Xilinx/Vitis_Libraries)
+* [Using Vitis Vision Libraries and OpenCV](https://support.xilinx.com/s/question/0D52E00006hpOJESA2/using-vitis-vision-libraries-and-opencv)
