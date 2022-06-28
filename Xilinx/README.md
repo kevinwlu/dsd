@@ -26,6 +26,7 @@
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
   * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
 ## Vitis Libraries
+* Vitis HLS examples
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
