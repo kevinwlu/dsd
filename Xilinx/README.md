@@ -1,4 +1,4 @@
-# AMD Xilinx Devices
+# AMD Xilinx
 * [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview)
 * [List of Xilinx FPGAs](https://en.wikipedia.org/wiki/List_of_Xilinx_FPGAs)
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
@@ -6,7 +6,7 @@
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
   * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
-## Zynq Devices
+## Zynq
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000)
   * [ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
@@ -25,8 +25,9 @@
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
   * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
-## Vitis Libraries
-* [Vitis HLS basic examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
+## Vitis
+* [Vitis tutorials](https://xilinx.github.io/Vitis-Tutorials/2020-2/docs/index.html)
+* [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
