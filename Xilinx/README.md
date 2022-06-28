@@ -23,6 +23,8 @@
   * [ZCU670](https://www.xilinx.com/products/boards-and-kits/zcu670.html) Evaluation Kit
   * [ZCU1275](https://www.xilinx.com/products/boards-and-kits/zcu1275.html) Characterization Kit
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
+* [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
+  * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
 ## Vitis Libraries
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
