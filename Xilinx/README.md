@@ -31,6 +31,7 @@
 * [What's new in Vitis](https://www.xilinx.com/products/design-tools/vitis/vitis-whats-new.html)
 * [What's different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
 * [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
+  * [Pipeline (computing)](https://en.wikipedia.org/wiki/Pipeline_(computing))
   * [Single instruction, multiple data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data) (SIMD)
   * [Single program, multiple data](https://en.wikipedia.org/wiki/Single_program,_multiple_data) (SPMD)
 * [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
