@@ -36,6 +36,7 @@
   * [Single program, multiple data](https://en.wikipedia.org/wiki/Single_program,_multiple_data) (SPMD)
   * [Dataflow](https://en.wikipedia.org/wiki/Dataflow)
   * [Advanced eXtensible Interface](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface) (AXI)
+* [Xilinx Runtime Library](https://www.xilinx.com/products/design-tools/vitis/xrt.html) (XRT)
 * [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
