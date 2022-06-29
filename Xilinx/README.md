@@ -26,7 +26,11 @@
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
   * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
 ## Vitis
-* [Vitis tutorials](https://xilinx.github.io/Vitis-Tutorials/2020-2/docs/index.html)
+* [Vitis Unified Software Platform](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html)
+* [Get started with Vitis](https://www.xilinx.com/developer/products/vitis.html)
+* [What's new in Vitis](https://www.xilinx.com/products/design-tools/vitis/vitis-whats-new.html)
+* [What's different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
+* [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
 * [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
