@@ -31,6 +31,7 @@
 * [What's new in Vitis](https://www.xilinx.com/products/design-tools/vitis/vitis-whats-new.html)
 * [What's different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
 * [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
+  * [Single instruction, multiple data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data) (SIMD)
 * [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
