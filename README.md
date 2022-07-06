@@ -94,6 +94,7 @@
   * [Nano-ITX](https://en.wikipedia.org/wiki/Nano-ITX)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
   * [FPGA  Mezzanine Card](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) (FMC)
+  * PCI Mezzanine Card (PMC)
   * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
   * [Serializer/Deserializer](https://en.wikipedia.org/wiki/SerDes) (SerDes)
   * [Xilinx high speed serial](https://www.xilinx.com/products/technology/high-speed-serial.html)
