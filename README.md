@@ -92,6 +92,7 @@
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
   * [Advanced Technology eXtended](https://en.wikipedia.org/wiki/ATX) (ATX)
   * [Nano-ITX](https://en.wikipedia.org/wiki/Nano-ITX)
+  * [Low-voltage differential signaling](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling) (LVDS)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
   * [FPGA  Mezzanine Card](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) (FMC)
   * [PCI Mezzanine Card](https://en.wikipedia.org/wiki/PCI_Mezzanine_Card) (PMC)
