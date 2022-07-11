@@ -383,8 +383,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Vending machine](https://github.com/silverjam/VHDL/tree/master/vending-machine)
 * [Martin Kellermann](https://www.linkedin.com/today/author/martinkellermann)
   * [TinyML That Can Be Upgraded Without Resynthesizing or Rebooting the FPGA](https://www.iotforall.com/tinyml-that-can-be-updated-without-resynthesizing-or-rebooting-the-fpga)
-* [One-Time PAD FPGA](https://github.com/homerflander/One-Time-Pad-FPGA)
-  * One-time pad](https://en.wikipedia.org/wiki/One-time_pad)
+* [One-Time PAD FPGA](https://github.com/homerflander/One-Time-Pad-FPGA) in Verilog
+  * [One-time pad](https://en.wikipedia.org/wiki/One-time_pad)
 * [Project F: FPGA Development](https://projectf.io/) in Verilog
 * [T-Rex Run! Implemented in VHDL](https://www.secs.oakland.edu/~llamocca/Courses/ECE4710/W20/FinalProject/Group4_trexonvga.pdf)
 
