@@ -112,6 +112,8 @@
   * [19-inch rack](https://en.wikipedia.org/wiki/19-inch_rack)
   * [Horizontal pitch](https://en.wikipedia.org/wiki/Horizontal_pitch) (HP)
   * [Rack unit](https://en.wikipedia.org/wiki/Rack_unit)
+  * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
+  * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
