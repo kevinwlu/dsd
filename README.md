@@ -108,6 +108,7 @@
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
 * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
+* [Rack unit](https://en.wikipedia.org/wiki/Rack_unit)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
