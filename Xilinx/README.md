@@ -27,6 +27,7 @@
   * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
   * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
+* [Qualcomm 5G DU X100 Accelerator Card](https://www.qualcomm.com/news/releases/2021/06/qualcomm-introduces-new-5g-distributed-unit-accelerator-card-drive-global)
 ## Vitis
 * [Vitis Unified Software Platform](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html)
 * [Get started with Vitis](https://www.xilinx.com/developer/products/vitis.html)
