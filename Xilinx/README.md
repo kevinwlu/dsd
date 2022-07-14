@@ -25,8 +25,10 @@
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
   * [FPGA mezzanine card](https://www.xilinx.com/products/boards-and-kits/fmc-cards.html) (FMC)
   * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
+## Alveo
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
-  * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
+* [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
+## 5G
 * [Qualcomm 5G DU X100 Accelerator Card](https://www.qualcomm.com/news/releases/2021/06/qualcomm-introduces-new-5g-distributed-unit-accelerator-card-drive-global)
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
 ## Vitis
