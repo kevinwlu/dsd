@@ -32,6 +32,9 @@
 ## 5G
 * [Qualcomm 5G DU X100 Accelerator Card](https://www.qualcomm.com/news/releases/2021/06/qualcomm-introduces-new-5g-distributed-unit-accelerator-card-drive-global)
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
+* [SIM card](https://en.wikipedia.org/wiki/SIM_card) Subscriber Identity Module
+* [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
+* [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
 ## Vitis
 * [Vitis Unified Software Platform](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html)
 * [Get started with Vitis](https://www.xilinx.com/developer/products/vitis.html)
