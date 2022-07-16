@@ -37,7 +37,7 @@
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
 * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
-* [SIM card](https://en.wikipedia.org/wiki/SIM_card) Subscriber Identity Module
+* [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
 ## Vitis
