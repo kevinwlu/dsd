@@ -17,7 +17,7 @@
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
   * [Constraints](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
-  * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface)
+  * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html) Evaluation Kit
@@ -37,6 +37,7 @@
 ## 5G
 * [Qualcomm 5G DU X100 Accelerator Card](https://www.qualcomm.com/news/releases/2021/06/qualcomm-introduces-new-5g-distributed-unit-accelerator-card-drive-global)
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
+* [Registered jack](https://en.wikipedia.org/wiki/Registered_jack) (RJ)
 * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
