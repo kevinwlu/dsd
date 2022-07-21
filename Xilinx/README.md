@@ -2,6 +2,7 @@
 * [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview)
 * [List of Xilinx FPGAs](https://en.wikipedia.org/wiki/List_of_Xilinx_FPGAs)
 * [Xilinx Board Store](https://github.com/Xilinx/XilinxBoardStore)
+  * [Vivado Board Files for Digilent FPGA Boards](https://github.com/Digilent/vivado-boards)
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
 * [Kria](https://www.xilinx.com/products/som/kria.html)
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
