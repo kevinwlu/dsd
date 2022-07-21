@@ -13,18 +13,18 @@
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
   * [Board files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/boards/board_files)
   * [Constraint files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
-* [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable Soc)
+* [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable SoC)
   * [ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
   * [PicoZed](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/picozed/)
   * [MicroZed](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/microzed/)
   * [ZC702](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc702-g.html)
   * [ZC706](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html)
-* [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC)
+* [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC) ([Multiprocessor SoC](https://en.wikipedia.org/wiki/Multiprocessor_system_on_a_chip))
   * [UltraZed](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
-* [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
+* [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC) ([Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) SoC)
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html) Evaluation Kit
   * [ZCU216](https://www.xilinx.com/products/boards-and-kits/zcu216.html) Evaluation Kit
