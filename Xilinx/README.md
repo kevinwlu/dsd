@@ -32,11 +32,11 @@
   * [ZCU1275](https://www.xilinx.com/products/boards-and-kits/zcu1275.html) Characterization Kit
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
 * [Gigabit Ethernet](https://en.wikipedia.org/wiki/Gigabit_Ethernet) (GigE)
-* [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
 * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
 * [FPGA mezzanine card](https://www.xilinx.com/products/boards-and-kits/fmc-cards.html) (FMC)
   * Low pin count (LPC)
   * High pin count (HPC)
+* [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
 * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
 * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
 * [UltraScale Architecture GTH Transceivers User Guide](https://docs.xilinx.com/v/u/en-US/ug576-ultrascale-gth-transceivers)
