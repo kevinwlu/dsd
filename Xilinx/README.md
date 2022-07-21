@@ -3,6 +3,7 @@
 * [List of Xilinx FPGAs](https://en.wikipedia.org/wiki/List_of_Xilinx_FPGAs)
 * [Xilinx Board Store](https://github.com/Xilinx/XilinxBoardStore)
   * [Vivado Board Files for Digilent FPGA Boards](https://github.com/Digilent/vivado-boards)
+  * [Constraint Files for Digilent FPGA Boards](https://github.com/Digilent/digilent-xdc)
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
 * [Kria](https://www.xilinx.com/products/som/kria.html)
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
@@ -18,7 +19,7 @@
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
-  * [Constraints](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
+  * [Constraint Files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
   * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
