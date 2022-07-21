@@ -33,6 +33,8 @@
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
 * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
 * [FPGA mezzanine card](https://www.xilinx.com/products/boards-and-kits/fmc-cards.html) (FMC)
+  * Low pin count (LPC)
+  * High pin count (HPC)
 * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
 * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
 * [UltraScale Architecture GTH Transceivers User Guide](https://docs.xilinx.com/v/u/en-US/ug576-ultrascale-gth-transceivers)
