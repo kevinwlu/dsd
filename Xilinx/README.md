@@ -11,6 +11,8 @@
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Zynq
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
+  * [Board files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/boards/board_files)
+  * [Constraint files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000)
   * [ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
   * [ZC702](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc702-g.html)
@@ -19,9 +21,6 @@
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
-  * [Board files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/boards/board_files)
-  * [Constraint files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
-  * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC)
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html) Evaluation Kit
@@ -29,6 +28,7 @@
   * [ZCU670](https://www.xilinx.com/products/boards-and-kits/zcu670.html) Evaluation Kit
   * [ZCU1275](https://www.xilinx.com/products/boards-and-kits/zcu1275.html) Characterization Kit
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
+* [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
 * [FPGA mezzanine card](https://www.xilinx.com/products/boards-and-kits/fmc-cards.html) (FMC)
 * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
 * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
