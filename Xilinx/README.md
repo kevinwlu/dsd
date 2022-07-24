@@ -26,7 +26,8 @@
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
   * [Digilent Genesys ZU](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
-    * [Resource](https://digilent.com/reference/programmable-logic/genesys-zu/start)
+    * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
+    * [Repository](https://github.com/Digilent/genesys-zu)
     * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
     * [Referenc manual](https://digilent.com/reference/programmable-logic/genesys-zu/reference-manual)
     * [Board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/genesys-zu-5ev/C.0)
