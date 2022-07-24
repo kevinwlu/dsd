@@ -20,6 +20,7 @@
   * [ZC702](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc702-g.html)
   * [ZC706](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html)
 * [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC) ([Multiprocessor SoC](https://en.wikipedia.org/wiki/Multiprocessor_system_on_a_chip))
+  * [Built-In Self Test](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1544716298/Zynq+Ultrascale+MPSOC+BIST+and+SCUI+Guide) (BIST)
   * [UltraZed](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
