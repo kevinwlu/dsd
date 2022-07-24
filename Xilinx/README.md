@@ -26,9 +26,11 @@
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
   * [Digilent Genesys ZU](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
-    * [Genesys ZU-5EV references](https://digilent.com/reference/programmable-logic/genesys-zu/start)
-    * [Genesys ZU-5EV board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/genesys-zu-5ev/C.0)
-    * [Genesys ZU-5EV master XDC files](https://github.com/Digilent/digilent-xdc/blob/master/Genesys-ZU-5EV-D-Master.xdc)
+    * [Resource](https://digilent.com/reference/programmable-logic/genesys-zu/start)
+    * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
+    * [Referenc manual](https://digilent.com/reference/programmable-logic/genesys-zu/reference-manual)
+    * [Board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/genesys-zu-5ev/C.0)
+    * [Master XDC file](https://github.com/Digilent/digilent-xdc/blob/master/Genesys-ZU-5EV-D-Master.xdc)
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC) ([Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) SoC) Wiki
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html) Evaluation Kit
