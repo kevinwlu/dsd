@@ -29,7 +29,7 @@
     * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
     * [Repository](https://github.com/Digilent/genesys-zu)
     * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
-    * [Referenc manual](https://digilent.com/reference/programmable-logic/genesys-zu/reference-manual)
+    * [Reference manual](https://digilent.com/reference/programmable-logic/genesys-zu/reference-manual)
     * [Board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/genesys-zu-5ev/C.0)
     * [Master XDC file](https://github.com/Digilent/digilent-xdc/blob/master/Genesys-ZU-5EV-D-Master.xdc)
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC) ([Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) SoC) Wiki
