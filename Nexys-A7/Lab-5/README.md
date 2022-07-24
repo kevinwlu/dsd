@@ -19,6 +19,7 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
   * Output data changes on the falling edge of SCLK, so that it is stable when the DAC is reading the data on the rising edge of SCLK.
 
 * The **_tone_** module generates a signed triangular wave (a tone) at a sampling rate of 48.8 KHz.
+  * [Online tone generator](https://onlinetonegenerator.com/)
   * The frequency of the tone is determined by the input pitch.
   * The process cnt_pr generates an unsigned sawtooth waveform count by incrementing a 16-bit counter pitch values every clock cycle.
   * The frequency with which it traverses the whole 16-bit count range is thus proportional to pitch.
