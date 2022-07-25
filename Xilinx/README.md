@@ -26,7 +26,7 @@
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
-  * [Digilent Genesys ZU](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
+  * [Digilent Genesys ZU-5EV](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
     * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
     * [Repository](https://github.com/Digilent/genesys-zu)
     * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
