@@ -4,6 +4,7 @@
 * [Xilinx Board Store](https://github.com/Xilinx/XilinxBoardStore)
   * [Board files for Digilent FPGA boards](https://github.com/Digilent/vivado-boards)
   * [Constraint files for Digilent FPGA boards](https://github.com/Digilent/digilent-xdc)
+* [Lead time](https://en.wikipedia.org/wiki/Lead_time)
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
 * [Kria](https://www.xilinx.com/products/som/kria.html)
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
