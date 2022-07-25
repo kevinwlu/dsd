@@ -136,6 +136,7 @@
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
+* [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
   * [360 video projection](https://en.wikipedia.org/wiki/360_video_projection)
