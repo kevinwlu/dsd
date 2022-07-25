@@ -14,7 +14,6 @@
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
   * [Board files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/boards/board_files)
   * [Constraint files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
-  * [PetaLinux](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842250/PetaLinux)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable SoC) Wiki
   * [Avnet ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
   * [Avnet PicoZed](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/picozed/)
@@ -22,6 +21,7 @@
   * [ZC702](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc702-g.html)
   * [ZC706](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html)
 * [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC) ([Multiprocessor SoC](https://en.wikipedia.org/wiki/Multiprocessor_system_on_a_chip)) Wiki
+  * [PetaLinux](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842250/PetaLinux)
   * [Built-In Self Test](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1544716298/Zynq+Ultrascale+MPSOC+BIST+and+SCUI+Guide) (BIST)
   * [Avnet Ultra96-V2](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultra96-v2/)
   * [Avnet UltraZed-EV](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
