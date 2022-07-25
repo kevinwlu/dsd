@@ -23,6 +23,7 @@
   * [ZC706](https://www.xilinx.com/products/boards-and-kits/ek-z7-zc706-g.html)
 * [Zynq UltraScale+ MPSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/444006775/Zynq+UltraScale+MPSoC) ([Multiprocessor SoC](https://en.wikipedia.org/wiki/Multiprocessor_system_on_a_chip)) Wiki
   * [Built-In Self Test](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1544716298/Zynq+Ultrascale+MPSOC+BIST+and+SCUI+Guide) (BIST)
+  * [Avnet Ultra96-V2](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultra96-v2/)
   * [Avnet UltraZed-EV](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
     * The MPSoC EV device with its integrated H.264/H.265 video codec unit (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
