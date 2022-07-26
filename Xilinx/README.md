@@ -57,6 +57,7 @@
 * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
 * [UltraScale Architecture GTH Transceivers User Guide](https://docs.xilinx.com/v/u/en-US/ug576-ultrascale-gth-transceivers)
 * [SATA](https://en.wikipedia.org/wiki/Serial_ATA)
+* [SYZYGY](https://syzygyfpga.io/)
 ## Alveo
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
 * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
