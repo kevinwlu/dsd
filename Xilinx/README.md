@@ -12,10 +12,6 @@
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Zynq
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
-* [Gigabit Ethernet MAC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/478937213/MPSoC+PS+and+PL+Ethernet+Example+Projects) (GEM)
-  * [Ethernet FMC](https://ethernetfmc.com/)
-  * [Board files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/boards/board_files)
-  * [Constraint files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable SoC) Wiki
   * [Avnet ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/)
   * [Avnet PicoZed](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/picozed/)
@@ -47,11 +43,15 @@
   * [ZCU670](https://www.xilinx.com/products/boards-and-kits/zcu670.html) Evaluation Kit
   * [ZCU1275](https://www.xilinx.com/products/boards-and-kits/zcu1275.html) Characterization Kit
   * [ZCU1285](https://www.xilinx.com/products/boards-and-kits/zcu1285.html) Characterization Kit
-* [Gigabit Ethernet](https://en.wikipedia.org/wiki/Gigabit_Ethernet) (GigE)
 * [Media-independent interface](https://en.wikipedia.org/wiki/Media-independent_interface) (MII)
+* [Gigabit Ethernet](https://en.wikipedia.org/wiki/Gigabit_Ethernet) (GigE)
 * [FPGA mezzanine card](https://www.xilinx.com/products/boards-and-kits/fmc-cards.html) (FMC)
   * Low pin count (LPC)
   * High pin count (HPC)
+* [Gigabit Ethernet MAC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/478937213/MPSoC+PS+and+PL+Ethernet+Example+Projects) (GEM)
+  * [Ethernet FMC](https://ethernetfmc.com/)
+  * [Board files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/boards/board_files)
+  * [Constraint files](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/tree/master/Vivado/src/constraints)
 * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
 * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
 * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
