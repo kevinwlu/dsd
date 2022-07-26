@@ -66,7 +66,7 @@
 * [Google](https://en.wikipedia.org/wiki/Google)
 * [IBM](https://en.wikipedia.org/wiki/IBM)
 * [Intel](https://en.wikipedia.org/wiki/Intel)
-* [ISSI](https://www.issi.com/)
+* [ISSI](https://www.issi.com/) (Integrated Silicon Solution Inc.)
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Marvell](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
 * [Menlo Micro](https://en.wikipedia.org/wiki/Menlo_Micro)
