@@ -35,7 +35,7 @@
     * [Installing Vivado, Xilinx SDK, and Digilent Board Files](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-sdk)
     * [Board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/genesys-zu-5ev/C.0)
     * [Master XDC file](https://github.com/Digilent/digilent-xdc/blob/master/Genesys-ZU-5EV-D-Master.xdc)
-    * [Out-of-box SD image](https://github.com/Digilent/Genesys-ZU/releases/tag/5ev%2Foob%2Frelease%2Fv2.1)
+    * [Releases](https://github.com/Digilent/Genesys-ZU/releases)
     * [Example projects](https://digilent.com/reference/programmable-logic/genesys-zu/demos/start)
     * [HDMI demo](https://digilent.com/reference/programmable-logic/genesys-zu/demos/hdmi)
     * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
