@@ -20,7 +20,7 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
   * To reduce installation time, disable any anti-virus software and power saving settings when running the installer
 * Provide Xilinx user account credentials to download the required files
 * Select "Download and Install Now"
-* Select Vivado > Vivado ML Standard
+* Select [Vivado](https://en.wikipedia.org/wiki/Xilinx_Vivado) > Vivado ML Standard
 * Design Tools > Vivado Design Suite that includes Vivado and [Vitis](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html) HLS ([high-level synthesis](https://en.wikipedia.org/wiki/High-level_synthesis)) -- uncheck all others such as
   * Vitis Model Composer (Xilinx Toolbox for MATLAB and Simulink. Includes the functionality of System Generator for DSP)
   * DocNav
