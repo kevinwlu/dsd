@@ -81,6 +81,7 @@
 * [What's new in Vitis](https://www.xilinx.com/products/design-tools/vitis/vitis-whats-new.html)
 * [What's different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
 * [Getting started with Vivado and Vitis for baremetal software projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi)
+* [Vitis High-Level Synthesis User Guide](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Getting-Started-with-Vitis-HLS)
 * [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
   * [Directive](https://en.wikipedia.org/wiki/Directive_(programming)) or pragma
   * [Language construct](https://en.wikipedia.org/wiki/Language_construct)  
