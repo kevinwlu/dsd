@@ -82,6 +82,8 @@
 * [What's different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
 * [Getting started with Vivado and Vitis for baremetal software projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi)
 * [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
+  * [Directive](https://en.wikipedia.org/wiki/Directive_(programming)) or pragma
+  * [Language construct](https://en.wikipedia.org/wiki/Language_construct)  
   * [Pipeline (computing)](https://en.wikipedia.org/wiki/Pipeline_(computing))
   * [Single instruction, multiple data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data) (SIMD)
   * [Single program, multiple data](https://en.wikipedia.org/wiki/Single_program,_multiple_data) (SPMD)
