@@ -32,7 +32,7 @@
     * [Repository](https://github.com/Digilent/genesys-zu)
     * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
     * [Reference manual](https://digilent.com/reference/programmable-logic/genesys-zu/reference-manual)
-    * [Genesys ZU Vitis Accleration Platform](https://www.hackster.io/adam-taylor/genesys-zu-vitis-accleration-platform-2e86d4)
+    * [Genesys ZU Vitis Accleration Platform](https://www.hackster.io/adam-taylor/genesys-zu-vitis-accleration-platform-2e86d4) by [Adam Taylor](https://www.hackster.io/adam-taylor)
     * [Installing Vivado, Xilinx SDK, and Digilent Board Files](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-sdk)
     * [Board files](https://github.com/Digilent/vivado-boards/tree/master/new/board_files/genesys-zu-5ev/C.0)
     * [Master XDC file](https://github.com/Digilent/digilent-xdc/blob/master/Genesys-ZU-5EV-D-Master.xdc)
