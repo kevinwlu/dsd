@@ -27,6 +27,8 @@
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
     * [Getting Tensil to run ResNet at 300 FPS on ZCU104](https://www.hackster.io/petrohi/getting-tensil-to-run-resnet-at-300-fps-on-zcu104-2922eb)
+      * [Tensil](https://www.tensil.ai/)
+      * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network)
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
   * [Digilent Genesys ZU-5EV](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
     * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
