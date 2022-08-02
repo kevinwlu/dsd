@@ -26,6 +26,7 @@
     * The MPSoC EV device with its integrated H.264/H.265 video codec unit (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
+    * [Getting Tensil to run ResNet at 300 FPS on ZCU104](https://www.hackster.io/petrohi/getting-tensil-to-run-resnet-at-300-fps-on-zcu104-2922eb)
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
   * [Digilent Genesys ZU-5EV](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
     * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
