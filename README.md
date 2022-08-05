@@ -126,6 +126,7 @@
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
+* [In-memory processing](https://en.wikipedia.org/wiki/In-memory_processing)
 * [Multiple buffering](https://en.wikipedia.org/wiki/Multiple_buffering)
 * [Framebuffer](https://en.wikipedia.org/wiki/Framebuffer)
 * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
