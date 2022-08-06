@@ -51,6 +51,7 @@
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
 
 ## America
+* [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
 * [Ambiq](https://ambiq.com/)
