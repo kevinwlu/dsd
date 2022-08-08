@@ -100,6 +100,7 @@
   * [Advanced eXtensible Interface](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface) (AXI)
 * [Xilinx Runtime Library](https://www.xilinx.com/products/design-tools/vitis/xrt.html) (XRT)
 * [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
+  * [Tool command language](https://vhdlwhiz.com/why-you-need-to-learn-tcl/) (Tcl)
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [JPEG](https://en.wikipedia.org/wiki/JPEG)
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
