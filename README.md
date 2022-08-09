@@ -86,6 +86,8 @@
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
   * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
+  * [Transistor–transistor logic](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) (TTL)
+  * []()
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
 * [Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
