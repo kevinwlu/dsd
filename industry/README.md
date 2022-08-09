@@ -59,6 +59,7 @@
   * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
   * [Maxim Integrated](https://en.wikipedia.org/wiki/Maxim_Integrated)
+    * [Dallas Semiconductor](https://en.wikipedia.org/wiki/Dallas_Semiconductor)
 * [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
 * [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
 * [Cirrus Logic](https://en.wikipedia.org/wiki/Cirrus_Logic)
