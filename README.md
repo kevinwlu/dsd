@@ -152,6 +152,7 @@
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
+  * [Blackmagic Design](https://en.wikipedia.org/wiki/Blackmagic_Design)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
   * [360 video projection](https://en.wikipedia.org/wiki/360_video_projection)
