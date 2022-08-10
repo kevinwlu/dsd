@@ -147,6 +147,7 @@
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
 * [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT)
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
+  * [Pixel format](https://en.wikipedia.org/wiki/Pixel_Format)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
