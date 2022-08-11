@@ -5,15 +5,21 @@
   * [Board files for Digilent FPGA boards](https://github.com/Digilent/vivado-boards)
   * [Constraint files for Digilent FPGA boards](https://github.com/Digilent/digilent-xdc)
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time)
-* [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
-* [Kria](https://www.xilinx.com/products/som/kria.html)
-  * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
-  * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
-* [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
+## Alveo
+* [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
+* [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
 ## Artix
 * [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
 ## Kintex
 * [Kintex UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/kintex-ultrascale-plus.html)
+## Krial
+* [Kria](https://www.xilinx.com/products/som/kria.html)
+  * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
+  * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
+## Versal
+* [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
+## Virtex
+* [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
 ## Zynq
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable SoC) Wiki
@@ -74,9 +80,6 @@
 * [SYZYGY](https://syzygyfpga.io/)
 * [Small form-factor pluggable transceiver](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver) (SFP)
 * [Registered jack](https://en.wikipedia.org/wiki/Registered_jack) (RJ)
-## Alveo
-* [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
-* [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
 ## 5G
 * [Qualcomm 5G DU X100 Accelerator Card](https://www.qualcomm.com/news/releases/2021/06/qualcomm-introduces-new-5g-distributed-unit-accelerator-card-drive-global)
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
