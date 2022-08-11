@@ -10,6 +10,8 @@
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
   * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
+## Artix
+* [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
 ## Zynq
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable SoC) Wiki
