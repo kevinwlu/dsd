@@ -12,7 +12,7 @@
 * [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
 ## Kintex
 * [Kintex UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/kintex-ultrascale-plus.html)
-## Krial
+## Kria
 * [Kria](https://www.xilinx.com/products/som/kria.html)
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
   * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
