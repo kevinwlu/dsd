@@ -16,6 +16,8 @@
 * [Kria](https://www.xilinx.com/products/som/kria.html)
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
   * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
+## Spartan
+* [Spartan-7](https://www.xilinx.com/products/silicon-devices/fpga/spartan-7.html)
 ## Versal
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Virtex
