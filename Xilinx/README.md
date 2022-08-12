@@ -9,8 +9,10 @@
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
 * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
 ## Artix
+* [Artix-7](https://www.xilinx.com/products/silicon-devices/fpga/artix-7.html)
 * [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
 ## Kintex
+* [Kintex-7](https://www.xilinx.com/products/silicon-devices/fpga/kintex-7.html)
 * [Kintex UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/kintex-ultrascale-plus.html)
 ## Kria
 * [Kria](https://www.xilinx.com/products/som/kria.html)
@@ -22,6 +24,7 @@
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Virtex
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
+* [Virtex-7](https://www.xilinx.com/products/silicon-devices/fpga/virtex-7.html)
 ## Zynq
 * [System on a chip](https://en.wikipedia.org/wiki/System_on_a_chip) (SoC)
 * [Zynq-7000 APSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530183/Zynq-7000) (All Programmable SoC) Wiki
