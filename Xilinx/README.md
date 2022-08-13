@@ -80,7 +80,7 @@
 * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
 * [PCIe FMC](https://www.xilinx.com/products/boards-and-kits/1-mbtpko.html)
 * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
-* [UltraScale Architecture GTH Transceivers User Guide](https://docs.xilinx.com/v/u/en-US/ug576-ultrascale-gth-transceivers)
+* [UltraScale Architecture GTH Transceivers User Guide](https://docs.xilinx.com/v/u/en-US/ug576-ultrascale-gth-transceivers) (UG576)
 * [SATA](https://en.wikipedia.org/wiki/Serial_ATA)
 * [SYZYGY](https://syzygyfpga.io/)
 * [Small form-factor pluggable transceiver](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver) (SFP)
