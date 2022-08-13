@@ -1,4 +1,4 @@
-# AMD Xilinx
+# AMD Xilinx FPGAs
 * [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview)
 * [List of Xilinx FPGAs](https://en.wikipedia.org/wiki/List_of_Xilinx_FPGAs)
 * [Xilinx Board Store](https://github.com/Xilinx/XilinxBoardStore)
