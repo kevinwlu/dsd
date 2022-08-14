@@ -156,6 +156,7 @@
 * [Blackmagic Design](https://en.wikipedia.org/wiki/Blackmagic_Design)
   * [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
   * [Blackmagic Fusion](https://en.wikipedia.org/wiki/Blackmagic_Fusion)
+  * [Visual effects](https://en.wikipedia.org/wiki/Visual_effects) (VFX)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
   * [360 video projection](https://en.wikipedia.org/wiki/360_video_projection)
