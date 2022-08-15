@@ -104,7 +104,7 @@
   * [C/RTL Co-Simulation in Vitis HLS](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/C/RTL-Co-Simulation-in-Vitis-HLS)
 * [Vitis Unified Software Platform Documentation: Application Acceleration Development](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis) (UG1393)
   * [Out-of-Context Synthesis](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Out-of-Context-Synthesis)
-* [Vitis Unified Software Platform Documentation: Embedded Software Development](https://docs.xilinx.com/v/u/2019.2-English/ug1400-vitis-embedded) (UG1400)
+* [Vitis Unified Software Platform Documentation: Embedded Software Development](https://docs.xilinx.com/r/en-US/ug1400-vitis-embedded) (UG1400)
 * [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
   * [Directive](https://en.wikipedia.org/wiki/Directive_(programming)) or pragma
   * [Language construct](https://en.wikipedia.org/wiki/Language_construct)  
