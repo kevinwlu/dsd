@@ -129,6 +129,7 @@
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
+* [AMD Accelerated Processing Unit](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit) (APU)
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
 * [In-memory processing](https://en.wikipedia.org/wiki/In-memory_processing)
 * [Legendre memory unit](https://www.nengo.ai/nengo/examples/learning/lmu.html) (LMU)
