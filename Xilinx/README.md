@@ -100,6 +100,7 @@
 * [What's different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
 * [Getting started with Vivado and Vitis for baremetal software projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi)
 * [Vitis High-Level Synthesis User Guide](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/Getting-Started-with-Vitis-HLS) (UG1399)
+  * [Co-simulation](https://en.wikipedia.org/wiki/Co-simulation)
 * [Vitis Unified Software Platform Documentation: Application Acceleration Development](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis) (UG1393)
   * [Out-of-Context Synthesis](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Out-of-Context-Synthesis)
 * [Vitis tutorials](https://github.com/Xilinx/Vitis-Tutorials)
