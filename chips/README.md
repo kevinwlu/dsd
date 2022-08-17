@@ -12,9 +12,18 @@
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
+* [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
+  * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
 * Qualcomm [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
+
+## Packaging
+* [Integrated circuit packaging](https://en.wikipedia.org/wiki/Integrated_circuit_packaging)
+* [List of integrated circuit packaging types](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types)
+* [Dual in-line package](https://en.wikipedia.org/wiki/Dual_in-line_package)
+* [Chip carrier](https://en.wikipedia.org/wiki/Chip_carrier)
+* [Flat no-leads package](https://en.wikipedia.org/wiki/Flat_no-leads_package)
 
 ## Others
 * [555 timer IC](https://en.wikipedia.org/wiki/555_timer_IC)
