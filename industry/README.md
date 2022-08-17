@@ -10,6 +10,7 @@
   * [Three-dimensional integrated circuit](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit) (3D IC)
   * [Through-silicon via](https://en.wikipedia.org/wiki/Through-silicon_via) (TSV)
   * [Chiplet](https://en.wikichip.org/wiki/chiplet)
+  * [Multi-project wafer service](https://en.wikipedia.org/wiki/Multi-project_wafer_service) (MPW)
   * [Multi-chip module](https://en.wikipedia.org/wiki/Multi-chip_module) (MCM)
   * [Die shrink](https://en.wikipedia.org/wiki/Die_shrink) provides more chips onto each wafer, resulting in lowered manufacturing costs per chip
   * [Multigate device](https://en.wikipedia.org/wiki/Multigate_device)
