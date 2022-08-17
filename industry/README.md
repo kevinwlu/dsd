@@ -132,6 +132,7 @@
 * [Magnachip](https://www.magnachip.com/)
 * [Samsung Electronics](https://en.wikipedia.org/wiki/Samsung_Electronics)
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
+* [Key Foundry](https://www.key-foundry.com/)
 ### Taiwan
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
 * [Asus](https://en.wikipedia.org/wiki/Asus)
