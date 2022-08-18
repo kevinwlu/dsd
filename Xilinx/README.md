@@ -96,7 +96,9 @@
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
+## Livestreaming
 * [Comparison of the 15 Best Live Streaming Software](https://www.dacast.com/blog/live-broadcasting-software/)
+  * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
   * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
 ## Vitis
