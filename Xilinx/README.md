@@ -101,6 +101,7 @@
   * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
   * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
+* [PRISM Live Studio](https://prismlive.com/)
 ## Vitis
 * [Vitis Unified Software Platform](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html)
 * [Get started with Vitis](https://www.xilinx.com/developer/products/vitis.html)
