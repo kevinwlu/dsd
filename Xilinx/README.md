@@ -96,6 +96,8 @@
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
+* [Comparison of the 15 Best Live Streaming Software](https://www.dacast.com/blog/live-broadcasting-software/)
+* [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 ## Vitis
 * [Vitis Unified Software Platform](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html)
 * [Get started with Vitis](https://www.xilinx.com/developer/products/vitis.html)
