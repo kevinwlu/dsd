@@ -221,7 +221,7 @@
 ## Hardware Description Languages (HDL)
 
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
-* Textbook: [Free Range VHDL](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) 
+* Textbook: [Free Range VHDL](/free_range_vhdl.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
   > Page 19: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."
 
