@@ -21,6 +21,7 @@
 ## Spartan
 * [Spartan-7](https://www.xilinx.com/products/silicon-devices/fpga/spartan-7.html)
 ## Versal
+* [Network on a chip](https://en.wikipedia.org/wiki/Network_on_a_chip) (NoC)
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
 ## Virtex
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
