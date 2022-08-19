@@ -101,6 +101,7 @@
 * [Comparison of the 15 Best Live Streaming Software](https://www.dacast.com/blog/live-broadcasting-software/)
   * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
   * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
+  * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
 * [PRISM Live Studio](https://prismlive.com/)
 ## Vitis
