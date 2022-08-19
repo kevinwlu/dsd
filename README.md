@@ -154,6 +154,7 @@
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
+* [Uncompressed video](https://en.wikipedia.org/wiki/Uncompressed_video)
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
 * [Blackmagic Design](https://en.wikipedia.org/wiki/Blackmagic_Design)
   * [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
