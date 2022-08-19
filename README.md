@@ -222,7 +222,7 @@
 
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 * Textbook: [Free Range VHDL](/free_range_vhdl.pdf) 
-by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](http://freerangefactory.org/about.html)
+by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](https://github.com/fabriziotappero)
   > Page 19: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."
 
   > Page 132: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."
