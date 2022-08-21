@@ -12,6 +12,8 @@
   * [SystemVerilog examples](https://www.asic-world.com/examples/systemverilog/index.html) by Deepak Kumar Tala
   * [SystemVerilog tutorial](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
   * [SystemVerilog testbench examples](https://verificationguide.com/systemverilog-examples/systemverilog-testbench-examples/)
+* [OpenCores](https://en.wikipedia.org/wiki/OpenCores)
+  * [opencores.org](https://opencores.org/)
 * [Free Range Factory IP Cores](https://github.com/fabriziotappero/ip-cores)
   * Arithmetic core
   * Prototype board
