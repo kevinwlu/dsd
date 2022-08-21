@@ -12,7 +12,7 @@
   * [SystemVerilog examples](https://www.asic-world.com/examples/systemverilog/index.html) by Deepak Kumar Tala
   * [SystemVerilog tutorial](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
   * [SystemVerilog testbench examples](https://verificationguide.com/systemverilog-examples/systemverilog-testbench-examples/)
-* [Free Range Factory IP Cores](http://freerangefactory.org/cores.html)
+* [Free Range Factory IP Cores](https://github.com/fabriziotappero/ip-cores)
   * Arithmetic core
   * Prototype board
   * Communication controller
