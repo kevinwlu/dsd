@@ -27,6 +27,7 @@
     * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
     * [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/)
     * [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/)
+  * [List of free and open-source software packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
 * [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
   * [Industry](/industry)
   * [Chips](/chips)
