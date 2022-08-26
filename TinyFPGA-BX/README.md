@@ -1,5 +1,7 @@
 # TinyFPGA BX
 * [TinyFPGA](https://tinyfpga.com/)
+  * [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
+  * [iCE (FPGA)](https://en.wikipedia.org/wiki/ICE_(FPGA))
 * [TinyFPGA BX](https://store.tinyfpga.com/products/tinyfpga-bx) on [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 * [User Guide](https://tinyfpga.com/bx/guide.html)
 * [GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
