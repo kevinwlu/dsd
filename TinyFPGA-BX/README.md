@@ -34,7 +34,24 @@ $ tinyprog -l --pyserial
             FPGA: ice40lp8k-cm81
 ```
 ```
-apio drivers --serial-enable
+$ lsusb
+2022-08-27 10:40:14.254 system_profiler[22591:113605] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+2022-08-27 10:40:14.255 system_profiler[22591:113605] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
+/usr/local/bin/lsusb: line 89: 16#14
+14
+14: syntax error in expression (error token is "14
+14")
+Bus 000 Device 005: ID 05ac
+05ac
+1d50:0274
+8290
+6130 Apple Inc.
+Apple Inc.
+1d50 Apple Internal Keyboard / Trackpad  Serial: D3H60636TK1FTV4A03FS
+Bus 000 Device 001: ID 1d6b:LPTH Linux Foundation USB 3.0 Bus
+```
+```
+$ apio drivers --serial-enable
 Enable Serial drivers for FPGA
 Updated 1 tap (homebrew/core).
 Warning: libffi 3.4.2 is already installed, it's just not linked.
