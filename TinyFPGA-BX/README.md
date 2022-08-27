@@ -33,6 +33,28 @@ $ tinyprog -l --pyserial
             UUID: 02d23f38-bda0-4245-84c5-71410e5f140b
             FPGA: ice40lp8k-cm81
 ```
+```
+apio drivers --serial-enable
+Enable Serial drivers for FPGA
+Updated 1 tap (homebrew/core).
+Warning: libffi 3.4.2 is already installed, it's just not linked.
+To link this version, run:
+  brew link libffi
+Unlinking /usr/local/Cellar/libffi/3.4.2... 0 symlinks removed.
+Warning: Refusing to link macOS provided/shadowed software: libffi
+For compilers to find libffi you may need to set:
+  export LDFLAGS="-L/usr/local/opt/libffi/lib"
+  export CPPFLAGS="-I/usr/local/opt/libffi/include"
+
+For pkg-config to find libffi you may need to set:
+  export PKG_CONFIG_PATH="/usr/local/opt/libffi/lib/pkgconfig"
+Warning: libusb 1.0.26 is already installed and up-to-date.
+To reinstall 1.0.26, run:
+  brew reinstall libusb
+Unlinking /usr/local/Cellar/libusb/1.0.26... 6 symlinks removed.
+Linking /usr/local/Cellar/libusb/1.0.26... 6 symlinks created.
+Serial drivers enabled
+```
 * [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
 * [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
 * [APIO](https://github.com/FPGAwars/apio-ide) IDE
