@@ -7,7 +7,8 @@
 * [TinyFPGA BX User Guide](https://tinyfpga.com/bx/guide.html)
   * First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
   * [apio.ini](https://github.com/tinyfpga/TinyFPGA-BX/blob/master/apio_template/apio.ini) has ```[env]``` and ```board = TinyFPGA-BX```
-  * [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)0.4.0
+  * [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
+    * macOS 12.5.1
     * apio 0.4.0b5
     * tinyfpgab 1.1.0
     * tinyprog 1.0.21
