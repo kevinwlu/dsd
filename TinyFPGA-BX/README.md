@@ -3,7 +3,7 @@
   * [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
   * [iCE (FPGA)](https://en.wikipedia.org/wiki/ICE_(FPGA))
 * [TinyFPGA BX](https://store.tinyfpga.com/products/tinyfpga-bx)
-  * 7680 [logic cells](https://en.wikipedia.org/wiki/Logic_block)
+  * iCE40 LP8K with 7680 [logic cells](https://en.wikipedia.org/wiki/Logic_block)
   * [Adafruit](https://www.adafruit.com/product/4038) 
   * [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 * [TinyFPGA BX GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
