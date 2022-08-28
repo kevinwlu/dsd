@@ -33,6 +33,7 @@
   * [Chips](/chips)
 * Course [projects](/projects)
 * [Code](/code) repositories
+* [Tools](/tools)
 
 ## DSD Fundamentals
 
