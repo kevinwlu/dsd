@@ -7,13 +7,17 @@
   * [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 * [TinyFPGA BX GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
 * [TinyFPGA BX User Guide](https://tinyfpga.com/bx/guide.html)
-* [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
-* [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
-* [apio](https://github.com/FPGAwars/apio)
-* [Apio IDE](https://github.com/FPGAwars/apio-ide) IDE
-* [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
-* First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
-![](/TinyFPGA-BX/boot.gif) ![](/TinyFPGA-BX/sos.gif)
+  * [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
+  * [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
+  * [apio](https://github.com/FPGAwars/apio)
+  * [Apio IDE](https://github.com/FPGAwars/apio-ide)
+  * [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
+  * Connect a micro USB cable to the TinyFPGA board
+  * The power LED should light up when the board is connected
+  * The boot LED should pulse on and off to indicate the bootloader is active
+![](/TinyFPGA-BX/boot.gif)
+* [apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
+![](/TinyFPGA-BX/sos.gif)
 * [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
     * macOS 12.5.1
     * apio 0.4.0b5
