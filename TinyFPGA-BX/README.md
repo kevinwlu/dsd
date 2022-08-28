@@ -26,7 +26,10 @@ $ apio drivers --serial-enable
 $ sudo usermod -a -G dialout $USER
 $ tinyprog --update-bootloader
 ```
-  * The Verilog code ([top.v](/TinyFPGA-BX/top.v)) of the [apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template) can be uploaded and the on-board user LED blinks “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
+  * Atom > File > Settings > Install > apio-ide
+  * Download [apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)
+  * Atom > File > Select Folder > apio_template
+  * The Verilog code ([top.v](/TinyFPGA-BX/top.v)) can be uploaded and the on-board user LED blinks “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
 ![](/TinyFPGA-BX/sos.gif)
   * [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
   * macOS 12.5.1
