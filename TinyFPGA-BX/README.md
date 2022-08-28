@@ -16,9 +16,9 @@
   * The power LED should light up when the board is connected
   * The boot LED should pulse on and off to indicate the bootloader is active
 ![](/TinyFPGA-BX/boot.gif)
-* [apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
+  * [apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
 ![](/TinyFPGA-BX/sos.gif)
-* [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
+  * [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
     * macOS 12.5.1
     * apio 0.4.0b5
     * tinyfpgab 1.1.0
