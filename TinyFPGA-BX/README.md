@@ -2,12 +2,19 @@
 * [TinyFPGA](https://tinyfpga.com/)
   * [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
   * [iCE (FPGA)](https://en.wikipedia.org/wiki/ICE_(FPGA))
-* [TinyFPGA BX](https://store.tinyfpga.com/products/tinyfpga-bx) on [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
+* [TinyFPGA BX](https://store.tinyfpga.com/products/tinyfpga-bx)
+  * [Adafruit](https://www.adafruit.com/product/4038) 
+  * [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 * [TinyFPGA BX GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
 * [TinyFPGA BX User Guide](https://tinyfpga.com/bx/guide.html)
-  * First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
-  * [apio](https://github.com/FPGAwars/apio)
-  * [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
+* [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
+* [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
+* [apio](https://github.com/FPGAwars/apio)
+* [Apio IDE](https://github.com/FPGAwars/apio-ide) IDE
+* [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
+* First project tutorial ([apio_template](https://github.com/tinyfpga/TinyFPGA-BX/tree/master/apio_template)) in Verilog ([top.v](/TinyFPGA-BX/top.v)) with the on-board user LED blinking “SOS” in [Morse code](https://en.wikipedia.org/wiki/Morse_code)
+
+* [Can't create serial port (macOS)](https://discourse.tinyfpga.com/t/cant-create-serial-port-macos-solved/422)
     * macOS 12.5.1
     * apio 0.4.0b5
     * tinyfpgab 1.1.0
@@ -73,9 +80,4 @@ Unlinking /usr/local/Cellar/libusb/1.0.26... 6 symlinks removed.
 Linking /usr/local/Cellar/libusb/1.0.26... 6 symlinks created.
 Serial drivers enabled
 ```
-* [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
-* [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
-* [APIO](https://github.com/FPGAwars/apio-ide) IDE
-* [Berkeley Logic Interchange Format](http://www.cs.columbia.edu/~cs6861/sis/blif/index.html) (BLIF)
-* Lattice [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
-* Adafruit [description and technical details](https://www.adafruit.com/product/4038) 
+
