@@ -5,6 +5,6 @@
 * Digilent [XDC](https://github.com/Digilent/digilent-xdc)
 * [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC or H.264)
 * [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) (HEVC or H.265)
-* [Xilinx H.264/H.265 Video Codec Unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU)
 * [Xilinx Zynq UltraScale+ MPSoC Video Codec Unit](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842546/Xilinx+Zynq+UltraScale+MPSoC+Video+Codec+Unit)
+* [Xilinx LogiCORE H.264/H.265 Video Codec Unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU)
 * [Cast JPEG-EX-F: Ultra-Fast, 4K/8K, Baseline and Extended JPEG Encoder](https://www.xilinx.com/products/intellectual-property/1-gfeqs7.html)
