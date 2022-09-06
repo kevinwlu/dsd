@@ -1,4 +1,5 @@
 # Standards
+* [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
 * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
