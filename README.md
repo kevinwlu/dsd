@@ -234,7 +234,7 @@ by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fab
 
   > Page 171: "After years of development by the US Department of Defense, in February 1986 all VHDL rights were transferred to the Institute of Electrical and Electronics Engineers (IEEE) which since then has carried on the process of standardization of the language.
 After several language standardization steps that took place in 1987, 1993, 2000, 2002, and 2008, VHDL now includes a large set of packages that, once included in your code, give you the possibility of using several mathematical constants, numerical functions, overloaded operators, type conversion functions, enhanced signal types, and much more."
-* IEEE [Council on Electronic Design Automation](https://en.wikipedia.org/wiki/IEEE_Council_on_Electronic_Design_Automation) (CEDA)
+* [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
 * IEEE [Design Automation Standards Committee](https://en.wikipedia.org/wiki/Design_Automation_Standards_Committee) (DASC)
 * [Accellera](https://en.wikipedia.org/wiki/Accellera)
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
