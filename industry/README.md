@@ -1,6 +1,9 @@
 # Industry
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+  * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
+  * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
+  * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
