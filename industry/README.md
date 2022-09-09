@@ -52,10 +52,11 @@
 * [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants)
 * [List of MEMS foundries](https://en.wikipedia.org/wiki/List_of_MEMS_foundries)
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
-  * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
-  * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))
   * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
-
+  * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
+  * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
+  * [Aldec](https://en.wikipedia.org/wiki/Aldec)
+  * [Altium](https://en.wikipedia.org/wiki/Altium)
 ## America
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
