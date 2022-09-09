@@ -4,6 +4,8 @@
   * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
   * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
   * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
+  * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
+  * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
