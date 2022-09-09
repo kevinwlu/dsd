@@ -113,8 +113,6 @@
   * [SYZYGY](https://syzygyfpga.io/)
   * [Bit error rate](https://en.wikipedia.org/wiki/Bit_error_rate)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
-  * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
-  * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor)
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
