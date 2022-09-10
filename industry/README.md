@@ -108,8 +108,7 @@
 * [Uhnder](https://www.uhnder.com/)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
-## Asia
-### China
+## China
 * [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
 * [Allwinner](https://en.wikipedia.org/wiki/Allwinner_Technology)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
@@ -128,7 +127,7 @@
 * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
-### Japan
+## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
 * [Hitachi](https://en.wikipedia.org/wiki/Hitachi)
@@ -140,13 +139,13 @@
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
-### South Korea
+## South Korea
 * [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)
 * [Magnachip](https://www.magnachip.com/)
 * [Samsung Electronics](https://en.wikipedia.org/wiki/Samsung_Electronics)
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 * [Key Foundry](https://www.key-foundry.com/)
-### Taiwan
+## Taiwan
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
 * [Asus](https://en.wikipedia.org/wiki/Asus)
 * [BenQ](https://en.wikipedia.org/wiki/BenQ)
