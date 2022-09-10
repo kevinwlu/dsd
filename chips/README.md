@@ -1,4 +1,5 @@
 # Chips
+* [2020–present global chip shortage](https://en.wikipedia.org/wiki/2020%E2%80%93present_global_chip_shortage)
 * [The basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit)
