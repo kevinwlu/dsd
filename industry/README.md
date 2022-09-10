@@ -129,6 +129,7 @@
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ### Japan
+* [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
 * [Hitachi](https://en.wikipedia.org/wiki/Hitachi)
 * [Kioxia](https://en.wikipedia.org/wiki/Kioxia)
