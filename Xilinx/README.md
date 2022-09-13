@@ -39,8 +39,6 @@
   * [Built-In Self Test](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1544716298/Zynq+Ultrascale+MPSOC+BIST+and+SCUI+Guide) (BIST)
   * [Avnet Ultra96-V2](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultra96-v2/)
   * [Avnet UltraZed-EV](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
-  * The Zynq UltraScale+ MPSoC EV device with its integrated Xilinx LogiCORE IP [H.264/H.265 video codec unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
-  * The CAST [JPEG-EWX-F](https://www.xilinx.com/products/intellectual-property/1-gfeqs7.html) IP core features input resolution up to 64kx64k
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
     * [Getting Tensil to run ResNet at 300 FPS on ZCU104](https://www.hackster.io/petrohi/getting-tensil-to-run-resnet-at-300-fps-on-zcu104-2922eb)
@@ -64,6 +62,8 @@
     * [HDMI demo](https://digilent.com/reference/programmable-logic/genesys-zu/demos/hdmi)
     * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
     * [Camera Serial Interface](https://en.wikipedia.org/wiki/Camera_Serial_Interface) (CSI)
+  * The Zynq UltraScale+ MPSoC EV device with its integrated Xilinx LogiCORE IP [H.264/H.265 video codec unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
+  * The CAST [JPEG-EWX-F](https://www.xilinx.com/products/intellectual-property/1-gfeqs7.html) IP core features input resolution up to 64kx64k
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC) ([Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) SoC) Wiki
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html) Evaluation Kit
