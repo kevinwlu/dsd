@@ -39,7 +39,7 @@
   * [Built-In Self Test](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1544716298/Zynq+Ultrascale+MPSOC+BIST+and+SCUI+Guide) (BIST)
   * [Avnet Ultra96-V2](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultra96-v2/)
   * [Avnet UltraZed-EV](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
-    * The MPSoC EV device with its integrated [H.264/H.265 video codec unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
+    * The Zynq UltraScale+ MPSoC EV device with its integrated Xilinx LogiCORE IP [H.264/H.265 video codec unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
   * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
   * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
     * [Getting Tensil to run ResNet at 300 FPS on ZCU104](https://www.hackster.io/petrohi/getting-tensil-to-run-resnet-at-300-fps-on-zcu104-2922eb)
