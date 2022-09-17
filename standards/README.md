@@ -8,7 +8,7 @@
 * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
-  * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS)
+  * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
 * [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association) (SIA)
 * [Society of Motion Picture and Television Engineers](https://en.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers) (SMPTE)
 * [Video Electronics Standards Association](https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association) (VESA)
