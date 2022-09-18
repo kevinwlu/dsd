@@ -184,3 +184,4 @@
 * [Telefunken](https://en.wikipedia.org/wiki/Telefunken)
 * [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics)
 * [u-blox](https://en.wikipedia.org/wiki/U-blox)
+* [X-Fab](https://en.wikipedia.org/wiki/X-Fab)
