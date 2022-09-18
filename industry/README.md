@@ -105,6 +105,7 @@
 * [Rambus](https://en.wikipedia.org/wiki/Rambus)
 * [Synaptics](https://en.wikipedia.org/wiki/Synaptics)
 * [Silicon Labs](https://en.wikipedia.org/wiki/Silicon_Labs)
+* [Skorpios](https://www.skorpiosinc.com/)
 * [SkyWater](https://en.wikipedia.org/wiki/SkyWater_Technology)
 * [Skyworks](https://en.wikipedia.org/wiki/Skyworks_Solutions)
 * [Syntiant](https://www.syntiant.com/)
