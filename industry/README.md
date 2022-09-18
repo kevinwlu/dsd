@@ -87,6 +87,7 @@
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Littelfuse](https://en.wikipedia.org/wiki/Littelfuse)
   * [IXYS Corporation](https://en.wikipedia.org/wiki/IXYS_Corporation)
+* [MACOM](https://en.wikipedia.org/wiki/MACOM_Technology_Solutions)
 * [Marvell](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
 * [Menlo Micro](https://en.wikipedia.org/wiki/Menlo_Micro)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
