@@ -172,6 +172,7 @@
 ## Europe
 * [ams AG](https://en.wikipedia.org/wiki/Ams_AG)
 * [ARM](https://en.wikipedia.org/wiki/Arm_Ltd.)
+* [Elmos Semiconductor](https://en.wikipedia.org/wiki/Elmos_Semiconductor)
 * [FTDI](https://en.wikipedia.org/wiki/FTDI)
 * [Melexis](https://de.wikipedia.org/wiki/Melexis)
 * [Nexperia](https://en.wikipedia.org/wiki/Nexperia)
