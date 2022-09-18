@@ -4,6 +4,7 @@
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
 * [The basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
+* [Chiplet](https://en.wikipedia.org/wiki/Chiplet)
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
