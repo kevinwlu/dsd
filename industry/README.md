@@ -111,6 +111,7 @@
 * [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 * [TI](https://en.wikipedia.org/wiki/Texas_Instruments)
 * [Uhnder](https://www.uhnder.com/)
+* [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
 ## China
@@ -179,5 +180,6 @@
 * [Infineon Technologies](https://en.wikipedia.org/wiki/Infineon_Technologies)
   * [Cypress](https://en.wikipedia.org/wiki/Cypress_Semiconductor)
 * [RS Components](https://en.wikipedia.org/wiki/RS_Components)
+* [Telefunken](https://en.wikipedia.org/wiki/Telefunken)
 * [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics)
 * [u-blox](https://en.wikipedia.org/wiki/U-blox)
