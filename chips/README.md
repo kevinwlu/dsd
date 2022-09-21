@@ -6,7 +6,7 @@
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 * [Chiplet](https://en.wikipedia.org/wiki/Chiplet)
 * [CMOS](https://en.wikipedia.org/wiki/CMOS) (Complementary metal–oxide–semiconductor)
-* [Field-effect transistor](https://en.wikipedia.org/wiki/Field-effect_transistor) (FET)
+* [FET](https://en.wikipedia.org/wiki/Field-effect_transistor) (Field-effect transistor)
 * [MOSFET](https://en.wikipedia.org/wiki/MOSFET)
 * [Power MOSFET](https://en.wikipedia.org/wiki/Power_MOSFET)
 * [IGBT](https://en.wikipedia.org/wiki/Insulated-gate_bipolar_transistor) (Insulated-gate bipolar transistor)
