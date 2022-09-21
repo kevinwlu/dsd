@@ -9,7 +9,7 @@
 * [Field-effect transistor](https://en.wikipedia.org/wiki/Field-effect_transistor) (FET)
 * [MOSFET](https://en.wikipedia.org/wiki/MOSFET)
 * [Power MOSFET](https://en.wikipedia.org/wiki/Power_MOSFET)
-* [Insulated-gate bipolar transistor](https://en.wikipedia.org/wiki/Insulated-gate_bipolar_transistor) (IGBT)
+* [IGBT](https://en.wikipedia.org/wiki/Insulated-gate_bipolar_transistor) (Insulated-gate bipolar transistor)
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
