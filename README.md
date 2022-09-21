@@ -91,7 +91,6 @@
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
   * [Transistor–transistor logic](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) (TTL)
   * [Very Large Scale Integration](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration) (VLSI)
-  * [CMOS](https://en.wikipedia.org/wiki/CMOS) (Complementary metal–oxide–semiconductor)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
 * [Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
