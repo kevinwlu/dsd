@@ -13,7 +13,7 @@
 * Select the following to install:
   * Intel Quartus Prime Lite Edition
   * Devices
-    * Cyclone IV (e.g., Terasic DE0-Nano)
+    * Cyclone IV (e.g., Terasic DE0-Nano or Waveshare [CoreEP4CE6](https://www.waveshare.com/coreep4ce6.htm))
     * Cyclone V (e.g., Terasic DE0-CV)
   * [ModelSim](https://en.wikipedia.org/wiki/ModelSim) - Intel FPGA Starter Edition
 
