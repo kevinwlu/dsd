@@ -1,4 +1,4 @@
-# Terasic DE0-CV FPGA Board
+# Intel Altera FPGA Board
 
 * [DE0-CV User Manual](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-1504012210-de0-cv-user-manual.pdf)
 
