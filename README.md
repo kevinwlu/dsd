@@ -112,7 +112,7 @@
   * [Xilinx high speed serial](https://www.xilinx.com/products/technology/high-speed-serial.html)
   * [SYZYGY](https://syzygyfpga.io/)
   * [Bit error rate](https://en.wikipedia.org/wiki/Bit_error_rate)
-  * [Soft microprocessor](https://en.wikipedia.org/wiki/Soft_microprocessor)
+* [Soft microprocessor](https://en.wikipedia.org/wiki/Soft_microprocessor)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
