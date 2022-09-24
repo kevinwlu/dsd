@@ -1,3 +1,4 @@
 # Intel FPGAs
 * [Altera](https://en.wikipedia.org/wiki/Altera)
+* [Nios II](https://en.wikipedia.org/wiki/Nios_II)
 * [List of Intel FPGAs](https://www.intel.com/content/www/us/en/products/details/fpga.html)
