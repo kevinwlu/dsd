@@ -1,9 +1,9 @@
 # Chips
+* [The basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
+* [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 * [2020–present global chip shortage](https://en.wikipedia.org/wiki/2020%E2%80%93present_global_chip_shortage)
 * [CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
-* [The basics of microchip](https://www.asml.com/en/technology/all-about-microchips/microchip-basics)
-* [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 
 ## Lists
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
