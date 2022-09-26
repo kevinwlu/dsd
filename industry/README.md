@@ -9,6 +9,7 @@
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
+  * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
   * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
   * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
   * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
