@@ -135,6 +135,7 @@
   * [Co-simulation](https://en.wikipedia.org/wiki/Co-simulation)
   * [C/RTL Co-Simulation in Vitis HLS](https://docs.xilinx.com/r/en-US/ug1399-vitis-hls/C/RTL-Co-Simulation-in-Vitis-HLS)
 * [Vitis Unified Software Platform Documentation: Application Acceleration Development](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis) (UG1393)
+  * [High Bandwidth Memory (HBM) Configuration and Use](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/HBM-Configuration-and-Use)
   * [Out-of-Context Synthesis](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Out-of-Context-Synthesis)
 * [Vitis Unified Software Platform Documentation: Embedded Software Development](https://docs.xilinx.com/r/en-US/ug1400-vitis-embedded) (UG1400)
   * [Xilinx Software Command-Line Tool](https://docs.xilinx.com/r/en-US/ug1400-vitis-embedded/Xilinx-Software-Command-Line-Tool) (XSCT)
