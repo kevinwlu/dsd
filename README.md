@@ -105,6 +105,7 @@
   * [Embedded FPGA](https://semiengineering.com/knowledge_centers/integrated-circuit/ic-types/fpga/embedded-fpga-efpga/) (eFPGA)
   * [Low-voltage differential signaling](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling) (LVDS)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
+  * [Transfer](https://en.wikipedia.org/wiki/Transfer_(computing))
   * [FPGA  Mezzanine Card](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) (FMC)
   * [PCI Mezzanine Card](https://en.wikipedia.org/wiki/PCI_Mezzanine_Card) (PMC)
   * [Multi-gigabit transceiver](https://en.wikipedia.org/wiki/Multi-gigabit_transceiver) (MGT)
