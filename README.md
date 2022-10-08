@@ -106,6 +106,8 @@
   * [Low-voltage differential signaling](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling) (LVDS)
   * [Small Computer System Interface](https://en.wikipedia.org/wiki/SCSI) (SCSI)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
+  * [PCI Express Mini Card](https://en.wikipedia.org/wiki/PCI_Express#MINI-CARD)
+  * [M.2](https://en.wikipedia.org/wiki/M.2)
   * [Transfers](https://en.wikipedia.org/wiki/Transfer_(computing)) per second (T/s)
   * [FPGA  Mezzanine Card](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) (FMC)
   * [PCI Mezzanine Card](https://en.wikipedia.org/wiki/PCI_Mezzanine_Card) (PMC)
