@@ -7,6 +7,7 @@
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
 * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
+* [Joint Electron Device Engineering Council](https://en.wikipedia.org/wiki/JEDEC) (JEDEC) Solid State Technology Association
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
   * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
