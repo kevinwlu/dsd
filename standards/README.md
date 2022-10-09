@@ -7,11 +7,11 @@
 * [CCIX Consortium](https://www.ccixconsortium.com/)
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
-* [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
 * [Joint Electron Device Engineering Council](https://en.wikipedia.org/wiki/JEDEC) (JEDEC) Solid State Technology Association
   * [JEDEC memory standards](https://en.wikipedia.org/wiki/JEDEC_memory_standards)
 * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
+  * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
   * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
 * [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association) (SIA)
