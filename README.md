@@ -94,6 +94,7 @@
   * [Very Large Scale Integration](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration) (VLSI)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
+* [Dual In-line Memory Module](https://en.wikipedia.org/wiki/DIMM) (DIMM)
 * [Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
 * [Flash memory](https://en.wikipedia.org/wiki/Flash_memory)
 * [SD card](https://en.wikipedia.org/wiki/SD_card)
