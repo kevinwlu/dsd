@@ -9,6 +9,7 @@
 ## Alveo
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html)
 * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) Data Center Accelerator Card
+  * [Cache coherent interconnect for accelerators](https://en.wikipedia.org/wiki/Cache_coherent_interconnect_for_accelerators) (CCIX)
 ## Artix
 * [Artix-7](https://www.xilinx.com/products/silicon-devices/fpga/artix-7.html)
 * [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
