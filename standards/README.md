@@ -3,6 +3,7 @@
 * [ANSI Selected Standards](https://webstore.ansi.org/industry/selected-standards)
   * [ANSI Electronics Standards](https://webstore.ansi.org/industry/electronics)
   * [ANSI Semiconductor Standards](https://webstore.ansi.org/industry/semiconductors)
+* [CCIX Consortium](https://www.ccixconsortium.com/)
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
 * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
