@@ -18,7 +18,6 @@
 * [Releases](https://github.com/Digilent/Genesys-ZU/releases)
 * [Example projects](https://digilent.com/reference/programmable-logic/genesys-zu/demos/start)
 * [HDMI demo](https://digilent.com/reference/programmable-logic/genesys-zu/demos/hdmi)
-* [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [Camera Serial Interface](https://en.wikipedia.org/wiki/Camera_Serial_Interface) (CSI)
 * [Getting Started with Vivado IP Integrator](https://digilent.com/reference/vivado/getting-started-with-ipi/start)
 * [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC or H.264)
