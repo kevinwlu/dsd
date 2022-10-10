@@ -144,6 +144,7 @@
 * [Meizu](https://en.wikipedia.org/wiki/Meizu)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
 * [Trolink](http://en.tro-link.com/)
+* [Tsinghua Unigroup](https://en.wikipedia.org/wiki/Tsinghua_Unigroup)
 * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
