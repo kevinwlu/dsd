@@ -129,6 +129,7 @@
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
 ## China
+* [Semiconductor industry in China](https://en.wikipedia.org/wiki/Semiconductor_industry_in_China)
 * [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
 * [Allwinner](https://en.wikipedia.org/wiki/Allwinner_Technology)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
