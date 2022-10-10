@@ -146,6 +146,7 @@
 * [Trolink](http://en.tro-link.com/)
 * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
+* [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
