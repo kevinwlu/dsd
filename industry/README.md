@@ -145,9 +145,9 @@
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
 * [Trolink](http://en.tro-link.com/)
 * [Tsinghua Unigroup](https://en.wikipedia.org/wiki/Tsinghua_Unigroup)
-* [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
+  * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
+  * [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
-* [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
