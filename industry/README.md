@@ -169,6 +169,7 @@
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 * [Key Foundry](https://www.key-foundry.com/)
 ## Taiwan
+* [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
 * [Asus](https://en.wikipedia.org/wiki/Asus)
 * [BenQ](https://en.wikipedia.org/wiki/BenQ)
