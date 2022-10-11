@@ -9,6 +9,7 @@
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
 * [Joint Electron Device Engineering Council](https://en.wikipedia.org/wiki/JEDEC) (JEDEC) Solid State Technology Association
   * [JEDEC memory standards](https://en.wikipedia.org/wiki/JEDEC_memory_standards)
+* [Joint Test Action Group](https://en.wikipedia.org/wiki/JTAG) (JTAG)
 * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
   * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
