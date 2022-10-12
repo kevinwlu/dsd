@@ -59,7 +59,7 @@
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
-* [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT)
+* [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT) - see hardware LUTs
 * [Crystal oscillator](https://en.wikipedia.org/wiki/Crystal_oscillator)
   * [Crystal oscillator frequencies](https://en.wikipedia.org/wiki/Crystal_oscillator_frequencies)
 * [Electronic oscillator](https://en.wikipedia.org/wiki/Electronic_oscillator)
