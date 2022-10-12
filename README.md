@@ -192,6 +192,7 @@
   * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
+* [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 
 ## GitHub Basics
 
