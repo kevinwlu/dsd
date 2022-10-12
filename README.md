@@ -193,6 +193,8 @@
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
+* [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
+* [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
 
 ## GitHub Basics
 
