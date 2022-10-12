@@ -60,6 +60,7 @@
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT) - see hardware LUTs
+  * [LUT](https://www.xilinx.com/htmldocs/xilinx2017_4/sdaccel_doc/yeo1504034293627.html) as the basic building block of a field-programmable gate array
 * [Crystal oscillator](https://en.wikipedia.org/wiki/Crystal_oscillator)
   * [Crystal oscillator frequencies](https://en.wikipedia.org/wiki/Crystal_oscillator_frequencies)
 * [Electronic oscillator](https://en.wikipedia.org/wiki/Electronic_oscillator)
