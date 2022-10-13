@@ -9,3 +9,6 @@
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
+* [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
+* [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
+* [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
