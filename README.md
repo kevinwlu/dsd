@@ -146,6 +146,7 @@
   * [Movidius](https://en.wikipedia.org/wiki/Movidius)
 * [Deep learning processor](https://en.wikipedia.org/wiki/Deep_learning_processor)
 * [Neural processor](https://en.wikichip.org/wiki/neural_processor)
+* [Organ-on-a-chip](https://en.wikipedia.org/wiki/Organ-on-a-chip) (OOC)
 * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
