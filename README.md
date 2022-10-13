@@ -151,12 +151,6 @@
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
-* [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT)
-* [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
-  * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
-  * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
-* [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
-* [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
 
 ## GitHub Basics
 
