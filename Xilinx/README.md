@@ -13,6 +13,7 @@
 ## Artix
 * [Artix-7](https://www.xilinx.com/products/silicon-devices/fpga/artix-7.html)
 * [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
+  * [XEM8320-AU25P](https://www.xilinx.com/products/boards-and-kits/1-1ihf3st.html) by [Opal Kelly](https://opalkelly.com/products/xem8320/)
 ## Kintex
 * [Kintex-7](https://www.xilinx.com/products/silicon-devices/fpga/kintex-7.html)
 * [Kintex UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/kintex-ultrascale-plus.html)
