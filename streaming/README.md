@@ -7,6 +7,7 @@
   * [OBS Studio](https://en.wikipedia.org/wiki/OBS_Studio)
   * [Streamlabs](https://en.wikipedia.org/wiki/Streamlabs)
   * [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)
+  * [GStreamer](https://en.wikipedia.org/wiki/GStreamer)
   * [XSplit](https://en.wikipedia.org/wiki/XSplit)
   * [SplitCam](https://splitcamera.com/)
   * [Switchboard Live](https://switchboard.live/)
