@@ -24,6 +24,7 @@
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
 ## Video
+* [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
   * [Pixel format](https://en.wikipedia.org/wiki/Pixel_Format)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
