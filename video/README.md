@@ -1,5 +1,6 @@
 # Video
 * [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
+* [Digital television](https://en.wikipedia.org/wiki/Digital_television) (DTV)
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
   * [Pixel format](https://en.wikipedia.org/wiki/Pixel_Format)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
