@@ -18,6 +18,7 @@
   * [Dacast](https://en.wikipedia.org/wiki/Dacast)
 * [GStreamer](https://en.wikipedia.org/wiki/GStreamer)
 * [MEncoder](https://en.wikipedia.org/wiki/MEncoder)
+  * [Transcoding](https://en.wikipedia.org/wiki/Transcoding)
 * [Real-Time Messaging Protocol](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol) (RTMP)
 * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
