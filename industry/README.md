@@ -138,6 +138,7 @@
 * [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
 * [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
 * [Haier](https://en.wikipedia.org/wiki/Haier)
+* [Horizon Robotics](https://en.horizon.ai/)
 * [Huawei](https://en.wikipedia.org/wiki/Huawei)
   * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Innosilicon](https://www.innosilicon.com/)
