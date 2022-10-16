@@ -46,8 +46,12 @@
   * [GlobalWafers](https://www.gw-semi.com)
   * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
 * [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
+  * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
   * [Rare-earth element](https://en.wikipedia.org/wiki/Rare-earth_element)
   * [Lunar resources](https://en.wikipedia.org/wiki/Lunar_resources)
+  * [Electronic waste](https://en.wikipedia.org/wiki/Electronic_waste)
+  * [Computer recycling](https://en.wikipedia.org/wiki/Computer_recycling)
+  * [Mobile phone recycling](https://en.wikipedia.org/wiki/Mobile_phone_recycling)
 * Material and equipment suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
