@@ -80,6 +80,8 @@
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
   * [Altium](https://en.wikipedia.org/wiki/Altium)
+## Alliances
+* [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems)
 ## The United States
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
