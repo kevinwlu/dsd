@@ -11,3 +11,4 @@
 * [KiCad](https://en.wikipedia.org/wiki/KiCad)
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [Logicly](https://logic.ly/)
+* [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain
