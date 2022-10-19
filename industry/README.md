@@ -81,7 +81,7 @@
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
   * [Altium](https://en.wikipedia.org/wiki/Altium)
 ## Alliances
-* [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems)
+* [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems) [repositories](https://github.com/chipsalliance)
 ## The United States
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
