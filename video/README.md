@@ -57,6 +57,7 @@
   * [Restream](https://restream.io/)
   * [Dacast](https://en.wikipedia.org/wiki/Dacast)
 * [GStreamer](https://en.wikipedia.org/wiki/GStreamer)
+* [Icecast](https://en.wikipedia.org/wiki/Icecast)
 * [MEncoder](https://en.wikipedia.org/wiki/MEncoder)
   * [Transcoding](https://en.wikipedia.org/wiki/Transcoding)
 * [Real-Time Messaging Protocol](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol) (RTMP)
