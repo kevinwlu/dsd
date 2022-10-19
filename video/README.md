@@ -31,6 +31,8 @@
 * [Versatile Video Coding](https://en.wikipedia.org/wiki/Versatile_Video_Coding) (VVC, H.266, or MPEG-I Part 3)
 * [Essential Video Coding](https://en.wikipedia.org/wiki/Essential_Video_Coding) (EVC or MPEG-5 Part 1)
 * [VP9](https://en.wikipedia.org/wiki/VP9)
+* [Daala](https://en.wikipedia.org/wiki/Daala)
+  * [Xiph.Org Foundation](https://en.wikipedia.org/wiki/Xiph.Org_Foundation)
 * [High-definition television](https://en.wikipedia.org/wiki/High-definition_television) (HDTV)
 * [Ultra-high-definition television](https://en.wikipedia.org/wiki/Ultra-high-definition_television)
   * [4K resolution](https://en.wikipedia.org/wiki/4K_resolution) (3840 × 2160)
