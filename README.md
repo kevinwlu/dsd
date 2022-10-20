@@ -98,6 +98,8 @@
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
 * [Dual In-line Memory Module](https://en.wikipedia.org/wiki/DIMM) (DIMM)
+* [Error correction code (ECC) memory](https://en.wikipedia.org/wiki/ECC_memory)
+  * [Error correction code](https://en.wikipedia.org/wiki/Error_correction_code) (ECC)
 * [Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
 * [Flash memory](https://en.wikipedia.org/wiki/Flash_memory)
 * [SD card](https://en.wikipedia.org/wiki/SD_card)
