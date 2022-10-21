@@ -1,6 +1,7 @@
 # Tools
 ## Electronic Design Automation (EDA)
 * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
+* [List of free electronics circuit simulators](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
 * [Altium Designer](https://en.wikipedia.org/wiki/Altium_Designer)
 * [CircuitLab](https://www.circuitlab.com/)
 * [EAGLE](https://en.wikipedia.org/wiki/EAGLE_(program))
