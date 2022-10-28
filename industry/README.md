@@ -132,6 +132,7 @@
 * [Syntiant](https://www.syntiant.com/)
 * [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)
 * [TI](https://en.wikipedia.org/wiki/Texas_Instruments)
+  * [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor)
 * [Uhnder](https://www.uhnder.com/)
 * [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
