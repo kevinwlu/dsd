@@ -59,7 +59,7 @@
   * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
-  * [KLA](https://en.wikipedia.org/wiki/KLA_Corporation)
+  * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
