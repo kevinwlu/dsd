@@ -28,6 +28,7 @@
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
 * [List of LM-series integrated circuits](https://en.wikipedia.org/wiki/List_of_LM-series_integrated_circuits)
+  * LM: linear monolithic
 * [4000-series integrated circuits](https://en.wikipedia.org/wiki/4000-series_integrated_circuits)
 * [7400-series integrated circuits](https://en.wikipedia.org/wiki/7400-series_integrated_circuits)
 * [555 timer IC](https://en.wikipedia.org/wiki/555_timer_IC)
