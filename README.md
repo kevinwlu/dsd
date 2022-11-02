@@ -72,22 +72,22 @@
 * [Clock rate](https://en.wikipedia.org/wiki/Clock_rate)
   * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
   * [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate) (QDR)
+* [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
     * The Moore-type outputs are only a function of the states and not the external inputs
     * The Mealy-type outputs are a function of the states and the external inputs
     * A hybrid FSM that contains both a Mealy and Moore-type output would be considered a Mealy-type FSM
-  * [Moore machine](https://en.wikipedia.org/wiki/Moore_machine) by [Edward Moore](https://en.wikipedia.org/wiki/Edward_F._Moore) 1925-2003
+  * [Moore machine](https://en.wikipedia.org/wiki/Moore_machine) by [Edward Moore](https://en.wikipedia.org/wiki/Edward_F._Moore) 1925&mdash;2003
     * Have outputs defined inside their state bubbles
     * Transition conditions listed on their transition arrows
     * May seem a bit more intuitive in their notation
     * May require more states than a Mealy machine
-  * [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine) by [George Mealy](https://en.wikipedia.org/wiki/George_H._Mealy) 1927-2010
+  * [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine) by [George Mealy](https://en.wikipedia.org/wiki/George_H._Mealy) 1927&mdash;2010
     * Input and output variables listed on transition arrows
     * May seem a bit more abstract in their notation
     * Can be more efficient and flexible than Moore machine
     * May require less hardware to implement
-* [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
 * [Hardware register](https://en.wikipedia.org/wiki/Hardware_register)
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
 * [High-level synthesis](https://en.wikipedia.org/wiki/High-level_synthesis) (HLS)
