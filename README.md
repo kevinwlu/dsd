@@ -87,6 +87,7 @@
     * May seem a bit more abstract in their notation
     * Can be more efficient and flexible than Moore machine
     * May require less hardware to implement
+* [Hardware register](https://en.wikipedia.org/wiki/Hardware_register)
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
 * [High-level synthesis](https://en.wikipedia.org/wiki/High-level_synthesis) (HLS)
 * [Run-time type information](https://en.wikipedia.org/wiki/Run-time_type_information) (RTTI)
