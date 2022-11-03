@@ -35,6 +35,7 @@
 * [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
   * [Industry](/industry)
   * [Chips](/chips)
+* [Algorithms](/algorithms)
 * Course [projects](/projects)
 * [Code](/code) repositories
 * [Tools](/tools)
