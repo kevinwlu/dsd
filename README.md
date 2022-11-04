@@ -39,6 +39,7 @@
 * Course [projects](/projects)
 * [Code](/code) repositories
 * [Tools](/tools)
+* [Wireless](/wireless)
 
 ## DSD Fundamentals
 
