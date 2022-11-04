@@ -1,4 +1,5 @@
-# 5G
+# Wireless Communication
+* [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
@@ -8,6 +9,7 @@
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
 * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
+  * [Brooklyn 6G Summit](https://b6gs.com/)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
