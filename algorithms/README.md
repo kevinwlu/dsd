@@ -1,4 +1,6 @@
 # Algorithms and Methods
+* [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
+* [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
