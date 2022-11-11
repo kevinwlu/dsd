@@ -15,3 +15,8 @@
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [Logicly](https://logic.ly/)
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain
+## Electronic Circuit
+* [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
+* [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+* [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
+* [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
