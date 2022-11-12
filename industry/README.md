@@ -81,8 +81,9 @@
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
   * [Altium](https://en.wikipedia.org/wiki/Altium)
-## Alliances
+## Alliances and Consortia
 * [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems) [repositories](https://github.com/chipsalliance)
+* [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
 ## The United States
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
@@ -103,6 +104,7 @@
 * [Honeywell](https://en.wikipedia.org/wiki/Honeywell)
   * [Intermec](https://en.wikipedia.org/wiki/Intermec)
 * [IBM](https://en.wikipedia.org/wiki/IBM)
+  * [IBM Unveils World's First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors](https://newsroom.ibm.com/2021-05-06-IBM-Unveils-Worlds-First-2-Nanometer-Chip-Technology,-Opening-a-New-Frontier-for-Semiconductors)
 * [Intel](https://en.wikipedia.org/wiki/Intel)
 * [ISSI](https://www.issi.com/) (Integrated Silicon Solution Inc.)
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
