@@ -6,6 +6,7 @@
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
+* [Grayscale](https://en.wikipedia.org/wiki/Grayscale)
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
 * [Uncompressed video](https://en.wikipedia.org/wiki/Uncompressed_video)
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
