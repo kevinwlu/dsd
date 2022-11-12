@@ -83,7 +83,6 @@
   * [Altium](https://en.wikipedia.org/wiki/Altium)
 ## Alliances and Consortia
 * [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems) [repositories](https://github.com/chipsalliance)
-* [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
 ## The United States
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
@@ -173,6 +172,7 @@
 * [Murata](https://en.wikipedia.org/wiki/Murata_Manufacturing)
 * [NEC](https://en.wikipedia.org/wiki/NEC)
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
+* [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
 * [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
