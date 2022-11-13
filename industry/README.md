@@ -62,6 +62,8 @@
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
 * Testing
+  * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment)
+  * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
   * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
