@@ -61,6 +61,8 @@
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
+* Testing
+  * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
