@@ -52,6 +52,8 @@
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
 * [Ternary computer](https://en.wikipedia.org/wiki/Ternary_computer)
   * [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system)
+    * Trit (trinary digit)
+    * Tryte of six trits
   * [Balanced ternary](https://en.wikipedia.org/wiki/Balanced_ternary)
   * [Three-valued logic](https://en.wikipedia.org/wiki/Three-valued_logic)
 * [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) Standard for [Floating-Point Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
