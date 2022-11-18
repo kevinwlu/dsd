@@ -180,6 +180,7 @@
 * [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
 * [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
+* [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ## South Korea
