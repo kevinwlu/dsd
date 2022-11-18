@@ -181,6 +181,7 @@
 * [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
+* [Sega](https://en.wikipedia.org/wiki/Sega)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ## South Korea
