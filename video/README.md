@@ -30,6 +30,7 @@
 * [List of open-source codecs](https://en.wikipedia.org/wiki/List_of_open-source_codecs)
 * [Video codec](https://en.wikipedia.org/wiki/Video_codec)
 * [Video coding format](https://en.wikipedia.org/wiki/Video_coding_format)
+  * [Differential pulse-code modulation](https://en.wikipedia.org/wiki/Differential_pulse-code_modulation) (DPCM)
   * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
   * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC, H.264, or MPEG-4 Part 10)
