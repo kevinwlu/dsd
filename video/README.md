@@ -8,6 +8,7 @@
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [YUV](https://en.wikipedia.org/wiki/YUV)
 * [Grayscale](https://en.wikipedia.org/wiki/Grayscale)
+* [Chroma subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling)
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
 * [Uncompressed video](https://en.wikipedia.org/wiki/Uncompressed_video)
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
