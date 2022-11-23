@@ -3,8 +3,9 @@
 * [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 * [2020–present global chip shortage](https://en.wikipedia.org/wiki/2020%E2%80%93present_global_chip_shortage)
 * [CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act)
+  * [Advanced Chip Engineering Design and Fabrication (ACED Fab)](https://beta.nsf.gov/funding/opportunities/advanced-chip-engineering-design-fabrication-aced)
+  * [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
-* [Advanced Chip Engineering Design and Fabrication (ACED Fab)](https://beta.nsf.gov/funding/opportunities/advanced-chip-engineering-design-fabrication-aced)
 
 ## Lists
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
