@@ -8,4 +8,6 @@
   * [Observability](https://en.wikipedia.org/wiki/Observability)
 * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+* [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
+  * [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 * [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
