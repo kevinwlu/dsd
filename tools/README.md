@@ -20,3 +20,7 @@
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
+## Issue Tracking System
+* [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
+* [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems)
+* [Jira](https://en.wikipedia.org/wiki/Jira_(software))
