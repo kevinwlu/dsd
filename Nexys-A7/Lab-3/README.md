@@ -9,6 +9,7 @@
 * 2019-11-03 pull request by Peter Ho with the 800x600@60Hz support for 100MHz clock
   * The Xilinx [Clocking Wizard](https://www.xilinx.com/products/intellectual-property/clocking_wizard.html)
   * [7 Series FPGAs Clocking Resources User Guide](https://www.xilinx.com/support/documentation/user_guides/ug472_7Series_Clocking.pdf)
+  * CLKOUT0_DIVIDE_F in Line 124 of clk_wiz_0_clk_wiz.vhd was updated from 25.3125 to 25.25 because it shall be a multiple of 0.125
 
 * The **_vga_sync_** module uses a clock to drive horizontal and vertical counters h_cnt and v_cnt, respectively.
   * These counters are then used to generate the various timing signals.
