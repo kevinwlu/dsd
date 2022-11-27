@@ -61,6 +61,7 @@
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
     * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
+  * [Gigaphoton](https://www.gigaphoton.com/)
   * [Huawei patents](https://www.huaweicentral.com/huawei-is-rapidly-researching-on-chipset-printing-technologies/)
   * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
   * [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
