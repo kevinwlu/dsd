@@ -62,6 +62,7 @@
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
     * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
   * [Gigaphoton](https://www.gigaphoton.com/)
+  * [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
   * [Huawei patents](https://www.huaweicentral.com/huawei-is-rapidly-researching-on-chipset-printing-technologies/)
   * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
   * [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
@@ -169,7 +170,6 @@
 * [Lenovo](https://en.wikipedia.org/wiki/Lenovo)
 * [Meizu](https://en.wikipedia.org/wiki/Meizu)
 * [Sai MicroElectronics Inc.](http://en.smeiic.com/) (SMEI)
-* [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
 * [Trolink](http://en.tro-link.com/)
 * [Tsinghua Unigroup](https://en.wikipedia.org/wiki/Tsinghua_Unigroup)
