@@ -48,6 +48,7 @@
   * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
   * [GlobalWafers](https://www.gw-semi.com)
   * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
+  * [Graphenea](https://www.graphenea.com/)
 * [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
   * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
   * [Rare-earth element](https://en.wikipedia.org/wiki/Rare-earth_element)
@@ -65,7 +66,6 @@
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
-  * [Graphenea](https://www.graphenea.com/)
 * Testing
   * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment)
   * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
