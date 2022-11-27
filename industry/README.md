@@ -169,6 +169,7 @@
 * [Lenovo](https://en.wikipedia.org/wiki/Lenovo)
 * [Meizu](https://en.wikipedia.org/wiki/Meizu)
 * [Sai MicroElectronics Inc.](http://en.smeiic.com/) (SMEI)
+* [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
 * [Trolink](http://en.tro-link.com/)
 * [Tsinghua Unigroup](https://en.wikipedia.org/wiki/Tsinghua_Unigroup)
