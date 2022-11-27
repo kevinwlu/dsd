@@ -56,10 +56,11 @@
   * [Mobile phone recycling](https://en.wikipedia.org/wiki/Mobile_phone_recycling)
 * Material and equipment suppliers
   * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
+    * [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
     * [Cymer](https://en.wikipedia.org/wiki/Cymer)
     * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
   * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
-  * [https://en.wikipedia.org/wiki/Tokyo_Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
+  * [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
