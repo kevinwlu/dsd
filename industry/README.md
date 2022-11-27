@@ -64,6 +64,7 @@
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
+  * [Graphenea](https://www.graphenea.com/)
 * Testing
   * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment)
   * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
