@@ -103,6 +103,8 @@
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
   * [Transistor–transistor logic](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) (TTL)
   * [Very Large Scale Integration](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration) (VLSI)
+  * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
+  * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
 * [Dual In-line Memory Module](https://en.wikipedia.org/wiki/DIMM) (DIMM)
