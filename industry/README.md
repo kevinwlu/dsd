@@ -225,6 +225,7 @@
 * [ARM](https://en.wikipedia.org/wiki/Arm_Ltd.)
 * [Elmos Semiconductor](https://en.wikipedia.org/wiki/Elmos_Semiconductor)
 * [FTDI](https://en.wikipedia.org/wiki/FTDI)
+* [Imagination Technologies](https://en.wikipedia.org/wiki/Imagination_Technologies)
 * [Melexis](https://de.wikipedia.org/wiki/Melexis)
 * [Nexperia](https://en.wikipedia.org/wiki/Nexperia)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
