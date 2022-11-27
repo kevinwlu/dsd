@@ -157,6 +157,7 @@
 * [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)
   * [Oppo Digital](https://en.wikipedia.org/wiki/Oppo_Digital)
 * [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
+* [BYD](https://en.wikipedia.org/wiki/BYD_Company)
 * [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
 * [Haier](https://en.wikipedia.org/wiki/Haier)
 * [Horizon Robotics](https://en.horizon.ai/)
