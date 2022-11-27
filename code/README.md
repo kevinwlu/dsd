@@ -1,5 +1,5 @@
 # Code
-
+* [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core)
 * [VHDL repositories](https://github.com/search?q=VHDL)
   * [VHDL repository](https://github.com/fcayci/vhdl-digital-design) by Dr. [Furkan Çayci](https://tr.linkedin.com/in/fcayci) of [Gebze Technical University](https://en.wikipedia.org/wiki/Gebze_Technical_University)
   * [VHDL examples](http://www.csun.edu/edaasic/roosta/VHDL_Examples.pdf) by Prof. [Ramin Roosta](url) of [California State University, Northridge](https://en.wikipedia.org/wiki/California_State_University,_Northridge) (CSUN)
