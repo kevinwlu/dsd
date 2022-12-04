@@ -2,7 +2,7 @@
 
 * [Intel Altera FPGA](https://marketplace.intel.com/s/pmp-partner-segment/a963b000000PDBvAAO/field-programmable-gate-array?language=en_US)
 * [Terasic DE0-CV User Manual](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921&PartNo=4)
-* [DE0-Nano FPGA and VHDL Beginner Tutorial](https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/)
+* [DE0-Nano FPGA and VHDL Beginner Tutorial](https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/) by [Compectroner](https://compectroner.wordpress.com/)
 * [CoreEP4CE6 Wiki](https://www.waveshare.com/wiki/CoreEP4CE6) includes user manual, schematic, demo code, and pin configuration
 
 ## 1. Download and install the Intel Quartus Prime Lite Edition on Windows
