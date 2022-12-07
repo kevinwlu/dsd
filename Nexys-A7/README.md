@@ -5,7 +5,7 @@ a rebrand of the Nexys 4 DDR board with the addition of the Nexys A7-50T variant
 The Nexys A7-100T variant is functionally identical to the Nexys 4 DDR.
 The Nexys A7-100T contains 15,850 [logic slices](https://www.ni.com/en-us/support/documentation/supplemental/18/slices-on-an-fpga-chip.html) 
 each with 4 [look-up tables](https://en.wikipedia.org/wiki/Lookup_table) (LUTs) and 8 [flip-flops](https://en.wikipedia.org/wiki/Flip-flop_(electronics)).
-The Nexys A7-50T contains 8,150 logic slices.
+The discontinued Nexys A7-50T that contains 8,150 logic slices is no longer available for purchase.
 
 A [Xilinx Design Constraints](https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file) (XDC) file provides the physical pins on the FPGA in relation to the HDL code.
 Here are master XDC files for A7-100T and A7-50T boards with identical constraints:
