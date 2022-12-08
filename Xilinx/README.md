@@ -126,7 +126,7 @@
 * [Xilinx Runtime Library](https://www.xilinx.com/products/design-tools/vitis/xrt.html) (XRT)
 * [Vitis Accelerated Libraries](https://github.com/Xilinx/Vitis_Libraries)
   * [Codec Library](https://github.com/Xilinx/Vitis_Libraries/tree/main/codec) including [JPEG XL](https://en.wikipedia.org/wiki/JPEG_XL)
-    > Support for animated content: For encoding realistic content regular video codecs are preferred.
+    > Support for animated content: For encoding realistic content, regular video codecs are preferred.
 * [Vitis 2021.1 Libraries - Compiling and Installing OpenCV Libraries for Use With Vision Library on Ubuntu](https://support.xilinx.com/s/article/Vitis-2021-1-Libraries-Compiling-and-Installing-OpenCV)
 * [Using Vitis Vision Libraries and OpenCV](https://support.xilinx.com/s/question/0D52E00006hpOJESA2/using-vitis-vision-libraries-and-opencv)
 * [Xilinx OpenCV User Guide](https://docs.xilinx.com/v/u/en-US/ug1233-xilinx-opencv-user-guide)
