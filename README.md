@@ -315,6 +315,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Vivado installation](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/README.md)
   * [Board files](https://github.com/Digilent/vivado-boards)
     * [Download board files in ZIP](https://github.com/Digilent/vivado-boards/archive/master.zip)
+  * [Tool command language (Tcl)](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands)
   * [Lab 1](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-1): Seven-Segment Decoder
   * [Lab 2](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-2): Four-Digit Hex Counter
   * [Lab 3](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-3): Bouncing Ball
