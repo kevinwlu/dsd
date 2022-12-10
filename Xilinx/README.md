@@ -120,7 +120,7 @@
   * [Dataflow](https://en.wikipedia.org/wiki/Dataflow)
   * [Advanced eXtensible Interface](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface) (AXI)
 * [Vitis HLS examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)
-  * [Tool command language](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands) (Tcl)
+  * [Tool command language (Tcl)](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands) (UG835)
   * [Why you need to learn Tcl](https://vhdlwhiz.com/why-you-need-to-learn-tcl/) by [VHDLwhiz](https://vhdlwhiz.com/)
   * [Shift register](https://en.wikipedia.org/wiki/Shift_register)
   * [Generate Statement – VHDL Example](https://nandland.com/generate/)
