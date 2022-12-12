@@ -20,7 +20,9 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 
 * The **_tone_** module generates a signed triangular wave (a tone) at a sampling rate of 48.8 KHz.
   * [Online tone generator](https://onlinetonegenerator.com/)
-  * The frequency of the tone is determined by the input pitch.
+  * [Scale (music)](https://en.wikipedia.org/wiki/Scale_(music))
+  * [A Brief Introduction to the Western Musical Scale](https://inst.eecs.berkeley.edu/~ee20/sp97/demos/lec2/music.html)
+  * The frequency of the tone is determined by the input [pitch](https://en.wikipedia.org/wiki/Pitch_(music)).
   * The process cnt_pr generates an unsigned sawtooth waveform count by incrementing a 16-bit counter pitch values every clock cycle.
   * The frequency with which it traverses the whole 16-bit count range is thus proportional to pitch.
   * The lowest possible tone frequency is obtained when pitch=1.
