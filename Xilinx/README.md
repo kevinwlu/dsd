@@ -71,6 +71,9 @@
     * [Camera Serial Interface](https://en.wikipedia.org/wiki/Camera_Serial_Interface) (CSI)
   * The Zynq UltraScale+ MPSoC EV device with its integrated Xilinx LogiCORE IP [H.264/H.265 video codec unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
     * [Xilinx Zynq UltraScale+ MPSoC Video Codec Unit](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842546/Xilinx+Zynq+UltraScale+MPSoC+Video+Codec+Unit)
+      > The VCU is capable of performing video compression and decompression of simultaneously of video resolution up to 4K @ 60Hz
+      > A lower frame rate is supported for when resolutions higher than 4K
+      > H.264/H.265 functionality is implemented as an embedded hard IP inside Zynq UltraScale+ MPSoC device families   
     * [Xilinx H.264/H.265 Video Codec Unit Solutions LogiCORE IP Product Guide (PG252)](https://docs.xilinx.com/r/en-US/pg252-vcu/H.264/H.265-Video-Codec-Unit-v1.2)
   * The CAST [JPEG-EX-F](https://www.xilinx.com/products/intellectual-property/1-gfeqs7.html) IP core features input resolution up to 64kx64k
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC) ([Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) SoC) Wiki
