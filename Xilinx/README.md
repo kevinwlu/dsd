@@ -46,15 +46,14 @@
   * [Built-In Self Test](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1544716298/Zynq+Ultrascale+MPSOC+BIST+and+SCUI+Guide) (BIST)
   * [Avnet Ultra96-V2](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultra96-v2/)
   * [Avnet UltraZed-EV](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/ultrazed/)
-  * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit
-  * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit
+  * [ZCU102](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) Evaluation Kit with 600,000 system logic cells
+  * [ZCU104](https://www.xilinx.com/products/boards-and-kits/zcu104.html) Evaluation Kit with 504,000 system logic cells
     * [Getting Tensil to run ResNet at 300 FPS on ZCU104](https://www.hackster.io/petrohi/getting-tensil-to-run-resnet-at-300-fps-on-zcu104-2922eb)
       * [Tensil](https://www.tensil.ai/)
       * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network)
-  * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
-  * [Digilent Genesys ZU-5EV](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
-    *  H.264/H.265 video codec only on 5EV variant as opposed to 3EG variant
-    * 
+  * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit with 504,000 system logic cells
+  * [Digilent Genesys ZU-5EV](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/) with 256,000 system logic cells
+    *  H.264/H.265 video codec only on the 5EV variant as opposed to the 3EG variant with 154,000 system logic cells
     * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
     * [Repository](https://github.com/Digilent/genesys-zu)
     * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
