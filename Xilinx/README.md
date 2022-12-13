@@ -53,6 +53,8 @@
       * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network)
   * [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) Evaluation Kit
   * [Digilent Genesys ZU-5EV](https://digilent.com/shop/genesys-zu-zynq-ultrascale-mpsoc-development-board/)
+    *  H.264/H.265 video codec only on 5EV variant as opposed to 3EG variant
+    * 
     * [Resource center](https://digilent.com/reference/programmable-logic/genesys-zu/start)
     * [Repository](https://github.com/Digilent/genesys-zu)
     * [Getting started](https://digilent.com/reference/programmable-logic/genesys-zu/getting-started)
