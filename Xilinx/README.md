@@ -10,10 +10,9 @@
 * [Alveo](https://www.xilinx.com/products/boards-and-kits/alveo.html) Data Center Accelerator Card
   * [Alveo U200](https://www.xilinx.com/products/boards-and-kits/alveo/u200.html) with 892,000 LUTs and PCIe Gen3x16
   * [Alveo U250](https://www.xilinx.com/products/boards-and-kits/alveo/u250.html) with 1,341,000 LUTs and PCIe Gen3x16
-  * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) with 1,079,000 LUTs and PCIe Gen4x8 with CCIX
+  * [Alveo U280](https://www.xilinx.com/products/boards-and-kits/alveo/u280.html) with 1,079,000 LUTs and PCIe Gen4x8 with [Cache coherent interconnect for accelerators](https://en.wikipedia.org/wiki/Cache_coherent_interconnect_for_accelerators) (CCIX)
     * Passively cooled cards (Part Number: A-U280-P32G-PQ-G) are production deployable
     * Actively cooled cards (Part Numebr: A-U280-A32G-DEV-G) are for development only
-* [Cache coherent interconnect for accelerators](https://en.wikipedia.org/wiki/Cache_coherent_interconnect_for_accelerators) (CCIX)
 ## Artix
 * [Artix-7](https://www.xilinx.com/products/silicon-devices/fpga/artix-7.html)
 * [Artix UltraScale+](https://www.xilinx.com/products/silicon-devices/fpga/artix-ultrascale-plus.html)
