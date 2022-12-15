@@ -122,6 +122,7 @@
   * [Small Computer System Interface](https://en.wikipedia.org/wiki/SCSI) (SCSI)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
   * [PCI Express Mini Card](https://en.wikipedia.org/wiki/PCI_Express#MINI-CARD) (Mini PCIe)
+  * [Universal Chiplet Interconnect Express](https://en.wikipedia.org/wiki/UCIe) (UCIe)
   * [M.2](https://en.wikipedia.org/wiki/M.2)
   * [Transfers](https://en.wikipedia.org/wiki/Transfer_(computing)) per second (T/s)
   * [FPGA  Mezzanine Card](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) (FMC)
