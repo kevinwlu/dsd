@@ -5,7 +5,7 @@
 * [ANSI Selected Standards](https://webstore.ansi.org/industry/selected-standards)
   * [ANSI Electronics Standards](https://webstore.ansi.org/industry/electronics)
   * [ANSI Semiconductor Standards](https://webstore.ansi.org/industry/semiconductors)
-* [CCIX Consortium](https://www.ccixconsortium.com/)
+* [Cache coherent interconnect for accelerators](https://en.wikipedia.org/wiki/Cache_coherent_interconnect_for_accelerators) (CCIX)
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
 * [Joint Electron Device Engineering Council](https://en.wikipedia.org/wiki/JEDEC) (JEDEC) Solid State Technology Association
