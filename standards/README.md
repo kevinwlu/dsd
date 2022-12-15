@@ -5,6 +5,7 @@
 * [ANSI Selected Standards](https://webstore.ansi.org/industry/selected-standards)
   * [ANSI Electronics Standards](https://webstore.ansi.org/industry/electronics)
   * [ANSI Semiconductor Standards](https://webstore.ansi.org/industry/semiconductors)
+* [Coherent Accelerator Processor Interface](https://en.wikipedia.org/wiki/Coherent_Accelerator_Processor_Interface) (CAPI)
 * [Cache coherent interconnect for accelerators](https://en.wikipedia.org/wiki/Cache_coherent_interconnect_for_accelerators) (CCIX)
 * [Compute Express Link](https://en.wikipedia.org/wiki/Compute_Express_Link) (CXL)
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
