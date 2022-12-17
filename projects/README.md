@@ -1,3 +1,5 @@
+# 2022 Fall
+* [FPGA Synthesizer](https://github.com/matthewgpetrin/cpe-487/tree/main/piano)
 # 2022 Spring
 * [2 Player Pong](https://github.com/marcusats/CPE-487-A/tree/main/FinalProject)
 * [4 Player Pong](https://github.com/joeyp2k/CPE487/tree/main/final)
