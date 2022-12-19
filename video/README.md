@@ -42,6 +42,8 @@
 * [Essential Video Coding](https://en.wikipedia.org/wiki/Essential_Video_Coding) (EVC or MPEG-5 Part 1)
 * [Motion JPEG](https://en.wikipedia.org/wiki/Motion_JPEG)
 * [JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000) (JP2)
+* [Audio Video Standard](https://en.wikipedia.org/wiki/Audio_Video_Standard) (AVS)
+  * [IEEE 1857.4-2018](https://standards.ieee.org/ieee/1857.4/5817/)
 * [VP9](https://en.wikipedia.org/wiki/VP9)
 * [Daala](https://en.wikipedia.org/wiki/Daala)
   * [Xiph.Org Foundation](https://en.wikipedia.org/wiki/Xiph.Org_Foundation)
