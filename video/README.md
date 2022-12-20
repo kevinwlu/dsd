@@ -44,6 +44,8 @@
 * [JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000) (JP2)
 * [Audio Video Standard](https://en.wikipedia.org/wiki/Audio_Video_Standard) (AVS)
   * [IEEE 1857.4-2018](https://standards.ieee.org/ieee/1857.4/5817/)
+* [Embedded Zerotrees of Wavelet transforms](https://en.wikipedia.org/wiki/Embedded_Zerotrees_of_Wavelet_transforms) (EZW)
+* [Set partitioning in hierarchical trees](https://en.wikipedia.org/wiki/Set_partitioning_in_hierarchical_trees) (SPIHT)
 * [VP9](https://en.wikipedia.org/wiki/VP9)
 * [Daala](https://en.wikipedia.org/wiki/Daala)
   * [Xiph.Org Foundation](https://en.wikipedia.org/wiki/Xiph.Org_Foundation)
