@@ -138,3 +138,4 @@
 * [Vitis 2021.1 Libraries - Compiling and Installing OpenCV Libraries for Use With Vision Library on Ubuntu](https://support.xilinx.com/s/article/Vitis-2021-1-Libraries-Compiling-and-Installing-OpenCV)
 * [Using Vitis Vision Libraries and OpenCV](https://support.xilinx.com/s/question/0D52E00006hpOJESA2/using-vitis-vision-libraries-and-opencv)
 * [Xilinx OpenCV User Guide](https://docs.xilinx.com/v/u/en-US/ug1233-xilinx-opencv-user-guide)
+* [RapidStream](https://github.com/UCLA-VAST/RapidStream)
