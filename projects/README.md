@@ -1,6 +1,8 @@
-# 2022 Fall
+# Projects
+
+## 2022 Fall
 * [FPGA Synthesizer](https://github.com/matthewgpetrin/cpe-487/tree/main/piano)
-# 2022 Spring
+## 2022 Spring
 * [2 Player Pong](https://github.com/marcusats/CPE-487-A/tree/main/FinalProject)
 * [4 Player Pong](https://github.com/joeyp2k/CPE487/tree/main/final)
 * [Brick Breaker](https://github.com/dsmith15/CPE487-DSD/tree/main/Final%20Project%20-%20Brick%20Breaker)
@@ -14,7 +16,7 @@
 * [Space Invaders 3.0](https://github.com/MiscellaneousMongoose/Digital-Signal-Design/tree/main/Final%20Project)
 * [T-Rex Dinosaur Run](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/FinalProject)
 * [VHDL Platformer](https://github.com/Cmurphy5-stevens/CPE487/tree/main/Project)
-# 2021 Fall
+## 2021 Fall
 * [Brick Breaker v2](https://github.com/jniglio/CPE-487/tree/main/Final%20Project)
 * [Dodgeball](https://github.com/cgiannak/CPE-487-Final-Project)
 * [Final Message](https://github.com/emcadamsv/CPE-487/tree/main/Final%20Project)
@@ -30,13 +32,13 @@
 * [Space Race](https://github.com/Quentin-Jimenez/CPE-487/tree/main/Space%20Race)
 * [Two-Player Pong](https://github.com/kyritzb/CPE487/tree/main/final)
 * [VHDL Font](https://github.com/Alan489/DSD/tree/main/final)
-# 2021 Spring
+## 2021 Spring
 * [CodeGolf](https://github.com/glimped/CodeGolf)
 * [Frogger](https://github.com/cbenson1/CPE487/tree/main/Frogger_Final)
 * [Mouse Reader](https://github.com/GSCoder1/CPE-487/tree/main/FinalProject)
 * [Project 42: Mouse in the House](https://github.com/andrewdangelo/42_DSD_Project)
 * [VHDL Image Processing](https://github.com/EKozlakov/DSDFP)
-# 2020 Fall
+## 2020 Fall
 * [Audio Visual Equalizer](https://github.com/karlsheng99/CPE487_dsd/tree/master/project)
 * [Blackjack](https://sites.google.com/stevens.edu/ee322amartora/cpe-487/blackjack)
 * [Brick Breaker](https://github.com/anishashin/CPE-487/tree/master/Final-Project)
@@ -45,12 +47,12 @@
 * [Space Invaders](https://github.com/chungiee/DigitalSystemDesign/tree/master/spaceInvaders)
 * [Tic-Tac-Toe](https://github.com/RaZeragon/CPE487/tree/master/FinalProject)
 * [ViperHDL](https://github.com/JMavorah/SnakeVHDL)
-# 2020 Spring
+## 2020 Spring
 * [GameBuddy-Verilog](https://github.com/grantsimmons/GameBuddy-Verilog)
 * [Interface a Mouse With FPGA](https://github.com/HanlinMiao/CPE-487-A/tree/master/DSD%20Project)
 * [Qix](https://github.com/jschmidtnj/cpe487/tree/master/code/final_project)
 * [Space Invaders](https://github.com/mbozinov/CPE487-DSD/tree/master/FinalProject_DSD)
-# 2019 Fall
+## 2019 Fall
 * [Arduino Nexys 4 DDR Synthesizer](https://github.com/mycicle/dsdFinalProject)
 * [Duck in the Hudson](https://github.com/tarasewiczregan/DuckInTheHudson)
 * [FPGA Paint](https://github.com/PeterHo8888/FPGA_Paint)
@@ -59,7 +61,7 @@
 * [Robotic Platform](https://github.com/TommyPinto/CPE487FinalProject)
 * [Snake](https://sites.google.com/stevens.edu/digital-system-design-cpe-487/project)
 * [Tetris](https://github.com/ygunarso/tetris-vhdl)
-# 2019 Spring
+## 2019 Spring
 * [Flappy Bird](https://sites.google.com/stevens.edu/cpe487website/project)
 * [Morse Code Transmitter](https://sites.google.com/stevens.edu/dsds19-zhec/projects/morse-code-transmitter)
 * [Tetris](https://github.com/danpelis/CPE487/tree/master/tetris_ex)
