@@ -1,5 +1,5 @@
 # Projects
-* [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
+
 ## 2022 Fall
 * [FPGA Synthesizer](https://github.com/matthewgpetrin/cpe-487/tree/main/piano)
 ## 2022 Spring
