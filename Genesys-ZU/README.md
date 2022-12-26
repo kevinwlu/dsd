@@ -25,3 +25,4 @@
 * [Xilinx Zynq UltraScale+ MPSoC Video Codec Unit](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842546/Xilinx+Zynq+UltraScale+MPSoC+Video+Codec+Unit)
 * [Xilinx LogiCORE H.264/H.265 Video Codec Unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html)
 * [Cast JPEG-EX-F: Ultra-Fast, 4K/8K, Baseline and Extended JPEG Encoder](https://www.xilinx.com/products/intellectual-property/1-gfeqs7.html)
+* CAST [JPEG Image Compression](https://www.cast-inc.com/compression/jpeg-image-compression)
