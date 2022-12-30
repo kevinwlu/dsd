@@ -20,6 +20,11 @@
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
+## Instruments
+* [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
+* [List of electrical and electronic measuring equipment](https://en.wikipedia.org/wiki/List_of_electrical_and_electronic_measuring_equipment)
+* [Logic analyzer](https://en.wikipedia.org/wiki/Logic_analyzer)
+* [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
 ## Issue Tracking System
 * [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
 * [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems)
