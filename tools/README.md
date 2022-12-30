@@ -21,6 +21,7 @@
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
 ## Instruments
+* [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE)
 * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
 * [List of electrical and electronic measuring equipment](https://en.wikipedia.org/wiki/List_of_electrical_and_electronic_measuring_equipment)
 * [Logic analyzer](https://en.wikipedia.org/wiki/Logic_analyzer)
