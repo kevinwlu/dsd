@@ -80,6 +80,8 @@
   * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
   * [Keysight](https://en.wikipedia.org/wiki/Keysight)
     * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
+  * [Teradyne](https://en.wikipedia.org/wiki/Teradyne)
+    * [LeCroy Corporation](https://en.wikipedia.org/wiki/LeCroy_Corporation)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
