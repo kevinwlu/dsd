@@ -72,7 +72,7 @@
   * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
-* Testing
+* Test equipment suppliers
   * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
     * [Fortive](https://en.wikipedia.org/wiki/Fortive)
     * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
