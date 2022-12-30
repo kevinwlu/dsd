@@ -73,9 +73,13 @@
   * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
   * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
 * Testing
-  * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment)
-  * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
+  * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
+    * [Fortive](https://en.wikipedia.org/wiki/Fortive)
+    * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
+    * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
   * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
+  * [Keysight](https://en.wikipedia.org/wiki/Keysight)
+    * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
