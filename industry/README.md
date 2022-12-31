@@ -8,6 +8,7 @@
   * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
   * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
   * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
+## Semiconductor Fundamentals
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
@@ -56,32 +57,33 @@
   * [Electronic waste](https://en.wikipedia.org/wiki/Electronic_waste)
   * [Computer recycling](https://en.wikipedia.org/wiki/Computer_recycling)
   * [Mobile phone recycling](https://en.wikipedia.org/wiki/Mobile_phone_recycling)
-* Material and equipment suppliers
-  * [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
-  * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
-    * [Cymer](https://en.wikipedia.org/wiki/Cymer)
-    * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
-    * [ZEISS](https://en.wikipedia.org/wiki/Carl_Zeiss_AG)
-  * [Canon](https://en.wikipedia.org/wiki/Canon_Inc.)
-  * [Gigaphoton](https://www.gigaphoton.com/)
-  * [Nikon](https://en.wikipedia.org/wiki/Nikon)
-  * [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
-  * [Huawei Patent](https://www.huaweicentral.com/huawei-is-rapidly-researching-on-chipset-printing-technologies/) CN115343915A, "Mirror, Photolithography Device, and Control Method," 2022-11-15
-  * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
-  * [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
-  * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
-  * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
-  * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
-* Test equipment suppliers
-  * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
-    * [Fortive](https://en.wikipedia.org/wiki/Fortive)
-    * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
-    * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
-  * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
-  * [Keysight](https://en.wikipedia.org/wiki/Keysight)
-    * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
-  * [Teradyne](https://en.wikipedia.org/wiki/Teradyne)
-    * [LeCroy Corporation](https://en.wikipedia.org/wiki/LeCroy_Corporation)
+## Material and Equipment Suppliers
+* [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
+* [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
+  * [Cymer](https://en.wikipedia.org/wiki/Cymer)
+  * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
+  * [ZEISS](https://en.wikipedia.org/wiki/Carl_Zeiss_AG)
+* [Canon](https://en.wikipedia.org/wiki/Canon_Inc.)
+* [Gigaphoton](https://www.gigaphoton.com/)
+* [Nikon](https://en.wikipedia.org/wiki/Nikon)
+* [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
+* [Huawei Patent](https://www.huaweicentral.com/huawei-is-rapidly-researching-on-chipset-printing-technologies/) CN115343915A, "Mirror, Photolithography Device, and Control Method," 2022-11-15
+* [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
+* [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
+* [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
+* [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
+* [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
+## Test Equipment Suppliers
+* [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
+  * [Fortive](https://en.wikipedia.org/wiki/Fortive)
+  * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
+  * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
+* [ERS Electronic GmbH](https://www.ers-gmbh.com/)
+* [Keysight](https://en.wikipedia.org/wiki/Keysight)
+  * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
+* [Teradyne](https://en.wikipedia.org/wiki/Teradyne)
+  * [LeCroy Corporation](https://en.wikipedia.org/wiki/LeCroy_Corporation)
+## Semiconductor Companies
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
