@@ -1,14 +1,15 @@
 # Industry
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
-  * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
-    * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
-    * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
-  * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
-  * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
-  * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
-  * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
+
 ## Semiconductor Fundamentals
+* [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
+  * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
+  * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
+* [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
+* IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
+* [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
+* [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
   * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
@@ -44,12 +45,6 @@
   * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
   * [Integrated quantum photonics](https://en.wikipedia.org/wiki/Integrated_quantum_photonics)
   * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)  
-* [List of silicon producers](https://en.wikipedia.org/wiki/List_of_silicon_producers)
-  * [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
-  * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
-  * [GlobalWafers](https://www.gw-semi.com)
-  * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
-  * [Graphenea](https://www.graphenea.com/)
 * [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
   * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
   * [Rare-earth element](https://en.wikipedia.org/wiki/Rare-earth_element)
@@ -58,6 +53,12 @@
   * [Computer recycling](https://en.wikipedia.org/wiki/Computer_recycling)
   * [Mobile phone recycling](https://en.wikipedia.org/wiki/Mobile_phone_recycling)
 ## Material and Equipment Suppliers
+* [List of silicon producers](https://en.wikipedia.org/wiki/List_of_silicon_producers)
+  * [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
+  * [SUMCO](https://en.wikipedia.org/wiki/SUMCO)
+  * [GlobalWafers](https://www.gw-semi.com)
+  * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
+  * [Graphenea](https://www.graphenea.com/)
 * [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
 * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
   * [Cymer](https://en.wikipedia.org/wiki/Cymer)
