@@ -301,9 +301,10 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
 * [Verilator GitHub repository](https://github.com/verilator/verilator)
 
-### [Yosys](https://github.com/YosysHQ) by [Clifford Wolf](https://github.com/cliffordwolf)
-* [IceStorm](https://github.com/YosysHQ/icestorm)
+### [Yosys](https://github.com/YosysHQ)
 * [Yosys](https://github.com/YosysHQ/yosys)
+* [Yosys Manual](https://yosyshq.net/yosys/files/yosys_manual.pdf) by [Clifford Wolf](https://github.com/cliffordwolf)
+* [IceStorm](https://github.com/YosysHQ/icestorm)
 * [Nextnpr](https://github.com/YosysHQ/nextpnr)
 
 ## Field-Programmable Gate Array (FPGA)
