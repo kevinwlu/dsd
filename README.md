@@ -281,7 +281,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
 ## Open-Source Simulators
 
 ### [GHDL](http://ghdl.free.fr) 
-* The 25-minute [tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864) at [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM) 2018
+* The 17-minute [tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) plus 7-minute Q&A by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864) at [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM) 2018
+  * [Downloadable slides](https://archive.fosdem.org/2018/schedule/event/cad_fpga_intro/attachments/slides/2136/export/events/attachments/cad_fpga_intro/slides/2136/fpga_design.pdf)
 * [GHDL Documentation](https://ghdl.github.io/ghdl/)
 * [GHDL labs](https://github.com/kevinwlu/dsd/tree/master/ghdl) including hello_world, half adder, full adder, 8-bit square root, D flip-flop, T flip-flop, SR flip-flop, 4-to-1 multiplexer, and 1-to-4 demultiplexer
 * 4-Bit Ripple [Counter](https://en.wikipedia.org/wiki/Counter_(digital)), 4x4 Unsigned Mulitplier, and [Hamming Distance](https://en.wikipedia.org/wiki/Hamming_distance) Circuit by [Chloe Quinto](https://github.com/chloequinto/CPE-487-Digital-System-Design)
