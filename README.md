@@ -1,5 +1,5 @@
 # Digital System Design (DSD)
-
+Computer Engineering (CPE)
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
