@@ -299,15 +299,15 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ### [Veripool](https://www.veripool.org/)
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
-* [Verilator GitHub repository](https://github.com/verilator/verilator)
+* [GitHub repository](https://github.com/verilator/verilator)
 
 ### [Yosys](https://github.com/YosysHQ)
 * [Yosys](https://github.com/YosysHQ/yosys) for Verilog synthesis and formal verification
   * [Yosys Manual](https://yosyshq.net/yosys/files/yosys_manual.pdf)
   * [Clifford Wolf](http://bygone.clairexen.net/vitae.html)
-    * [GitHub](https://github.com/cliffordwolf)
+    * [GitHub repository](https://github.com/cliffordwolf)
   * [Symbiotic EDA](https://www.symbioticeda.com/)
-    * [GitHub](https://github.com/SymbioticEDA)
+    * [GitHub repository](https://github.com/SymbioticEDA)
 * [IceStorm](https://github.com/YosysHQ/icestorm)
 * [Nextnpr](https://github.com/YosysHQ/nextpnr)
 
