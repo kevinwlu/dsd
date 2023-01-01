@@ -303,7 +303,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ### [Yosys](https://github.com/YosysHQ)
 * [Yosys](https://github.com/YosysHQ/yosys)
-* [Yosys Manual](https://yosyshq.net/yosys/files/yosys_manual.pdf) by [Clifford Wolf](https://github.com/cliffordwolf)
+  * [Yosys Manual](https://yosyshq.net/yosys/files/yosys_manual.pdf)
+    * [Clifford Wolf](http://bygone.clairexen.net/vitae.html)
+    * [GitHub](https://github.com/cliffordwolf)
 * [IceStorm](https://github.com/YosysHQ/icestorm)
 * [Nextnpr](https://github.com/YosysHQ/nextpnr)
 
