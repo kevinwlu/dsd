@@ -350,6 +350,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
   * [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
+  * [iCEstick](https://www.latticesemi.com/icestick)
   * [TinyFPGA](https://tinyfpga.com/)
 * [ECP5](https://www.latticesemi.com/Products/FPGAandCPLD/ECP5) FPGA
   * [OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)
