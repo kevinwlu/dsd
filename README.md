@@ -302,6 +302,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Verilator GitHub repository](https://github.com/verilator/verilator)
 
 ### [Yosys](https://github.com/YosysHQ)
+* [IceStorm](https://github.com/YosysHQ/icestorm)
 * [yosys](https://github.com/YosysHQ/yosys)
 * [nextnpr](https://github.com/YosysHQ/nextpnr)
 
