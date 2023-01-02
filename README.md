@@ -77,6 +77,10 @@ Computer Engineering CPE 487
 * [Clock rate](https://en.wikipedia.org/wiki/Clock_rate)
   * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
   * [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate) (QDR)
+* [Clock synchronization](https://en.wikipedia.org/wiki/Clock_synchronization)
+  * [Synchronization in digital logic circuits](https://web.stanford.edu/class/ee183/handouts/synchronization_pres.pdf)
+    * Stanford [EE 183](https://web.stanford.edu/class/ee183/)
+  * [Metastability](https://en.wikipedia.org/wiki/Metastability)
 * [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
