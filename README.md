@@ -79,7 +79,7 @@ Computer Engineering CPE 487
   * [Quad data rate](https://en.wikipedia.org/wiki/Quad_data_rate) (QDR)
 * [Clock synchronization](https://en.wikipedia.org/wiki/Clock_synchronization)
   * [Synchronization in digital logic circuits](https://web.stanford.edu/class/ee183/handouts/synchronization_pres.pdf)
-    * Stanford [EE 183](https://web.stanford.edu/class/ee183/)
+    * Stanford University [EE 183](https://web.stanford.edu/class/ee183/) Advanced Logic Design Laboratory
   * [Metastability](https://en.wikipedia.org/wiki/Metastability)
 * [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
