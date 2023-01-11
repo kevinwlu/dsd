@@ -14,6 +14,7 @@
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
+  * [Sapphire Rapids](https://en.wikipedia.org/wiki/Sapphire_Rapids)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
