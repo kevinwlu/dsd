@@ -81,6 +81,7 @@
 * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
 * [Keysight](https://en.wikipedia.org/wiki/Keysight)
   * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
+* [Rohde & Schwarz](https://en.wikipedia.org/wiki/Rohde_%26_Schwarz)
 * [Teradyne](https://en.wikipedia.org/wiki/Teradyne)
   * [LeCroy Corporation](https://en.wikipedia.org/wiki/LeCroy_Corporation)
 ## Semiconductor Companies
