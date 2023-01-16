@@ -192,6 +192,8 @@
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ## India
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
+## Israel
+* [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
