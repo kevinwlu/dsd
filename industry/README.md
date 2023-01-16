@@ -66,6 +66,7 @@
 * [Canon](https://en.wikipedia.org/wiki/Canon_Inc.)
 * [Gigaphoton](https://www.gigaphoton.com/)
 * [Nikon](https://en.wikipedia.org/wiki/Nikon)
+* [Nova Measuring Instruments](https://en.wikipedia.org/wiki/Nova_Measuring_Instruments)
 * [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
 * [Huawei Patent](https://www.huaweicentral.com/huawei-is-rapidly-researching-on-chipset-printing-technologies/) CN115343915A, "Mirror, Photolithography Device, and Control Method," 2022-11-15
 * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
@@ -73,6 +74,7 @@
 * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
 * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
 * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
+  * [Orbotech](https://en.wikipedia.org/wiki/Orbotech)
 ## Test Equipment Suppliers
 * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
   * [Fortive](https://en.wikipedia.org/wiki/Fortive)
@@ -121,6 +123,7 @@
     * [Dallas Semiconductor](https://en.wikipedia.org/wiki/Dallas_Semiconductor)
 * [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
 * [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Inc.)
+* [Ceva](https://en.wikipedia.org/wiki/Ceva_(semiconductor_company))
 * [Cirrus Logic](https://en.wikipedia.org/wiki/Cirrus_Logic)
 * [Cisco](https://en.wikipedia.org/wiki/Cisco)
   * [Silicon One](https://www.cisco.com/c/en/us/solutions/silicon-one.html)
@@ -147,6 +150,7 @@
 * [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
 * [Nvidia](https://en.wikipedia.org/wiki/Nvidia)
   * [Ageia](https://en.wikipedia.org/wiki/Ageia)
+  * [Mellanox Technologies](https://en.wikipedia.org/wiki/Mellanox_Technologies)
 * [Onsemi](https://en.wikipedia.org/wiki/Onsemi)
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
