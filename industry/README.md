@@ -155,6 +155,7 @@
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
   * [Qualcomm Atheros](https://en.wikipedia.org/wiki/Qualcomm_Atheros)
+    * [Wilocity](https://en.wikipedia.org/wiki/Wilocity)
 * [Rambus](https://en.wikipedia.org/wiki/Rambus)
 * [Synaptics](https://en.wikipedia.org/wiki/Synaptics)
 * [Silicon Labs](https://en.wikipedia.org/wiki/Silicon_Labs)
