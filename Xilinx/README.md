@@ -133,6 +133,10 @@
 * [Xilinx Runtime Library](https://www.xilinx.com/products/design-tools/vitis/xrt.html) (XRT)
 * [Vitis Libraries](https://docs.xilinx.com/r/en-US/Vitis_Libraries/index.html)
   * [GitHub repository](https://github.com/Xilinx/Vitis_Libraries)
+  * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
+    * General [matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication) (GEMM)
+  * [Vitis BLAS Library](https://www.xilinx.com/products/design-tools/vitis/vitis-libraries/vitis-blas.html)
+    * [GEMM Kernel](https://docs.xilinx.com/r/en-US/Vitis_Libraries/blas/user_guide/L2/L2_gemm_content.html)
   * [Codec Library](https://github.com/Xilinx/Vitis_Libraries/tree/main/codec) including [JPEG XL](https://en.wikipedia.org/wiki/JPEG_XL)
     > Support for animated content: For encoding realistic content, regular video codecs are preferred.
 * [Vitis 2021.1 Libraries - Compiling and Installing OpenCV Libraries for Use With Vision Library on Ubuntu](https://support.xilinx.com/s/article/Vitis-2021-1-Libraries-Compiling-and-Installing-OpenCV)
