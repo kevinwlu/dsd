@@ -78,8 +78,9 @@
 ## Test Equipment Suppliers
 * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
   * [Fortive](https://en.wikipedia.org/wiki/Fortive)
-  * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
-  * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
+    * [Fluke Corporation](https://en.wikipedia.org/wiki/Fluke_Corporation)
+    * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
+    * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
 * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
 * [Keysight](https://en.wikipedia.org/wiki/Keysight)
   * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
