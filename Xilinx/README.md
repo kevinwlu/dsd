@@ -24,6 +24,7 @@
 * [Kria](https://www.xilinx.com/products/som/kria.html)
   * [System on module](https://en.wikipedia.org/wiki/System_on_module) (SOM)
   * [What's a SOM](https://www.xilinx.com/products/som/what-is-a-som.html)
+  * [Kria Robotic Starter Kit - Robotic Arm](https://www.hackster.io/adam-taylor/kria-robotic-starter-kit-robotic-arm-90b02d) by [Adam Taylor](https://www.hackster.io/adam-taylor)
 ## Spartan
 * [Spartan-7](https://www.xilinx.com/products/silicon-devices/fpga/spartan-7.html)
 ## Versal
