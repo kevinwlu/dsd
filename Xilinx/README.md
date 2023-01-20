@@ -30,6 +30,7 @@
 ## Versal
 * [Network on a chip](https://en.wikipedia.org/wiki/Network_on_a_chip) (NoC)
 * [Versal](https://www.xilinx.com/products/silicon-devices/acap/versal.html) Adaptive Compute Acceleration Platform (ACAP)
+* [Hello Versal!](https://www.hackster.io/adam-taylor/hello-versal-423549) by [Adam Taylor](https://www.hackster.io/adam-taylor)
 ## Virtex
 * [Virtex](https://en.wikipedia.org/wiki/Virtex_(FPGA))
 * [Virtex-7](https://www.xilinx.com/products/silicon-devices/fpga/virtex-7.html)
