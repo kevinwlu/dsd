@@ -173,6 +173,8 @@
 * [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
+## Australia
+* [BrainChip](https://en.wikipedia.org/wiki/BrainChip)
 ## China
 * [Semiconductor industry in China](https://en.wikipedia.org/wiki/Semiconductor_industry_in_China)
 * [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
