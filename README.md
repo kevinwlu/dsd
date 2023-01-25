@@ -118,6 +118,7 @@ Computer Engineering CPE 487
 * [Solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive)
 * [Flash memory](https://en.wikipedia.org/wiki/Flash_memory)
 * [SD card](https://en.wikipedia.org/wiki/SD_card)
+* [Firmware](https://en.wikipedia.org/wiki/Firmware)
 * [Netlist](https://en.wikipedia.org/wiki/Netlist)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Hardware verification language](https://en.wikipedia.org/wiki/Hardware_verification_language) (HVL)
