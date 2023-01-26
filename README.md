@@ -143,6 +143,7 @@ Computer Engineering CPE 487
   * [Bit error rate](https://en.wikipedia.org/wiki/Bit_error_rate)
 * [Soft microprocessor](https://en.wikipedia.org/wiki/Soft_microprocessor)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
+* [Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference) (EMI)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
