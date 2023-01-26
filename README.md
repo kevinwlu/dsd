@@ -144,7 +144,7 @@ Computer Engineering CPE 487
 * [Soft microprocessor](https://en.wikipedia.org/wiki/Soft_microprocessor)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
 * [Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference) (EMI)
-* [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS)
+* [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS 1)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
