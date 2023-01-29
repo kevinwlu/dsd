@@ -18,6 +18,7 @@
   * [Process–architecture–optimization model](https://en.wikipedia.org/wiki/Process%E2%80%93architecture%E2%80%93optimization_model)
   * [Tick–tock model](https://en.wikipedia.org/wiki/Tick%E2%80%93tock_model)
   * [Sapphire Rapids](https://en.wikipedia.org/wiki/Sapphire_Rapids)
+  * [Intel in Ohio](https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
