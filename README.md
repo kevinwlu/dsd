@@ -310,6 +310,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * Textbook Chapter 13 Test Benches by [Jake Foglia](https://github.com/jakefoglia/foglia-DSD/tree/master/GHDL%20Test%20Directory/ch13)
 
 ### [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog)
+> [Daedalus](https://en.wikipedia.org/wiki/Daedalus) warned [Icarus](https://en.wikipedia.org/wiki/Icarus) first of complacency and then of hubris, instructing him to fly neither too low nor too high, lest the sea's dampness clog his wings or the sun's heat melt them.
 * [Stephen Williams](http://stevewilliams.icarus.com/)
 * [Installation Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
   * [Icarus Verilog for Windows](http://bleyer.org/icarus/)
