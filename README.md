@@ -160,7 +160,7 @@ Computer Engineering CPE 487
   * [Nano-ITX](https://en.wikipedia.org/wiki/Nano-ITX)
   * [19-inch rack](https://en.wikipedia.org/wiki/19-inch_rack)
   * [Horizontal pitch](https://en.wikipedia.org/wiki/Horizontal_pitch) (HP)
-  * [Rack unit](https://en.wikipedia.org/wiki/Rack_unit)
+  * [Rack unit](https://en.wikipedia.org/wiki/Rack_unit) (U) is 1.75 inches (44.45 mm)
   * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
   * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
