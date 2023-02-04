@@ -119,7 +119,7 @@ Computer Engineering CPE 487
 * [Flash memory](https://en.wikipedia.org/wiki/Flash_memory)
 * [SD card](https://en.wikipedia.org/wiki/SD_card)
 * [Read-only memory](https://en.wikipedia.org/wiki/Read-only_memory) (ROM)
-* [Programmable read-only memory](Programmable ROM) (PROM)
+* [Programmable read-only memory](https://en.wikipedia.org/wiki/Programmable_ROM) (PROM)
 * [Erasable programmable read-only memory](https://en.wikipedia.org/wiki/EPROM) (EPROM)
 * [Electrically erasable programmable read-only memory](https://en.wikipedia.org/wiki/EEPROM) (EEPROM)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
