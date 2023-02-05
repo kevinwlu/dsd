@@ -124,6 +124,7 @@ Computer Engineering CPE 487
 * [Programmable read-only memory](https://en.wikipedia.org/wiki/Programmable_ROM) (PROM)
 * [Erasable programmable read-only memory](https://en.wikipedia.org/wiki/EPROM) (EPROM)
 * [Electrically erasable programmable read-only memory](https://en.wikipedia.org/wiki/EEPROM) (EEPROM)
+* [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
   * [Basic Input/Output System](https://en.wikipedia.org/wiki/BIOS) (BIOS)
   * [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI) (UEFI)
