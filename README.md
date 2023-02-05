@@ -134,6 +134,10 @@ Computer Engineering CPE 487
 * [Programmable Array Logic](https://en.wikipedia.org/wiki/Programmable_Array_Logic) (PAL)
 * [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
+  > Though the code deployed on the FPGA is sometimes referred to as its firmware, this is a slight misconception.
+  > Firmware is indeed embedded and dedicated code, but the code is executed.
+  > FPGA code is written in a description language, then is interpreted, synthesized, and ultimately produces hardware.
+  > So, I see it fit to refer to the FPGA, when it is configured, as hardware, and to the code itself as a description language.  
   * [Embedded FPGA](https://semiengineering.com/knowledge_centers/integrated-circuit/ic-types/fpga/embedded-fpga-efpga/) (eFPGA)
   * [Low-voltage differential signaling](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling) (LVDS)
   * [Small Computer System Interface](https://en.wikipedia.org/wiki/SCSI) (SCSI)
