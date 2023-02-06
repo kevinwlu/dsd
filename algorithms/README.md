@@ -8,6 +8,7 @@
 * [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (DFT)
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
+* [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 * [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
   * [Observability](https://en.wikipedia.org/wiki/Observability)
 * [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
