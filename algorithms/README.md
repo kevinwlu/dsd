@@ -5,6 +5,7 @@
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
 * [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP)
 * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
+* [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (DFT)
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
 * [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
