@@ -30,6 +30,7 @@
   * [IcoSweepNet using CrownConv](https://github.com/matsuren/crownconv360depth)
 * [List of open-source codecs](https://en.wikipedia.org/wiki/List_of_open-source_codecs)
 * [Video codec](https://en.wikipedia.org/wiki/Video_codec)
+  * [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
 * [Video coding format](https://en.wikipedia.org/wiki/Video_coding_format)
   * [Differential pulse-code modulation](https://en.wikipedia.org/wiki/Differential_pulse-code_modulation) (DPCM)
   * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
