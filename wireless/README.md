@@ -10,6 +10,7 @@
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
 * [4G](https://en.wikipedia.org/wiki/4G)
   * [SIM7600A-H 4G HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm)
+  * [GitHub repository](https://github.com/Makerfabs/4G-LTE-Hat-For-Raspberry-Pi)
 * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
