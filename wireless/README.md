@@ -12,6 +12,7 @@
   * [SIM7600A-H 4G HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm)
   * [GitHub repository](https://github.com/Makerfabs/4G-LTE-Hat-For-Raspberry-Pi)
   * [AT Command Manual](https://www.waveshare.com/wiki/File:SIM7500_SIM7600_Series_AT_Command_Manual_V1.12.pdf)
+  * [Tutorial](https://tlfong01.blog/2020/03/22/sim7600-at-command-tutorial/)
 * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
