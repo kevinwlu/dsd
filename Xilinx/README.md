@@ -82,6 +82,8 @@
   * CAST [JPEG-EX-F](https://www.xilinx.com/products/intellectual-property/1-gfeqs7.html) IP core features input resolution up to 64kx64k
   * CAST [JPEG Image Compression](https://www.cast-inc.com/compression/jpeg-image-compression)
     * [Bit-accurate value simulator](http://sepwww.stanford.edu/data/media/public/docs/sep131/bob1/paper_html/node11.html)
+    * [Fixed-point arithmetic](https://en.wikipedia.org/wiki/Fixed-point_arithmetic)
+    * [Floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
 * [Zynq UltraScale+ RFSoC](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/189530203/Zynq+UltraScale+RFSoC) ([Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) SoC) Wiki
   * [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html) Evaluation Kit
   * [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html) Evaluation Kit
