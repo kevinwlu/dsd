@@ -172,6 +172,7 @@ Computer Engineering CPE 487
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
   * [FPGA vs. GPU, What to Choose?](https://hardwarebee.com/fpga-vs-gpu-choose/)
   * [FPGA vs. GPU for Deep Learning](https://www.intel.com/content/www/us/en/artificial-intelligence/programmable/fpga-gpu.html)
+  * [FPGA vs. GPU vs. CPU – hardware options for AI applications](https://www.avnet.com/wps/portal/silica/resources/article/fpga-vs-gpu-vs-cpu-hardware-options-for-ai-applications/)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
 * [AMD Accelerated Processing Unit](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit) (APU)
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
