@@ -87,7 +87,7 @@
 * [Rohde & Schwarz](https://en.wikipedia.org/wiki/Rohde_%26_Schwarz)
 * [Teradyne](https://en.wikipedia.org/wiki/Teradyne)
   * [LeCroy Corporation](https://en.wikipedia.org/wiki/LeCroy_Corporation)
-## Testing Laboratory
+## Testing Laboratories
 * [Nationally Recognized Testing Laboratory](https://en.wikipedia.org/wiki/Nationally_Recognized_Testing_Laboratory)
 * [Technischer Überwachungsverein](https://en.wikipedia.org/wiki/Technischer_%C3%9Cberwachungsverein) (TÜV)
 * [UL](https://en.wikipedia.org/wiki/UL_(safety_organization))
