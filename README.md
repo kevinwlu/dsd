@@ -142,6 +142,7 @@ Computer Engineering CPE 487
   * [FPGA vs. GPU for Deep Learning](https://www.intel.com/content/www/us/en/artificial-intelligence/programmable/fpga-gpu.html)
   * [FPGA vs. GPU vs. CPU – hardware options for AI applications](https://www.avnet.com/wps/portal/silica/resources/article/fpga-vs-gpu-vs-cpu-hardware-options-for-ai-applications/)
   * [FPGA vs. GPU](https://haltian.com/resource/fpga-vs-gpu/)
+  * [List of Nvidia graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
 * [AMD Accelerated Processing Unit](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit) (APU)
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
