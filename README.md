@@ -144,6 +144,7 @@ Computer Engineering CPE 487
   * [FPGA vs. GPU](https://haltian.com/resource/fpga-vs-gpu/)
   * [List of Nvidia graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
+  * [CUDA Deep Neural Network library](https://developer.nvidia.com/cudnn) (cuDNN)
 * [AMD Accelerated Processing Unit](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit) (APU)
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
 * [In-memory processing](https://en.wikipedia.org/wiki/In-memory_processing)
