@@ -80,7 +80,7 @@ Computer Engineering CPE 487
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
 * [Random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
-* [Resistive random-access memory](https://en.wikipedia.org/wiki/Resistive_random-access_memory) (ReRAM)
+* [Resistive random-access memory](https://en.wikipedia.org/wiki/Resistive_random-access_memory) (ReRAM or RRAM)
 * [Memristor](https://en.wikipedia.org/wiki/Memristor)
 * [Dual In-line Memory Module](https://en.wikipedia.org/wiki/DIMM) (DIMM)
 * [Error correction code (ECC) memory](https://en.wikipedia.org/wiki/ECC_memory)
