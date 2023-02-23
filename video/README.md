@@ -67,6 +67,7 @@
   * [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)
     * [Documentation](https://ffmpeg.org/ffmpeg.html)
     * [Streaming Guide](http://trac.ffmpeg.org/wiki/StreamingGuide)
+    * [Tutorial](https://sonnati.wordpress.com/2011/07/11/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-i/) by [Fabio Sonnati](https://sonnati.wordpress.com/)
   * [XSplit](https://en.wikipedia.org/wiki/XSplit)
   * [SplitCam](https://splitcamera.com/)
   * [Switchboard Live](https://switchboard.live/)
