@@ -1,4 +1,4 @@
-# Wireless Communication
+# Wireless Communications
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
