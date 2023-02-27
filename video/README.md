@@ -7,7 +7,7 @@
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [YUV](https://en.wikipedia.org/wiki/YUV)
-* [10-bit and 16-bit YUV Video Formats](https://learn.microsoft.com/en-us/windows/win32/medfound/10-bit-and-16-bit-yuv-video-formats)
+  * [10-bit and 16-bit YUV Video Formats](https://learn.microsoft.com/en-us/windows/win32/medfound/10-bit-and-16-bit-yuv-video-formats)
 * [Grayscale](https://en.wikipedia.org/wiki/Grayscale)
 * [Chroma subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling)
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
