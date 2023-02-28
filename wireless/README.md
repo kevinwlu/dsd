@@ -1,6 +1,7 @@
 # Wireless Communications
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
+  * [Channel sounding](https://en.wikipedia.org/wiki/Channel_sounding)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
