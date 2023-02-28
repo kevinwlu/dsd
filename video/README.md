@@ -57,7 +57,7 @@
   * [4K resolution](https://en.wikipedia.org/wiki/4K_resolution) (3840 × 2160)
   * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
-# Livestreaming
+## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [Comparison of the 15 Best Live Streaming Software](https://www.dacast.com/blog/live-broadcasting-software/)
   * [Wirecast](https://en.wikipedia.org/wiki/Wirecast)
@@ -86,8 +86,14 @@
 * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
-##
+## Message Passing Interface (MPI)
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
+* [MPI Forum](https://www.mpi-forum.org/)
+* [Curlie](https://curlie.org/Computers/Parallel_Computing/Programming/Libraries/MPI)
+* [Tutorial on MPI](http://polaris.cs.uiuc.edu/~padua/cs320/mpi/tutorial.pdf) by [William Gropp](https://en.wikipedia.org/wiki/Bill_Gropp)
+* [User's Guide to MPI](https://arcb.csc.ncsu.edu/~mueller/cluster/mpi.guide.pdf) by [Peter Pacheco](https://scholar.google.com/citations?user=LAIBVSEAAAAJ&hl=en)
+* [MPI Tutorial](https://mpitutorial.com/) by [Wes Kendall](https://github.com/wesleykendall)
+## Media Player
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
 * [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
 * [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player)
