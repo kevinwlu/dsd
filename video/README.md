@@ -90,9 +90,9 @@
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
 * [MPI Forum](https://www.mpi-forum.org/)
 * [Curlie](https://curlie.org/Computers/Parallel_Computing/Programming/Libraries/MPI)
-* [Tutorial on MPI](http://polaris.cs.uiuc.edu/~padua/cs320/mpi/tutorial.pdf) by [William Gropp](https://en.wikipedia.org/wiki/Bill_Gropp)
-* [User's Guide to MPI](https://arcb.csc.ncsu.edu/~mueller/cluster/mpi.guide.pdf) by [Peter Pacheco](https://scholar.google.com/citations?user=LAIBVSEAAAAJ&hl=en)
 * [MPI Tutorial](https://mpitutorial.com/) by [Wes Kendall](https://github.com/wesleykendall)
+  * [Tutorial on MPI](http://polaris.cs.uiuc.edu/~padua/cs320/mpi/tutorial.pdf) by [William Gropp](https://en.wikipedia.org/wiki/Bill_Gropp)
+  * [User's Guide to MPI](https://arcb.csc.ncsu.edu/~mueller/cluster/mpi.guide.pdf) by [Peter Pacheco](https://scholar.google.com/citations?user=LAIBVSEAAAAJ&hl=en)
 ## Media Player
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
 * [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
