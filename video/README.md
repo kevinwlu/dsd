@@ -87,6 +87,7 @@
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
 ##
+* [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface)
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
 * [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
 * [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player)
