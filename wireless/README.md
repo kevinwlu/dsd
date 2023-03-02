@@ -32,6 +32,7 @@
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
 * [Orthogonal frequency-division multiplexing](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing) (OFDM)
+* [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying) (PSK)
 * [Quadrature amplitude modulation](https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation) (QAM)
 ## Satellite Navigation
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
