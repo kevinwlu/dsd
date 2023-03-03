@@ -1,13 +1,13 @@
 # Digital System Design (DSD)
 Computer Engineering CPE 487
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
-* [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
-  * [Industry](/industry)
-  * [Chips](/chips)
 * [Algorithms](/algorithms)
 * [Audio](/audio)
 * [Code](/code)
 * [Projects](/projects)
+* [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
+  * [Chips](/chips)
+  * [Industry](/industry)
 * [Tools](/tools)
 * [Video](/video)
 * [Wireless](/wireless)
