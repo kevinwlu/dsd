@@ -5,9 +5,11 @@ Computer Engineering CPE 487
   * [Industry](/industry)
   * [Chips](/chips)
 * [Algorithms](/algorithms)
-* Course [projects](/projects)
+* [Audio](/audio)
 * [Code](/code) repositories
+* [Projects](/projects)
 * [Tools](/tools)
+* [Video](/video)
 * [Wireless](/wireless)
 
 ## DSD Fundamentals
