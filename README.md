@@ -118,7 +118,7 @@ Computer Engineering CPE 487
 * [Netlist](https://en.wikipedia.org/wiki/Netlist)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
 * [Hardware verification language](https://en.wikipedia.org/wiki/Hardware_verification_language) (HVL)
-* [Programmable logic controller](https://en.wikipedia.org/wiki/Programmable_logic_controller)
+* [Programmable logic controller](https://en.wikipedia.org/wiki/Programmable_logic_controller) (PLC)
 * [Programmable Array Logic](https://en.wikipedia.org/wiki/Programmable_Array_Logic) (PAL)
 * [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
