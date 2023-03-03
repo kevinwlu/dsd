@@ -2,15 +2,16 @@
 Computer Engineering CPE 487
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
 * [Algorithms](/algorithms)
-* [Audio](/audio)
+* [Audio](/audio) and [Video](/video)
 * [Code](/code)
+* [Digital signal processing](/dsp)
+* [Power and thermal management](/power)
 * [Projects](/projects)
 * [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
   * [Chips](/chips)
   * [Industry](/industry)
 * [Tools](/tools)
-* [Video](/video)
-* [Wireless](/wireless)
+* [Wireless communications](/wireless)
 
 ## DSD Fundamentals
 
