@@ -6,7 +6,7 @@ Computer Engineering CPE 487
   * [Chips](/chips)
 * [Algorithms](/algorithms)
 * [Audio](/audio)
-* [Code](/code) repositories
+* [Code](/code)
 * [Projects](/projects)
 * [Tools](/tools)
 * [Video](/video)
