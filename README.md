@@ -3,7 +3,7 @@ Computer Engineering CPE 487
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
 * [GHDL](/ghdl)
   * [SmartSim](/smartsim)
-* [AMD-Xilinx](/xilinx)
+* [AMD Xilinx](/xilinx)
   * [Board files](/board_files)
   * [Nexys-2](/Nexys-2)
   * [Nexys-4-DDR](/Nexys-4-DDR)
@@ -11,9 +11,10 @@ Computer Engineering CPE 487
   * [Basys-3](/Basys-3)
   * [Cmod-A7](/Cmod-A7)
   * [Genesys-ZU](/Genesys-ZU)
-* [Intel](/Intel)
+* [Intel Altera](/Intel)
   * [DE0-CV](DE0-CV)
-* [TinyFPGA-BX](/TinyFPGA-BX)
+* Lattice Semiconductor
+  * [TinyFPGA-BX](/TinyFPGA-BX)
 * [Algorithms](/algorithms)
 * [Audio](/audio) and [Video](/video)
 * [Code](/code)
