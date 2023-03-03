@@ -1,6 +1,19 @@
 # Digital System Design (DSD)
 Computer Engineering CPE 487
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
+* [GHDL](/ghdl)
+  * [SmartSim](/smartsim)
+* [Xilinx](/xilinx)
+  * [Board files](/board_files)
+  * [Nexys-2](/Nexys-2)
+  * [Nexys-4-DDR](/Nexys-4-DDR)
+  * [Nexys-A7](/Nexys-A7)
+  * [Basys-3](/Basys-3)
+  * [Cmod-A7](/Cmod-A7)
+  * [Genesys-ZU](/Genesys-ZU)
+* [Intel](/Intel)
+  * [DE0-CV](DE0-CV)
+* [TinyFPGA-BX](/TinyFPGA-BX)
 * [Algorithms](/algorithms)
 * [Audio](/audio) and [Video](/video)
 * [Code](/code)
@@ -10,6 +23,7 @@ Computer Engineering CPE 487
 * [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
   * [Chips](/chips)
   * [Industry](/industry)
+* [Standards](/standards)
 * [Tools](/tools)
 * [Wireless communications](/wireless)
 
