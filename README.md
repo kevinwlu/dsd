@@ -3,7 +3,7 @@ Computer Engineering CPE 487
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
 * [GHDL](/ghdl)
   * [SmartSim](/smartsim)
-* [Xilinx](/xilinx)
+* [AMD-Xilinx](/xilinx)
   * [Board files](/board_files)
   * [Nexys-2](/Nexys-2)
   * [Nexys-4-DDR](/Nexys-4-DDR)
