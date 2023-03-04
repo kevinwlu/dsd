@@ -1,8 +1,8 @@
 # Digital System Design (DSD)
 Computer Engineering CPE 487
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
+* [SmartSim](/smartsim)
 * [GHDL](/ghdl)
-  * [SmartSim](/smartsim)
 * [AMD Xilinx](/xilinx) FPGAs
   * [Board files](/board_files)
   * [Nexys-2](/Nexys-2)
