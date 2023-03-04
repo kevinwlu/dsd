@@ -15,7 +15,7 @@ Computer Engineering CPE 487
   * [DE0-CV](DE0-CV)
 * [TinyFPGA-BX](/TinyFPGA-BX)
 * [Algorithms](/algorithms)
-* [Audio](/audio) and [Video](/video)
+* [Audio](/audio) and [video](/video)
 * [Code](/code)
 * [Digital signal processing](/dsp)
 * [Power and thermal management](/power)
