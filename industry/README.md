@@ -1,11 +1,6 @@
 # Industry
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
-* [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
-  * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
-  * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
-* [Edholm's law](https://en.wikipedia.org/wiki/Edholm%27s_law)
-  * [Jakob Nielsen](https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant))
 * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
 * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
