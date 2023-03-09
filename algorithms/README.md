@@ -11,6 +11,7 @@
 * [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 * [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
   * [Observability](https://en.wikipedia.org/wiki/Observability)
+* [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm)
 * [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
   * [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
