@@ -37,6 +37,7 @@
 * [Orthogonal frequency-division multiplexing](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing) (OFDM)
 * [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying) (PSK)
 * [Quadrature amplitude modulation](https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation) (QAM)
-## Satellite Navigation
+## Satellite
+* [Reflector antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
 * [GNSS applications](https://en.wikipedia.org/wiki/GNSS_applications)
