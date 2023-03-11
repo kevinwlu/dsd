@@ -1,6 +1,7 @@
 # Algorithms and Methods
-* [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
-* [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
+* [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
+  * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
+  * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
 * [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP)
