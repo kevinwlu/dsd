@@ -210,6 +210,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Basic VHDL Tutorials](https://vhdlwhiz.com/basic-vhdl-tutorials/) of [VHDLwhiz](https://vhdlwhiz.com/) by [Jonas Julian Jensen](https://jonasjulianjensen.com/)
   * [FPGA Design Using VHDL Lectures](https://youtube.com/playlist?list=PLZv8x7uxq5XY-IQfQFb6mC6OXzz0h8ceF) of [Eduvance](https://www.eduvance.in/) by Jonathan Joshi and Amit Kathuria
   * [FPGA design with VHDL](https://vhdlguide.readthedocs.io/en/latest/) by [Meher Krishna Patel](https://in.linkedin.com/in/mekrip) of Xilinx
+  * [SynthWorks](https://www.synthworks.com/) VHDL training experts
   * [VHDL-Online](https://www.vhdl-online.de/) of [Chemnitz University of Technology](https://en.wikipedia.org/wiki/Chemnitz_University_of_Technology)
   * [VHDL Tutorial and Examples](https://www.nandland.com/vhdl/tutorials/index.html) of [Nandland](https://www.nandland.com/) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
   * [VHDL Tutorial: Learn by Example](http://esd.cs.ucr.edu/labs/tutorial/) by Weijun Zhang, UC Riverside, July 2001
@@ -362,6 +363,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Diamond overview](https://www.latticesemi.com/en/Products/DesignSoftwareAndIP/FPGAandLDS/LatticeDiamond/DiamondOverview)
   * [Lattice Diamond programmer and deployment tool](https://www.latticesemi.com/programmer)
 * [Lattice FPGAs](https://www.latticesemi.com/Products.aspx)
+* [STEP-MXO2](https://www.latticesemi.com/products/developmentboardsandkits/stepmxo2dev) development board
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
   * [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
   * [iCEstick](https://www.latticesemi.com/icestick)
