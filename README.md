@@ -185,7 +185,8 @@ Computer Engineering CPE 487
 
 ## Hardware Description Languages (HDL)
 
-### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
+### VHDL
+* [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 * Textbook: [Free Range VHDL, 2019 Edition](/free_range_vhdl_2019.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](https://github.com/fabriziotappero)
   > Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."\
@@ -216,7 +217,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [VHDL reference material](https://www.csee.umbc.edu/portal/help/VHDL/index.shtml) by [UMBC CSEE](https://www.csee.umbc.edu/portal/help/)
   * [VHDL code for flip-flops using behavioral method - full code](https://technobyte.org/vhdl-code-flip-flops-behavioral/) by Umair Hussaini, Technobyte
 
-### [Verilog](https://en.wikipedia.org/wiki/Verilog) HDL and [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) HDL
+### Verilog
+* [Verilog](https://en.wikipedia.org/wiki/Verilog) HDL
+* [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog) HDL
 * [IEEE 1364-2005](https://standards.ieee.org/standard/1364-2005.html): IEEE Standard for Verilog Hardware Description Language
   * IEEE 1364-2005 was superseded by IEEE 1800-2009
 * [IEEE 1800-2017](https://standards.ieee.org/standard/1800-2017.html): IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language
@@ -253,7 +256,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [XIMEA](https://www.ximea.com/)
 
 ## Electronic Design Automation (EDA)
-
 * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
 * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * [Virtuoso Layout Suite](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) supports custom analog, digital, and mixed-signal designs at the device, cell, block, and chip levels
@@ -263,7 +265,15 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ## Open-Source Simulators
 
-### [GHDL](http://ghdl.free.fr) 
+### EDA Playground
+* [Doulos](https://www.doulos.com/)
+* [EDA Playground](https://edaplayground.com/)
+* [Quick start](https://eda-playground.readthedocs.io/en/latest/quick-start.html)
+* [Tutorial](https://eda-playground.readthedocs.io/en/latest/tutorial.html)
+* [GitHub repository](https://github.com/edaplayground/eda-playground)
+
+### GHDL
+* [GHDL](http://ghdl.free.fr) 
 * The 17-minute [tutorial](https://archive.fosdem.org/2018/schedule/speaker/tristan_gingold/) plus 7-minute Q&A by [Tristan Gingold](https://fr.linkedin.com/in/tristan-gingold-31a3864) at [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM) 2018
   * Downloadable [slides](https://archive.fosdem.org/2018/schedule/event/cad_fpga_intro/attachments/slides/2136/export/events/attachments/cad_fpga_intro/slides/2136/fpga_design.pdf)
 * [GHDL Documentation](https://ghdl.github.io/ghdl/)
@@ -272,7 +282,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Textbook](http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf) Exercises of Chapters 3 to 5 and Chapters 7 to 10 by [Sarah Bertussi](https://github.com/sbertussi/CPE-487/tree/master/textbook)
 * Textbook Chapter 13 Test Benches by [Jake Foglia](https://github.com/jakefoglia/foglia-DSD/tree/master/GHDL%20Test%20Directory/ch13)
 
-### [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog)
+### Icarus Verilog
+* [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog)
 > [Daedalus](https://en.wikipedia.org/wiki/Daedalus) warned [Icarus](https://en.wikipedia.org/wiki/Icarus) first of complacency and then of hubris, instructing him to fly neither too low nor too high, lest the sea's dampness clog his wings or the sun's heat melt them.
 * [Stephen Williams](http://stevewilliams.icarus.com/)
 * [Installation Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
@@ -281,11 +292,13 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Examples](https://github.com/steveicarus/iverilog/tree/master/examples) including hello, square-root device, configurable [logic block](https://en.wikipedia.org/wiki/Logic_block) (CLB) flip-flop, [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard) (DES) encryptor, etc.
 * [ivtest](https://github.com/steveicarus/ivtest)
 
-### [Veripool](https://www.veripool.org/)
+### Veripool
+* [Veripool](https://www.veripool.org/)
 * [Verilator](https://en.wikipedia.org/wiki/Verilator)
 * [GitHub repository](https://github.com/verilator/verilator)
 
-### [Yosys](https://github.com/YosysHQ)
+### Yosys
+* [Yosys](https://github.com/YosysHQ)
 * [Yosys](https://github.com/YosysHQ/yosys) for Verilog synthesis and formal verification
   * [Yosys Manual](https://yosyshq.net/yosys/files/yosys_manual.pdf)
   * [Clifford Wolf](http://bygone.clairexen.net/vitae.html)
@@ -299,7 +312,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * Ryan Kastner, Janarbek Matai, and Stephen Neuendorffer, *[Parallel Programming for FPGAs](https://kastner.ucsd.edu/hlsbook/)* ArXiv e-prints, May 11, 2018, arXiv:1805.03648 [cs.AR] ([PDF](https://kastner.ucsd.edu/wp-content/uploads/2018/03/admin/pp4fpgas.pdf))
 * [Kastner Research Group](https://kastner.ucsd.edu/) (KRG), UC San Diego
 
-### [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
+### AMD Xilinx
+* [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 * [NI](https://en.wikipedia.org/wiki/National_Instruments) [Digilent FPGA boards](https://reference.digilentinc.com/programmable-logic/start)
   * Digilent Nexys 4 DDR rebranded as [Nexys A7-100T](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum)
   * [Double data rate](https://en.wikipedia.org/wiki/Double_data_rate) (DDR)
@@ -327,7 +341,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * Lab 6: Two 12-bit analog-to-digital converter [AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
   * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
 
-### [Intel](https://en.wikipedia.org/wiki/Intel) [Altera](https://en.wikipedia.org/wiki/Altera)
+### Intel Altera
+* [Intel](https://en.wikipedia.org/wiki/Intel)
+* [Altera](https://en.wikipedia.org/wiki/Altera)
 * [Terasic](https://www.terasic.com.tw/en/) boards
   * [DE0-CV](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921)
   * [DE0-Nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593) 
@@ -340,7 +356,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [DE2 Board Resources](https://hamblen.ece.gatech.edu/DE2/)
   * [J. Hamblen](https://hamblen.ece.gatech.edu/), T. Hall, and M. Furman, *Rapid Prototyping of Digital Systems*, SoPC (System-on-a-Programmable Chip) Edition ([PDF](https://hamblen.ece.gatech.edu/book/slides_qe/)), 2007
 
-### [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
+### Lattice Semiconductor
+* [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Lattice Diamond design software](https://www.latticesemi.com/latticediamond)
   * [Diamond overview](https://www.latticesemi.com/en/Products/DesignSoftwareAndIP/FPGAandLDS/LatticeDiamond/DiamondOverview)
   * [Lattice Diamond programmer and deployment tool](https://www.latticesemi.com/programmer)
@@ -355,7 +372,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [ArcticKoala](https://github.com/gregdavill/ArcticKoala)
 
 ### Others
-
 * [Achronix](https://www.achronix.com/)
 * [Efinix](https://www.efinixinc.com/)
 * [Khronos Group](https://en.wikipedia.org/wiki/Khronos_Group)
@@ -368,7 +384,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Examples](https://symbiflow-examples.readthedocs.io/en/latest/)
 
 ### Projects
-
 * [All About FPGA](https://allaboutfpga.com/) by Shahul Akthar of Invent Logics
   * [Binary Counter FPGA Implementation](https://allaboutfpga.com/binary-counter-fpga-implementation/)
   * [BCD to 7 Segment FPGA Implementation](https://allaboutfpga.com/bcd-to-7-segment-fpga-implementation/)
