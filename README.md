@@ -361,6 +361,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Lattice Diamond design software](https://www.latticesemi.com/latticediamond)
   * [Diamond overview](https://www.latticesemi.com/en/Products/DesignSoftwareAndIP/FPGAandLDS/LatticeDiamond/DiamondOverview)
   * [Lattice Diamond programmer and deployment tool](https://www.latticesemi.com/programmer)
+* [Lattice FPGAs](https://www.latticesemi.com/Products.aspx)
 * [iCE](https://en.wikipedia.org/wiki/ICE_(FPGA)) FPGA
   * [iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)
   * [iCEstick](https://www.latticesemi.com/icestick)
