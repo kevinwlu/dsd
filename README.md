@@ -188,15 +188,11 @@ Computer Engineering CPE 487
 ### [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 * Textbook: [Free Range VHDL, 2019 Edition](/free_range_vhdl_2019.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](https://github.com/fabriziotappero)
-  > Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."
-
-  > Page 120: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."
-
-  > Page 131: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”
-
+  > Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from schematic-based approaches."\
+  > Page 120: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."\
+  > Page 131: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”\
   > Page 173: "After years of development by the US Department of Defense, in February 1986 all VHDL rights were transferred to the Institute of Electrical and Electronics Engineers (IEEE) which since then has carried on the process of standardization of the language.
-After several language standardization steps that took place in 1987, 1993, 2000, 2002, and 2008, VHDL now includes a large set of packages that, once included in your code, give you the possibility of using several mathematical constants, numerical functions, overloaded operators, type conversion functions, enhanced signal types, and much more."
-
+After several language standardization steps that took place in 1987, 1993, 2000, 2002, and 2008, VHDL now includes a large set of packages that, once included in your code, give you the possibility of using several mathematical constants, numerical functions, overloaded operators, type conversion functions, enhanced signal types, and much more."\
   > Page 177: "This section presents the solutions to all problems presented throughout this book."
 * [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) programming language
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
