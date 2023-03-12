@@ -12,6 +12,7 @@
 * [T-Mobile 5G Hotspot](https://www.t-mobile.com/hotspot-iot-connected-devices/t-mobile-5g-hotspot)
 * [The best mobile hotspots for 2023](https://www.pcmag.com/picks/the-best-mobile-hotspots)
 * [MiFi](https://en.wikipedia.org/wiki/MiFi)
+* [Inseego M2000 5G MiFi mobile hotspot](https://www.amazon.com/INSEEGO-Ultimate-Hotspot-T-Mobile-SIMBROS/dp/B09742XJB1/) by [Inseego](https://inseego.com/)
 * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
