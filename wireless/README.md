@@ -16,6 +16,7 @@
   * [Tutorials](https://www.t-mobile.com/support/tutorials/device/inseego/5g-mifi-m2000)
   * [Quick Start Guide](https://static.inseego.com/us/download/m2000-quick-start-guide-tmobile.pdf)
   * [User Guide](https://static.inseego.com/us/download/UserGuide-MiFi-M2000-TMobile.pdf)
+  * [USB-C to Ethernet adapter](https://www.amazon.com/UGREEN-Ethernet-Thunderbolt-Converter-Chromebook/dp/B082K62S48/)
 * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
