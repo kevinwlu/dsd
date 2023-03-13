@@ -10,6 +10,7 @@
   * [10-bit and 16-bit YUV Video Formats](https://learn.microsoft.com/en-us/windows/win32/medfound/10-bit-and-16-bit-yuv-video-formats)
 * [Grayscale](https://en.wikipedia.org/wiki/Grayscale)
 * [Chroma subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling)
+* [Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter)
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
 * [Uncompressed video](https://en.wikipedia.org/wiki/Uncompressed_video)
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
