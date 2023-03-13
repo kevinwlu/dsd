@@ -43,7 +43,7 @@
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression)
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression)
 * [Advanced Video Coding](https://en.wikipedia.org/wiki/Advanced_Video_Coding) (AVC, H.264, or MPEG-4 Part 10)
-* [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) (HEVC, H.265, or MPEG-H Part 2)
+* [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) (HEVC, H.265, or [MPEG-H](https://en.wikipedia.org/wiki/MPEG-H) Part 2)
 * [Versatile Video Coding](https://en.wikipedia.org/wiki/Versatile_Video_Coding) (VVC, H.266, or MPEG-I Part 3)
 * [Essential Video Coding](https://en.wikipedia.org/wiki/Essential_Video_Coding) (EVC or MPEG-5 Part 1)
 * [Motion JPEG](https://en.wikipedia.org/wiki/Motion_JPEG)
