@@ -1,6 +1,7 @@
 # Digital System Design (DSD)
 Computer Engineering CPE 487
-* [Instructor](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
+* [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
+* [Bryan Ackland](https://personal.stevens.edu/~backland/Courses/Course487_Spring_18.htm) from Fall 2011 to Spring 2018
 * [SmartSim](/smartsim)
 * [GHDL](/ghdl)
 * [AMD Xilinx](/xilinx) FPGAs
