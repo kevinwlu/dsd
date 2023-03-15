@@ -8,9 +8,9 @@
   * [Crowdsupply](https://www.crowdsupply.com/tinyfpga/tinyfpga-ax-bx)
 * [TinyFPGA BX GitHub repository](https://github.com/tinyfpga/TinyFPGA-BX) by [Luke Valenty](https://github.com/tinyfpga)
 * [TinyFPGA BX User Guide](https://tinyfpga.com/bx/guide.html)
-  * [Atom](https://atom.io) IDE ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment))
-    > We are archiving Atom and all projects under the Atom organization for an official sunset on December 15, 2022.
   * [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
+  * [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
+    > We are archiving [Atom](https://atom.io) and all projects under the Atom organization for an official sunset on December 15, 2022.
   * [Electron (software framework)](https://en.wikipedia.org/wiki/Electron_(software_framework))
   * [apio](https://github.com/FPGAwars/apio)
   * [Apio IDE](https://github.com/FPGAwars/apio-ide)
