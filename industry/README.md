@@ -40,7 +40,9 @@
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
 * [Integrated quantum photonics](https://en.wikipedia.org/wiki/Integrated_quantum_photonics)
-* [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)  
+* [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
+* [Plasmon](https://en.wikipedia.org/wiki/Plasmon)
+* [Surface_plasmon_resonance](https://en.wikipedia.org/wiki/Surface_plasmon_resonance) (SPR)
 ## Material and Equipment Suppliers
 * [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
   * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
