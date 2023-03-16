@@ -9,6 +9,7 @@
 * [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (DFT)
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
+* [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
 * [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 * [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
   * [Observability](https://en.wikipedia.org/wiki/Observability)
