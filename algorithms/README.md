@@ -16,6 +16,7 @@
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm)
 * [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
   * [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
+* [Particle swarm optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization) (PSO)
 * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
