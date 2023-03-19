@@ -18,6 +18,7 @@ Computer Engineering CPE 487
 * [Algorithms](/algorithms)
 * [Audio](/audio) and [video](/video)
 * [Code](/code)
+* [Communications](/communications)
 * [Digital signal processing](/dsp)
 * [Power and thermal management](/power)
 * [Projects](/projects)
@@ -26,7 +27,6 @@ Computer Engineering CPE 487
   * [Industry](/industry)
 * [Standards](/standards)
 * [Tools](/tools)
-* [Wireless communications](/wireless)
 
 ## DSD Fundamentals
 
