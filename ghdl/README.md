@@ -50,7 +50,7 @@ $ sudo nano /etc/paths
 
 ## Open GTKWave Wave Viewer on macOS
 ```sh
-GTKWave > File > Open New Tab | Select a folder and a VCD file to load
+GTKWave > File > Open New Tab > Select a folder and a VCD file to load
 ```
 
 ## [GHDL Quick Start Guide](https://ghdl.github.io/ghdl/quick_start/index.html)
