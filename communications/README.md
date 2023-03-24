@@ -19,6 +19,7 @@
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
+* [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
   * [m-center](https://www.u-blox.com/en/product/m-center)
   * [SARA-R4 series AT commands manual](https://content.u-blox.com/sites/default/files/SARA-R4_ATCommands_UBX-17003787.pdf)
