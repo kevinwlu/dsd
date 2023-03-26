@@ -58,6 +58,8 @@
 ## Hardware Security
 * [Hardware security bug](https://en.wikipedia.org/wiki/Hardware_security_bug)
 * [Transient execution CPU vulnerability](https://en.wikipedia.org/wiki/Transient_execution_CPU_vulnerability)
+* [Trusted execution environment](https://en.wikipedia.org/wiki/Trusted_execution_environment) (TEE)
+* [Software Guard Extensions](https://en.wikipedia.org/wiki/Software_Guard_Extensions) (SGX)
 * [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))
 * [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
 * [Foreshadow](https://en.wikipedia.org/wiki/Foreshadow)
