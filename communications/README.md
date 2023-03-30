@@ -38,6 +38,7 @@
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [Brooklyn 6G Summit](https://b6gs.com/)
+* [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
