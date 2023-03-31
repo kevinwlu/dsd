@@ -1,6 +1,5 @@
 # Computing
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
-* [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
 * [Cochleagram](https://en.wiktionary.org/wiki/cochleagram)
 * [Cognitive computer](https://en.wikipedia.org/wiki/Cognitive_computer)
