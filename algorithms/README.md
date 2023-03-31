@@ -1,8 +1,9 @@
 # Algorithms and Methods
+* [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
+* [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
-* [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
 * [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP)
 * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
