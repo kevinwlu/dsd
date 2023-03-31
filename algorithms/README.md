@@ -20,6 +20,8 @@
 * [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Particle swarm optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization) (PSO)
 * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
+* [Ridge regression](https://en.wikipedia.org/wiki/Ridge_regression)
+* [Root-mean-square deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation) (RMSD)
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
 * [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
