@@ -1,5 +1,7 @@
 # Tools
 ## YouTube Channel
+* [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
+* [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
 * [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292)
 ## Electronic Design Automation (EDA)
 * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
