@@ -38,6 +38,9 @@
   * [RIGOL Technologies](https://en.wikipedia.org/wiki/RIGOL_Technologies)
     * [RIGOL DS1104Z Plus Oscilloscope, 100 MHz, 4 channels](https://www.rigolna.com/products/digital-oscilloscopes/1000z/)
     * [RIGOL DS1054Z Oscilloscope, 50 MHz, 4 channels](https://assets.testequity.com/te1/Documents/pdf/rigol/Rigol-DS1054Z-Manual.pdf)
+* [Power supply](https://en.wikipedia.org/wiki/Power_supply)
+  * [Elenco Electronics](https://elenco.shptron.com/c/power-supplies)
+    * [Model XP-581A](https://www.elenco.com/wp-content/uploads/2017/10/XP581A-2.pdf)
 ## Issue Tracking System
 * [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
 * [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems)
