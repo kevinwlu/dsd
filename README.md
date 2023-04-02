@@ -244,8 +244,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
 ### Others
-* [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
-* [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
 * [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
   * [MyHDL website](http://www.myhdl.org)
