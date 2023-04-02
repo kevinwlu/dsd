@@ -1,4 +1,6 @@
 # Tools
+## YouTube Channel
+* [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292)
 ## Electronic Design Automation (EDA)
 * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 * [List of free electronics circuit simulators](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
