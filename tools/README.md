@@ -31,7 +31,7 @@
 * [Logic analyzer](https://en.wikipedia.org/wiki/Logic_analyzer)
 * [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
   * [Keysight DSO5032A oscilloscope, 300 MHz, 2 channels](https://www.keysight.com/us/en/support/DSO5032A/5000-series-oscilloscope-300-mhz-2-channels.html)
-  * RIGOL DS1104Z oscilloscope, 100 MHz, 4 channels
+  * [RIGOL DS1104Z oscilloscope, 100 MHz, 4 channels](https://www.rigolna.com/products/digital-oscilloscopes/1000z/)
   * [RIGOL DS1054Z oscilloscope, 50 MHz, 4 channels](https://assets.testequity.com/te1/Documents/pdf/rigol/Rigol-DS1054Z-Manual.pdf)
 ## Issue Tracking System
 * [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
