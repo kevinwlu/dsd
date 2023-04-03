@@ -15,6 +15,7 @@
 * [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
   * [Observability](https://en.wikipedia.org/wiki/Observability)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm)
+* [LeetCode](https://github.com/haoel/leetcode)
 * [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
   * [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 * [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
