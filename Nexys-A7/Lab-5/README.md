@@ -9,9 +9,10 @@ Program the FPGA on the Nexys A7-100T board to generate a wailing audio siren us
 ![i2s.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s.png)
 
 * The [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with the [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/): stereo audio input (blue) and output (green)
-  > The Digilent Pmod I2S2 features a Cirrus CS5343 Multi-Bit Audio A/D Converter and a Cirrus CS4344 Stereo D/A Converter,\ 
-  > each connected to 3.5mm Audio Jacks. These circuits allow a system board to transmit and receive stereo audio signals via the I2S protocol..
-  > The Pmod I2S2 supports 24-bit resolution per channel at input sample rates up to 108KHz.
+  > The Digilent Pmod I2S2 features a [Cirrus CS5343](https://www.cirrus.com/products/cs5343-44/) Multi-Bit Audio A/D Converter and
+  > a Cirrus CS4344 Stereo D/A Converter, each connected to 3.5mm Audio Jacks.
+  > These circuits allow a system board to transmit and receive stereo audio signals via the I2S protocol.
+  > The Pmod I2S2 supports 24-bit resolution per channel at input sample rates up to 108 KHz.
 
 ![i2s2.jpg](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-5/i2s2.jpg)
 
