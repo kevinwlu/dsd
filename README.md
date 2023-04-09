@@ -130,6 +130,9 @@ Computer Engineering CPE 487
   * [Embedded FPGA](https://semiengineering.com/knowledge_centers/integrated-circuit/ic-types/fpga/embedded-fpga-efpga/) (eFPGA)
   * [Low-voltage differential signaling](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling) (LVDS)
   * [Small Computer System Interface](https://en.wikipedia.org/wiki/SCSI) (SCSI)
+  * [Industry Standard Architecture](https://en.wikipedia.org/wiki/Industry_Standard_Architecture) (ISA)
+  * [Extended Industry Standard Architecture](https://en.wikipedia.org/wiki/Extended_Industry_Standard_Architecture) (EISA)
+  * [Peripheral Component Interconnect](https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect) (PCI)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
     > [PCIe peer-to-peer](https://xilinx.github.io/XRT/2022.2/html/p2p.html) (P2P) communication is a PCIe feature that enables two PCIe devices to directly transfer data between each other without using host RAM as a temporary storage
   * [PCI Express Mini Card](https://en.wikipedia.org/wiki/PCI_Express#MINI-CARD) (Mini PCIe)
