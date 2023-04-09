@@ -7,6 +7,7 @@
 * [Echo state network](https://en.wikipedia.org/wiki/Echo_state_network) (ESN)
 * [Electro-optic modulator](https://en.wikipedia.org/wiki/Electro-optic_modulator) (EOM)
 * [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer) (FPI)
+* [Instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) (ISA)
 * [Integrated Tunable Laser Assembly](https://de.wikipedia.org/wiki/Integrated_Tunable_Laser_Assembly) (ITLA)
 * [Low-dropout regulator](https://en.wikipedia.org/wiki/Low-dropout_regulator) (LDO regulator)
 * [Mach–Zehnder interferometer](https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer)
