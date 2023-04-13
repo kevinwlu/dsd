@@ -322,6 +322,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 ## Field-Programmable Gate Array (FPGA)
 * Ryan Kastner, Janarbek Matai, and Stephen Neuendorffer, *[Parallel Programming for FPGAs](https://kastner.ucsd.edu/hlsbook/)* ArXiv e-prints, May 11, 2018, arXiv:1805.03648 [cs.AR] ([PDF](https://kastner.ucsd.edu/wp-content/uploads/2018/03/admin/pp4fpgas.pdf))
 * [Kastner Research Group](https://kastner.ucsd.edu/) (KRG), UC San Diego
+* [FPGARelated.com](https://www.fpgarelated.com/)
 
 ### AMD Xilinx
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
