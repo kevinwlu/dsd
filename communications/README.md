@@ -51,6 +51,12 @@
 * [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
   * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
   * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
+* [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
-* [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+* [PySDR](https://pysdr.org/)
+  * [PlutoSDR in Python](https://pysdr.org/content/pluto.html)
+  * [PlutoSDR Basics](https://pysdr.org/content/pluto_intro.html)
+* [HackRF One](https://greatscottgadgets.com/hackrf/one/)
+* [RTL-SDR](https://www.rtl-sdr.com/)
+
