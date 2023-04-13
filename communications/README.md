@@ -54,6 +54,7 @@
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
+* [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
   * [PlutoSDR in Python](https://pysdr.org/content/pluto.html)
   * [PlutoSDR Basics](https://pysdr.org/content/pluto_intro.html)
