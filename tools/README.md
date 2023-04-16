@@ -14,6 +14,7 @@
 * [EDA Playground](https://www.edaplayground.com/)
 * [Electric](https://en.wikipedia.org/wiki/Electric_(software))
 * [FreeCAD](https://en.wikipedia.org/wiki/FreeCAD)
+* [Fritzing](https://en.wikipedia.org/wiki/Fritzing)
 * [gEDA](https://en.wikipedia.org/wiki/GEDA)
 * [KiCad](https://en.wikipedia.org/wiki/KiCad)
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
