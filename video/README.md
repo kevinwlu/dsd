@@ -100,6 +100,11 @@
   * [User's Guide to MPI](https://arcb.csc.ncsu.edu/~mueller/cluster/mpi.guide.pdf) by [Peter Pacheco](https://scholar.google.com/citations?user=LAIBVSEAAAAJ&hl=en)
 ## Media Player
 * [Comparison of video container formats](https://en.wikipedia.org/wiki/Comparison_of_video_container_formats)
+  * [Ogg](https://en.wikipedia.org/wiki/Ogg)
+  * [Opus](https://en.wikipedia.org/wiki/Opus_(audio_format))
+  * [Theora](https://en.wikipedia.org/wiki/Theora)
+  * [Vorbis](https://en.wikipedia.org/wiki/Vorbis)
+  * [WebM](https://en.wikipedia.org/wiki/WebM)
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
 * [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
 * [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player)
