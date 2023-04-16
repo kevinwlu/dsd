@@ -110,3 +110,5 @@
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
 * [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
 * [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player)
+  * [How to stream from the VLC media player](https://www.androidauthority.com/vlc-media-player-stream-audio-video-3183564/)
+  * [How to stream videos and music over the network using VLC](https://www.howtogeek.com/118075/how-to-stream-videos-and-music-over-the-network-using-vlc/)
