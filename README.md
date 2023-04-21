@@ -1,5 +1,6 @@
 # Digital System Design (DSD)
 Computer Engineering CPE 487
+* [Darian Muresan](http://pictomic.com/Stevens/CPE487/dcdManual.pdf) from 2022 Fall to 2023 Spring
 * [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
 * [Bryan Ackland](https://personal.stevens.edu/~backland/Courses/Course487_Spring_18.htm) from Fall 2011 to Spring 2018
 * [Learning](https://github.com/kevinwlu/kevinwlu.github.io/tree/main/Learning)
