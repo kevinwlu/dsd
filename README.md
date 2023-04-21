@@ -4,7 +4,7 @@ Computer Engineering CPE 487
 * In memory of [Michel Ouendeno](https://www.stevens.edu/news/stevens-adds-32-faculty-members-for-2022-2023-academic-year)
 * [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2018 Fall to 2022 Spring
 * [Bryan Ackland](https://personal.stevens.edu/~backland/Courses/Course487_Spring_18.htm) from Fall 2011 to Spring 2018
-* In memory of [Stuart Tewksbury](https://ethw.org/Stuart_Tewksbury)
+* In memory of [Stuart Tewksbury](https://ethw.org/Stuart_Tewksbury) 1942&mdash;2013
 * [Learning](https://github.com/kevinwlu/kevinwlu.github.io/tree/main/Learning)
 * [SmartSim](/smartsim)
 * [GHDL](/ghdl)
