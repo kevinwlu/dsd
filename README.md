@@ -95,6 +95,7 @@ Computer Engineering CPE 487
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
   * [Schottky diode](https://en.wikipedia.org/wiki/Schottky_diode)
   * [Transistor–transistor logic](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) (TTL)
+  * [*TTL Logic: Standard TTL, Schottky, Low-Power Schottky*](https://archive.org/details/bitsavers_tidataBookrdTTLSLSDataBook_39061488/mode/2up)
   * [7400-series integrated circuits](https://en.wikipedia.org/wiki/7400-series_integrated_circuits)
   * [Very Large Scale Integration](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration) (VLSI)
 * [Very high speed integrated circuit](https://en.wikipedia.org/wiki/VHSIC) (VHSIC)
