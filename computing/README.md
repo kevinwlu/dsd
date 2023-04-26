@@ -18,4 +18,5 @@
 * [Phase shift module](https://en.wikipedia.org/wiki/Phase_shift_module)
 * [Reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing)
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
+  * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
