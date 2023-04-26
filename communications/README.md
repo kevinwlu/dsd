@@ -30,6 +30,7 @@
   * [Franklin Wireless](https://www.franklinwireless.com/mobile-solutions)
   * [JEXtream RG2100 5G Mobile Hotspot](https://www.t-mobile.com/hotspot-iot-connected-devices/jextream-rg2100-5g-mobile-hotspot)
   * [User Guide](https://www.jextream.net/wp-content/uploads/2023/01/UM_RG2100_English_v0.1RFS.pdf)
+  * [Product Support](https://www.jextream.net/support/product-support/)
 * [The best mobile hotspots for 2023](https://www.pcmag.com/picks/the-best-mobile-hotspots)
 * [MiFi](https://en.wikipedia.org/wiki/MiFi)
 * [5G MiFi M2000 global mobile hotspot](https://www.amazon.com/INSEEGO-Ultimate-Hotspot-T-Mobile-SIMBROS/dp/B09742XJB1/) by [Inseego](https://inseego.com/)
