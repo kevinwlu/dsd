@@ -17,4 +17,5 @@
 * [Optical attenuator](https://en.wikipedia.org/wiki/Optical_attenuator)
 * [Phase shift module](https://en.wikipedia.org/wiki/Phase_shift_module)
 * [Reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing)
+  * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
