@@ -28,6 +28,8 @@
 * [T-Mobile 5G21-12W-A High-Speed Internet Gateway User Guide](https://www.t-mobile.com/support/public-files/attachments/T-Mobile%20High-Speed%20Internet%20Gateway%20End%20User%20Guide.pdf)
 * [T-Mobile 5G Hotspot](https://www.t-mobile.com/hotspots-iot-connected-devices)
   * [Franklin Wireless](https://www.franklinwireless.com/mobile-solutions)
+  * [JEXtream RG2100 5G Mobile Hotspot](https://www.t-mobile.com/hotspot-iot-connected-devices/jextream-rg2100-5g-mobile-hotspot)
+  * [User Guide](https://www.jextream.net/wp-content/uploads/2023/01/UM_RG2100_English_v0.1RFS.pdf)
 * [The best mobile hotspots for 2023](https://www.pcmag.com/picks/the-best-mobile-hotspots)
 * [MiFi](https://en.wikipedia.org/wiki/MiFi)
 * [5G MiFi M2000 global mobile hotspot](https://www.amazon.com/INSEEGO-Ultimate-Hotspot-T-Mobile-SIMBROS/dp/B09742XJB1/) by [Inseego](https://inseego.com/)
