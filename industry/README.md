@@ -34,7 +34,7 @@
 * [MOSFET](https://en.wikipedia.org/wiki/MOSFET) (Metal–oxide–semiconductor field-effect transistor)
 * [Power MOSFET](https://en.wikipedia.org/wiki/Power_MOSFET)
 * [High-electron-mobility transistor](https://en.wikipedia.org/wiki/High-electron-mobility_transistor) (HEMT)
-* [Gallium nitride](https://en.wikipedia.org/wiki/Gallium_nitride)
+* [Gallium nitride](https://en.wikipedia.org/wiki/Gallium_nitride) (GaN)
 * [IGBT](https://en.wikipedia.org/wiki/Insulated-gate_bipolar_transistor) (Insulated-gate bipolar transistor)
 * [Mixed-signal integrated circuits](https://en.wikipedia.org/wiki/Mixed-signal_integrated_circuit)
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
