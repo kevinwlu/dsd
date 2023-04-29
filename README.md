@@ -196,6 +196,7 @@ Computer Engineering CPE 487
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
   * [CERN OHL Version 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
+* [Circuit bending](https://en.wikipedia.org/wiki/Circuit_bending)
 
 ## Hardware Description Languages (HDL)
 
