@@ -93,6 +93,7 @@
   * [WebM](https://en.wikipedia.org/wiki/WebM)
 * [Transcoding](https://en.wikipedia.org/wiki/Transcoding)
 * [Real-Time Messaging Protocol](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol) (RTMP)
+* [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol) (RTSP)
 * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
