@@ -1,4 +1,5 @@
 # Communications
+* [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 ## Modulation
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
