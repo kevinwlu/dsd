@@ -11,6 +11,7 @@
 ## Optical Communications
 * [Arrayed waveguide grating](https://en.wikipedia.org/wiki/Arrayed_waveguide_grating)
 * [Coherent optical module](https://en.wikipedia.org/wiki/Coherent_optical_module)
+* [Laser linewidth](https://en.wikipedia.org/wiki/Laser_linewidth)
 ## Satellite Communications
 * [Reflector antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
