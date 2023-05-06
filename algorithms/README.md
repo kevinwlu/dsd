@@ -27,4 +27,5 @@
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
 * [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
+* [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
