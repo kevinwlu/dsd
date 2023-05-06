@@ -1,7 +1,5 @@
 # Communications
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
-* [Subcarrier multiplexing](https://en.wikipedia.org/wiki/Subcarrier_multiplexing)
-* [Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 ## Modulation
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
@@ -12,7 +10,10 @@
 ## Optical Communications
 * [Arrayed waveguide grating](https://en.wikipedia.org/wiki/Arrayed_waveguide_grating)
 * [Coherent optical module](https://en.wikipedia.org/wiki/Coherent_optical_module)
+* [Dispersion](https://en.wikipedia.org/wiki/Dispersion_(optics))
 * [Laser linewidth](https://en.wikipedia.org/wiki/Laser_linewidth)
+* [Subcarrier multiplexing](https://en.wikipedia.org/wiki/Subcarrier_multiplexing)
+* [Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 ## Satellite Communications
 * [Reflector antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
