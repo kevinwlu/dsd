@@ -140,6 +140,7 @@
   * [Intermec](https://en.wikipedia.org/wiki/Intermec)
 * [IBM](https://en.wikipedia.org/wiki/IBM)
   * [IBM Unveils World's First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors](https://newsroom.ibm.com/2021-05-06-IBM-Unveils-Worlds-First-2-Nanometer-Chip-Technology,-Opening-a-New-Frontier-for-Semiconductors)
+* [Infinera](https://en.wikipedia.org/wiki/Infinera)
 * [Intel](https://en.wikipedia.org/wiki/Intel)
 * [ISSI](https://www.issi.com/) (Integrated Silicon Solution Inc.)
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
