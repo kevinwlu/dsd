@@ -3,7 +3,7 @@
 ## Modulation
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
-* [Intensity modulation](https://en.wikipedia.org/wiki/Intensity_modulation)
+* [Intensity modulation](https://en.wikipedia.org/wiki/Intensity_modulation)/direct detection (IM/DD)
 * [Orthogonal frequency-division multiplexing](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing) (OFDM)
 * [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying) (PSK)
 * [Quadrature amplitude modulation](https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation) (QAM)
