@@ -1,5 +1,6 @@
 # Communications
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+* [Subcarrier multiplexing](https://en.wikipedia.org/wiki/Subcarrier_multiplexing)
 * [Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 ## Modulation
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
