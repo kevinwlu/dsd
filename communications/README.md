@@ -21,6 +21,7 @@
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
+* [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
