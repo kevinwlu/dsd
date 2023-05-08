@@ -56,6 +56,7 @@ Computer Engineering CPE 487
   * [Zettascle computing](https://en.wikipedia.org/wiki/Zettascale_computing)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
 * [Black box](https://en.wikipedia.org/wiki/Black_box)
+  * [White box](https://en.wikipedia.org/wiki/White_box_(software_engineering))
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT) - see hardware LUTs
