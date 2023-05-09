@@ -28,9 +28,6 @@
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
-* [Integrated sensing and communication](https://isac.committees.comsoc.org/) (ISAC)
-* [Dual-function radar communication](https://ieeexplore.ieee.org/document/8828023) (DFRC)
-* [Simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/7511404) (SWIPT)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
@@ -76,4 +73,12 @@
   * [PlutoSDR Basics](https://pysdr.org/content/pluto_intro.html)
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 * [RTL-SDR](https://www.rtl-sdr.com/)
+## Communication and Sensing
+* [Integrated sensing and communication](https://isac.committees.comsoc.org/) (ISAC)
+* [Passive radar](https://en.wikipedia.org/wiki/Passive_radar)
+* [Dual-function radar communication](https://ieeexplore.ieee.org/document/8828023) (DFRC)
+* [Atomic Norms](https://people.eecs.berkeley.edu/~brecht/atomic.html)
+* [Mitigating radar-to-radar interference](https://www.sae.org/news/2021/06/mitigating-radar-to-radar-interference)
+## Communication and Charging
+* [Simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/7511404) (SWIPT)
 
