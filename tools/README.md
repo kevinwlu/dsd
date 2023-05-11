@@ -3,6 +3,15 @@
 * [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
 * [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292)
+## Documentation
+* [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
+* [Q-circuit](https://physics.unm.edu/CQuIC/Qcircuit/)
+  * [Q-circuit tutorial](https://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf)
+## Electronic Circuit
+* [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
+* [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+* [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
+* [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
 ## Electronic Design Automation (EDA)
 * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 * [List of free electronics circuit simulators](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
@@ -20,11 +29,6 @@
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [Logicly](https://logic.ly/)
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain
-## Electronic Circuit
-* [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
-* [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
-* [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
-* [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
 ## Instruments
 * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE)
 * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
