@@ -51,7 +51,9 @@
   * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
+  * [6GWorld](https://www.6gworld.com/)
   * [Brooklyn 6G Summit](https://b6gs.com/)
+  * [one6G](https://one6g.org/)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
