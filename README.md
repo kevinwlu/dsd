@@ -397,6 +397,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ### Others
 * [Achronix](https://www.achronix.com/)
+* [DFiant](https://www.dfiant.works/)
+  * [DFiant HDL](https://github.com/DFiantHDL/DFiant)
 * [Efinix](https://www.efinixinc.com/)
 * [Khronos Group](https://en.wikipedia.org/wiki/Khronos_Group)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
