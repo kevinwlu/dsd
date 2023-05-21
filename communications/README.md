@@ -30,6 +30,8 @@
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
+* [Fronthaul](https://en.wikipedia.org/wiki/Fronthaul)
+* [Backhaul](https://en.wikipedia.org/wiki/Backhaul_(telecommunications))
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
   * [m-center](https://www.u-blox.com/en/product/m-center)
   * [SARA-R4 series AT commands manual](https://content.u-blox.com/sites/default/files/SARA-R4_ATCommands_UBX-17003787.pdf)
