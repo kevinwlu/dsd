@@ -177,6 +177,8 @@ Computer Engineering CPE 487
   * [FPGA vs. GPU vs. CPU – hardware options for AI applications](https://www.avnet.com/wps/portal/silica/resources/article/fpga-vs-gpu-vs-cpu-hardware-options-for-ai-applications/)
   * [FPGA vs. GPU](https://haltian.com/resource/fpga-vs-gpu/)
   * [List of Nvidia graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
+  * [NVIDIA Quadro P6000 Graphics card](https://www.amazon.com/NVIDIA-Quadro-P6000-Graphics-DisplayPort/dp/B01M0S2FKR)
+  * [ASUS GeForce RTX 2080 8G Turbo Edition GDDR6 Graphics Card](https://www.amazon.com/GeForce-Turbo-Type-C-Graphics-TURBO-RTX2080-8G/dp/B07HX7FQYD)
   * [PNY GeForce RTX 4090 24GB XLR8 Gaming VERTO EPIC-X RGB Triple Fan Graphics Card](https://www.amazon.com/PNY-GeForce-Gaming-EPIC-X-Graphics/dp/B0BG93V9GW)
 * [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
   * [CUDA Deep Neural Network library](https://developer.nvidia.com/cudnn) (cuDNN)
