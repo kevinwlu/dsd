@@ -3,13 +3,19 @@
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
+## Searching
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
+## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
+* [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
+## Digital Signal Processing
 * [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP)
 * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
 * [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (DFT)
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
+* [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
+##
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
 * [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
 * [Hardware random number generator](https://en.wikipedia.org/wiki/Hardware_random_number_generator) (HRNG)
@@ -27,8 +33,6 @@
 * [Root-mean-square deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation) (RMSD)
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
-* [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
-* [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
-# Modeling and Simulation
+## Modeling and Simulation
 * [Rademacher distribution](https://en.wikipedia.org/wiki/Rademacher_distribution)
 * [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
