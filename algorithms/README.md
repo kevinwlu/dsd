@@ -4,6 +4,7 @@
 * [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
+* [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 ## Searching
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
