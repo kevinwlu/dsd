@@ -5,13 +5,14 @@
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
-* [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
-  * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 ## Searching
+* [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
+  * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
 ## Sorting
+* [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
 ## Digital Signal Processing
