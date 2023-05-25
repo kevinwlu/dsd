@@ -1,4 +1,6 @@
 # Algorithms and Methods
+* [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
+* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
