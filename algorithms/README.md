@@ -5,7 +5,6 @@
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
-* [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 ## Searching
 * [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
   * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
@@ -21,7 +20,8 @@
 * [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (DFT)
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
-##
+## Modeling and Simulation
+* [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
 * [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)
 * [Hardware random number generator](https://en.wikipedia.org/wiki/Hardware_random_number_generator) (HRNG)
@@ -34,11 +34,10 @@
   * [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 * [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Particle swarm optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization) (PSO)
+* [Rademacher distribution](https://en.wikipedia.org/wiki/Rademacher_distribution)
 * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
 * [Ridge regression](https://en.wikipedia.org/wiki/Ridge_regression)
 * [Root-mean-square deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation) (RMSD)
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
-## Modeling and Simulation
-* [Rademacher distribution](https://en.wikipedia.org/wiki/Rademacher_distribution)
 * [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
