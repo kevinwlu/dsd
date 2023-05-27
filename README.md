@@ -331,6 +331,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [FPGARelated.com](https://www.fpgarelated.com/)
 * [Enclustra](https://www.enclustra.com/en/home/)
   * [Universal DSP Library](https://www.enclustra.com/en/products/ip-cores/universal-dsp-library/)
+* [FPGA Developer](https://www.fpgadeveloper.com/) by [Jeff Johnson](https://github.com/fpgadeveloper)
 
 ### AMD Xilinx
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
