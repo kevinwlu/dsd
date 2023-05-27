@@ -5,6 +5,7 @@
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
+* [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
 ## Searching
 * [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
   * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
