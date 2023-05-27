@@ -157,7 +157,7 @@
 * [Micron](https://en.wikipedia.org/wiki/Micron_Technology)
   * [IM Flash Technologies](https://en.wikipedia.org/wiki/IM_Flash_Technologies)
 * [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
-* [Nvidia](https://en.wikipedia.org/wiki/Nvidia)
+* [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
   * [Ageia](https://en.wikipedia.org/wiki/Ageia)
   * [Mellanox Technologies](https://en.wikipedia.org/wiki/Mellanox_Technologies)
 * [Onsemi](https://en.wikipedia.org/wiki/Onsemi)
