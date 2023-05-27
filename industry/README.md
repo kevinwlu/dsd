@@ -9,6 +9,7 @@
 
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
+* [Semiconductor consolidation](https://en.wikipedia.org/wiki/Semiconductor_consolidation)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
@@ -178,6 +179,7 @@
   * [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor)
 * [Uhnder](https://www.uhnder.com/)
 * [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
+* [Western Design Center](https://en.wikipedia.org/wiki/Western_Design_Center)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
 ## Australia
