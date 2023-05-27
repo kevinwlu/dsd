@@ -176,6 +176,7 @@ Computer Engineering CPE 487
   * [FPGA vs. GPU for Deep Learning](https://www.intel.com/content/www/us/en/artificial-intelligence/programmable/fpga-gpu.html)
   * [FPGA vs. GPU vs. CPU – hardware options for AI applications](https://www.avnet.com/wps/portal/silica/resources/article/fpga-vs-gpu-vs-cpu-hardware-options-for-ai-applications/)
   * [FPGA vs. GPU](https://haltian.com/resource/fpga-vs-gpu/)
+  * [GTC](https://www.nvidia.com/gtc/)
   * [List of Nvidia graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
     * [GeForce GTX 16 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/)
     * [GeForce RTX 20 Series](https://www.nvidia.com/en-us/geforce/20-series/)
