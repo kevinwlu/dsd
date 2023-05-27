@@ -254,6 +254,7 @@
 * [ARM](https://en.wikipedia.org/wiki/Arm_Ltd.)
 * [Elmos Semiconductor](https://en.wikipedia.org/wiki/Elmos_Semiconductor)
 * [FTDI](https://en.wikipedia.org/wiki/FTDI)
+* [Graphcore](https://en.wikipedia.org/wiki/Graphcore)
 * [Imagination Technologies](https://en.wikipedia.org/wiki/Imagination_Technologies)
 $ [Magnachip](https://www.magnachip.com/)
 * [Melexis](https://de.wikipedia.org/wiki/Melexis)
