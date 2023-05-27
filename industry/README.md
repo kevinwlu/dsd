@@ -179,7 +179,7 @@
   * [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor)
 * [Uhnder](https://www.uhnder.com/)
 * [Vishay Intertechnology](https://en.wikipedia.org/wiki/Vishay_Intertechnology)
-* [Western Design Center](https://en.wikipedia.org/wiki/Western_Design_Center)
+* [Western Design Center](https://en.wikipedia.org/wiki/Western_Design_Center) (WDC)
 * [Western Digital](https://en.wikipedia.org/wiki/Western_Digital)
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed)
 ## Australia
