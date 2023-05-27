@@ -2,6 +2,7 @@
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Electronics-Related.com](https://www.electronics-related.com/)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+* [Semiconductor consolidation](https://en.wikipedia.org/wiki/Semiconductor_consolidation)
 * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
 * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
@@ -9,7 +10,6 @@
 
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
-* [Semiconductor consolidation](https://en.wikipedia.org/wiki/Semiconductor_consolidation)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
