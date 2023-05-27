@@ -20,6 +20,8 @@
 * [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (DFT)
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
+## Graphics
+* [Texture mapping](https://en.wikipedia.org/wiki/Texture_mapping)
 ## Modeling and Simulation
 * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 * [Error vector magnitude](https://en.wikipedia.org/wiki/Error_vector_magnitude) (EVM)
