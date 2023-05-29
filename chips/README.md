@@ -12,6 +12,7 @@
   * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
   * [EPYC](https://en.wikipedia.org/wiki/Epyc)
+  * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
