@@ -221,6 +221,7 @@
 * [Murata](https://en.wikipedia.org/wiki/Murata_Manufacturing)
 * [NEC](https://en.wikipedia.org/wiki/NEC)
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
+  * [Sanyo](https://en.wikipedia.org/wiki/Sanyo)
 * [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
 * [Renesas](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
