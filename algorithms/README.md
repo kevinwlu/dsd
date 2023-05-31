@@ -1,4 +1,4 @@
-# Algorithms and Methods
+# Algorithms and Data Structures
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
