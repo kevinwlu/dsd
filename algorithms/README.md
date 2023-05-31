@@ -5,6 +5,9 @@
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
+* [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
+  * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+  * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
 ## Searching
 * [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
