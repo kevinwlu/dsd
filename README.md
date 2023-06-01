@@ -19,7 +19,7 @@ Computer Engineering CPE 487
 * [Intel](/Intel) FPGAs
   * [DE0-CV](DE0-CV)
 * [TinyFPGA-BX](/TinyFPGA-BX)
-* [Algorithms](/algorithms)
+* [Algorithms and data structures](/algorithms)
 * [Audio](/audio) and [video](/video)
 * [Code](/code)
 * [Communications](/communications)
