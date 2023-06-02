@@ -98,6 +98,8 @@
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
 * [Twitch](https://en.wikipedia.org/wiki/Twitch_(service))
+* [Screencast](https://en.wikipedia.org/wiki/Screencast)
+* [Comparison of screencasting software](https://en.wikipedia.org/wiki/Comparison_of_screencasting_software)
 ## Message Passing Interface (MPI)
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
 * [MPI Forum](https://www.mpi-forum.org/)
