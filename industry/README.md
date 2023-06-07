@@ -49,6 +49,9 @@
 * [Surface_plasmon_resonance](https://en.wikipedia.org/wiki/Surface_plasmon_resonance) (SPR)
 ## Material and Equipment Suppliers
 * [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
+  * [Silicon](https://en.wikipedia.org/wiki/Silicon)
+  * [Silicon carbide](https://en.wikipedia.org/wiki/Silicon_carbide)
+  * [Gallium nitride](https://en.wikipedia.org/wiki/Gallium_nitride)
   * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
   * [Rare-earth element](https://en.wikipedia.org/wiki/Rare-earth_element)
   * [Lunar resources](https://en.wikipedia.org/wiki/Lunar_resources)
