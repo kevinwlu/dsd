@@ -84,6 +84,7 @@
   * [Restream](https://restream.io/)
   * [Dacast](https://en.wikipedia.org/wiki/Dacast)
 * [GStreamer](https://en.wikipedia.org/wiki/GStreamer)
+* [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
 * [Xiph.Org Foundation](https://en.wikipedia.org/wiki/Xiph.Org_Foundation)
   * [Icecast](https://en.wikipedia.org/wiki/Icecast)
   * [Ogg](https://en.wikipedia.org/wiki/Ogg)
