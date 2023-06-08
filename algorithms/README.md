@@ -46,4 +46,5 @@
 * [Root-mean-square deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation) (RMSD)
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
+* [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 * [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
