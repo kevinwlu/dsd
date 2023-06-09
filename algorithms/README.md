@@ -9,6 +9,9 @@
   * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
   * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
+  * [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
+  * [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
+  * [How to Implement Performance Metrics in CUDA C/C++](https://developer.nvidia.com/blog/how-implement-performance-metrics-cuda-cc/)
   * [How to Optimize Data Transfers in CUDA C/C++](https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/)
 ## Searching
 * [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
