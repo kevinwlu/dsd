@@ -1,4 +1,6 @@
-# Power Management
+# Power
+* [List of battery sizes](https://en.wikipedia.org/wiki/List_of_battery_sizes)
+## Power Management
 * [Power management integrated circuit](https://en.wikipedia.org/wiki/Power_management_integrated_circuit) (PMIC)
 * [Power Management Unit](https://en.wikipedia.org/wiki/Power_Management_Unit) (PMU)
 * [Low-dropout regulator](https://en.wikipedia.org/wiki/Low-dropout_regulator) (LDO)
