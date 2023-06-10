@@ -1,6 +1,6 @@
-# Algorithms and Data Structures
-* [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
-* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+# Data Structures and Algorithms (DSA)
+* [Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/dsa.html) by [John Bullinaria](https://www.cs.bham.ac.uk//~jxb/)
+  * [*Lecture Notes for Data Structures and Algorithms*](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
 * [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
@@ -8,6 +8,8 @@
 * [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
   * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
   * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
+* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
   * [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
   * [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
