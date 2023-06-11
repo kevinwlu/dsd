@@ -18,6 +18,7 @@
 * [Subcarrier multiplexing](https://en.wikipedia.org/wiki/Subcarrier_multiplexing)
 * [Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 ## Satellite Communications
+* [Low Earth orbit](https://en.wikipedia.org/wiki/Low_Earth_orbit) (LEO)
 * [Reflector antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
 * [GNSS applications](https://en.wikipedia.org/wiki/GNSS_applications)
