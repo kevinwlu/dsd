@@ -18,6 +18,8 @@
 * [Mobile Industry Processor Interface](https://en.wikipedia.org/wiki/MIPI_Alliance) (MIPI)
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
   * [IEEE P3301 Artificial Intelligence Framework (AIF) Working Group](https://sagroups.ieee.org/aifwg/)
+* [North American Charging Standard](https://en.wikipedia.org/wiki/North_American_Charging_Standard) (NACS)
+  * [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) by The Tesla Team, November 11, 2022
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
   * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
 * [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association) (SIA)
