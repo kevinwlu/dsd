@@ -98,6 +98,7 @@
 * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
+* [YouTube](https://support.google.com/youtube/answer/2853702?hl=en)
 * [Twitch](https://en.wikipedia.org/wiki/Twitch_(service))
 * [Screencast](https://en.wikipedia.org/wiki/Screencast)
 * [Comparison of screencasting software](https://en.wikipedia.org/wiki/Comparison_of_screencasting_software)
