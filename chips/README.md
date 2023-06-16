@@ -23,6 +23,7 @@
   * [Tick–tock model](https://en.wikipedia.org/wiki/Tick%E2%80%93tock_model)
   * [Sapphire Rapids](https://en.wikipedia.org/wiki/Sapphire_Rapids)
   * [Intel in Ohio](https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html)
+  * [Intel Introduces New RibbonFET and PowerVia Technologies](https://www.intel.com/content/www/us/en/corporate/usa-chipmaking/news-and-resources/video-intel-intros-ribbonfet-powervia-technologies.html)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
