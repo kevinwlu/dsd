@@ -34,6 +34,7 @@
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
 * [Fronthaul](https://en.wikipedia.org/wiki/Fronthaul)
 * [Backhaul](https://en.wikipedia.org/wiki/Backhaul_(telecommunications))
+* [Wi-Fi 5 vs. Wi-Fi 6 vs. Wi-Fi 6E](https://www.pcworld.com/article/823810/wi-fi-5-vs-wi-fi-6-vs-wi-fi-6e-which-router-should-you-pick.html)
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
   * [m-center](https://www.u-blox.com/en/product/m-center)
   * [SARA-R4 series AT commands manual](https://content.u-blox.com/sites/default/files/SARA-R4_ATCommands_UBX-17003787.pdf)
