@@ -51,6 +51,7 @@
 * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
 * [Ridge regression](https://en.wikipedia.org/wiki/Ridge_regression)
 * [Root-mean-square deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation) (RMSD)
+* [Shape Expressions](https://en.wikipedia.org/wiki/ShEx) (ShEx)
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
 * [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
