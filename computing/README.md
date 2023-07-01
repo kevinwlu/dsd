@@ -13,6 +13,7 @@
 * [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer) (FPI)
 * [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 * [Halting problem](https://en.wikipedia.org/wiki/Halting_problem)
+  * [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem)
   * [Undecidable problem](https://en.wikipedia.org/wiki/Undecidable_problem)
   * [Unknowability](https://en.wikipedia.org/wiki/Unknowability)
   * [Ignoramus et ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus)
