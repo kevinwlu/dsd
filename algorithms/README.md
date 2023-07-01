@@ -11,6 +11,7 @@
   * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
   * [CUDA Education and Training](https://developer.nvidia.com/cuda-education-training)
   * [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
