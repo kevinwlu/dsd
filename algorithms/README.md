@@ -10,8 +10,6 @@
   * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
   * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
-* [Undecidable problem](https://en.wikipedia.org/wiki/Undecidable_problem)
-  * [Halting problem](https://en.wikipedia.org/wiki/Halting_problem)
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
   * [CUDA Education and Training](https://developer.nvidia.com/cuda-education-training)
