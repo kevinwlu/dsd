@@ -10,6 +10,8 @@
 * [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 * [Halting problem](https://en.wikipedia.org/wiki/Halting_problem)
   * [Undecidable problem](https://en.wikipedia.org/wiki/Undecidable_problem)
+  * [Unknowability](https://en.wikipedia.org/wiki/Unknowability)
+  * [Ignoramus et ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus)
 * [Instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) (ISA)
 * [Integrated Tunable Laser Assembly](https://de.wikipedia.org/wiki/Integrated_Tunable_Laser_Assembly) (ITLA)
 * [Low-dropout regulator](https://en.wikipedia.org/wiki/Low-dropout_regulator) (LDO regulator)
