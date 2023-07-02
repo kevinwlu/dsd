@@ -12,7 +12,7 @@
 * [Electro-optic modulator](https://en.wikipedia.org/wiki/Electro-optic_modulator) (EOM)
 * [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer) (FPI)
 * [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-  * [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 190&mdash;1978
+  * [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 1906&mdash;1978
 * [Halting problem](https://en.wikipedia.org/wiki/Halting_problem)
   * [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem)
   * [Turing's proof](https://en.wikipedia.org/wiki/Turing%27s_proof)
