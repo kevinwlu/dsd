@@ -1,5 +1,6 @@
 # Computing
 ## YouTube Channels
+* [Brilliant.org](https://www.youtube.com/c/BrilliantOrg)
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
 ##
