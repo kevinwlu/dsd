@@ -35,3 +35,5 @@
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
   * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
+* X. Shi, X. Peng, L. He, Y. Zhao and H. Jin, "Waterwave: A GPU Memory Flow Engine for Concurrent DNN Training" in IEEE Transactions on Computers, vol. , no. 01, pp. 1-14, 5555.
+doi: 10.1109/TC.2023.3278530
