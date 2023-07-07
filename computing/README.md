@@ -31,6 +31,8 @@
 * [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
   * [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 * [Phase shift module](https://en.wikipedia.org/wiki/Phase_shift_module)
+* [Quantum circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
+* [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 * [Reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing)
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
   * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
