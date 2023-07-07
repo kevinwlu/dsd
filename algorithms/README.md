@@ -12,6 +12,7 @@
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
   * [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi)
   * [Khwarazm](https://en.wikipedia.org/wiki/Khwarazm)
+  * [Algorism](https://en.wikipedia.org/wiki/Algorism)
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [List of unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
@@ -62,3 +63,5 @@
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
 * [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 * [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
+## Quantum algorithms
+* [Deutsch–Jozsa algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm)
