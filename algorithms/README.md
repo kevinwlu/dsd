@@ -24,6 +24,7 @@
 ## Searching
 * [Search data structure](https://en.wikipedia.org/wiki/Search_data_structure)
   * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+  * [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
 * [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
 ## Sorting
