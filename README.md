@@ -334,6 +334,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [FPGA Developer](https://www.fpgadeveloper.com/) by [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Adam Taylor](https://www.hackster.io/adam-taylor)
   * [YouTube Channel: Adiuvo Engineering & Training](https://www.youtube.com/channel/UCPzekRaaKiZiU3ST0FJNoLg)
+  * [Adiuvo](https://en.wiktionary.org/wiki/adiuvo) is a Latin word that means “to help, assist”
 
 ### AMD Xilinx
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
