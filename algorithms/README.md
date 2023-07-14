@@ -1,6 +1,7 @@
 # Data Structures and Algorithms (DSA)
 * [Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/dsa.html) by [John Bullinaria](https://www.cs.bham.ac.uk//~jxb/)
   * [*Lecture Notes for Data Structures and Algorithms*](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
+* [CPE 593 Applied Data Structures and Algorithms](https://github.com/StevensDeptECE/CPE593/)
 * [Computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
   * [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
   * [Duncan's taxonomy](https://en.wikipedia.org/wiki/Duncan%27s_taxonomy)
