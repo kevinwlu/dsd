@@ -80,6 +80,7 @@
   * [vMix](https://en.wikipedia.org/wiki/VMix)
   * [VidBlasterX](https://www.vidblasterx.com/)
   * [OBS Studio](https://en.wikipedia.org/wiki/OBS_Studio)
+    * [GitHub repository](https://github.com/obsproject/obs-studio)
   * [Streamlabs](https://en.wikipedia.org/wiki/Streamlabs)
   * [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)
     * [Documentation](https://ffmpeg.org/ffmpeg.html)
