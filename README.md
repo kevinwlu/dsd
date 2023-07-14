@@ -333,7 +333,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Universal DSP Library](https://www.enclustra.com/en/products/ip-cores/universal-dsp-library/)
 * [FPGA Developer](https://www.fpgadeveloper.com/) by [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Adam Taylor](https://www.hackster.io/adam-taylor)
-  * [Adiuvo Engineering & Training](https://www.youtube.com/channel/UCPzekRaaKiZiU3ST0FJNoLg)
+  * [YouTube Channel: Adiuvo Engineering & Training](https://www.youtube.com/channel/UCPzekRaaKiZiU3ST0FJNoLg)
 
 ### AMD Xilinx
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
