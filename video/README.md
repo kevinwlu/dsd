@@ -82,6 +82,7 @@
   * [OBS Studio](https://en.wikipedia.org/wiki/OBS_Studio)
     * [GitHub repository](https://github.com/obsproject/obs-studio)
     * [Plug-in (computing)](https://en.wikipedia.org/wiki/Plug-in_(computing))
+    * [OBS plugins guide](https://obsproject.com/kb/plugins-guide)
   * [Streamlabs](https://en.wikipedia.org/wiki/Streamlabs)
   * [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)
     * [Documentation](https://ffmpeg.org/ffmpeg.html)
