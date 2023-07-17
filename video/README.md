@@ -82,7 +82,7 @@
   * [OBS Studio](https://en.wikipedia.org/wiki/OBS_Studio)
     * [GitHub repository](https://github.com/obsproject/obs-studio)
     * [Knowledge base](https://obsproject.com/kb)
-    * [quick start guide](https://obsproject.com/kb/quick-start-guide)
+    * [Quick start guide](https://obsproject.com/kb/quick-start-guide)
     * [Developer guide](https://obsproject.com/kb/developer-guide)
     * [Plug-in (computing)](https://en.wikipedia.org/wiki/Plug-in_(computing))
     * [Plugins guide](https://obsproject.com/kb/plugins-guide)
