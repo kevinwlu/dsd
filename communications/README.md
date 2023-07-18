@@ -12,8 +12,8 @@
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform#History)
   * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
-* [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+* [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 ## Modulation
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
