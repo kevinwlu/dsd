@@ -3,9 +3,15 @@
 * [Zach Star](https://www.youtube.com/@zachstar) by [Zachary Star](https://www.linkedin.com/in/zachary-s-777033ab/)
 ##
 * [Complex Variables With Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/) by [Jeremy Orloff](https://kleinex.mit.edu/directory/profile.html?pid=1369)
-  * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
+* [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
+* [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+* [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)https://en.wikipedia.org/wiki/Taylor_series
+* [Cauchy's integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
   * [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) 1789&mdash;1857
-  * [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
+* [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
+* [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform#History)
+  * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
+* [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 ## Modulation
