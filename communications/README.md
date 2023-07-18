@@ -2,6 +2,7 @@
 ## YouTube Channels
 * [Zach Star](https://www.youtube.com/@zachstar) by [Zachary Star](https://www.linkedin.com/in/zachary-s-777033ab/)
 ##
+* [Complex Variables With Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 ## Modulation
