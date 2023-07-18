@@ -25,6 +25,7 @@
 * [Low Earth orbit](https://en.wikipedia.org/wiki/Low_Earth_orbit) (LEO)
 * [Reflector antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
+  * Positioning, Navigation, and Timing (PNT)
 * [GNSS applications](https://en.wikipedia.org/wiki/GNSS_applications)
 ## Wireless Communications
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
