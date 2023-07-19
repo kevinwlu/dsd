@@ -6,6 +6,7 @@
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
 * [Primary color](https://en.wikipedia.org/wiki/Primary_color)
 * [ROYGBIV](https://en.wikipedia.org/wiki/ROYGBIV)
+* [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [YUV](https://en.wikipedia.org/wiki/YUV)
