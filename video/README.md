@@ -4,6 +4,7 @@
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
   * [Pixel format](https://en.wikipedia.org/wiki/Pixel_Format)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
+* [ROYGBIV](https://en.wikipedia.org/wiki/ROYGBIV)
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [YUV](https://en.wikipedia.org/wiki/YUV)
