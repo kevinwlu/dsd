@@ -68,6 +68,7 @@
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 ## Games
 * [List of best-selling video games](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
+* [Indie game](https://en.wikipedia.org/wiki/Indie_game)
 * [Tencent Games](https://en.wikipedia.org/wiki/Tencent_Games)
 * [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment)
 * [NetEase](https://en.wikipedia.org/wiki/NetEase)
