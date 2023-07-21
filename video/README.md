@@ -66,6 +66,8 @@
   * [4K resolution](https://en.wikipedia.org/wiki/4K_resolution) (3840 × 2160)
   * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+## Games
+* [List of best-selling video games](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
