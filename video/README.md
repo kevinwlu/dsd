@@ -73,6 +73,8 @@
 * [NetEase](https://en.wikipedia.org/wiki/NetEase)
 * [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts)
 * [Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard)
+* [Nintendo](https://en.wikipedia.org/wiki/Nintendo)
+* [Take-Two Interactive](https://en.wikipedia.org/wiki/Take-Two_Interactive)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
