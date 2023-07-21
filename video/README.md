@@ -68,6 +68,11 @@
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 ## Games
 * [List of best-selling video games](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
+* [Tencent Games](https://en.wikipedia.org/wiki/Tencent_Games)
+* [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment)
+* [NetEase](https://en.wikipedia.org/wiki/NetEase)
+* [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts)
+* [Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
