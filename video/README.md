@@ -65,6 +65,7 @@
 * [Ultra-high-definition television](https://en.wikipedia.org/wiki/Ultra-high-definition_television)
   * [4K resolution](https://en.wikipedia.org/wiki/4K_resolution) (3840 × 2160)
   * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
+* [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
