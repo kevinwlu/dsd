@@ -2,6 +2,7 @@
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Electronics-Related.com](https://www.electronics-related.com/)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+* [IEEE Solid-State Circuits Society](https://sscs.ieee.org/)
 * [International Solid-State Circuits Conference](https://en.wikipedia.org/wiki/International_Solid-State_Circuits_Conference) (ISSCC)
 * [Semiconductor consolidation](https://en.wikipedia.org/wiki/Semiconductor_consolidation)
 * [International Technology Roadmap for Semiconductors](https://en.wikipedia.org/wiki/International_Technology_Roadmap_for_Semiconductors) (ITRS)
