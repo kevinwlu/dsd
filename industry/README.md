@@ -95,6 +95,7 @@
   * [LeCroy Corporation](https://en.wikipedia.org/wiki/LeCroy_Corporation)
 ## Testing Laboratories
 * [Nationally Recognized Testing Laboratory](https://en.wikipedia.org/wiki/Nationally_Recognized_Testing_Laboratory)
+* [SGS S.A.](https://en.wikipedia.org/wiki/SGS_S.A.)
 * [Technischer Überwachungsverein](https://en.wikipedia.org/wiki/Technischer_%C3%9Cberwachungsverein) (TÜV)
 * [UL](https://en.wikipedia.org/wiki/UL_(safety_organization))
 ## Semiconductor Companies
