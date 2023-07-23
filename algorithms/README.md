@@ -11,6 +11,7 @@
     * [Loop (graph theory)](https://en.wikipedia.org/wiki/Loop_(graph_theory))
     * [Bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph)
     * [Planar graph](https://en.wikipedia.org/wiki/Planar_graph)
+    * [Triangle-free graph](https://en.wikipedia.org/wiki/Triangle-free_graph)
     * [Four color theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
   * [Linked list](https://en.wikipedia.org/wiki/Linked_list)
   * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
