@@ -8,6 +8,7 @@
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
 * [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
   * [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
+    * [Loop (graph theory)](https://en.wikipedia.org/wiki/Loop_(graph_theory))
     * [Planar graph](https://en.wikipedia.org/wiki/Planar_graph)
     * [Four color theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
   * [Linked list](https://en.wikipedia.org/wiki/Linked_list)
