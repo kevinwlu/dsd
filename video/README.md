@@ -73,6 +73,7 @@
 * [Real-Time Messaging Protocol](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol) (RTMP)
 * [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol) (RTSP) 
 * [Transcoding](https://en.wikipedia.org/wiki/Transcoding)
+* [Over-the-top media service](https://en.wikipedia.org/wiki/Over-the-top_media_service) (OTT)
 * [Network Device Interface](https://en.wikipedia.org/wiki/Network_Device_Interface) (NDI)
 * [Video capture](https://en.wikipedia.org/wiki/Video_capture)
 * [Justin Brown Primal Video](https://www.youtube.com/c/Primalvideo/videos)
