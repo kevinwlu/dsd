@@ -91,6 +91,7 @@
     * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
     * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
 * [ERS Electronic GmbH](https://www.ers-gmbh.com/)
+* [EXFO](https://www.exfo.com/en/)
 * [Keysight](https://en.wikipedia.org/wiki/Keysight)
   * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
 * [Rohde & Schwarz](https://en.wikipedia.org/wiki/Rohde_%26_Schwarz)
