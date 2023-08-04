@@ -85,6 +85,7 @@
   * [Orbotech](https://en.wikipedia.org/wiki/Orbotech)
 ## Printed Circuit Board
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
+* [Occam process](https://en.wikipedia.org/wiki/Occam_process)
 * [Jiva Materials](https://www.jivamaterials.com/)
   * [Jiva](https://en.wikipedia.org/wiki/Jiva)
 ## Test Equipment Suppliers
