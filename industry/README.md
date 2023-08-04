@@ -84,7 +84,7 @@
 * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
   * [Orbotech](https://en.wikipedia.org/wiki/Orbotech)
 ## Printed Circuit Board
-* [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board (PCB)
+* [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Jiva Materials](https://www.jivamaterials.com/)
   * [Jiva](https://en.wikipedia.org/wiki/Jiva)
 ## Test Equipment Suppliers
