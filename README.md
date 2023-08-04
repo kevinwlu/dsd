@@ -252,6 +252,10 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * Eduardo Corpeño, [*Learning FPGA Development*](https://www.linkedin.com/learning/learning-fpga-development/)
 * [ChipVerify](https://www.chipverify.com/) tutorials on Verilog, SystemVerilog, and [Universal Verification Methodology](https://en.wikipedia.org/wiki/Universal_Verification_Methodology) (UVM)
 
+### SystemC
+* [SystemC](https://en.wikipedia.org/wiki/SystemC)
+* [IEEE 1666-2011](https://standards.ieee.org/ieee/1666/4814/): IEEE Standard for Standard SystemC Language Reference Manual]
+
 ### Others
 * [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
 * [MyHDL](https://en.wikipedia.org/wiki/MyHDL) Python-based HDL
@@ -270,7 +274,6 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
 * [Sigasi](https://www.sigasi.com/)
-* [SystemC](https://en.wikipedia.org/wiki/SystemC)
 * [XIMEA](https://www.ximea.com/)
 
 ## Electronic Design Automation (EDA)
