@@ -267,6 +267,7 @@
 * [FTDI](https://en.wikipedia.org/wiki/FTDI)
 * [Graphcore](https://en.wikipedia.org/wiki/Graphcore)
 * [Imagination Technologies](https://en.wikipedia.org/wiki/Imagination_Technologies)
+* [Jiva Materials](https://www.jivamaterials.com/)
 $ [Magnachip](https://www.magnachip.com/)
 * [Melexis](https://de.wikipedia.org/wiki/Melexis)
 * [Nexperia](https://en.wikipedia.org/wiki/Nexperia)
