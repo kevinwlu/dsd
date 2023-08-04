@@ -84,6 +84,8 @@
 * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
 * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
   * [Orbotech](https://en.wikipedia.org/wiki/Orbotech)
+## 
+* [Jiva Materials](https://www.jivamaterials.com/)
 ## Test Equipment Suppliers
 * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
   * [Fortive](https://en.wikipedia.org/wiki/Fortive)
@@ -267,7 +269,6 @@
 * [FTDI](https://en.wikipedia.org/wiki/FTDI)
 * [Graphcore](https://en.wikipedia.org/wiki/Graphcore)
 * [Imagination Technologies](https://en.wikipedia.org/wiki/Imagination_Technologies)
-* [Jiva Materials](https://www.jivamaterials.com/)
 $ [Magnachip](https://www.magnachip.com/)
 * [Melexis](https://de.wikipedia.org/wiki/Melexis)
 * [Nexperia](https://en.wikipedia.org/wiki/Nexperia)
