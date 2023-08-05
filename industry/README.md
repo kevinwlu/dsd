@@ -78,6 +78,7 @@
 * [Shanghai Micro Electronics Equipment](http://www.smee.com.cn/) (SMEE)
 * [Huawei Patent](https://www.huaweicentral.com/huawei-is-rapidly-researching-on-chipset-printing-technologies/) CN115343915A, "Mirror, Photolithography Device, and Control Method," 2022-11-15
 * [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)
+* [DISCO Corporation](https://en.wikipedia.org/wiki/Disco_Corporation)
 * [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
 * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
 * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
