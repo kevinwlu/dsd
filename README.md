@@ -254,7 +254,9 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ### SystemC
 * [SystemC](https://en.wikipedia.org/wiki/SystemC)
-* [IEEE 1666-2011](https://standards.ieee.org/ieee/1666/4814/): IEEE Standard for Standard SystemC Language Reference Manual]
+* [SystemC.org](https://systemc.org/)
+* [IEEE 1666-2011](https://standards.ieee.org/ieee/1666/4814/): IEEE Standard for Standard SystemC&reg; Language Reference Manual
+* [IEEE 1666.1-2016](https://standards.ieee.org/ieee/1666.1/5812/): IEEE Standard for Standard SystemC&reg; Analog/Mixed-Signal Extensions Language Reference Manual
 
 ### Others
 * [C to HDL](https://en.wikipedia.org/wiki/C_to_HDL)
