@@ -100,6 +100,7 @@
     * [Documentation](https://ffmpeg.org/ffmpeg.html)
     * [Streaming Guide](http://trac.ffmpeg.org/wiki/StreamingGuide)
     * [Tutorial](https://sonnati.wordpress.com/2011/07/11/ffmpeg-the-swiss-army-knife-of-internet-streaming-part-i/) by [Fabio Sonnati](https://sonnati.wordpress.com/)
+    * [C++ real-time video processing](https://www.youtube.com/@bartholomewjoyce) by [Bartholomew Joyce](https://bartholomewjoyce.com/)
     * [Simplest FFmpeg format](https://github.com/leixiaohua1020/simplest_ffmpeg_format)
     * [Simplest FFmpeg streamer](https://github.com/leixiaohua1020/simplest_ffmpeg_streamer)
   * [XSplit](https://en.wikipedia.org/wiki/XSplit)
