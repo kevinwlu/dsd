@@ -39,6 +39,9 @@
 * [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [Top K Sort](https://xilinx.github.io/Vitis_Libraries/graph/2020.1/guide_L1/primitives/sortTopK.html)
+## Chaos Theory
+* [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
+* [Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect)
 ## Digital Signal Processing
 * [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP)
 * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
