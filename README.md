@@ -146,6 +146,7 @@ Computer Engineering CPE 487
     > [PCIe peer-to-peer](https://xilinx.github.io/XRT/2022.2/html/p2p.html) (P2P) communication is a PCIe feature that enables two PCIe devices to directly transfer data between each other without using host RAM as a temporary storage
   * [PCI Express Mini Card](https://en.wikipedia.org/wiki/PCI_Express#MINI-CARD) (Mini PCIe)
   * [Universal Chiplet Interconnect Express](https://en.wikipedia.org/wiki/UCIe) (UCIe)
+  * [Serial Advanced Technology Attachment](https://en.wikipedia.org/wiki/SATA) (SATA)
   * [M.2](https://en.wikipedia.org/wiki/M.2)
   * [Transfers](https://en.wikipedia.org/wiki/Transfer_(computing)) per second (T/s)
   * [FPGA  Mezzanine Card](https://en.wikipedia.org/wiki/FPGA_Mezzanine_Card) (FMC)
