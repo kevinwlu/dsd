@@ -421,6 +421,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
   * [SiFive](https://en.wikipedia.org/wiki/SiFive)
   * [Fomu](https://tomu.im/fomu.html)
+  * [Bosch, Infineon, Nordic, NXP, and Qualcomm Join Hands to Give the RISC-V Ecosystem a Big Boost](https://www.hackster.io/news/bosch-infineon-nordic-nxp-and-qualcomm-join-hands-to-give-the-risc-v-ecosystem-a-big-boost-d47050949111)
 * [SymbiFlow](https://symbiflow.github.io/)
   * [Examples](https://symbiflow-examples.readthedocs.io/en/latest/)
 
