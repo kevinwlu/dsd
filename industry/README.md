@@ -1,4 +1,7 @@
 # Industry
+* [Electronics](https://en.wikipedia.org/wiki/Electronics)
+  * [Electron](https://en.wikipedia.org/wiki/Electron)
+  * [Electricity](https://en.wikipedia.org/wiki/Electricity) 
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Electronics-Related.com](https://www.electronics-related.com/)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
