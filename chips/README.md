@@ -36,6 +36,7 @@
   * [GeForce RTX 20 Series](https://www.nvidia.com/en-us/geforce/20-series/)
   * [GeForce RTX 30 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/)
   * [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
+  * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
 * Qualcomm [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
