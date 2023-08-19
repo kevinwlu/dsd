@@ -119,7 +119,7 @@
     * [GlobalFoundries](https://en.wikipedia.org/wiki/GlobalFoundries) (GF)
     * [UMC](https://en.wikipedia.org/wiki/United_Microelectronics_Corporation)
     * [SMIC](https://en.wikipedia.org/wiki/Semiconductor_Manufacturing_International_Corporation)
-    * Intel [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
+    * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
     * [Innovations for High Performance Microelectronics](https://en.wikipedia.org/wiki/Innovations_for_High_Performance_Microelectronics) (IHP)
   * [Fabless manufacturing](https://en.wikipedia.org/wiki/Fabless_manufacturing)
     * [Efabless](https://efabless.com/)
