@@ -36,7 +36,7 @@ Computer Engineering CPE 487
 
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
-  * [Nibble](https://en.wikipedia.org/wiki/Nibble)
+  * [Nibble](https://en.wikipedia.org/wiki/Nibble), half-byte, or quadbit
   * [Byte](https://en.wikipedia.org/wiki/Byte)
   * [Bit rate](https://en.wikipedia.org/wiki/Bit_rate)
   * [Baud](https://en.wikipedia.org/wiki/Baud)
