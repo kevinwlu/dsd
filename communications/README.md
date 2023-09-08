@@ -74,6 +74,8 @@
 * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G performance](https://www.t-mobile.com/news/network/t-mobile-dominates-in-new-5g-studies-and-advances-5g-with-carrier-aggregation)
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
+  * [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
+  * [Mobile data offloading](https://en.wikipedia.org/wiki/Mobile_data_offloading)
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [6GWorld](https://www.6gworld.com/)
   * [Brooklyn 6G Summit](https://b6gs.com/)
@@ -110,4 +112,3 @@
 * [Mitigating radar-to-radar interference](https://www.sae.org/news/2021/06/mitigating-radar-to-radar-interference)
 ## Communication and Charging
 * [Simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/7511404) (SWIPT)
-
