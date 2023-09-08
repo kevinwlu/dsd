@@ -76,6 +76,7 @@
   * [Big 5G](https://tmt.knect365.com/big-5g-event/)
   * [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
   * [Mobile data offloading](https://en.wikipedia.org/wiki/Mobile_data_offloading)
+  * [CAMARA](https://camaraproject.org/) APIs enabling seamless access to Telco network capabilities
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [6GWorld](https://www.6gworld.com/)
   * [Brooklyn 6G Summit](https://b6gs.com/)
