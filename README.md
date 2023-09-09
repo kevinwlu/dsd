@@ -284,6 +284,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ## Electronic Design Automation (EDA)
 * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
+  * [Aart de Geus](https://en.wikipedia.org/wiki/Aart_de_Geus)
 * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * [Virtuoso Layout Suite](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) supports custom analog, digital, and mixed-signal designs at the device, cell, block, and chip levels
   * [Spectre Circuit Simulator](https://en.wikipedia.org/wiki/Spectre_Circuit_Simulator)
