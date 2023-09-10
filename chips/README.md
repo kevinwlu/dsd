@@ -18,6 +18,7 @@
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
+  * [Huawei Mate series](https://en.wikipedia.org/wiki/Huawei_Mate_series)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
   * [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
   * [Altera](https://en.wikipedia.org/wiki/Altera)
