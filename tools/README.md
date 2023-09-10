@@ -29,7 +29,8 @@
 * [KiCad](https://en.wikipedia.org/wiki/KiCad)
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [Logicly](https://logic.ly/)
-* [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain
+* [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain (FDTD)
+  * [Finite-difference time-domain method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
 ## Instruments
 * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE)
 * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
