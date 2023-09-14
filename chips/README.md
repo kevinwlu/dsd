@@ -33,6 +33,7 @@
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NVIDIA graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
   * [NVIDIA GPU Technology Conference](https://en.wikipedia.org/wiki/Nvidia_GTC) (GTC)
+  * S. K. Moore, ["The Secret to Nvidia’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
   * [GeForce GTX 16 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/)
   * [GeForce RTX 20 Series](https://www.nvidia.com/en-us/geforce/20-series/)
   * [GeForce RTX 30 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/)
