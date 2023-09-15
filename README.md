@@ -417,6 +417,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Efinix](https://www.efinixinc.com/)
 * [Khronos Group](https://en.wikipedia.org/wiki/Khronos_Group)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
+  * [Microsemi](https://en.wikipedia.org/wiki/Microsemi)
+  * [PolarFire](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas/polarfire-fpgas)
 * [OpenROAD](https://theopenroadproject.org/)
 * [QuickLogic](https://www.quicklogic.com/)
 * [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
