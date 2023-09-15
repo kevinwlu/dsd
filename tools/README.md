@@ -67,6 +67,9 @@
     * [Model XP-581A](https://www.elenco.com/wp-content/uploads/2017/10/XP581A-2.pdf)
   * [Keysight Technologies](https://en.wikipedia.org/wiki/Keysight)
     * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html)
+* [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
+  * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
+    * [RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306)
 ## Issue Tracking System
 * [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
 * [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems)
