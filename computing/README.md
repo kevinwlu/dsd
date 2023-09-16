@@ -21,6 +21,8 @@
   * [Unknowability](https://en.wikipedia.org/wiki/Unknowability)
   * [Ignoramus et ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus)
 * [Instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) (ISA)
+* [Implicit SPMD Program Compiler](https://ispc.github.io/) (ISPC)
+  * [Single program, multiple data](https://en.wikipedia.org/wiki/Single_program,_multiple_data) (SPMD) 
 * [Integrated Tunable Laser Assembly](https://de.wikipedia.org/wiki/Integrated_Tunable_Laser_Assembly) (ITLA)
 * [Low-dropout regulator](https://en.wikipedia.org/wiki/Low-dropout_regulator) (LDO regulator)
 * [Mach–Zehnder interferometer](https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer)
