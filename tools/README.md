@@ -8,6 +8,10 @@
 * [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
 * [Q-circuit](https://physics.unm.edu/CQuIC/Qcircuit/)
   * [Q-circuit tutorial](https://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf)
+## Issue Tracking System
+* [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
+* [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems)
+* [Jira](https://en.wikipedia.org/wiki/Jira_(software))
 ## Electronic Circuit
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
@@ -77,7 +81,3 @@
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
   * [Tektronix RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306)
-## Issue Tracking System
-* [Issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system)
-* [Comparison of issue-tracking systems](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems)
-* [Jira](https://en.wikipedia.org/wiki/Jira_(software))
