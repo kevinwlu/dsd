@@ -62,6 +62,7 @@
   * [Observability](https://en.wikipedia.org/wiki/Observability)
 * [Karmarkar's algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm)
 * [LeetCode](https://github.com/haoel/leetcode)
+* [Gram–Schmidt process](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process)
 * [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
   * [Sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 * [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
