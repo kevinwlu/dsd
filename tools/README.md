@@ -61,6 +61,8 @@
   * [Keithley 2000 6.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/keithley-2000-series-6-digit-multimeter-scanning)
   * [Keysight 34461A Digital Multimeter, 6.5 Digit, Truevolt DMM](https://www.keysight.com/us/en/support/34461A/digital-multimeter-6-5-digit-truevolt-dmm.html)
 * [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
+  * [HP 54601B 4 Channel, 100 MHz Oscilloscope](https://www.keysight.com/us/en/support/54601B/4-channel-100-mhz-oscilloscope.html)
+  * [Agilent 54622D 2+16 Channel, 100 MHz Mixed-Signal Oscilloscope](https://www.keysight.com/us/en/support/54622D/portable-mso.html)
   * [Keysight DSO5032A Oscilloscope, 300 MHz, 2 channels](https://www.keysight.com/us/en/support/DSO5032A/5000-series-oscilloscope-300-mhz-2-channels.html)
   * [Keysight DSOX6004A Oscilloscope: 1 GHz - 6 GHz, 4 Analog Channels](https://www.keysight.com/us/en/support/DSOX6004A/oscilloscope-1-ghz-6-ghz-4-analog-channels.html)
   * [RIGOL DS1054Z Oscilloscope, 50 MHz, 4 channels](https://assets.testequity.com/te1/Documents/pdf/rigol/Rigol-DS1054Z-Manual.pdf)
