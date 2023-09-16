@@ -43,7 +43,7 @@
     * [U4203A Single-Ended 34-Channel Flying Lead](https://www.keysight.com/us/en/support/U4203A/single-ended-34-channel-flying-lead.html)
 * [Logic analyzer](https://en.wikipedia.org/wiki/Logic_analyzer)
   * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
-    * [1673G Logic Analyzer](https://www.keysight.com/us/en/product/1673G/standalone-logic-analyzer.html)
+    * [1673G Standalone Logic Analyzer](https://www.keysight.com/us/en/support/1673G/standalone-logic-analyzer.html)
   * [Keysight Technologies](https://en.wikipedia.org/wiki/Keysight)
     * [16863A 102-Channel Portable Logic Analyzer](https://www.keysight.com/us/en/support/16863A/16863a-102-channel-portable-logic-analyzer.html)
 * [Multimeter](https://en.wikipedia.org/wiki/Multimeter)
@@ -68,6 +68,9 @@
   * [Keysight Technologies](https://en.wikipedia.org/wiki/Keysight)
     * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html)
 * [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
+  * [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies)
+    * [E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
+    * [E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
   * [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
     * [RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306)
 ## Issue Tracking System
