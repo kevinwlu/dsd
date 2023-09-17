@@ -60,6 +60,7 @@
   * [Agilent 1673G Standalone Logic Analyzer](https://www.keysight.com/us/en/support/1673G/standalone-logic-analyzer.html)
   * [Keysight 16863A 102-Channel Portable Logic Analyzer](https://www.keysight.com/us/en/support/16863A/16863a-102-channel-portable-logic-analyzer.html)
 * [Multimeter](https://en.wikipedia.org/wiki/Multimeter)
+  * [What are digits, accuracy, and resolution with a DMM](https://www.keysight.com/blogs/tech/bench/2019/01/02/what-are-digits-accuracy-and-resolution-with-a-dmm)
   * [TENMA 72-1012 Bench Digital Multimeter, 1 kV, 10 A, 4.5 Digit](https://my.element14.com/tenma/72-1012/digital-multimeter-bench-4-1-2/dp/2450665)
   * [Tektronix DMM4020 5.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/tektronix-4000-series-5-and-6-digit-multimeters)
   * [Keithley 2000 6.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/keithley-2000-series-6-digit-multimeter-scanning)
