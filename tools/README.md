@@ -22,6 +22,7 @@
 * [List of free electronics circuit simulators](https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
 * [List of HDL simulators](https://en.wikipedia.org/wiki/List_of_HDL_simulators)
 * [Altium Designer](https://en.wikipedia.org/wiki/Altium_Designer)
+* [Automation Studio](https://en.wikipedia.org/wiki/Automation_Studio)
 * [CircuitLab](https://www.circuitlab.com/)
 * [EAGLE](https://en.wikipedia.org/wiki/EAGLE_(program))
 * [EasyEDA](https://en.wikipedia.org/wiki/EasyEDA)
