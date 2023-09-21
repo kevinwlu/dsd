@@ -43,6 +43,7 @@
   * [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression)
   * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression)
+    * [Transform coding](https://en.wikipedia.org/wiki/Transform_coding)
   * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression)
     * [Entropy coding](https://en.wikipedia.org/wiki/Entropy_coding)
   * [Universal code (data compression)](https://en.wikipedia.org/wiki/Universal_code_(data_compression))
