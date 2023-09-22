@@ -15,7 +15,10 @@
 ## Electronic Circuit
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+* [Helping hand (tool)](https://en.wikipedia.org/wiki/Helping_hand_(tool))
+  * [Omnifixo](https://omnifixo.com/)
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
+* [Soldering](https://en.wikipedia.org/wiki/Soldering)
 * [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
 ## Electronic Design Automation (EDA)
 * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
