@@ -17,6 +17,8 @@
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 * [Helping hand (tool)](https://en.wikipedia.org/wiki/Helping_hand_(tool))
   * [Omnifixo](https://omnifixo.com/)
+* [Pin header](https://en.wikipedia.org/wiki/Pin_header)
+  * [Hammer header](https://www.adafruit.com/product/3413)
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Soldering](https://en.wikipedia.org/wiki/Soldering)
 * [Wire wrap](https://en.wikipedia.org/wiki/Wire_wrap)
