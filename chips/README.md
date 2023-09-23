@@ -42,7 +42,11 @@
   * [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
   * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
-* Qualcomm [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
+* Qualcomm
+  * *The Future of AI is Hybrid*
+    * [Part I](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf)
+    * [Part II](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-2-Qualcomm-is-uniquely-positioned-to-scale-hybrid-AI.pdf)
+  * [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 
 ## Packaging
