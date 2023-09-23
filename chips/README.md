@@ -27,6 +27,7 @@
   * [Sapphire Rapids](https://en.wikipedia.org/wiki/Sapphire_Rapids)
   * [Intel in Ohio](https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html)
   * [Intel Introduces New RibbonFET and PowerVia Technologies](https://www.intel.com/content/www/us/en/corporate/usa-chipmaking/news-and-resources/video-intel-intros-ribbonfet-powervia-technologies.html)
+  * [Intel Unveils Industry-Leading Glass Substrates to Meet Demand for More Powerful Compute](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-industry-leading-glass-substrates.html)
   * [Intel’s New Chip to Advance Silicon Spin Qubit Research for Quantum Computing](https://www.intel.com/content/www/us/en/newsroom/news/quantum-computing-chip-to-advance-research.html)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
