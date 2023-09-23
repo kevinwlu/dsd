@@ -8,7 +8,6 @@
   * [Advanced Chip Engineering Design and Fabrication (ACED Fab)](https://beta.nsf.gov/funding/opportunities/advanced-chip-engineering-design-fabrication-aced)
   * [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
-
 ## Lists
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
   * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
@@ -28,6 +27,7 @@
   * [Sapphire Rapids](https://en.wikipedia.org/wiki/Sapphire_Rapids)
   * [Intel in Ohio](https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-ohio.html)
   * [Intel Introduces New RibbonFET and PowerVia Technologies](https://www.intel.com/content/www/us/en/corporate/usa-chipmaking/news-and-resources/video-intel-intros-ribbonfet-powervia-technologies.html)
+  * [Intel’s New Chip to Advance Silicon Spin Qubit Research for Quantum Computing](https://www.intel.com/content/www/us/en/newsroom/news/quantum-computing-chip-to-advance-research.html)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
   * [Microchip Studio](https://www.microchip.com/en-us/education/developer-help/learn-tools-software/mcu-mpu/studio)
