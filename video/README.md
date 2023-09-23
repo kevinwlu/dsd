@@ -47,6 +47,7 @@
   * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression)
     * [Entropy coding](https://en.wikipedia.org/wiki/Entropy_coding)
   * [Universal code (data compression)](https://en.wikipedia.org/wiki/Universal_code_(data_compression))
+* [Deep image compositing](https://en.wikipedia.org/wiki/Deep_image_compositing)
 * [Video coding format](https://en.wikipedia.org/wiki/Video_coding_format)
   * [Differential pulse-code modulation](https://en.wikipedia.org/wiki/Differential_pulse-code_modulation) (DPCM)
   * [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) (DCT)
