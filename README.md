@@ -162,7 +162,7 @@ Computer Engineering CPE 487
 * [Electromagnetic shielding](https://en.wikipedia.org/wiki/Electromagnetic_shielding)
 * [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS 1)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
-  * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
+  * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
   * [Eurocard](https://en.wikipedia.org/wiki/Eurocard_(printed_circuit_board))
   * [Advanced Technology eXtended](https://en.wikipedia.org/wiki/ATX) (ATX)
