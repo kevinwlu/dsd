@@ -20,6 +20,7 @@
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
   * [Huawei Mate series](https://en.wikipedia.org/wiki/Huawei_Mate_series)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
+  * [Intel Innovation](https://www.intel.com/content/www/us/en/events/on-event-series/innovation.html)
   * [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
   * [Altera](https://en.wikipedia.org/wiki/Altera)
   * [Process–architecture–optimization model](https://en.wikipedia.org/wiki/Process%E2%80%93architecture%E2%80%93optimization_model)
