@@ -71,6 +71,7 @@
   * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
   * [Graphenea](https://www.graphenea.com/)
 * [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
+  * [High-numerical-aperture EUV lithography](https://spectrum.ieee.org/high-na-euv)
 * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
   * [Cymer](https://en.wikipedia.org/wiki/Cymer)
   * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
