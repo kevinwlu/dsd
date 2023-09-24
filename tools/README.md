@@ -60,30 +60,30 @@
 * [Arbitrary waveform generator](https://en.wikipedia.org/wiki/Arbitrary_waveform_generator)
   * [HP/Agilent 33120A Function / Arbitrary Waveform Generator, 15 MHz](https://www.keysight.com/us/en/support/33120A/function--arbitrary-waveform-generator-15-mhz.html)
   * [Agilent 33220A Function / Arbitrary Waveform Generator, 20 MHz](https://www.keysight.com/us/en/support/33220A/function--arbitrary-waveform-generator-20-mhz.html)
-  * [Keysight 33510B Waveform Generator, 20 MHz, 2-Channel](https://www.keysight.com/us/en/support/33510B/waveform-generator-20-mhz-2-channel.html)
-    * [U4203A Single-Ended 34-Channel Flying Lead](https://www.keysight.com/us/en/support/U4203A/single-ended-34-channel-flying-lead.html)
+  * [Keysight 33510B Waveform Generator, 20 MHz, 2-Channel](https://www.keysight.com/us/en/support/33510B/waveform-generator-20-mhz-2-channel.html) in the Software Engineering Lab
+    * [U4203A Single-Ended 34-Channel Flying Lead](https://www.keysight.com/us/en/support/U4203A/single-ended-34-channel-flying-lead.html) in the Software Engineering Lab
 * [Logic analyzer](https://en.wikipedia.org/wiki/Logic_analyzer)
   * [Agilent 1673G Standalone Logic Analyzer](https://www.keysight.com/us/en/support/1673G/standalone-logic-analyzer.html)
-  * [Keysight 16863A 102-Channel Portable Logic Analyzer](https://www.keysight.com/us/en/support/16863A/16863a-102-channel-portable-logic-analyzer.html)
+  * [Keysight 16863A 102-Channel Portable Logic Analyzer](https://www.keysight.com/us/en/support/16863A/16863a-102-channel-portable-logic-analyzer.html) in the Software Engineering Lab
 * [Multimeter](https://en.wikipedia.org/wiki/Multimeter)
   * [What are digits, accuracy, and resolution with a DMM](https://www.keysight.com/blogs/tech/bench/2019/01/02/what-are-digits-accuracy-and-resolution-with-a-dmm)
   * [TENMA 72-1012 Bench Digital Multimeter, 1 kV, 10 A, 4.5 Digit](https://my.element14.com/tenma/72-1012/digital-multimeter-bench-4-1-2/dp/2450665)
   * [Tektronix DMM4020 5.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/tektronix-4000-series-5-and-6-digit-multimeters)
   * [Keithley 2000 6.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/keithley-2000-series-6-digit-multimeter-scanning)
   * [Keysight 34460A Digital Multimeter, 6.5 Digit, Basic Truevolt](https://www.keysight.com/us/en/support/34460A/digital-multimeter-6-5-digit-basic-truevolt.html)
-  * [Keysight 34461A Digital Multimeter, 6.5 Digit, Truevolt DMM](https://www.keysight.com/us/en/support/34461A/digital-multimeter-6-5-digit-truevolt-dmm.html)
+  * [Keysight 34461A Digital Multimeter, 6.5 Digit, Truevolt DMM](https://www.keysight.com/us/en/support/34461A/digital-multimeter-6-5-digit-truevolt-dmm.html) in the Software Engineering Lab
 * [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
   * [HP 54601B 4 Channel, 100 MHz Oscilloscope](https://www.keysight.com/us/en/support/54601B/4-channel-100-mhz-oscilloscope.html)
   * [Agilent 54622D 2+16 Channel, 100 MHz Mixed-Signal Oscilloscope](https://www.keysight.com/us/en/support/54622D/portable-mso.html)
   * [Keysight DSOX2002A Oscilloscope: 70 MHz, 2 Analog Channels](https://www.keysight.com/us/en/support/DSOX2002A/oscilloscope-70-mhz-2-analog-channels.html)
   * [Keysight DSO5032A Oscilloscope, 300 MHz, 2 Channels](https://www.keysight.com/us/en/support/DSO5032A/5000-series-oscilloscope-300-mhz-2-channels.html)
-  * [Keysight DSOX6004A Oscilloscope: 1 GHz - 6 GHz, 4 Analog Channels](https://www.keysight.com/us/en/support/DSOX6004A/oscilloscope-1-ghz-6-ghz-4-analog-channels.html)
+  * [Keysight DSOX6004A Oscilloscope: 1 GHz - 6 GHz, 4 Analog Channels](https://www.keysight.com/us/en/support/DSOX6004A/oscilloscope-1-ghz-6-ghz-4-analog-channels.html) in the Software Engineering Lab
   * [RIGOL DS1054Z Oscilloscope, 50 MHz, 4 channels](https://assets.testequity.com/te1/Documents/pdf/rigol/Rigol-DS1054Z-Manual.pdf)
   * [RIGOL DS1104Z Plus Oscilloscope, 100 MHz, 4 channels](https://www.rigolna.com/products/digital-oscilloscopes/1000z/)
 * [Power supply](https://en.wikipedia.org/wiki/Power_supply)
   * [Elenco Model XP-581A](https://www.elenco.com/wp-content/uploads/2017/10/XP581A-2.pdf)
   * [HP E3631A 80W Triple Output Power Supply, 6V, 5A & ±25V, 1A](https://www.keysight.com/us/en/support/E3631A/80w-triple-output-power-supply-6v-5a--25v-1a.html)
-  * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html)
+  * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html) in the Software Engineering Lab
 * [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
