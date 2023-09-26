@@ -21,6 +21,7 @@
   * [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi)
   * [Khwarazm](https://en.wikipedia.org/wiki/Khwarazm)
   * [Algorism](https://en.wikipedia.org/wiki/Algorism)
+  * [Big *O* notation](https://en.wikipedia.org/wiki/Big_O_notation)
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
 * [List of unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
