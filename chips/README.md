@@ -7,6 +7,8 @@
 * [CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act)
   * [Advanced Chip Engineering Design and Fabrication (ACED Fab)](https://beta.nsf.gov/funding/opportunities/advanced-chip-engineering-design-fabrication-aced)
   * [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies)
+* [CHIPS for America](https://www.nist.gov/chips)
+  * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
 ## Lists
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
