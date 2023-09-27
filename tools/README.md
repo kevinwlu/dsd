@@ -58,7 +58,7 @@
     * [Keithley Instruments](https://en.wikipedia.org/wiki/Keithley_Instruments)
 * [List of electrical and electronic measuring equipment](https://en.wikipedia.org/wiki/List_of_electrical_and_electronic_measuring_equipment)
 * [Arbitrary waveform generator](https://en.wikipedia.org/wiki/Arbitrary_waveform_generator)
-  * [HP/Agilent 33120A Function / Arbitrary Waveform Generator, 15 MHz](https://www.keysight.com/us/en/support/33120A/function--arbitrary-waveform-generator-15-mhz.html) in the Elsie Hattrick Design Laboratory
+  * [HP/Agilent 33120A Function / Arbitrary Waveform Generator, 15 MHz](https://www.keysight.com/us/en/support/33120A/function--arbitrary-waveform-generator-15-mhz.html) also used in the Elsie Hattrick Design Laboratory
   * [Agilent 33220A Function / Arbitrary Waveform Generator, 20 MHz](https://www.keysight.com/us/en/support/33220A/function--arbitrary-waveform-generator-20-mhz.html)
   * [Keysight 33510B Waveform Generator, 20 MHz, 2-Channel](https://www.keysight.com/us/en/support/33510B/waveform-generator-20-mhz-2-channel.html) in the Software Engineering Lab
     * [U4203A Single-Ended 34-Channel Flying Lead](https://www.keysight.com/us/en/support/U4203A/single-ended-34-channel-flying-lead.html) in the Software Engineering Lab
@@ -70,13 +70,16 @@
   * [TENMA 72-1012 Bench Digital Multimeter, 1 kV, 10 A, 4.5 Digit](https://my.element14.com/tenma/72-1012/digital-multimeter-bench-4-1-2/dp/2450665)
   * [Tektronix DMM4020 5.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/tektronix-4000-series-5-and-6-digit-multimeters)
   * [Keithley 2000 6.5 Digit Multimeter](https://www.tek.com/en/products/keithley/digital-multimeter/keithley-2000-series-6-digit-multimeter-scanning)
+  * [Agilent 34401A Digital Multimeter, 6.5 Digit](https://www.keysight.com/us/en/support/34401A/digital-multimeter-6-digit.html)
+  * [Agilent 34405A Digital Multimeter, 5.5 digit](https://www.keysight.com/us/en/support/34405A/digital-multimeter-5-digit.html)
+  * [Agilent 34410A Digital Multimeter, 6.5 Digit](https://www.keysight.com/us/en/support/34410A/digital-multimeter-6-digit.html)
   * [Keysight 34460A Digital Multimeter, 6.5 Digit, Basic Truevolt](https://www.keysight.com/us/en/support/34460A/digital-multimeter-6-5-digit-basic-truevolt.html) in the Elsie Hattrick Design Laboratory
   * [Keysight 34461A Digital Multimeter, 6.5 Digit, Truevolt DMM](https://www.keysight.com/us/en/support/34461A/digital-multimeter-6-5-digit-truevolt-dmm.html) in the Software Engineering Lab
 * [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
   * [HP 54601B 4 Channel, 100 MHz Oscilloscope](https://www.keysight.com/us/en/support/54601B/4-channel-100-mhz-oscilloscope.html)
   * [Agilent 54622D 2+16 Channel, 100 MHz Mixed-Signal Oscilloscope](https://www.keysight.com/us/en/support/54622D/portable-mso.html)
   * [Keysight DSOX2002A Oscilloscope: 70 MHz, 2 Analog Channels](https://www.keysight.com/us/en/support/DSOX2002A/oscilloscope-70-mhz-2-analog-channels.html) in the Elsie Hattrick Design Laboratory
-  * [Keysight DSO5032A Oscilloscope, 300 MHz, 2 Channels](https://www.keysight.com/us/en/support/DSO5032A/5000-series-oscilloscope-300-mhz-2-channels.html)
+  * [Agilent DSO5032A Oscilloscope, 300 MHz, 2 Channels](https://www.keysight.com/us/en/support/DSO5032A/5000-series-oscilloscope-300-mhz-2-channels.html)
   * [Keysight DSOX6004A Oscilloscope: 1 GHz - 6 GHz, 4 Analog Channels](https://www.keysight.com/us/en/support/DSOX6004A/oscilloscope-1-ghz-6-ghz-4-analog-channels.html) in the Software Engineering Lab
   * [RIGOL DS1054Z Oscilloscope, 50 MHz, 4 channels](https://assets.testequity.com/te1/Documents/pdf/rigol/Rigol-DS1054Z-Manual.pdf)
   * [RIGOL DS1104Z Plus Oscilloscope, 100 MHz, 4 channels](https://www.rigolna.com/products/digital-oscilloscopes/1000z/)
