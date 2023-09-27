@@ -85,6 +85,7 @@
   * [RIGOL DS1104Z Plus Oscilloscope, 100 MHz, 4 channels](https://www.rigolna.com/products/digital-oscilloscopes/1000z/)
 * [Power supply](https://en.wikipedia.org/wiki/Power_supply)
   * [Elenco Model XP-581A](https://www.elenco.com/wp-content/uploads/2017/10/XP581A-2.pdf)
+  * [Agilent E3630A 35 W Triple Output, 6V, 2.5A and ±20V, 0.5A](https://www.keysight.com/us/en/support/E3630A/35-w-triple-output-6v-2-5a-20v-0-5a.html)
   * [HP E3631A 80W Triple Output Power Supply, 6V, 5A & ±25V, 1A](https://www.keysight.com/us/en/support/E3631A/80w-triple-output-power-supply-6v-5a--25v-1a.html) in the Elsie Hattrick Design Laboratory
   * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html) in the Software Engineering Lab
 * [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
