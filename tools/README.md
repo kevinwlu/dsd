@@ -40,6 +40,7 @@
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [Logicly](https://logic.ly/)
 * [OrCAD](https://en.wikipedia.org/wiki/OrCAD)
+* [Specctra](https://en.wikipedia.org/wiki/Specctra)
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain (FDTD)
   * [Finite-difference time-domain method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
 ## Test Equipment
