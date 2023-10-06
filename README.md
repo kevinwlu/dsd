@@ -421,6 +421,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [PolarFire](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas/polarfire-fpgas)
 * [OpenROAD](https://theopenroadproject.org/)
 * [QuickLogic](https://www.quicklogic.com/)
+* [RHS Research](https://rhsresearch.com/)
+  * [NiteFury and Litefury](https://github.com/RHSResearchLLC/NiteFury-and-LiteFury)
 * [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
   * [SiFive](https://en.wikipedia.org/wiki/SiFive)
   * [Fomu](https://tomu.im/fomu.html)
