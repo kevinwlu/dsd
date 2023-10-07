@@ -29,6 +29,7 @@
   * [NP](https://en.wikipedia.org/wiki/NP_(complexity)) (Nondeterministic polynomial time)
   * [NP-completeness](https://en.wikipedia.org/wiki/NP-completeness)
   * [NP-hardness](https://en.wikipedia.org/wiki/NP-hardness)
+  * [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
 * [List of unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
