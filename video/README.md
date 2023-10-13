@@ -108,6 +108,7 @@
     * [C++ real-time video processing](https://www.youtube.com/@bartholomewjoyce) by [Bartholomew Joyce](https://bartholomewjoyce.com/)
     * [Simplest FFmpeg format](https://github.com/leixiaohua1020/simplest_ffmpeg_format)
     * [Simplest FFmpeg streamer](https://github.com/leixiaohua1020/simplest_ffmpeg_streamer)
+    * [libavformat](https://ffmpeg.org/doxygen/trunk/group__libavf.html) (Lavf)
   * [XSplit](https://en.wikipedia.org/wiki/XSplit)
   * [SplitCam](https://splitcamera.com/)
   * [Switchboard Live](https://switchboard.live/)
