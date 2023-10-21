@@ -77,6 +77,7 @@
   * [Agilent 34410A Digital Multimeter, 6.5 Digit](https://www.keysight.com/us/en/support/34410A/digital-multimeter-6-digit.html)
   * [Keysight 34460A Digital Multimeter, 6.5 Digit, Basic Truevolt](https://www.keysight.com/us/en/support/34460A/digital-multimeter-6-5-digit-basic-truevolt.html) in the Elsie Hattrick Design Laboratory
   * [Keysight 34461A Digital Multimeter, 6.5 Digit, Truevolt DMM](https://www.keysight.com/us/en/support/34461A/digital-multimeter-6-5-digit-truevolt-dmm.html) in the Software Engineering Lab
+* [Noise generator](https://en.wikipedia.org/wiki/Noise_generator)
 * [Oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope)
   * [HP 54601B 4 Channel, 100 MHz Oscilloscope](https://www.keysight.com/us/en/support/54601B/4-channel-100-mhz-oscilloscope.html)
   * [Agilent 54622D 2+16 Channel, 100 MHz Mixed-Signal Oscilloscope](https://www.keysight.com/us/en/support/54622D/portable-mso.html)
