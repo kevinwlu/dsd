@@ -75,6 +75,7 @@ Computer Engineering CPE 487
   * [Metastability](https://en.wikipedia.org/wiki/Metastability)
 * [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
+  * [Mealy and Moore Machines](https://www.geeksforgeeks.org/mealy-and-moore-machines-in-toc/) by GeeksforGeeks
   * [Mealy vs. Moore machine overview video](https://www.youtube.com/watch?v=S352lyPZP00) by Bruce Boatner
     * The Moore-type outputs are only a function of the states and not the external inputs
     * The Mealy-type outputs are a function of the states and the external inputs
