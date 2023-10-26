@@ -134,6 +134,7 @@ Computer Engineering CPE 487
 * [Programmable logic controller](https://en.wikipedia.org/wiki/Programmable_logic_controller) (PLC)
 * [Programmable Array Logic](https://en.wikipedia.org/wiki/Programmable_Array_Logic) (PAL)
 * [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
+  * [CPLD vs. FPGA](https://resources.pcb.cadence.com/blog/2019-cpld-vs-fpga-which-do-you-need-for-your-digital-system)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
   * [FPGA for Beginners: Glossary and Setup](https://digilent.com/blog/fpga-for-beginners-glossary-and-setup/) by [Miranda Hansen](https://digilent.com/blog/author/mirandamay7/)
     > FPGA firmware: Though the code deployed on the FPGA is sometimes referred to as its firmware, this is a slight misconception. Firmware is indeed embedded and dedicated code, but the code is executed. FPGA code is written in a description language, then is interpreted, synthesized, and ultimately produces hardware. So, I see it fit to refer to the FPGA, when it is configured, as hardware, and to the code itself as a description language.  
