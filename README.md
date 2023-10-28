@@ -378,6 +378,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * Lab 5: Inter-IC Sound [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
   * Lab 6: Two 12-bit analog-to-digital converter [Pmod AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
   * [Pmod DA3](https://digilent.com/shop/pmod-da3-one-16-bit-d-a-output/) 16-bit digital-to-analog converter
+  * [Pmod DPOT](https://digilent.com/shop/pmod-dpot-digital-potentiometer/) digital potentiometer
   * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
 
 ### Intel Altera
