@@ -25,9 +25,9 @@
 * [Owl Labs](https://en.wikipedia.org/wiki/Owl_Labs)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
-  * [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron)
+  * [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron) is a [polyhedron](https://en.wikipedia.org/wiki/Polyhedron) with 12 faces
   * [Pyritohedron](https://mathworld.wolfram.com/Pyritohedron.html)
-  * [Icosahedron](https://en.wikipedia.org/wiki/Icosahedron)
+  * [Icosahedron](https://en.wikipedia.org/wiki/Icosahedron) is a polyhedron with 20 faces
   * [360 video projection](https://en.wikipedia.org/wiki/360_video_projection)
   * [Equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection)
   * [Curvilinear perspective](https://en.wikipedia.org/wiki/Curvilinear_perspective)
