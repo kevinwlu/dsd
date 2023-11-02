@@ -275,7 +275,7 @@
 * [ams-OSRAM](https://en.wikipedia.org/wiki/Ams-OSRAM)
 * [ARM](https://en.wikipedia.org/wiki/Arm_Ltd.)
 * [Elmos Semiconductor](https://en.wikipedia.org/wiki/Elmos_Semiconductor)
-* [FTDI](https://en.wikipedia.org/wiki/FTDI)
+* [FTDI](https://en.wikipedia.org/wiki/FTDI) Future Technology Devices International Limited headquartered in Glasgow, Scotland
 * [Graphcore](https://en.wikipedia.org/wiki/Graphcore)
 * [Imagination Technologies](https://en.wikipedia.org/wiki/Imagination_Technologies)
 $ [Magnachip](https://www.magnachip.com/)
