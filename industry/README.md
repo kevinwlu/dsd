@@ -231,7 +231,8 @@
 ## India
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
 ## Israel
-* Intel [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
+* [Anobit](https://en.wikipedia.org/wiki/Anobit) was acquired by Apple on January 6, 2012
+* [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
