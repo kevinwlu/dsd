@@ -232,7 +232,9 @@
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
 ## Israel
 * [Anobit](https://en.wikipedia.org/wiki/Anobit) was acquired by Apple on January 6, 2012
+* [Ceva (semiconductor company)](https://en.wikipedia.org/wiki/Ceva_(semiconductor_company))
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
+* [Sony Semiconductor Israel](https://en.wikipedia.org/wiki/Sony_Semiconductor_Israel), formerly Altair Semiconductor
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
