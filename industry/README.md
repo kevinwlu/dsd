@@ -233,6 +233,7 @@
 ## Israel
 * [Anobit](https://en.wikipedia.org/wiki/Anobit) was acquired by Apple on January 6, 2012
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
+* [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
