@@ -19,7 +19,7 @@
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 ## Coding Theory
 * [Coding theory](https://en.wikipedia.org/wiki/Coding_theory)
-* [Hamming code](https://en.wikipedia.org/wiki/Hamming_code)
+* [Hamming code](https://en.wikipedia.org/wiki/Hamming_code) by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998
 ## Modulation
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
