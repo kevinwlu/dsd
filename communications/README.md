@@ -15,6 +15,7 @@
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 ## Information Theory
+* [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 ## Modulation
