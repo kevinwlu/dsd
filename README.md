@@ -40,6 +40,9 @@ Computer Engineering CPE 487
   * [Byte](https://en.wikipedia.org/wiki/Byte)
   * [Bit rate](https://en.wikipedia.org/wiki/Bit_rate)
   * [Baud](https://en.wikipedia.org/wiki/Baud)
+* [Endianness](https://en.wikipedia.org/wiki/Endianness) refers to the order of bytes within a binary representation of a number in computing
+  * A big-endian ordering places the most significant byte first and the least significant byte last, e.g., networking protocols such as TCP
+  * A little-endian ordering places the least significant byte first and the most significant byte last, e.g., processor architectures such as x86
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
 * [Ternary computer](https://en.wikipedia.org/wiki/Ternary_computer)
   * [Ternary numeral system](https://en.wikipedia.org/wiki/Ternary_numeral_system)
@@ -55,6 +58,7 @@ Computer Engineering CPE 487
   * [Exascale computing](https://en.wikipedia.org/wiki/Exascale_computing)
   * [Zettascle computing](https://en.wikipedia.org/wiki/Zettascale_computing)
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal)
+  * The prefix 0x denotes hexadecimal numerals, e.g., 0x2AF3 = 10 995
 * [Black box](https://en.wikipedia.org/wiki/Black_box)
   * [White box](https://en.wikipedia.org/wiki/White_box_(software_engineering))
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
