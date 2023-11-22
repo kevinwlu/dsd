@@ -23,6 +23,7 @@
   * [Blackmagic Fusion](https://en.wikipedia.org/wiki/Blackmagic_Fusion)
   * [Visual effects](https://en.wikipedia.org/wiki/Visual_effects) (VFX)
 * [Owl Labs](https://en.wikipedia.org/wiki/Owl_Labs)
+* [StageCraft](https://en.wikipedia.org/wiki/StageCraft)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
   * [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron) is a [polyhedron](https://en.wikipedia.org/wiki/Polyhedron) with 12 faces
