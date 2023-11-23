@@ -41,6 +41,7 @@ Computer Engineering CPE 487
   * [Bit rate](https://en.wikipedia.org/wiki/Bit_rate)
   * [Baud](https://en.wikipedia.org/wiki/Baud)
 * [Endianness](https://en.wikipedia.org/wiki/Endianness) refers to the order of bytes within a binary representation of a number in computing
+  * [Danny Cohen](https://en.wikipedia.org/wiki/Danny_Cohen_(computer_scientist)) 1937&mdash;2019
   * A big-endian ordering places the most significant byte first and the least significant byte last, e.g., networking protocols such as [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP)
   * A little-endian ordering places the least significant byte first and the most significant byte last, e.g., processor architectures such as [x86](https://en.wikipedia.org/wiki/X86)
 * [Binary-coded decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal) (BCD)
