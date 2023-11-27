@@ -91,3 +91,6 @@
 * [Deutsch–Jozsa algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm)
 * [Bernstein–Vazirani algorithm](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Vazirani_algorithm)
 * [Quantum complexity theory](https://en.wikipedia.org/wiki/Quantum_complexity_theory)
+## Cryptography
+* [Attribute-based encryption](https://en.wikipedia.org/wiki/Attribute-based_encryption) (ABE)
+* [Learning with errors](https://en.wikipedia.org/wiki/Learning_with_errors) (LWE)
