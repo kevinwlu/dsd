@@ -38,6 +38,7 @@
 * [Reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing)
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
   * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
+* [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
 * X. Shi, X. Peng, L. He, Y. Zhao, and H. Jin, "[Waterwave: A GPU Memory Flow Engine for Concurrent DNN Training](https://ezproxy.stevens.edu:2161/document/10130297)," in *IEEE Transactions on Computers*, pp. 1-14, 2023. doi: 10.1109/TC.2023.3278530
 ## Server
