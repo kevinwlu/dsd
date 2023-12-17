@@ -378,7 +378,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
 * [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
   > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
-* Digilent Peripheral Modules or [Pmods](https://store.digilentinc.com/pmod-modules-connectors/)
+* Digilent Peripheral Modules or [Pmods](https://digilent.com/reference/pmod/start)
   * Lab 4: 16-button Keypad [Pmod KYPD](https://store.digilentinc.com/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://store.digilentinc.com/2x6-pin-pmod-cable/) cable
   * Lab 5: Inter-IC Sound [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [Pmod I2S2](https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
   * Lab 6: Two 12-bit analog-to-digital converter [Pmod AD1](https://store.digilentinc.com/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://store.digilentinc.com/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
