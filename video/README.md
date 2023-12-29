@@ -78,6 +78,12 @@
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 ## Camera
 * [Insta360](https://en.wikipedia.org/wiki/Insta360)
+* [Omnidirectional (360-degree) camera](https://en.wikipedia.org/wiki/Omnidirectional_(360-degree)_camera)
+## Display
+* [Comparison of display technology](https://en.wikipedia.org/wiki/Comparison_of_display_technology)
+* [Liquid-crystal display](https://en.wikipedia.org/wiki/Liquid-crystal_display) (LCD)
+* [OLED](https://en.wikipedia.org/wiki/OLED)
+* [Sphere](https://en.wikipedia.org/wiki/Sphere_(venue))
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
