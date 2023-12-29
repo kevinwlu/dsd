@@ -81,9 +81,11 @@
 * [Omnidirectional (360-degree) camera](https://en.wikipedia.org/wiki/Omnidirectional_(360-degree)_camera)
 ## Display
 * [Comparison of display technology](https://en.wikipedia.org/wiki/Comparison_of_display_technology)
+* [Comparison of high-definition smartphone displays](https://en.wikipedia.org/wiki/Comparison_of_high-definition_smartphone_displays)
 * [Liquid-crystal display](https://en.wikipedia.org/wiki/Liquid-crystal_display) (LCD)
 * [OLED](https://en.wikipedia.org/wiki/OLED)
 * [Sphere](https://en.wikipedia.org/wiki/Sphere_(venue))
+* [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
