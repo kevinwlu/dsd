@@ -76,6 +76,8 @@
   * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+## Camera
+* [Insta360](https://en.wikipedia.org/wiki/Insta360)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
 * [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) (HLS)
