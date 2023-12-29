@@ -24,4 +24,5 @@
   * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
 * [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association) (SIA)
 * [Society of Motion Picture and Television Engineers](https://en.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers) (SMPTE)
+* [UL](https://en.wikipedia.org/wiki/UL_(safety_organization))
 * [Video Electronics Standards Association](https://en.wikipedia.org/wiki/Video_Electronics_Standards_Association) (VESA)
