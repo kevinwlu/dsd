@@ -31,8 +31,9 @@
     * [Circle Optics](https://circleoptics.com/)
     * [Pentagon](https://en.wikipedia.org/wiki/Pentagon)
     * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
-  * [Pyritohedron](https://mathworld.wolfram.com/Pyritohedron.html)
+  * [Pyritohedron](https://mathworld.wolfram.com/Pyritohedron.html) is an irregular dodecahedron composed of identical irregular pentagons
   * [Icosahedron](https://en.wikipedia.org/wiki/Icosahedron) is a polyhedron with 20 faces
+    * [Golden rectangle](https://en.wikipedia.org/wiki/Golden_rectangle)
   * [360 video projection](https://en.wikipedia.org/wiki/360_video_projection)
   * [Equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection)
   * [Curvilinear perspective](https://en.wikipedia.org/wiki/Curvilinear_perspective)
