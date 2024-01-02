@@ -16,6 +16,7 @@
 * [Grayscale](https://en.wikipedia.org/wiki/Grayscale)
 * [Chroma subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling)
 * [Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter)
+  * [Bryce Bayer](https://en.wikipedia.org/wiki/Bryce_Bayer) 1929&mdash;2012
 * [High dynamic range](https://en.wikipedia.org/wiki/High_dynamic_range) (HDR)
 * [Uncompressed video](https://en.wikipedia.org/wiki/Uncompressed_video)
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
