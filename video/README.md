@@ -164,9 +164,12 @@
   * [How to stream videos and music over the network using VLC](https://www.howtogeek.com/118075/how-to-stream-videos-and-music-over-the-network-using-vlc/)
 ## Video Games
 * [Video game](https://en.wikipedia.org/wiki/Video_game)
+  * [Single-player video game](https://en.wikipedia.org/wiki/Single-player_video_game)
+  * [Multiplayer video game](https://en.wikipedia.org/wiki/Multiplayer_video_game)
 * [Outline of video games](https://en.wikipedia.org/wiki/Outline_of_video_games)
 * [Lists of video games](https://en.wikipedia.org/wiki/Lists_of_video_games)
 * [List of best-selling video games](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
+* [Role-playing game](https://en.wikipedia.org/wiki/Role-playing_game) (RPG)
 * [Non-player character](https://en.wikipedia.org/wiki/Non-player_character) (NPC)
 * [Indie game](https://en.wikipedia.org/wiki/Indie_game)
 * [Ninth generation of video game consoles](https://en.wikipedia.org/wiki/Ninth_generation_of_video_game_consoles)
