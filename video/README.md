@@ -167,6 +167,7 @@
 * [Outline of video games](https://en.wikipedia.org/wiki/Outline_of_video_games)
 * [Lists of video games](https://en.wikipedia.org/wiki/Lists_of_video_games)
 * [List of best-selling video games](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
+* [Non-player character](https://en.wikipedia.org/wiki/Non-player_character) (NPC)
 * [Indie game](https://en.wikipedia.org/wiki/Indie_game)
 * [Ninth generation of video game consoles](https://en.wikipedia.org/wiki/Ninth_generation_of_video_game_consoles)
 * [Tencent Games](https://en.wikipedia.org/wiki/Tencent_Games)
