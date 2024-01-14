@@ -169,6 +169,7 @@
   * [Role-playing game](https://en.wikipedia.org/wiki/Role-playing_game) (RPG)
   * [Non-player character](https://en.wikipedia.org/wiki/Non-player_character) (NPC)
 * [Outline of video games](https://en.wikipedia.org/wiki/Outline_of_video_games)
+* [Early access](https://en.wikipedia.org/wiki/Early_access)
 * [Lists of video games](https://en.wikipedia.org/wiki/Lists_of_video_games)
 * [List of best-selling video games](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
 * [Indie game](https://en.wikipedia.org/wiki/Indie_game)
