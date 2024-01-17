@@ -131,6 +131,7 @@
 * [List of MEMS foundries](https://en.wikipedia.org/wiki/List_of_MEMS_foundries)
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
   * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
+    * [Ansys](https://en.wikipedia.org/wiki/Ansys)
   * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
