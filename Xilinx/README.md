@@ -73,6 +73,7 @@
     * [HDMI demo](https://digilent.com/reference/programmable-logic/genesys-zu/demos/hdmi)
     * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
     * [Camera Serial Interface](https://en.wikipedia.org/wiki/Camera_Serial_Interface) (CSI)
+  * [Enclustra Design-in Kit Mars XU3 and Mercury XU5](https://www.enclustra.com/design-in-kit)
   * Zynq UltraScale+ MPSoC EV device with its integrated Xilinx LogiCORE IP [H.264/H.265 video codec unit](https://www.xilinx.com/products/intellectual-property/v-vcu.html) (VCU) is capable of simultaneous encode and decode up to 4Kx2K (60fps)
     * [Xilinx Zynq UltraScale+ MPSoC Video Codec Unit](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842546/Xilinx+Zynq+UltraScale+MPSoC+Video+Codec+Unit)
       * The VCU is capable of performing video compression and decompression simultaneously of video resolution up to 4K @ 60Hz
