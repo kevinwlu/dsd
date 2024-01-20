@@ -7,6 +7,7 @@
 * [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
+* [Open MPI](https://en.wikipedia.org/wiki/Open_MPI)
 ##
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
