@@ -44,6 +44,8 @@
   * [GeForce RTX 30 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/)
   * [GeForce RTX 40 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
   * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
+  * [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) performance analysis tool
+  * [NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) (VSE) to build and debug integrated GPU kernels and native CPE code as well as inspect the state of the GPU and memory
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
