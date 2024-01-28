@@ -3,7 +3,7 @@
 * [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.linkedin.com/in/greidi-ajalik/) 
   * [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
-* [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292)
+* [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292), [Radio Frequency](https://en.wikipedia.org/wiki/Radio_frequency)(RF) [Applications Engineer](https://en.wikipedia.org/wiki/Applied_engineering_(field)) at [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
 ## Documentation
 * [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
 * [Q-circuit](https://physics.unm.edu/CQuIC/Qcircuit/)
