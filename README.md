@@ -173,6 +173,7 @@ Computer Engineering CPE 487
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
+  * [Microstrip](https://en.wikipedia.org/wiki/Microstrip)
   * [Eurocard](https://en.wikipedia.org/wiki/Eurocard_(printed_circuit_board))
   * [Advanced Technology eXtended](https://en.wikipedia.org/wiki/ATX) (ATX)
   * [Nano-ITX](https://en.wikipedia.org/wiki/Nano-ITX)
