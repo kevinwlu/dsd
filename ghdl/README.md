@@ -32,7 +32,7 @@ $ sudo make install
   * C:\eda\gtkwave
 
 ## On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
-> [Use Homebrew to install GTKWave](https://formulae.brew.sh/cask/gtkwave)
+> [Use Homebrew to install GTKWave](https://formulae.brew.sh/cask/gtkwave)\
 > [Compatibility issue](https://github.com/gtkwave/gtkwave/issues/250)
 * Open a Terminal
 ```sh
