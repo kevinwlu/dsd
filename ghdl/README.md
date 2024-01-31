@@ -28,8 +28,8 @@ $ sudo make install
   * Rename the subfolder "This PC > Downloads > ghdl-0.37-mingw32-mcode > GHDL > 0.37-mingw32-mcode" as ghdl and move it to C:\eda
   * Move the subfolder "This PC > Downloads > gtkwave-3.3.100-bin-win32 > gtkwave" to C:\eda
 * Edit Environment Variables > Path > New
-  * C:\eda\ghdl
-  * C:\eda\gtkwave
+  * C:\eda\ghdl\bin
+  * C:\eda\gtkwave\bin
 
 ## On macOS, download [GHDL](https://github.com/ghdl/ghdl/releases) and [GTKWave](https://sourceforge.net/projects/gtkwave/files)
 > [Use Homebrew to install GTKWave](https://formulae.brew.sh/cask/gtkwave)\
