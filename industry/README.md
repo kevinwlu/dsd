@@ -275,6 +275,7 @@
 * [Quanta Computer](https://en.wikipedia.org/wiki/Quanta_Computer)
 * [Ralink](https://en.wikipedia.org/wiki/Ralink)
 * [Realtek](https://en.wikipedia.org/wiki/Realtek)
+* [Vecow](https://www.vecow.com/)
 * [Wistron](https://en.wikipedia.org/wiki/Wistron)
 ## Europe
 * [ams-OSRAM](https://en.wikipedia.org/wiki/Ams-OSRAM)
