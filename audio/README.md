@@ -2,6 +2,7 @@
 * [A440](https://en.wikipedia.org/wiki/A440_(pitch_standard))
 * [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) (AAC)
   * [High-Efficiency Advanced Audio Coding](https://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding) (HE-AAC or AAC+)
+* [Album](https://en.wikipedia.org/wiki/Album)
 * [Digital audio](https://en.wikipedia.org/wiki/Digital_audio)
 * [Extended play](https://en.wikipedia.org/wiki/Extended_play)
 * [LP record](https://en.wikipedia.org/wiki/LP_record)
@@ -9,4 +10,5 @@
 * [Comparison of audio player software](https://en.wikipedia.org/wiki/Comparison_of_audio_player_software)
 * [MIDI](https://en.wikipedia.org/wiki/MIDI)
 * [MP3](https://en.wikipedia.org/wiki/MP3)
+* [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
 * [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid)
