@@ -10,6 +10,4 @@
 * [Comparison of audio player software](https://en.wikipedia.org/wiki/Comparison_of_audio_player_software)
 * [MIDI](https://en.wikipedia.org/wiki/MIDI)
 * [MP3](https://en.wikipedia.org/wiki/MP3)
-* [Stethoscope](Stethoscope)
-* [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
 * [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid)
