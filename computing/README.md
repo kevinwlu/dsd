@@ -14,6 +14,7 @@
 * [Cochleagram](https://en.wiktionary.org/wiki/cochleagram)
 * [Cognitive computer](https://en.wikipedia.org/wiki/Cognitive_computer)
 * [Computational auditory scene analysis](https://en.wikipedia.org/wiki/Computational_auditory_scene_analysis) (CASA)
+* [Deadlock](https://en.wikipedia.org/wiki/Deadlock)
 * [Echo state network](https://en.wikipedia.org/wiki/Echo_state_network) (ESN)
 * [Electro-optic modulator](https://en.wikipedia.org/wiki/Electro-optic_modulator) (EOM)
 * [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer) (FPI)
