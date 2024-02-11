@@ -6,6 +6,8 @@
 * [Differential equation](https://en.wikipedia.org/wiki/Differential_equation)
 * [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
 * [Linear time-invariant (LTI) system](https://en.wikipedia.org/wiki/Linear_time-invariant_system)
+* [Convolution theorem](https://en.wikipedia.org/wiki/Convolution_theorem)
 * [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
+* [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
