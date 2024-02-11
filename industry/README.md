@@ -244,6 +244,7 @@
 * [Kioxia](https://en.wikipedia.org/wiki/Kioxia)
 * [Murata](https://en.wikipedia.org/wiki/Murata_Manufacturing)
 * [NEC](https://en.wikipedia.org/wiki/NEC)
+* [Nichia](https://en.wikipedia.org/wiki/Nichia)
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
   * [Sanyo](https://en.wikipedia.org/wiki/Sanyo)
 * [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
