@@ -1,6 +1,8 @@
 # Video
 * [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
 * [Digital television](https://en.wikipedia.org/wiki/Digital_television) (DTV)
+* [Frame rate](https://en.wikipedia.org/wiki/Frame_rate)
+* [Time-lapse photography](https://en.wikipedia.org/wiki/Time-lapse_photography)
 * [Pixel](https://en.wikipedia.org/wiki/Pixel) (picture element)
   * [Pixel format](https://en.wikipedia.org/wiki/Pixel_Format)
 * [Voxel](https://en.wikipedia.org/wiki/Voxel)
