@@ -1,6 +1,6 @@
 # Tools
 ## YouTube Channels
-* [American Standard Circuits](https://www.youtube.com/@americanstandardcircuits8780) 77 Second Webinars
+* [American Standard Circuits](https://www.youtube.com/@americanstandardcircuits8780) 77-Second Webinars
 * [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.linkedin.com/in/greidi-ajalik/) 
