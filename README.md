@@ -382,15 +382,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
 * [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
   > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
-* Digilent Peripheral Modules or [Pmods](https://digilent.com/reference/pmod/start)
-  * Lab 4: 16-button Keypad [Pmod KYPD](https://digilent.com/shop/pmod-kypd-16-button-keypad/) with optional [2x6-pin](https://digilent.com/shop/2x6-pin-pmod-cable/) cable
-  * Lab 5: Inter-IC Sound [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) has been replaced with [Pmod I2S2](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/)
-  * Lab 6: Two 12-bit analog-to-digital converter [Pmod AD1](https://digilent.com/shop/pmod-ad1-two-12-bit-a-d-inputs/) with [6-pin](https://digilent.com/shop/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
-  * [Pmod DA3](https://digilent.com/shop/pmod-da3-one-16-bit-d-a-output/) 16-bit digital-to-analog converter
-  * [Pmod DHB1](https://digilent.com/shop/pmod-dhb1-dual-h-bridge/) dual H-bridge motor driver
-  * [Pmod DPOT](https://digilent.com/shop/pmod-dpot-digital-potentiometer/) digital potentiometer
-  * [Pmod JSTK2](https://digilent.com/shop/pmod-jstk2-two-axis-joystick/) two-axis joystick
-  * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
+* Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
 
 ### Intel Altera
 * [Intel](https://en.wikipedia.org/wiki/Intel)
