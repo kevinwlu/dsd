@@ -83,4 +83,15 @@ The master XDC files of all Digilent boards can be found [here](https://github.c
   * [Lab 4](/Nexys-A7/Lab-4): Hex Calculator (Pmod KYPD)
   * [Lab 5](/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren (Pmod I2S and Headphone)
   * [Lab 6](/Nexys-A7/Lab-6): Video Game PONG (Pmod AD1, Potentiometer, and VGA Display)
-* [Pmod Interface](https://en.wikipedia.org/wiki/Pmod_Interface)
+* Digilent developed [Peripheral Module (Pmod) Interface](https://en.wikipedia.org/wiki/Pmod_Interface)
+  * [Pmod Interface Specification](https://digilent.com/reference/pmod/start)
+  * [Pmod Expansion Modules](https://digilent.com/shop/fpga-boards/development-boards/pmod-expansion-modules/)
+  * [Pmod KYPD](https://digilent.com/shop/pmod-kypd-16-button-keypad/) 16-button Keypad with optional [2x6-pin](https://digilent.com/shop/2x6-pin-pmod-cable/) cable
+  * [Pmod I2S](https://reference.digilentinc.com/reference/pmod/pmodi2s/start) Inter-IC Sound has been replaced with [Pmod I2S2](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/)
+  * [Pmod AD1](https://digilent.com/shop/pmod-ad1-two-12-bit-a-d-inputs/) two 12-bit analog-to-digital converter with [6-pin](https://digilent.com/shop/pmod-cable-kit-6-pin/) cable and a 5k&Omega; potentiometer
+  * [Pmod DA3](https://digilent.com/shop/pmod-da3-one-16-bit-d-a-output/) 16-bit digital-to-analog converter
+  * [Pmod DHB1](https://digilent.com/shop/pmod-dhb1-dual-h-bridge/) dual H-bridge motor driver
+  * [Pmod DPOT](https://digilent.com/shop/pmod-dpot-digital-potentiometer/) digital potentiometer
+  * [Pmod JSTK2](https://digilent.com/shop/pmod-jstk2-two-axis-joystick/) two-axis joystick
+* Connecting devices other than Pmods may risk damaging the Nexys A7-100T board
+  * The part for IC17 voltage regulator is [ADP2118ACPZ-R7](https://www.digikey.com/en/products/detail/analog-devices-inc/ADP2118ACPZ-R7/2137511)
