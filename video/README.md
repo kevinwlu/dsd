@@ -88,7 +88,7 @@
 ## Display
 * [Comparison of display technology](https://en.wikipedia.org/wiki/Comparison_of_display_technology)
 * [Comparison of high-definition smartphone displays](https://en.wikipedia.org/wiki/Comparison_of_high-definition_smartphone_displays)
-* [Display aspect ratio](https://en.wikipedia.org/wiki/Display_aspect_ratio)
+* [Display aspect ratio](https://en.wikipedia.org/wiki/Display_aspect_ratio) (DAR)
 * [Liquid-crystal display](https://en.wikipedia.org/wiki/Liquid-crystal_display) (LCD)
 * [OLED](https://en.wikipedia.org/wiki/OLED)
 * [Sphere](https://en.wikipedia.org/wiki/Sphere_(venue))
