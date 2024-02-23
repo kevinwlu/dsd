@@ -16,7 +16,11 @@
 ---
 * [Chemical-mechanical polishing](https://en.wikipedia.org/wiki/Chemical-mechanical_polishing) (CMP)
 * [Extinction ratio](https://en.wikipedia.org/wiki/Extinction_ratio)
+* [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer)
 * [Hydrogen silsesquioxane](https://en.wikipedia.org/wiki/Hydrogen_silsesquioxane) (HSQ)
+* [Inductively coupled plasma](https://en.wikipedia.org/wiki/Inductively_coupled_plasma) (ICP)
+  * [Capacitively coupled plasma](https://en.wikipedia.org/wiki/Capacitively_coupled_plasma) (CCP)
+* [Ion milling machine](https://en.wikipedia.org/wiki/Ion_milling_machine)
 * [Lithium niobate](https://en.wikipedia.org/wiki/Lithium_niobate)
 * [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
 * [Q factor](https://en.wikipedia.org/wiki/Q_factor)
