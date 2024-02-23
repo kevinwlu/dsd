@@ -20,6 +20,7 @@
 * [Lithium niobate](https://en.wikipedia.org/wiki/Lithium_niobate)
 * [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
 * [Q factor](https://en.wikipedia.org/wiki/Q_factor)
+* [Spectral power distribution](https://en.wikipedia.org/wiki/Spectral_power_distribution) (SPD)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
