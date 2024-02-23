@@ -15,6 +15,7 @@
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 ---
 * [Chemical-mechanical polishing](https://en.wikipedia.org/wiki/Chemical-mechanical_polishing) (CMP)
+* [Extinction ratio](https://en.wikipedia.org/wiki/Extinction_ratio)
 * [Hydrogen silsesquioxane](https://en.wikipedia.org/wiki/Hydrogen_silsesquioxane) (HSQ)
 * [Lithium niobate](https://en.wikipedia.org/wiki/Lithium_niobate)
 * [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
