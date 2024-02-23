@@ -13,6 +13,7 @@
   * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
 * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
+* [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
 * [Q factor](https://en.wikipedia.org/wiki/Q_factor)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
