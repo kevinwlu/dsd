@@ -9,6 +9,7 @@
 ## Thermal Management
 * [Thermal management](https://en.wikipedia.org/wiki/Thermal_management_(electronics))
 * [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics)
+* [Laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
 * [Entropy](https://en.wikipedia.org/wiki/Entropy)
 * [Specific heat capacity](https://en.wikipedia.org/wiki/Specific_heat_capacity)
 * [Table of specific heat capacities](https://en.wikipedia.org/wiki/Table_of_specific_heat_capacities)
