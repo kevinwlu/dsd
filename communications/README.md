@@ -30,6 +30,8 @@
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
 * [Baudot code](https://en.wikipedia.org/wiki/Baudot_code) by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot) 1845&mdash;1903
 * [Baud](https://en.wikipedia.org/wiki/Baud)
+* [Erlang](https://en.wikipedia.org/wiki/Erlang_(unit))
+  * [Agner Krarup Erlang](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang) 1878&mdash;1929
 * [Telephone](https://en.wikipedia.org/wiki/Telephone) by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 * [Original North American area codes](https://en.wikipedia.org/wiki/Original_North_American_area_codes)
 ## Information Theory
