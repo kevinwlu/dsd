@@ -10,4 +10,6 @@
 * [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 * [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
+* [Wavelet](https://en.wikipedia.org/wiki/Wavelet)
+* [Wavelet transform](https://en.wikipedia.org/wiki/Wavelet_transform)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
