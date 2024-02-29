@@ -57,6 +57,10 @@
 * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 * [Plasmon](https://en.wikipedia.org/wiki/Plasmon)
 * [Surface_plasmon_resonance](https://en.wikipedia.org/wiki/Surface_plasmon_resonance) (SPR)
+* [Superatom)](https://en.wikipedia.org/wiki/Superatom)
+  * [Magnetic 2D materials](https://en.wikipedia.org/wiki/Magnetic_2D_materials)
+  * [Exciton](https://en.wikipedia.org/wiki/Exciton)
+  * [Polaron](https://en.wikipedia.org/wiki/Polaron)
 ## Material and Equipment Suppliers
 * [List of semiconductor materials](https://en.wikipedia.org/wiki/List_of_semiconductor_materials)
   * [Silicon](https://en.wikipedia.org/wiki/Silicon)
