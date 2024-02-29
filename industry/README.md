@@ -22,6 +22,10 @@
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
 * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
+* [Skin effect](https://en.wikipedia.org/wiki/Skin_effect)
+  * [Permeability](https://en.wikipedia.org/wiki/Permeability_(electromagnetism))
+  * [Landau–Lifshitz–Gilbert equation](https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation)
+  * [Vibrating-sample magnetometer](https://en.wikipedia.org/wiki/Vibrating-sample_magnetometer) (VSM)
 * [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
 * [Three-dimensional integrated circuit](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit) (3D IC)
 * [Through-silicon via](https://en.wikipedia.org/wiki/Through-silicon_via) (TSV)
