@@ -97,6 +97,10 @@
 * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
 * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
   * [Orbotech](https://en.wikipedia.org/wiki/Orbotech)
+## Measurement Equipment Suppliers
+* [Measurement](https://en.wikipedia.org/wiki/Measurement)
+* [Metrology](https://en.wikipedia.org/wiki/Metrology)
+* [Brown & Sharpe](https://en.wikipedia.org/wiki/Brown_%26_Sharpe)
 ## Printed Circuit Board
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Occam process](https://en.wikipedia.org/wiki/Occam_process)
