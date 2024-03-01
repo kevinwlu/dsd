@@ -101,6 +101,7 @@
 * [Measurement](https://en.wikipedia.org/wiki/Measurement)
 * [Metrology](https://en.wikipedia.org/wiki/Metrology)
 * [Brown & Sharpe](https://en.wikipedia.org/wiki/Brown_%26_Sharpe)
+* [Renishaw](https://en.wikipedia.org/wiki/Renishaw_plc)
 ## Printed Circuit Board
 * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
 * [Occam process](https://en.wikipedia.org/wiki/Occam_process)
@@ -108,6 +109,7 @@
 * [Jiva Materials](https://www.jivamaterials.com/)
   * [Jiva](https://en.wikipedia.org/wiki/Jiva)
 ## Test Equipment Suppliers
+* [Electronic test equipment manufacturers](https://en.wikipedia.org/wiki/Category:Electronic_test_equipment_manufacturers)
 * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
   * [Fortive](https://en.wikipedia.org/wiki/Fortive)
     * [Fluke Corporation](https://en.wikipedia.org/wiki/Fluke_Corporation)
