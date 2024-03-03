@@ -184,6 +184,7 @@ Computer Engineering CPE 487
   * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
   * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
+  * [CPU socket](https://en.wikipedia.org/wiki/CPU_socket)
   * [AMD WRX80 Motherboard64GB RAM ](https://www.gigabyte.com/Motherboard/WRX80-SU8-IPMI-rev-10#kf)
   * [AMD Ryzen Threadripper PRO 3955WX 16-core, 32-thread desktop processor](https://www.amazon.com/AMD-Ryzen-Threadripper-PRO-3955WX/dp/B08V5J11BD)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
