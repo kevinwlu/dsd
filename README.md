@@ -174,6 +174,7 @@ Computer Engineering CPE 487
   * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
     * [*Fundamentals of Printed Circuit Board Technologies*](https://asc-i.com/fundamentals-pcb-tech/download-e-book) by [American Standard Circuits](https://asc-i.com/)
+    * [Gerber format](https://en.wikipedia.org/wiki/Gerber_format) is named after [Heinz Joseph Gerber](https://en.wikipedia.org/wiki/Joseph_Gerber) 1924&mdash;1996
     * [Microstrip](https://en.wikipedia.org/wiki/Microstrip)
   * [Eurocard](https://en.wikipedia.org/wiki/Eurocard_(printed_circuit_board))
   * [Advanced Technology eXtended](https://en.wikipedia.org/wiki/ATX) (ATX)
