@@ -355,6 +355,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 * [Kastner Research Group](https://kastner.ucsd.edu/) (KRG), UC San Diego
 * [FPGARelated.com](https://www.fpgarelated.com/)
 * [Enclustra](https://www.enclustra.com/en/home/)
+  * [Design-in Kit Mercury XU5](https://www.enclustra.com/design-in-kit)
   * [Universal DSP Library](https://www.enclustra.com/en/products/ip-cores/universal-dsp-library/)
 * [FPGA Developer](https://www.fpgadeveloper.com/) by [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Adam Taylor](https://www.hackster.io/adam-taylor)
