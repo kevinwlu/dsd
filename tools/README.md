@@ -45,6 +45,8 @@
 * [Specctra](https://en.wikipedia.org/wiki/Specctra)
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain (FDTD)
   * [Finite-difference time-domain method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
+## Optical Systems
+* [Zemax](https://en.wikipedia.org/wiki/Zemax)
 ## Test Equipment
 * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE)
 * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
@@ -99,5 +101,3 @@
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
   * [Tektronix RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306) was a loaner returned to Tektronix
-## Optical Systems
-* [Zemax](https://en.wikipedia.org/wiki/Zemax)
