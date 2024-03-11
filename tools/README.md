@@ -46,7 +46,8 @@
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain (FDTD)
   * [Finite-difference time-domain method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
 ## Optical Systems
-* [Zemax](https://en.wikipedia.org/wiki/Zemax)
+* [Ansys](https://en.wikipedia.org/wiki/Ansys)
+  * [Zemax](https://en.wikipedia.org/wiki/Zemax)
 ## Test Equipment
 * [Automatic test equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE)
 * [Electronic test equipment](https://en.wikipedia.org/wiki/Electronic_test_equipment)
