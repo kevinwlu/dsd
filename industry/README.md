@@ -21,6 +21,8 @@
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
+  * [Nanolithography](https://en.wikipedia.org/wiki/Nanolithography)
+  * [Stencil lithography](https://en.wikipedia.org/wiki/Stencil_lithography)
 * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
 * [Skin effect](https://en.wikipedia.org/wiki/Skin_effect)
   * [Permeability](https://en.wikipedia.org/wiki/Permeability_(electromagnetism))
