@@ -10,4 +10,8 @@
 * [Comparison of audio player software](https://en.wikipedia.org/wiki/Comparison_of_audio_player_software)
 * [MIDI](https://en.wikipedia.org/wiki/MIDI)
 * [MP3](https://en.wikipedia.org/wiki/MP3)
+* [Timeline of audio formats](https://en.wikipedia.org/wiki/Timeline_of_audio_formats)
+* [Stereophonic sound](https://en.wikipedia.org/wiki/Stereophonic_sound)
+* [5.1 surround sound](https://en.wikipedia.org/wiki/5.1_surround_sound)
+* [7.1 surround sound](https://en.wikipedia.org/wiki/7.1_surround_sound)
 * [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid)
