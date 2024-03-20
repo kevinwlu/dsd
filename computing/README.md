@@ -36,6 +36,7 @@
 * [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
 * [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
 * [Optical attenuator](https://en.wikipedia.org/wiki/Optical_attenuator)
+* [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
   * [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 * [Phase shift module](https://en.wikipedia.org/wiki/Phase_shift_module)
