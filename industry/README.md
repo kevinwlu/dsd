@@ -53,6 +53,7 @@
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
+* [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
 * [Integrated quantum photonics](https://en.wikipedia.org/wiki/Integrated_quantum_photonics)
