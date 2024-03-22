@@ -51,6 +51,8 @@
 * [List of open-source codecs](https://en.wikipedia.org/wiki/List_of_open-source_codecs)
 * [Video codec](https://en.wikipedia.org/wiki/Video_codec)
   * [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
+  * [NVIDIA NVENC](https://en.wikipedia.org/wiki/Nvidia_NVENC)
+  * [NVIDIA NVDEC](https://en.wikipedia.org/wiki/Nvidia_NVDEC)
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression)
 * [Image compression](https://en.wikipedia.org/wiki/Image_compression)
   * [Wavelet transform](https://en.wikipedia.org/wiki/Wavelet_transform)
