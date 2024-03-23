@@ -53,6 +53,7 @@ Computer Engineering CPE 487
   * [Three-valued logic](https://en.wikipedia.org/wiki/Three-valued_logic)
 * [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) Standard for [Floating-Point Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
   * [Significand](https://en.wikipedia.org/wiki/Significand)
+  * [Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
   * [Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
   * [Quadruple-precision floating-point format](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)
   * [Minifloat](https://en.wikipedia.org/wiki/Minifloat)
