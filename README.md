@@ -191,6 +191,7 @@ Computer Engineering CPE 487
   * [CPU socket](https://en.wikipedia.org/wiki/CPU_socket)
   * [AMD WRX80 Motherboard64GB RAM ](https://www.gigabyte.com/Motherboard/WRX80-SU8-IPMI-rev-10#kf)
   * [AMD Ryzen Threadripper PRO 3955WX 16-core, 32-thread desktop processor](https://www.amazon.com/AMD-Ryzen-Threadripper-PRO-3955WX/dp/B08V5J11BD)
+* [Data processing unit](https://en.wikipedia.org/wiki/Data_processing_unit) (DPU)
 * [Graphical processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU)
   * [FPGA vs. GPU, What to Choose?](https://hardwarebee.com/fpga-vs-gpu-choose/)
   * [FPGA vs. GPU for Deep Learning](https://www.intel.com/content/www/us/en/artificial-intelligence/programmable/fpga-gpu.html)
