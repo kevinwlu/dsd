@@ -47,6 +47,8 @@
   * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
   * [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) performance analysis tool
   * [NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) (VSE) to build and debug integrated GPU kernels and native CPE code as well as inspect the state of the GPU and memory
+  * [Hopper](https://en.wikipedia.org/wiki/Hopper_(microarchitecture))
+  * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
