@@ -54,6 +54,8 @@ Computer Engineering CPE 487
 * [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) Standard for [Floating-Point Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
   * [Significand](https://en.wikipedia.org/wiki/Significand)
   * [Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+  * [Quadruple-precision floating-point format](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)
+  * [Minifloat](https://en.wikipedia.org/wiki/Minifloat)
 * [Floating point operations per second](https://en.wikipedia.org/wiki/FLOPS) (FLOPS)
   * [Petascale computing](https://en.wikipedia.org/wiki/Petascale_computing)
   * [Exascale computing](https://en.wikipedia.org/wiki/Exascale_computing)
