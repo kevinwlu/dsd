@@ -100,3 +100,4 @@
   * [Double pendulum](https://en.wikipedia.org/wiki/Double_pendulum)
   * [Geiger counter](https://en.wikipedia.org/wiki/Geiger_counter)
   * [Lava lamp](https://en.wikipedia.org/wiki/Lava_lamp)
+  * [Lavarand](https://en.wikipedia.org/wiki/Lavarand)
