@@ -94,3 +94,9 @@
 ## Cryptography
 * [Attribute-based encryption](https://en.wikipedia.org/wiki/Attribute-based_encryption) (ABE)
 * [Learning with errors](https://en.wikipedia.org/wiki/Learning_with_errors) (LWE)
+* [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation) (RNG)
+  * [Hardware random number generator](https://en.wikipedia.org/wiki/Hardware_random_number_generator) (HRNG)
+  * [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) (PRNG)
+  * [Double pendulum](https://en.wikipedia.org/wiki/Double_pendulum)
+  * [Geiger counter](https://en.wikipedia.org/wiki/Geiger_counter)
+  * [Lava lamp](https://en.wikipedia.org/wiki/Lava_lamp)
