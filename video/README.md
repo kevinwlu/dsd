@@ -49,6 +49,7 @@
   * [Virtual-reality (VR) photography](https://en.wikipedia.org/wiki/VR_photography)
   * [IcoSweepNet using CrownConv](https://github.com/matsuren/crownconv360depth)
 * [Fiducial marker](https://en.wikipedia.org/wiki/Fiducial_marker)
+* [Flash Video](https://en.wikipedia.org/wiki/Flash_Video) (FLV)
 * [List of open-source codecs](https://en.wikipedia.org/wiki/List_of_open-source_codecs)
 * [Video codec](https://en.wikipedia.org/wiki/Video_codec)
   * [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
