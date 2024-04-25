@@ -101,4 +101,4 @@
 * [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
-  * [Tektronix RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306) was a loaner returned to Tektronix
+  * [Tektronix RSA306B USB spectrum/signal analyzer](https://www.tek.com/en/products/spectrum-analyzers/rsa306) (9 kHz to 6.2 GHz) was a loaner returned to Tektronix
