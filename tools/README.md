@@ -98,7 +98,7 @@
   * [Keysight E3634A 200W Power Supply, 25V, 7A or 50V, 4A](https://www.keysight.com/us/en/support/E3634A/200w-power-supply-25v-7a-50v-4a.html) in the Software Engineering Lab
 * [Signal generator](https://en.wikipedia.org/wiki/Signal_generator)
   * [Agilent 8648B Synthesized RF Signal Generator, 9 kHz to 2000 MHz](https://www.keysight.com/us/en/support/8648B/synthesized-rf-signal-generator-9-khz-to-2000-mhz.html)
-* [Spectrum Analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
+* [Spectrum analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
   * [Agilent E4401B ESA-E Spectrum Analyzer, 9 kHz to 1.5 GHz](https://www.keysight.com/us/en/support/E4401B/esae-spectrum-analyzer-9-khz-to-15-ghz.html)
   * [Agilent E4411B ESA-L Basic Spectrum Analyzer, 9 kHz to 1.5 GHz (50-ohm)](https://www.keysight.com/us/en/support/E4411B/esa-l-basic-spectrum-analyzer-9khz-1-5ghz.html)
   * [Tektronix RSA306B USB Spectrum Analyzer, 9 kHz to 6.2 GHz](https://www.tek.com/en/products/spectrum-analyzers/rsa306) was a loaner returned to Tektronix
