@@ -21,6 +21,7 @@
   * [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi)
   * [Khwarazm](https://en.wikipedia.org/wiki/Khwarazm)
   * [Algorism](https://en.wikipedia.org/wiki/Algorism)
+  * [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
   * [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory)
   * [Space complexity](https://en.wikipedia.org/wiki/Space_complexity)
   * [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
