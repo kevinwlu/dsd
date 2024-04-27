@@ -7,6 +7,8 @@
 * [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) 1791&mdash;1871
 * [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) 1815&mdash;1852
+* [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) 1903&mdash;1957
+* [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
 * [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
