@@ -4,6 +4,8 @@
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
 ---
+* [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
+* [Computer](https://en.wikipedia.org/wiki/Computer)
 * [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) 1791&mdash;1871
 * [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) 1815&mdash;1852
