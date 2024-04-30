@@ -22,6 +22,7 @@
   * [Khwarazm](https://en.wikipedia.org/wiki/Khwarazm)
   * [Algorism](https://en.wikipedia.org/wiki/Algorism)
   * [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
+    * [*The Art of Computer Programming*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
   * [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory)
   * [Space complexity](https://en.wikipedia.org/wiki/Space_complexity)
   * [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
