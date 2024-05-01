@@ -96,6 +96,7 @@
 * [Infrared cut-off filter](https://en.wikipedia.org/wiki/Infrared_cut-off_filter)
 * [Insta360](https://en.wikipedia.org/wiki/Insta360)
 * [Omnidirectional (360-degree) camera](https://en.wikipedia.org/wiki/Omnidirectional_(360-degree)_camera)
+* [Pixelink](https://pixelink.com/) of [Ametek](https://en.wikipedia.org/wiki/Ametek)
 ## Display
 * [Comparison of display technology](https://en.wikipedia.org/wiki/Comparison_of_display_technology)
 * [Comparison of high-definition smartphone displays](https://en.wikipedia.org/wiki/Comparison_of_high-definition_smartphone_displays)
