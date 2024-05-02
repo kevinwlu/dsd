@@ -1,4 +1,6 @@
 # Video
+* [Andreas Wannerstedt](https://andreaswannerstedt.se/)
+---
 * [Timeline of video formats](https://en.wikipedia.org/wiki/Timeline_of_video_formats)
 * [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
 * [Digital television](https://en.wikipedia.org/wiki/Digital_television) (DTV)
