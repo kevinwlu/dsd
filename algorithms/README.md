@@ -35,6 +35,7 @@
 * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 * [Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
 * [List of unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
+* [Table of metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
 * [NVIDIA CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries) GPU-Accelerated Libraries
   * [CUDA Education and Training](https://developer.nvidia.com/cuda-education-training)
   * [An Easy Introduction to CUDA C and C++](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/)
