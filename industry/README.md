@@ -5,6 +5,7 @@
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Electronics-Related.com](https://www.electronics-related.com/)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+* [TechInsights](https://www.techinsights.com/)
 * [IEEE Solid-State Circuits Society](https://sscs.ieee.org/)
 * [International Solid-State Circuits Conference](https://en.wikipedia.org/wiki/International_Solid-State_Circuits_Conference) (ISSCC)
 * [embedded world Exhibition & Conference](https://de.wikipedia.org/wiki/Embedded_world_Exhibition_%26_Conference)
