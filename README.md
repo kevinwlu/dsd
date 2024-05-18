@@ -116,6 +116,7 @@ Computer Engineering CPE 487
 * [Random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM)
   * [64GB DDR4-3200 PC4-25600 2Rx4 RDIMM ECC Registered Memory by NEMIX RAM](https://www.amazon.com/DDR4-3200-PC4-25600-RDIMM-Registered-Memory/dp/B081K8X1N3)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
+  * [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard) 1932&mdash;2024
 * [Resistive random-access memory](https://en.wikipedia.org/wiki/Resistive_random-access_memory) (ReRAM or RRAM)
 * [Reduced Latency DRAM](https://en.wikipedia.org/wiki/RLDRAM) (RLDRAM)
 * [Memristor](https://en.wikipedia.org/wiki/Memristor)
