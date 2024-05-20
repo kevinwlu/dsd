@@ -12,6 +12,8 @@
   * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
   * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
+  * [Laurent polynomial](https://en.wikipedia.org/wiki/Laurent_polynomial)
+  * [Pierre Alphonse Laurent](https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent) 1813&mdash;1854
 * [Cauchy's integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
   * [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) 1789&mdash;1857
 * [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
