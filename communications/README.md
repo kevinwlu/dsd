@@ -9,6 +9,8 @@
 * [Complex Variables With Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/) by [Jeremy Orloff](https://kleinex.mit.edu/directory/profile.html?pid=1369)
 * [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
 * [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+  * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
+  * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
 * [Cauchy's integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
   * [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) 1789&mdash;1857
