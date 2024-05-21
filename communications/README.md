@@ -46,7 +46,10 @@
 * [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
+  * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
+  * [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+  * [Ralph Hartley](https://en.wikipedia.org/wiki/Ralph_Hartley) 1888&mdash;1970
 ## Coding Theory
 * [Coding theory](https://en.wikipedia.org/wiki/Coding_theory)
 * [Hamming code](https://en.wikipedia.org/wiki/Hamming_code) by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998
