@@ -11,6 +11,8 @@
 * [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) 1815&mdash;1852
 * [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) 1903&mdash;1957
 * [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
+* [Seymour Cray](https://en.wikipedia.org/wiki/Seymour_Cray) 1925&mdash;1996
+* [Gordon Bell](https://en.wikipedia.org/wiki/Gordon_Bell) 1934&mdash;2024
 * [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) (MPI)
