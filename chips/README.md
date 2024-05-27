@@ -34,6 +34,8 @@
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
   * [Microchip Studio](https://www.microchip.com/en-us/education/developer-help/learn-tools-software/mcu-mpu/studio)
+  * [PolarFire](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas/polarfire-fpgas)
+    * [GitHub repositories](https://github.com/polarfire-soc)
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NVIDIA graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
