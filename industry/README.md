@@ -279,6 +279,7 @@
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 * [Key Foundry](https://www.key-foundry.com/)
 ## Taiwan
+* [List of companies of Taiwan](https://en.wikipedia.org/wiki/List_of_companies_of_Taiwan)
 * [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
 * [Asus](https://en.wikipedia.org/wiki/Asus)
@@ -290,6 +291,7 @@
 * [Formosa Plastics Group](https://en.wikipedia.org/wiki/Formosa_Plastics_Group)
   * [Nanya Technology Corporation](https://www.nanya.com/en/)
 * [Pegatron](https://en.wikipedia.org/wiki/Pegatron)
+* [Phison](https://en.wikipedia.org/wiki/Phison)
 * [Powerchip](https://en.wikipedia.org/wiki/Powerchip)
 * [Quanta Computer](https://en.wikipedia.org/wiki/Quanta_Computer)
 * [Ralink](https://en.wikipedia.org/wiki/Ralink)
