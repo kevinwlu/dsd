@@ -10,6 +10,7 @@
   * [Coherent Accelerator Processor Interface](https://en.wikipedia.org/wiki/Coherent_Accelerator_Processor_Interface) (CAPI)
   * [Gen-Z](https://en.wikipedia.org/wiki/Gen-Z_(consortium))
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
+  * [IEEE Symposium-Workshop on Emerging AI/ML Trends](https://sweat.ieeebangalore.org/) (SWEAT)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
 * [Joint Electron Device Engineering Council](https://en.wikipedia.org/wiki/JEDEC) (JEDEC) Solid State Technology Association
   * [JEDEC memory standards](https://en.wikipedia.org/wiki/JEDEC_memory_standards)
