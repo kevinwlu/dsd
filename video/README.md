@@ -86,6 +86,8 @@
 * [VP9](https://en.wikipedia.org/wiki/VP9)
 * [Daala](https://en.wikipedia.org/wiki/Daala)
   * [Xiph.Org Foundation](https://en.wikipedia.org/wiki/Xiph.Org_Foundation)
+* [MPAI](https://mpai.community/)
+  * [MPAI standards](https://mpai.community/standards/)
 * [NETVC](https://en.wikipedia.org/wiki/NETVC)
 * [High-definition television](https://en.wikipedia.org/wiki/High-definition_television) (HDTV)
 * [Ultra-high-definition television](https://en.wikipedia.org/wiki/Ultra-high-definition_television)
