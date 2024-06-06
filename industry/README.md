@@ -99,11 +99,15 @@
 * [Tokyo Electron](https://en.wikipedia.org/wiki/Tokyo_Electron)
 * [Cryoin](https://cryoin.com) [neon](https://en.wikipedia.org/wiki/Neon) gas
 * [Lam Research](https://en.wikipedia.org/wiki/Lam_Research)
+  * [Semiverse™ Solutions](https://www.lamresearch.com/semiverse-solutions/)
 * [KLA Corporation](https://en.wikipedia.org/wiki/KLA_Corporation)
   * [Orbotech](https://en.wikipedia.org/wiki/Orbotech)
 ## Measurement Equipment Suppliers
 * [Measurement](https://en.wikipedia.org/wiki/Measurement)
 * [Metrology](https://en.wikipedia.org/wiki/Metrology)
+* [Tomography](https://en.wikipedia.org/wiki/Tomography)
+* [Automated X-ray inspection](https://en.wikipedia.org/wiki/Automated_X-ray_inspection)
+  * [5DX](https://en.wikipedia.org/wiki/5DX)
 * [Brown & Sharpe](https://en.wikipedia.org/wiki/Brown_%26_Sharpe)
 * [Renishaw](https://en.wikipedia.org/wiki/Renishaw_plc)
 ## Printed Circuit Board
