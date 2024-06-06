@@ -18,8 +18,8 @@
 * [Musical Instrument Digital Interface](https://en.wikipedia.org/wiki/MIDI) (MIDI)
 * [Mobile Industry Processor Interface](https://en.wikipedia.org/wiki/MIPI_Alliance) (MIPI)
 * [Moving Picture, Audio and Data Coding by Artificial Intelligence](https://mpai.community/) (MPAI)
-  * [IEEE 3301-2022 Standard Adoption of Moving Picture, Audio and Data Coding by Artificial Intelligence (MPAI) Technical Specification Artificial Intelligence Framework (AIF) 1.1](https://standards.ieee.org/ieee/3301/11096/)
-  * [IEEE P3307 Adoption of Moving Picture, Audio and Data Coding by Artificial Intelligence (MPAI) Technical Specification Connected Autonomous Vehicle - Architecture (CAV) Version 1](https://standards.ieee.org/ieee/3307/11503/)
+  * [IEEE 3301-2022](https://standards.ieee.org/ieee/3301/11096/) Standard Adoption of Moving Picture, Audio and Data Coding by Artificial Intelligence (MPAI) Technical Specification Artificial Intelligence Framework (AIF) 1.1
+  * [IEEE P3307](https://standards.ieee.org/ieee/3307/11503/) Adoption of Moving Picture, Audio and Data Coding by Artificial Intelligence (MPAI) Technical Specification Connected Autonomous Vehicle - Architecture (CAV) Version 1
 * [North American Charging Standard](https://en.wikipedia.org/wiki/North_American_Charging_Standard) (NACS)
   * [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) by The Tesla Team, November 11, 2022
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
