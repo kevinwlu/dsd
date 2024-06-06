@@ -106,6 +106,7 @@
 * [Measurement](https://en.wikipedia.org/wiki/Measurement)
 * [Metrology](https://en.wikipedia.org/wiki/Metrology)
 * [Tomography](https://en.wikipedia.org/wiki/Tomography)
+* [Ptychography](https://en.wikipedia.org/wiki/Ptychography)
 * [Automated X-ray inspection](https://en.wikipedia.org/wiki/Automated_X-ray_inspection)
   * [5DX](https://en.wikipedia.org/wiki/5DX)
 * [Brown & Sharpe](https://en.wikipedia.org/wiki/Brown_%26_Sharpe)
