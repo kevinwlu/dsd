@@ -1,4 +1,5 @@
-# Electrical Circuits
+# Electronic Circuit
+* [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Kirchhoff's circuit laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws) 1845
   * [Gustav Kirchhoff](https://en.wikipedia.org/wiki/Gustav_Kirchhoff) 1824&mdash;1887
 * [Thévenin's theorem](https://en.wikipedia.org/wiki/Th%C3%A9venin%27s_theorem) 1853 and 1883
