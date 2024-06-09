@@ -1,4 +1,5 @@
 # Digital Signal Processing
+* [Analog signal](https://en.wikipedia.org/wiki/Analog_signal)
 * [Signal processing](https://en.wikipedia.org/wiki/Signal_processing)
 * [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP)
 * [DSPRelated.com](https://www.dsprelated.com/)
@@ -6,10 +7,24 @@
 * [Differential equation](https://en.wikipedia.org/wiki/Differential_equation)
 * [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
 * [Linear time-invariant (LTI) system](https://en.wikipedia.org/wiki/Linear_time-invariant_system)
+---
+* [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
+  * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [Convolution theorem](https://en.wikipedia.org/wiki/Convolution_theorem)
+* [Cauchy's integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
+  * [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) 1789&mdash;1857
 * [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 * [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)
+  * [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) 1768&mdash;1830
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
+  * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
+* [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
+  * [Laurent polynomial](https://en.wikipedia.org/wiki/Laurent_polynomial)
+  * [Pierre Alphonse Laurent](https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent) 1813&mdash;1854
+* [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
+* [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+  * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
+  * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
 * [Wavelet](https://en.wikipedia.org/wiki/Wavelet)
 * [Wavelet transform](https://en.wikipedia.org/wiki/Wavelet_transform)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
