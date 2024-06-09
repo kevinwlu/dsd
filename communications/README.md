@@ -6,7 +6,6 @@
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
 ##
 * [Complex Variables With Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/) by [Jeremy Orloff](https://kleinex.mit.edu/directory/profile.html?pid=1369)
-* [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 ---
 * [Chemical-mechanical polishing](https://en.wikipedia.org/wiki/Chemical-mechanical_polishing) (CMP)
 * [Extinction ratio](https://en.wikipedia.org/wiki/Extinction_ratio)
@@ -21,6 +20,7 @@
 * [Spectral power distribution](https://en.wikipedia.org/wiki/Spectral_power_distribution) (SPD)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
+* [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
 * [Baudot code](https://en.wikipedia.org/wiki/Baudot_code) by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot) 1845&mdash;1903
 * [Baud](https://en.wikipedia.org/wiki/Baud)
