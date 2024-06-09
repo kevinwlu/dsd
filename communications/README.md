@@ -4,22 +4,8 @@
 * [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/)
 * [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt)
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
-  * [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) 1768&mdash;1830
 ##
 * [Complex Variables With Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/) by [Jeremy Orloff](https://kleinex.mit.edu/directory/profile.html?pid=1369)
-* [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
-* [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
-  * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
-  * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
-* [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
-  * [Laurent polynomial](https://en.wikipedia.org/wiki/Laurent_polynomial)
-  * [Pierre Alphonse Laurent](https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent) 1813&mdash;1854
-* [Cauchy's integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
-  * [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) 1789&mdash;1857
-* [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
-* [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform#History)
-  * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
-* [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
 ---
 * [Chemical-mechanical polishing](https://en.wikipedia.org/wiki/Chemical-mechanical_polishing) (CMP)
