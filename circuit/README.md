@@ -11,3 +11,16 @@
 * [Norton's theorem](https://en.wikipedia.org/wiki/Norton%27s_theorem) 1926
   * [Hans Ferdinand Mayer](https://en.wikipedia.org/wiki/Hans_Ferdinand_Mayer) 1895&mdash;1980
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
+* [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
+---
+* [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
+* [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)
+* [Radio propagation](https://en.wikipedia.org/wiki/Radio_propagation)
+* [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) 1791&mdash;1867
+* [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
+* [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) 1874&mdash;1937
+---
+* [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit)
+* [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) 1643&mdash;1727
+* [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) 1879&mdash;1955
+* [Charles K. Kao](https://en.wikipedia.org/wiki/Charles_K._Kao) 1933&mdash;2018
