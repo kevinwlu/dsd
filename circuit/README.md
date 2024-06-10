@@ -1,6 +1,7 @@
 # Electronic Circuit
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
+* [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
 * [Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law) 1827
   * [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) 1789&mdash;1854
 * [Kirchhoff's circuit laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws) 1845
