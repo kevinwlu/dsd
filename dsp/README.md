@@ -11,6 +11,10 @@
 * [DSPRelated.com](https://www.dsprelated.com/)
 * [Additive white Gaussian noise](https://en.wikipedia.org/wiki/Additive_white_Gaussian_noise) (AWGN)
 * [Differential equation](https://en.wikipedia.org/wiki/Differential_equation)
+  * [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) 1643&mdash;1727
+    * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) went into effect in October 1582 that Thursday 4 October 1582 was followed by Friday 15 October 1582
+    * [Calendrical confusion or just when did Newton die?](https://thonyc.wordpress.com/2015/03/20/calendrical-confusion-or-just-when-did-newton-die/)
+  * [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) 1646&mdash;1716
 * [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
 * [Linear time-invariant (LTI) system](https://en.wikipedia.org/wiki/Linear_time-invariant_system)
 ---
