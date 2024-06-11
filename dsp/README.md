@@ -1,7 +1,7 @@
 # Digital Signal Processing
 ## YouTube Channels
 * [Zach Star](https://www.youtube.com/@zachstar) by [Zachary Star](https://www.linkedin.com/in/zachary-s-777033ab/)
-* [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/)
+* [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/) of [Macquarie University](https://en.wikipedia.org/wiki/Macquarie_University) in Sydney, Australia
 * [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt)
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
 ## Signal Processing
