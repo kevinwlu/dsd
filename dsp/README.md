@@ -17,6 +17,7 @@
   * [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) 1646&mdash;1716
 * [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
 * [Linear time-invariant (LTI) system](https://en.wikipedia.org/wiki/Linear_time-invariant_system)
+* [Recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 ---
 * [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
   * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
