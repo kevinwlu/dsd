@@ -234,6 +234,7 @@
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
 * [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)
   * [Oppo Digital](https://en.wikipedia.org/wiki/Oppo_Digital)
+* [Biren Technology](https://en.wikipedia.org/wiki/Biren_Technology)
 * [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
 * [BYD](https://en.wikipedia.org/wiki/BYD_Company)
 * [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
