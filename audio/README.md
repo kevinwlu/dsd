@@ -5,6 +5,8 @@
   * [High-Efficiency Advanced Audio Coding](https://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding) (HE-AAC or AAC+)
 * [Album](https://en.wikipedia.org/wiki/Album)
 * [Digital audio](https://en.wikipedia.org/wiki/Digital_audio)
+* [Dolby](https://en.wikipedia.org/wiki/Dolby)
+  * [Ray Dolby](https://en.wikipedia.org/wiki/Ray_Dolby) 1933&mdash;2013
 * [Extended play](https://en.wikipedia.org/wiki/Extended_play) (EP)
 * [LP record](https://en.wikipedia.org/wiki/LP_record)
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
