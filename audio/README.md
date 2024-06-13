@@ -17,4 +17,6 @@
 * [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid)
 ---
 * [Guide to the orchestra](https://www.minnesotaorchestra.org/community-education/educators-families/resources/guide/)
+* [List of concert halls](https://en.wikipedia.org/wiki/List_of_concert_halls)
 * [List of musical instruments](https://en.wikipedia.org/wiki/List_of_musical_instruments)
+* [List of symphony orchestras](https://en.wikipedia.org/wiki/List_of_symphony_orchestras)
