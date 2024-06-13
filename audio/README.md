@@ -23,6 +23,7 @@
 * [Cymatics](https://en.wikipedia.org/wiki/Cymatics)
 * [Hearing range](https://en.wikipedia.org/wiki/Hearing_range)
 * [Musical acoustics](https://en.wikipedia.org/wiki/Musical_acoustics)
+* [Music and mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics)
 ---
 * [Guide to the orchestra](https://www.minnesotaorchestra.org/community-education/educators-families/resources/guide/)
 * [List of concert halls](https://en.wikipedia.org/wiki/List_of_concert_halls)
