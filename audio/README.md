@@ -16,9 +16,21 @@
 * [7.1 surround sound](https://en.wikipedia.org/wiki/7.1_surround_sound)
 * [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid)
 ---
+* [Acoustics](https://en.wikipedia.org/wiki/Acoustics)
+  * [Ernst Chladni](https://en.wikipedia.org/wiki/Ernst_Chladni) 1756&mdash;1827
+* [Audiology](https://en.wikipedia.org/wiki/Audiology)
+* [Audiometry](https://en.wikipedia.org/wiki/Audiometry)
+* [Cymatics](https://en.wikipedia.org/wiki/Cymatics)
+* [Hearing range](https://en.wikipedia.org/wiki/Hearing_range)
+* [Musical acoustics](https://en.wikipedia.org/wiki/Musical_acoustics)
+---
 * [Guide to the orchestra](https://www.minnesotaorchestra.org/community-education/educators-families/resources/guide/)
 * [List of concert halls](https://en.wikipedia.org/wiki/List_of_concert_halls)
 * [List of musical instruments](https://en.wikipedia.org/wiki/List_of_musical_instruments)
 * [List of symphony orchestras](https://en.wikipedia.org/wiki/List_of_symphony_orchestras)
 ---
+* [Glossary of music terminology](https://en.wikipedia.org/wiki/Glossary_of_music_terminology)
+* [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
+* [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
+* [Sheet music](https://en.wikipedia.org/wiki/Sheet_music)
