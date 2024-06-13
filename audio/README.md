@@ -6,7 +6,6 @@
 * [Album](https://en.wikipedia.org/wiki/Album)
 * [Digital audio](https://en.wikipedia.org/wiki/Digital_audio)
 * [Extended play](https://en.wikipedia.org/wiki/Extended_play) (EP)
-* [List of musical instruments](https://en.wikipedia.org/wiki/List_of_musical_instruments)
 * [LP record](https://en.wikipedia.org/wiki/LP_record)
 * [Media player software](https://en.wikipedia.org/wiki/Media_player_software)
 * [Comparison of audio player software](https://en.wikipedia.org/wiki/Comparison_of_audio_player_software)
@@ -16,3 +15,6 @@
 * [5.1 surround sound](https://en.wikipedia.org/wiki/5.1_surround_sound)
 * [7.1 surround sound](https://en.wikipedia.org/wiki/7.1_surround_sound)
 * [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid)
+---
+* [Guide to the orchestra](https://www.minnesotaorchestra.org/community-education/educators-families/resources/guide/)
+* [List of musical instruments](https://en.wikipedia.org/wiki/List_of_musical_instruments)
