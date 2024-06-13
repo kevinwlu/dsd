@@ -32,6 +32,10 @@
 ---
 * [Glossary of music terminology](https://en.wikipedia.org/wiki/Glossary_of_music_terminology)
 * [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
+* [Metronome](https://en.wikipedia.org/wiki/Metronome)
 * [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
+* [Musical note](https://en.wikipedia.org/wiki/Musical_note)
+  * [A440 (pitch standard)](https://en.wikipedia.org/wiki/A440_(pitch_standard))
+  * [Electronic tuner](https://en.wikipedia.org/wiki/Electronic_tuner)
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
 * [Sheet music](https://en.wikipedia.org/wiki/Sheet_music)
