@@ -98,6 +98,9 @@
 * [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 ## Camera
+* [Borescope](https://en.wikipedia.org/wiki/Borescope)
+  * [Endoscope](https://en.wikipedia.org/wiki/Endoscope)
+  * [Videoscope](https://en.wikipedia.org/wiki/Videoscope)
 * [Infrared cut-off filter](https://en.wikipedia.org/wiki/Infrared_cut-off_filter)
 * [Insta360](https://en.wikipedia.org/wiki/Insta360)
 * [Omnidirectional (360-degree) camera](https://en.wikipedia.org/wiki/Omnidirectional_(360-degree)_camera)
