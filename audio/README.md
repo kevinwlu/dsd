@@ -1,4 +1,7 @@
 # Audio
+* [Sound](https://en.wikipedia.org/wiki/Sound)
+* [Musical tone](https://en.wikipedia.org/wiki/Musical_tone)
+---
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 * [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
 ---
