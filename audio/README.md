@@ -1,11 +1,16 @@
 # Audio
+* [Microphone](https://en.wikipedia.org/wiki/Microphone)
+* [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
+---
+* [Loudspeaker](https://en.wikipedia.org/wiki/Loudspeaker)
+  * [Amar Bose](https://en.wikipedia.org/wiki/Amar_Bose) 1929&mdash;2013
+  * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
+---
 * [Timeline of audio formats](https://en.wikipedia.org/wiki/Timeline_of_audio_formats)
 * [A440](https://en.wikipedia.org/wiki/A440_(pitch_standard))
 * [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) (AAC)
   * [High-Efficiency Advanced Audio Coding](https://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding) (HE-AAC or AAC+)
 * [Album](https://en.wikipedia.org/wiki/Album)
-* [Amar Bose](https://en.wikipedia.org/wiki/Amar_Bose) 1929&mdash;2013
-  * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
 * [Digital audio](https://en.wikipedia.org/wiki/Digital_audio)
 * [Dolby](https://en.wikipedia.org/wiki/Dolby)
   * [Ray Dolby](https://en.wikipedia.org/wiki/Ray_Dolby) 1933&mdash;2013
