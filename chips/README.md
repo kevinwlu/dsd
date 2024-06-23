@@ -10,6 +10,11 @@
 * [CHIPS for America](https://www.nist.gov/chips)
   * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
+---
+* [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
+* [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
+* [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
+* [Frederick Terman](https://en.wikipedia.org/wiki/Frederick_Terman) 1900&mdash;1982
 ## Lists
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
   * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
