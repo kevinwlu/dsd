@@ -35,6 +35,8 @@ Computer Engineering CPE 487
 ## DSD Fundamentals
 
 * [A Symbolic Analysis of Relay and Switching Circuits](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits) 1938 by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
+* [Digital data](https://en.wikipedia.org/wiki/Digital_data)
+  * [George Stibitz](https://en.wikipedia.org/wiki/George_Stibitz) 1904&mdash;1995
 * [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   * [Bit](https://en.wikipedia.org/wiki/Bit)
   * [Nibble](https://en.wikipedia.org/wiki/Nibble), half-byte, or quadbit
