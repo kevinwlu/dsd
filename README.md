@@ -1,5 +1,5 @@
 # Digital System Design (DSD)
-Computer Engineering CPE 487
+## Computer Engineering CPE 487
 * [Bernard Yett](https://www.stevens.edu/profile/byett1) since 2023 Fall
 * [Darian Muresan](https://www.stevens.edu/profile/dmuresan) from 2022 Fall to 2023 Spring
 * In memory of [Michel Ouendeno](https://www.stevens.edu/news/stevens-adds-32-faculty-members-for-2022-2023-academic-year) 1968&mdash;2022
