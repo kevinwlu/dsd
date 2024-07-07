@@ -1,7 +1,6 @@
 # Video
 * [Animation](https://en.wikipedia.org/wiki/Animation)
 * [Andreas Wannerstedt](https://andreaswannerstedt.se/)
-* [Es Devlin](https://en.wikipedia.org/wiki/Es_Devlin)
 ---
 * [Timeline of video formats](https://en.wikipedia.org/wiki/Timeline_of_video_formats)
 * [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
@@ -118,6 +117,7 @@
 * [Sphere](https://en.wikipedia.org/wiki/Sphere_(venue))
   * [MSG Sphere](https://www.youtube.com/@msgsphere3826)
   * [Sphere](https://www.youtube.com/@SphereVegas)
+  * [Es Devlin](https://en.wikipedia.org/wiki/Es_Devlin)
 * [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 ## Livestreaming
 * [Livestreaming](https://en.wikipedia.org/wiki/Livestreaming)
