@@ -1,6 +1,7 @@
 # Video
 * [Animation](https://en.wikipedia.org/wiki/Animation)
-  * [Andreas Wannerstedt](https://andreaswannerstedt.se/)
+* [Andreas Wannerstedt](https://andreaswannerstedt.se/)
+* [Es Devlin](https://en.wikipedia.org/wiki/Es_Devlin)
 ---
 * [Timeline of video formats](https://en.wikipedia.org/wiki/Timeline_of_video_formats)
 * [National Television System Committee](https://en.wikipedia.org/wiki/NTSC) (NTSC)
