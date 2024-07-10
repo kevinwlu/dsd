@@ -2,6 +2,7 @@
 * [Intel Altera FPGA](https://marketplace.intel.com/s/pmp-partner-segment/a963b000000PDBvAAO/field-programmable-gate-array?language=en_US)
 * [Terasic DE0-CV User Manual](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921&PartNo=4)
 * [DE0-Nano FPGA and VHDL Beginner Tutorial](https://compectroner.wordpress.com/2016/07/14/first-blog-postde0-nano-fpga-and-vhdl-beginner-tutorial/) by [Compectroner](https://compectroner.wordpress.com/)
+  * [Ben Heck's FPGA Dev Board Tutorial](https://www.youtube.com/watch?v=0zrqYy369NQ)
 * [CoreEP4CE6 Wiki](https://www.waveshare.com/wiki/CoreEP4CE6) includes user manual, schematic, demo code, and pin configuration by [Waveshare](https://www.waveshare.com/wiki/Main_Page)
 * Cornell [ECE 5760](https://people.ece.cornell.edu/land/courses/ece5760/index.html) Advanced Microcontroller Design and System-on-Chip [Projects](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/)
   * [Terasic DE1-SoC](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836)
