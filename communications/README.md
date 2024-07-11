@@ -105,6 +105,7 @@
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
+  * [Holafly](https://esim.holafly.com/)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
