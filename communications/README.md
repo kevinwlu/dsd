@@ -10,6 +10,9 @@
 * [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
 * [Q factor](https://en.wikipedia.org/wiki/Q_factor)
 * [Spectral power distribution](https://en.wikipedia.org/wiki/Spectral_power_distribution) (SPD)
+---
+* [Brocade Communications Systems](https://en.wikipedia.org/wiki/Brocade_Communications_Systems)
+* [Cisco](https://en.wikipedia.org/wiki/Cisco)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
