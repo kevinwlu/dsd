@@ -129,6 +129,7 @@
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
+* [Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)
 * [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
   * [PlutoSDR in Python](https://pysdr.org/content/pluto.html)
