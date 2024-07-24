@@ -1,5 +1,4 @@
 # Communications
-* [Baseband](https://en.wikipedia.org/wiki/Baseband)
 * [Chemical-mechanical polishing](https://en.wikipedia.org/wiki/Chemical-mechanical_polishing) (CMP)
 * [Extinction ratio](https://en.wikipedia.org/wiki/Extinction_ratio)
 * [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer)
@@ -41,6 +40,7 @@
 * [Coding theory](https://en.wikipedia.org/wiki/Coding_theory)
 * [Hamming code](https://en.wikipedia.org/wiki/Hamming_code) by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998
 ## Modulation
+* [Baseband](https://en.wikipedia.org/wiki/Baseband)
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
 * [Intensity modulation](https://en.wikipedia.org/wiki/Intensity_modulation)/direct detection (IM/DD)
