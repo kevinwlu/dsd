@@ -13,6 +13,11 @@
 ---
 * [Brocade Communications Systems](https://en.wikipedia.org/wiki/Brocade_Communications_Systems)
 * [Cisco](https://en.wikipedia.org/wiki/Cisco)
+---
+* [L3Harris](https://en.wikipedia.org/wiki/L3Harris)
+* [MIT Lincoln Laboratory](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
+* [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
+* [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
@@ -121,6 +126,7 @@
   * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
+  * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
 * [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
