@@ -15,8 +15,13 @@
 * [Cisco](https://en.wikipedia.org/wiki/Cisco)
 ---
 * [L3Harris](https://en.wikipedia.org/wiki/L3Harris)
+* [Leidos](https://en.wikipedia.org/wiki/Leidos)
+  * [Science Applications International Corporation](https://en.wikipedia.org/wiki/Science_Applications_International_Corporation) (SAIC)
 * [MIT Lincoln Laboratory](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
 * [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
+* [Vencore](https://en.wikipedia.org/wiki/Vencore)
+  * [Peraton Labs](https://en.wikipedia.org/wiki/Peraton_Labs)
+  * [Perspecta Inc.](https://en.wikipedia.org/wiki/Perspecta_Inc.)
 * [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
