@@ -134,7 +134,9 @@
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017
+* [List of software-defined radios](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
+  * [USRP-2901](https://www.ni.com/en-us/shop/model/usrp-2901.html)
 * [Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)
 * [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
