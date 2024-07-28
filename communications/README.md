@@ -30,6 +30,8 @@
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
 * [Baudot code](https://en.wikipedia.org/wiki/Baudot_code) by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot) 1845&mdash;1903
 * [Baud](https://en.wikipedia.org/wiki/Baud)
+* [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT): battery feed (B), overvoltage protection (O), ringing (R), signaling (S), coding (C), hybrid (H), and test (T)
+  * [Borscht](https://en.wikipedia.org/wiki/Borscht) is a [sour soup](https://en.wikipedia.org/wiki/List_of_sour_soups)
 * [Erlang](https://en.wikipedia.org/wiki/Erlang_(unit))
   * [Agner Krarup Erlang](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang) 1878&mdash;1929
 * [Telephone](https://en.wikipedia.org/wiki/Telephone) by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
@@ -127,16 +129,21 @@
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
 * [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
-* [BORSCHT](https://en.wikipedia.org/wiki/BORSCHT)
-* [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
-  * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
-  * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+## Software-Defined Radio
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017
 * [List of software-defined radios](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
-  * [USRP-2901](https://www.ni.com/en-us/shop/model/usrp-2901.html)
+  * [National Instruments](https://en.wikipedia.org/wiki/National_Instruments) (NI)
+    * [USRP-2901](https://www.ni.com/en-us/shop/model/usrp-2901.html): 70 MHz-6 GHz, 2-Channel, 56 MHz Bandwidth SDR
+  * [Ettus Research](https://www.ettus.com/)
+    * [VERT2450](https://www.ettus.com/all-products/vert2450/): 2.4 and 5 GHz Dual Band Vertical Antenna
+    * [VERT900](https://www.ettus.com/all-products/vert900/): 824-960 MHz 1710-1990 MHz Dual Band Vertical Antenna
+    * [VERT400](https://www.ettus.com/all-products/vert400/): 144 MHz, 400 MHz, 1200 MHz Tri Band Vertical Antenna
+* [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
+  * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
+  * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
 * [Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)
 * [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
