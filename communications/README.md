@@ -143,6 +143,8 @@
     * [VERT2450](https://www.ettus.com/all-products/vert2450/): 2.4 and 5 GHz Dual Band Vertical Antenna
     * [VERT900](https://www.ettus.com/all-products/vert900/): 824-960 MHz 1710-1990 MHz Dual Band Vertical Antenna
     * [VERT400](https://www.ettus.com/all-products/vert400/): 144 MHz, 400 MHz, 1200 MHz Tri Band Vertical Antenna
+  * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices) (ADI)
+    * [ADALM-PLUTO](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview) Active Learning Module (ALM): 325 MHz to 3.8 GHz
 * [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
   * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
   * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
