@@ -154,6 +154,7 @@
   * [SMA connector](https://en.wikipedia.org/wiki/SMA_connector) (SubMiniature version A)
   * [N connector](https://en.wikipedia.org/wiki/N_connector) (named after [Paul Neill](https://en.wikipedia.org/wiki/Paul_Neill) 1882&mdash;1968)
 * [Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)
+  * [Reconfigurable antenna](https://en.wikipedia.org/wiki/Reconfigurable_antenna)
 * [GNU Radio](https://en.wikipedia.org/wiki/GNU_Radio)
 * [PySDR](https://pysdr.org/)
   * [PlutoSDR in Python](https://pysdr.org/content/pluto.html)
