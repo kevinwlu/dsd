@@ -6,6 +6,7 @@
 ---
 * [Calculator](https://en.wikipedia.org/wiki/Calculator)
 * [Mechanical calculator](https://en.wikipedia.org/wiki/Mechanical_calculator)
+  * [Slide rule](https://en.wikipedia.org/wiki/Slide_rule) 1620
   * [Pascal's calculator](https://en.wikipedia.org/wiki/Pascal's_calculator) 1642
     * [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) 1623&mdash;1662
   * [Curta](https://en.wikipedia.org/wiki/Curta) 1938
@@ -13,6 +14,7 @@
 * [Graphing calculator](https://en.wikipedia.org/wiki/Graphing_calculator) 1921
   * [Edith Clarke](https://en.wikipedia.org/wiki/Edith_Clarke) 1883&mdash;1959
 * [Scientific calculator](https://en.wikipedia.org/wiki/Scientific_calculator) 1968
+---
 * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
 * [Computer](https://en.wikipedia.org/wiki/Computer)
 * [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
