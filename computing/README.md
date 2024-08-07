@@ -4,6 +4,15 @@
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
 ---
+* [Calculator](https://en.wikipedia.org/wiki/Calculator)
+* [Mechanical calculator](https://en.wikipedia.org/wiki/Mechanical_calculator)
+  * [Pascal's calculator](https://en.wikipedia.org/wiki/Pascal's_calculator) 1642
+    * [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) 1623&mdash;1662
+  * [Curta](https://en.wikipedia.org/wiki/Curta) 1938
+    * [Curt Herzstark](https://en.wikipedia.org/wiki/Curt_Herzstark) 1902&mdash;1988
+* [Graphing calculator](https://en.wikipedia.org/wiki/Graphing_calculator) 1921
+  * [Edith Clarke](https://en.wikipedia.org/wiki/Edith_Clarke) 1883&mdash;1959
+* [Scientific calculator](https://en.wikipedia.org/wiki/Scientific_calculator) 1968
 * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
 * [Computer](https://en.wikipedia.org/wiki/Computer)
 * [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
