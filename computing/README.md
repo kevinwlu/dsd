@@ -17,6 +17,7 @@
 ---
 * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
 * [Computer](https://en.wikipedia.org/wiki/Computer)
+* [Analog computer](https://en.wikipedia.org/wiki/Analog_computer)
 * [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) 1791&mdash;1871
 * [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) 1815&mdash;1852
