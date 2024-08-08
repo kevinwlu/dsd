@@ -54,3 +54,4 @@
 * [Andrea Giuffredi](https://www.youtube.com/watch?v=V_VPLLQIBEA), a master of [bel canto](https://en.wikipedia.org/wiki/Bel_canto) trumpet style
   * [La Califfa](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [Gabriel's Oboe](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
+* [Ride of the Valkyries](https://en.wikipedia.org/wiki/Ride_of_the_Valkyries) 1856 by [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) 1813&mdash;1883
