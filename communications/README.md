@@ -145,11 +145,13 @@
   * [National Instruments](https://en.wikipedia.org/wiki/National_Instruments) (NI)
   * [Ettus Research](https://www.ettus.com/)
   * [NI USRP](https://www.ni.com/en-us/shop/category/software-defined-radios.html)
+  * [USRP Hardware Driver](https://www.ettus.com/sdr-software/uhd-usrp-hardware-driver/) (UHD)
   * [USRP-2901](https://www.ni.com/en-us/shop/model/usrp-2901.html): 70 MHz-6 GHz, 2-Channel, 56 MHz Bandwidth SDR
   * [VERT2450](https://www.ettus.com/all-products/vert2450/): 2.4 and 5 GHz Dual Band Vertical Antenna
   * [VERT900](https://www.ettus.com/all-products/vert900/): 824-960 MHz 1710-1990 MHz Dual Band Vertical Antenna
   * [VERT400](https://www.ettus.com/all-products/vert400/): 144 MHz, 400 MHz, 1200 MHz Tri Band Vertical Antenna
 * [TMY Technology](https://tmytek.com/) (TMYTEK)
+  * [BBox](https://tmytek.com/products/beamformers/bbox)
   * [Ettus USRP X410](https://www.ni.com/en-us/shop/model/ettus-usrp-x410.html)
   * [High-altitude platform station](https://en.wikipedia.org/wiki/High-altitude_platform_station) (HAPS)
     * [AALTO Zephyr HAPS](https://www.aaltohaps.com/Zephyr-HAPS)
