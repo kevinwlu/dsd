@@ -150,6 +150,10 @@
   * [VERT900](https://www.ettus.com/all-products/vert900/): 824-960 MHz 1710-1990 MHz Dual Band Vertical Antenna
   * [VERT400](https://www.ettus.com/all-products/vert400/): 144 MHz, 400 MHz, 1200 MHz Tri Band Vertical Antenna
 * [TMY Technology](https://tmytek.com/) (TMYTEK)
+  * [Ettus USRP X410](https://www.ni.com/en-us/shop/model/ettus-usrp-x410.html)
+  * [High-altitude platform station](https://en.wikipedia.org/wiki/High-altitude_platform_station) (HAPS)
+    * [AALTO Zephyr HAPS](https://www.aaltohaps.com/Zephyr-HAPS)
+      > In European tradition, a zephyr is a light wind or a west wind, named after [Zephyrus](https://en.wikipedia.org/wiki/Zephyrus), the Greek god or personification of the west wind.
 * [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices) (ADI)
   * [ADALM-PLUTO](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview) Active Learning Module (ALM): 325 MHz to 3.8 GHz
 * [List of RF connector types](https://en.wikipedia.org/wiki/List_of_RF_connector_types)
