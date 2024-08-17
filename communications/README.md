@@ -152,7 +152,7 @@
   * [VERT400](https://www.ettus.com/all-products/vert400/): 144 MHz, 400 MHz, 1200 MHz Tri Band Vertical Antenna
 * [TMY Technology](https://tmytek.com/) (TMYTEK)
   * [BBox](https://tmytek.com/products/beamformers/bbox)
-  * [Ettus USRP X410](https://www.ni.com/en-us/shop/model/ettus-usrp-x410.html)
+  * [Ettus USRP X410](https://www.ni.com/en-us/shop/model/ettus-usrp-x410.html): 1 MHz to 7.2 GHz
   * [High-altitude platform station](https://en.wikipedia.org/wiki/High-altitude_platform_station) (HAPS)
     * [AALTO Zephyr HAPS](https://www.aaltohaps.com/Zephyr-HAPS)
       > In European tradition, a zephyr is a light wind or a west wind, named after [Zephyrus](https://en.wikipedia.org/wiki/Zephyrus), the Greek god or personification of the west wind.
