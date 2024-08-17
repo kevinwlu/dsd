@@ -168,6 +168,7 @@
 * [PySDR](https://pysdr.org/)
   * [PlutoSDR in Python](https://pysdr.org/content/pluto.html)
   * [PlutoSDR Basics](https://pysdr.org/content/pluto_intro.html)
+  * [USRP in Python](https://pysdr.org/content/usrp.html)
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 * [RTL-SDR](https://www.rtl-sdr.com/)
 ## Communication and Sensing
