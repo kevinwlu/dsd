@@ -116,9 +116,8 @@
 * [Display aspect ratio](https://en.wikipedia.org/wiki/Display_aspect_ratio) (DAR)
 * [Liquid-crystal display](https://en.wikipedia.org/wiki/Liquid-crystal_display) (LCD)
 * [OLED](https://en.wikipedia.org/wiki/OLED)
-* [Sphere](https://en.wikipedia.org/wiki/Sphere_(venue))
-  * [MSG Sphere](https://www.youtube.com/@msgsphere3826)
-  * [Sphere](https://www.youtube.com/@SphereVegas)
+* [Sphere at the Venetian Resort](https://en.wikipedia.org/wiki/Sphere_(venue))
+  * [MSG Sphere](https://www.youtube.com/@msgsphere3826) | [Videos](https://www.youtube.com/@SphereVegas)
   * [Es Devlin](https://en.wikipedia.org/wiki/Es_Devlin)
 * [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 ## Livestreaming
