@@ -98,7 +98,6 @@
   * [8K resolution](https://en.wikipedia.org/wiki/8K_resolution) (7680 × 4320)
 * [16K resolution](https://en.wikipedia.org/wiki/16K_resolution) (15360 x 8640)
 * [32K resolution](https://en.wikipedia.org/wiki/32K_resolution) (30720 x 17280)
-* [List of largest video screens](https://en.wikipedia.org/wiki/List_of_largest_video_screens)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
   * [JayByrd Films](https://www.jaybyrdfilms.com/) | [Videos](https://www.youtube.com/@jaybyrdfilms/videos)
 * [4D film](https://en.wikipedia.org/wiki/4D_film)
