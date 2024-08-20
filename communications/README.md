@@ -145,6 +145,8 @@
 * [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral) (USRP)
   * [National Instruments](https://en.wikipedia.org/wiki/National_Instruments) (NI)
   * [Ettus Research](https://www.ettus.com/)
+    * [Ettus USRP X310](https://www.ettus.com/all-products/x310-kit/)
+    * [Ettus USRP B210](https://www.ettus.com/all-products/ub210-kit/): 70 MHz - 6GHz
   * [NI USRP](https://www.ni.com/en-us/shop/category/software-defined-radios.html)
   * [USRP Hardware Driver](https://www.ettus.com/sdr-software/uhd-usrp-hardware-driver/) (UHD)
   * [USRP-2901](https://www.ni.com/en-us/shop/model/usrp-2901.html): 70 MHz-6 GHz, 2-Channel, 56 MHz Bandwidth SDR
