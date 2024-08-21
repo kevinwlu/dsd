@@ -60,6 +60,7 @@
   * [Sheet music](https://musescore.com/hmscomp/scores/944826)
   * [Listen](https://www.youtube.com/watch?v=GGU1P6lBW6Q)
 * [*Turandot*](https://en.wikipedia.org/wiki/Turandot) 1924 unfinished by [Giacomo Puccini](https://en.wikipedia.org/wiki/Giacomo_Puccini) 1858&mdash;1924
+* [*Adagio for Strings*](https://en.wikipedia.org/wiki/Adagio_for_Strings) 1936 by [Samuel Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 1910&mdash;1981
 * [Andrea Giuffredi](https://www.youtube.com/watch?v=V_VPLLQIBEA), a master of [bel canto](https://en.wikipedia.org/wiki/Bel_canto) trumpet style
   * [*La Califfa*](https://en.wikipedia.org/wiki/La_Califfa) 1970 and [*Gabriel's Oboe*](https://en.wikipedia.org/wiki/Gabriel%27s_Oboe) 1986 by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) 1928&mdash;2020
 
