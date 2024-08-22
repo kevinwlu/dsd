@@ -121,6 +121,7 @@
   * [Notice of proposed rulemaking](https://en.wikipedia.org/wiki/Notice_of_proposed_rulemaking) (NPRM)
     * [Expanding Use of the 12.7-13.25 GHz Band for Mobile Broadband or Other Expanded Use](https://docs.fcc.gov/public/attachments/DOC-392970A1.pdf)
 * [IEEE 5G/6G Innovation Testbed](https://testbed.ieee.org/)
+* [Platform for Open Wireless Data-driven Experimental Research](https://powderwireless.net/) (POWDER)
 * [Speedtest.net](https://en.wikipedia.org/wiki/Speedtest.net) by Ookla
 * [SIM card](https://en.wikipedia.org/wiki/SIM_card) (Subscriber Identity Module)
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
