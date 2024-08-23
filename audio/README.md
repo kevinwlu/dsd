@@ -10,7 +10,6 @@
   * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
 ---
 * [Timeline of audio formats](https://en.wikipedia.org/wiki/Timeline_of_audio_formats)
-* [A440](https://en.wikipedia.org/wiki/A440_(pitch_standard))
 * [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) (AAC)
   * [High-Efficiency Advanced Audio Coding](https://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding) (HE-AAC or AAC+)
 * [Album](https://en.wikipedia.org/wiki/Album)
@@ -35,7 +34,6 @@
 * [Cymatics](https://en.wikipedia.org/wiki/Cymatics)
 * [Hearing range](https://en.wikipedia.org/wiki/Hearing_range)
 * [Musical acoustics](https://en.wikipedia.org/wiki/Musical_acoustics)
-* [Music and mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics)
 ---
 * [Guide to the orchestra](https://www.minnesotaorchestra.org/community-education/educators-families/resources/guide/)
 * [List of concert halls](https://en.wikipedia.org/wiki/List_of_concert_halls)
@@ -45,7 +43,9 @@
 * [Glossary of music terminology](https://en.wikipedia.org/wiki/Glossary_of_music_terminology)
 * [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
 * [Metronome](https://en.wikipedia.org/wiki/Metronome)
+* [Music and mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics)
 * [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
+  * [Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation) (SPN)
 * [Musical note](https://en.wikipedia.org/wiki/Musical_note)
   * [A440 (pitch standard)](https://en.wikipedia.org/wiki/A440_(pitch_standard))
   * [Electronic tuner](https://en.wikipedia.org/wiki/Electronic_tuner)
