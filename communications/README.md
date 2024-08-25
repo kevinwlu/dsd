@@ -140,6 +140,7 @@
 * [List of software-defined radios](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
 * [AFRL SDR Challenge](https://wbi-innovates.zohobackstage.com/afrlsdr)
   * [Air Force Research Laboratory](https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory) (AFRL)
+    * [AFRL SDR](https://afresearchlab.com/technology/information-technology/successstories/software-defined-radio/)
   * [Wright brothers](https://en.wikipedia.org/wiki/Wright_brothers)
   * [Wright Brothers Institute](https://www.wbi-innovates.com/) (WBI)
   * [MathWorks | SDR University Challenge](https://www.mathworks.com/academia/student-competitions/sdr-university-challenge.html)
