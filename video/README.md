@@ -37,6 +37,7 @@
 * [StageCraft](https://en.wikipedia.org/wiki/StageCraft)
 * [Image stitching](https://en.wikipedia.org/wiki/Image_stitching)
   * [Comparison of photo stitching software](https://en.wikipedia.org/wiki/Comparison_of_photo_stitching_software)
+  * [Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid)
   * [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron) is a [polyhedron](https://en.wikipedia.org/wiki/Polyhedron) with 12 faces
     * [Circle Optics](https://circleoptics.com/)
     * [Pentagon](https://en.wikipedia.org/wiki/Pentagon)
