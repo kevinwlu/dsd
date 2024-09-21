@@ -79,6 +79,12 @@
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
+* [Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
+  * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
+    * [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell's_equations)
+  * [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) 1857&mdash;1894
+    * [Hertz](https://en.wikipedia.org/wiki/Hertz)
+  * [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) 1874&mdash;1937
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Non-line-of-sight propagation](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) (NLOS)
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
