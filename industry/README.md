@@ -274,6 +274,7 @@
 * [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
 * [Renesas Electronics](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
+  * [Design AI/ML Applications the Easy Way](https://www.renesas.com/en/blogs/design-aiml-applications-easy-way)
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sega](https://en.wikipedia.org/wiki/Sega)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
