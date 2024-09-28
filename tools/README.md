@@ -45,6 +45,8 @@
 * [Specctra](https://en.wikipedia.org/wiki/Specctra)
 * [XFdtd](https://en.wikipedia.org/wiki/XFdtd) X (Window System) Finite Difference Time Domain (FDTD)
   * [Finite-difference time-domain method](https://en.wikipedia.org/wiki/Finite-difference_time-domain_method)
+## Reverse Engineering
+* [Ghidra](https://en.wikipedia.org/wiki/Ghidra)
 ## Optical Systems
 * [Ansys](https://en.wikipedia.org/wiki/Ansys)
   * [Zemax](https://en.wikipedia.org/wiki/Zemax)
