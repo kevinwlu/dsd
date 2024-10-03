@@ -72,6 +72,8 @@
 * [Dual in-line package](https://en.wikipedia.org/wiki/Dual_in-line_package)
 * [Chip carrier](https://en.wikipedia.org/wiki/Chip_carrier)
 * [Flat no-leads package](https://en.wikipedia.org/wiki/Flat_no-leads_package)
+* [Chip-scale package](https://en.wikipedia.org/wiki/Chip-scale_package) (CSP)
+* [Wafer-level packaging](https://en.wikipedia.org/wiki/Wafer-level_packaging) (WLP)
 
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
@@ -83,6 +85,7 @@
 * [Watchdog timer](https://en.wikipedia.org/wiki/Watchdog_timer)
 * [AVR microcontrollers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
 * [Cerebras](https://en.wikipedia.org/wiki/Cerebras) Wafer-Scale Engine (WSE)
+  * [Wafer-scale integration](https://en.wikipedia.org/wiki/Wafer-scale_integration) (WSI)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
 * [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum_(microprocessor))
 * [RP2040](https://en.wikipedia.org/wiki/RP2040)
