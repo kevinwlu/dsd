@@ -25,3 +25,7 @@
 * [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) 1643&mdash;1727
 * [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) 1879&mdash;1955
 * [Charles K. Kao](https://en.wikipedia.org/wiki/Charles_K._Kao) 1933&mdash;2018
+---
+* [Through-hole technology](https://en.wikipedia.org/wiki/Through-hole_technology)
+* [Surface-mount technology](https://en.wikipedia.org/wiki/Surface-mount_technology) (SMT)
+* [Jabil](https://en.wikipedia.org/wiki/Jabil)
