@@ -39,6 +39,8 @@
 * [Original North American area codes](https://en.wikipedia.org/wiki/Original_North_American_area_codes)
 ## Information Theory
 * [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
+  * [Juggling robot](https://www.youtube.com/watch?v=tXU3EPg2cgA)
+  * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) 1915&mdash;2000
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
   * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
