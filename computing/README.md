@@ -4,6 +4,7 @@
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
 ---
+* [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
 * [Calculator](https://en.wikipedia.org/wiki/Calculator)
 * [Mechanical calculator](https://en.wikipedia.org/wiki/Mechanical_calculator)
   * [Slide rule](https://en.wikipedia.org/wiki/Slide_rule) 1620
@@ -36,6 +37,7 @@
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 ---
+* [Neural network (biology)](https://en.wikipedia.org/wiki/Neural_network_(biology))
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
 * [Cochleagram](https://en.wiktionary.org/wiki/cochleagram)
