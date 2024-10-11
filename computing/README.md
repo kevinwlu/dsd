@@ -9,6 +9,8 @@
   * [Slide rule](https://en.wikipedia.org/wiki/Slide_rule) 1620
   * [Pascal's calculator](https://en.wikipedia.org/wiki/Pascal's_calculator) 1642
     * [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) 1623&mdash;1662
+  * [Leibniz wheel](https://en.wikipedia.org/wiki/Leibniz_wheel) 1673
+    * [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) 1646&mdash;1716
   * [Curta](https://en.wikipedia.org/wiki/Curta) 1938
     * [Curt Herzstark](https://en.wikipedia.org/wiki/Curt_Herzstark) 1902&mdash;1988
 * [Graphing calculator](https://en.wikipedia.org/wiki/Graphing_calculator) 1921
