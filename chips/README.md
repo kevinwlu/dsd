@@ -15,6 +15,8 @@
 * [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
 * [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
 * [Frederick Terman](https://en.wikipedia.org/wiki/Frederick_Terman) 1900&mdash;1982
+* [Arnold Beckman](https://en.wikipedia.org/wiki/Arnold_Beckman) 1900&mdash;2004
+* [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
 ## YouTube Channels
 * [Anastasi In Tech](https://www.youtube.com/@AnastasiInTech) by [Anastasia](https://anastasiintech.com/)
 ## Lists
