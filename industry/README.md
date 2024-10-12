@@ -204,7 +204,7 @@
   * [Ageia](https://en.wikipedia.org/wiki/Ageia)
   * [Mellanox Technologies](https://en.wikipedia.org/wiki/Mellanox_Technologies)
 * [ON Semiconductor Corporation](https://en.wikipedia.org/wiki/Onsemi) founded in 1999, stylized and [doing business as](https://en.wikipedia.org/wiki/Trade_name) onsemi, and originally a spinoff of Motorola's Semiconductor Components Group
-  * [Shockley Semiconductor Laboratory](https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory) founded in 1955, later known as Shockley Transistor Corporation
+  * [Shockley Semiconductor Laboratory](https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory) 1955&mdash;1968, later known as Shockley Transistor Corporation
   * [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor) 1957&mdash;2016
     * [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
