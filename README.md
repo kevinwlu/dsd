@@ -120,6 +120,7 @@
   * [64GB DDR4-3200 PC4-25600 2Rx4 RDIMM ECC Registered Memory by NEMIX RAM](https://www.amazon.com/DDR4-3200-PC4-25600-RDIMM-Registered-Memory/dp/B081K8X1N3)
 * [Dynamic random-access memory](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) (DRAM)
   * [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard) 1932&mdash;2024
+* [Synchronous dynamic random-access memory](https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory) (SDRAM)
 * [Resistive random-access memory](https://en.wikipedia.org/wiki/Resistive_random-access_memory) (ReRAM or RRAM)
 * [Reduced Latency DRAM](https://en.wikipedia.org/wiki/RLDRAM) (RLDRAM)
 * [Memristor](https://en.wikipedia.org/wiki/Memristor)
@@ -137,6 +138,7 @@
 * [Erasable programmable read-only memory](https://en.wikipedia.org/wiki/EPROM) (EPROM)
 * [Electrically erasable programmable read-only memory](https://en.wikipedia.org/wiki/EEPROM) (EEPROM)
   * [Bootloader](https://en.wikipedia.org/wiki/Bootloader)
+* [High Bandwidth Memory](https://en.wikipedia.org/wiki/High_Bandwidth_Memory) (HBM)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
   * [Basic Input/Output System](https://en.wikipedia.org/wiki/BIOS) (BIOS)
