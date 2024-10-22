@@ -55,6 +55,7 @@
   * [Undecidable problem](https://en.wikipedia.org/wiki/Undecidable_problem)
   * [Unknowability](https://en.wikipedia.org/wiki/Unknowability)
   * [Ignoramus et ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus)
+* [Handshake (computing)](https://en.wikipedia.org/wiki/Handshake_(computing))
 * [Instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) (ISA)
 * [Implicit SPMD Program Compiler](https://ispc.github.io/) (ISPC)
   * [Single program, multiple data](https://en.wikipedia.org/wiki/Single_program,_multiple_data) (SPMD) 
