@@ -12,6 +12,7 @@
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
   * [IEEE Symposium-Workshop on Emerging AI/ML Trends](https://sweat.ieeebangalore.org/) (SWEAT)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
+* [IEEE Global Semiconductors](https://semiconductors.ieee.org/) Ad Hoc of the IEEE Future Directions Committee
 * [Joint Electron Device Engineering Council](https://en.wikipedia.org/wiki/JEDEC) (JEDEC) Solid State Technology Association
   * [JEDEC memory standards](https://en.wikipedia.org/wiki/JEDEC_memory_standards)
 * [Joint Test Action Group](https://en.wikipedia.org/wiki/JTAG) (JTAG)
