@@ -37,6 +37,12 @@
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 ---
+* [Tamperproofing](https://en.wikipedia.org/wiki/Tamperproofing)
+* [Pentalobe screw](https://en.wikipedia.org/wiki/Pentalobe_screw)
+* [Apple](https://en.wikipedia.org/wiki/Apple) flowers have five [petals](https://en.wikipedia.org/wiki/Petal) and the fruits have five [carpels](https://en.wikipedia.org/wiki/Gynoecium#Carpels)
+* [Mammiform Crown Base Protuberances](https://adamapples.blogspot.com/2021/02/mammiform-crown-base-protuberances.html)
+* [Torx](https://en.wikipedia.org/wiki/Torx)
+---
 * [Neural network (biology)](https://en.wikipedia.org/wiki/Neural_network_(biology))
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
