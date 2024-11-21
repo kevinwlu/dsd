@@ -60,7 +60,10 @@
   * [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) performance analysis tool
   * [NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) (VSE) to build and debug integrated GPU kernels and native CPE code as well as inspect the state of the GPU and memory
   * [Hopper](https://en.wikipedia.org/wiki/Hopper_(microarchitecture))
-  * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
+    * [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
+  * [Blackwell (microarchitecture)](https://en.wikipedia.org/wiki/Blackwell_(microarchitecture))
+    * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
+  * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
