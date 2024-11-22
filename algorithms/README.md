@@ -1,4 +1,5 @@
 # Data Structures and Algorithms (DSA)
+* [Data Structures and Algorithms](https://www.cs.princeton.edu/courses/archive/spr11/cos217/lectures/08DsAlg.pdf) by [Jennifer Rexford](https://en.wikipedia.org/wiki/Jennifer_Rexford)
 * [Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/dsa.html) by [John Bullinaria](https://www.cs.bham.ac.uk//~jxb/)
   * [*Lecture Notes for Data Structures and Algorithms*](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
 * [CPE 593 Applied Data Structures and Algorithms](https://github.com/StevensDeptECE/CPE593/)
