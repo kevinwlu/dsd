@@ -16,7 +16,8 @@
   * [RAL colour standard](https://en.wikipedia.org/wiki/RAL_colour_standard)
   * [List of RAL colors](https://en.wikipedia.org/wiki/List_of_RAL_colours)
 * [Color model](https://en.wikipedia.org/wiki/Color_model)
-* [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model)
+  * [CMYK color model](https://en.wikipedia.org/wiki/CMYK_color_model) is a subtractive color model that uses four ink colors to create a wide range of colors for printing
+  * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model) is an additive color model in which the red, green, and blue primary colors of light are added together in various ways to reproduce a broad array of colors
 * [Color depth](https://en.wikipedia.org/wiki/Color_depth)
 * [8-bit color](https://en.wikipedia.org/wiki/8-bit_color)
 * [Color balance](https://en.wikipedia.org/wiki/Color_balance)
