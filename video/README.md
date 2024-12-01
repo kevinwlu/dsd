@@ -41,6 +41,7 @@
   * [Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid)
   * [Dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron) is a [polyhedron](https://en.wikipedia.org/wiki/Polyhedron) with 12 faces
     * [Circle Optics](https://circleoptics.com/)
+      * [Team Circle](https://circleoptics.com/celebrating-team-circle/)
     * [Pentagon](https://en.wikipedia.org/wiki/Pentagon)
     * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
   * [Pyritohedron](https://mathworld.wolfram.com/Pyritohedron.html) is an irregular dodecahedron composed of identical irregular pentagons
