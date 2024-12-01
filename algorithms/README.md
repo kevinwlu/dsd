@@ -90,7 +90,7 @@
 * [Swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour)
 * [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 * [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
-## Quantum algorithms
+## Quantum Algorithms
 * [Quantum algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm)
 * [Deutsch–Jozsa algorithm](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm)
 * [Bernstein–Vazirani algorithm](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Vazirani_algorithm)
