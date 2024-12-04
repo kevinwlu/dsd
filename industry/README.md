@@ -261,6 +261,7 @@
 ## India
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
 ## Israel
+* [Annapurna Labs](https://en.wikipedia.org/wiki/Annapurna_Labs) was acruired by Amazon in January 2015
 * [Anobit](https://en.wikipedia.org/wiki/Anobit) was acquired by Apple on January 6, 2012
 * [Ceva (semiconductor company)](https://en.wikipedia.org/wiki/Ceva_(semiconductor_company))
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
