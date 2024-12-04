@@ -21,11 +21,12 @@
 ## YouTube Channels
 * [Anastasi In Tech](https://www.youtube.com/@AnastasiInTech) by [Anastasia](https://anastasiintech.com/)
 ## Lists
-* [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
-  * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
 * [AMD](https://en.wikipedia.org/wiki/List_of_AMD_processors)
   * [EPYC](https://en.wikipedia.org/wiki/Epyc)
   * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
+* [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
+  * [AD9364](https://www.analog.com/en/products/ad9364.html) RF Agile Transceiver
+* [Annapurna Labs](https://en.wikipedia.org/wiki/Annapurna_Labs)
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
