@@ -1,4 +1,7 @@
 # Power
+* [Steinmetz's equation](https://en.wikipedia.org/wiki/Steinmetz%27s_equation)
+* [Charles Proteus Steinmetz](https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz) 1865&mdash;1923
+* [IEEE Charles Proteus Steinmetz Award](https://en.wikipedia.org/wiki/IEEE_Charles_Proteus_Steinmetz_Award)
 * [List of battery sizes](https://en.wikipedia.org/wiki/List_of_battery_sizes)
 * [Inductive charging](https://en.wikipedia.org/wiki/Inductive_charging)
 ## Power Management
