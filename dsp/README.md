@@ -2,7 +2,8 @@
 ## YouTube Channels
 * [Zach Star](https://www.youtube.com/@zachstar) by [Zachary Star](https://www.linkedin.com/in/zachary-s-777033ab/)
 * [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/) of [Macquarie University](https://en.wikipedia.org/wiki/Macquarie_University) in Sydney, Australia
-* [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt)
+* [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt) by EC Academy
+* [Signals and Systems](https://www.princeton.edu/~cuff/ele301/index.html) by Professor [Paul Cuff](https://www.princeton.edu/~cuff/)
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
 ## Signal Processing
 * [Analog signal](https://en.wikipedia.org/wiki/Analog_signal)
