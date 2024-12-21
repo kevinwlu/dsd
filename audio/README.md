@@ -1,6 +1,5 @@
 # Audio
 * [Sound](https://en.wikipedia.org/wiki/Sound)
-* [Musical tone](https://en.wikipedia.org/wiki/Musical_tone)
 ---
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 * [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
@@ -44,6 +43,11 @@
 * [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
 * [Metronome](https://en.wikipedia.org/wiki/Metronome)
 * [Music and mathematics](https://en.wikipedia.org/wiki/Music_and_mathematics)
+* [Musical tone](https://en.wikipedia.org/wiki/Musical_tone)
+  * [Pitch (music)](https://en.wikipedia.org/wiki/Pitch_(music))
+  * [Duration (music)](https://en.wikipedia.org/wiki/Duration_(music))
+  * [Loudness](https://en.wikipedia.org/wiki/Loudness)
+  * [Timbre](https://en.wikipedia.org/wiki/Timbre)
 * [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
   * [Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation) (SPN)
 * [Musical note](https://en.wikipedia.org/wiki/Musical_note)
@@ -54,7 +58,7 @@
   * [Chinese musicology](https://en.wikipedia.org/wiki/Chinese_musicology)
   * [Shi'er lü](https://en.wikipedia.org/wiki/Shi%27er_l%C3%BC)
 * [Music of Japan](https://en.wikipedia.org/wiki/Music_of_Japan)
-* [https://en.wikipedia.org/wiki/Music_of_India](https://en.wikipedia.org/wiki/Music_of_India)
+* [Music of India](https://en.wikipedia.org/wiki/Music_of_India)
 ---
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
   * [Second Movement sheet music](https://musescore.com/user/62716/scores/902101)
