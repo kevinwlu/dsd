@@ -50,6 +50,11 @@
   * [A440 (pitch standard)](https://en.wikipedia.org/wiki/A440_(pitch_standard))
   * [Electronic tuner](https://en.wikipedia.org/wiki/Electronic_tuner)
 * [Sheet music](https://en.wikipedia.org/wiki/Sheet_music)
+* [Music of China](https://en.wikipedia.org/wiki/Music_of_China)
+  * [Chinese musicology](https://en.wikipedia.org/wiki/Chinese_musicology)
+  * [Shi'er lü](https://en.wikipedia.org/wiki/Shi%27er_l%C3%BC)
+* [Music of Japan](https://en.wikipedia.org/wiki/Music_of_Japan)
+* [https://en.wikipedia.org/wiki/Music_of_India](https://en.wikipedia.org/wiki/Music_of_India)
 ---
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
   * [Second Movement sheet music](https://musescore.com/user/62716/scores/902101)
