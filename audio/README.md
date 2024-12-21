@@ -56,8 +56,10 @@
 * [Sheet music](https://en.wikipedia.org/wiki/Sheet_music)
 * [Music of China](https://en.wikipedia.org/wiki/Music_of_China)
   * [Chinese musicology](https://en.wikipedia.org/wiki/Chinese_musicology)
+  * [Pentatonic scale](https://en.wikipedia.org/wiki/Pentatonic_scale)
   * [Shi'er lü](https://en.wikipedia.org/wiki/Shi%27er_l%C3%BC)
 * [Music of Japan](https://en.wikipedia.org/wiki/Music_of_Japan)
+  * [Japanese mode](https://en.wikipedia.org/wiki/Japanese_mode)
 * [Music of India](https://en.wikipedia.org/wiki/Music_of_India)
 ---
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
