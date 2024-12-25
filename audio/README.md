@@ -62,6 +62,17 @@
   * [Japanese mode](https://en.wikipedia.org/wiki/Japanese_mode)
 * [Music of India](https://en.wikipedia.org/wiki/Music_of_India)
 ---
+* [Vocal music](https://en.wikipedia.org/wiki/Vocal_music)
+* [Vocal range](https://en.wikipedia.org/wiki/Vocal_range)
+* [Vocal register](https://en.wikipedia.org/wiki/Vocal_register)
+* [Head voice](https://en.wikipedia.org/wiki/Head_voice)
+* [Falsetto](https://en.wikipedia.org/wiki/Falsetto)
+  * [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees)
+  * [The Weeknd](https://en.wikipedia.org/wiki/The_Weeknd)
+* [Whistle register](https://en.wikipedia.org/wiki/Whistle_register)
+  * [Mariah Carey](https://en.wikipedia.org/wiki/Mariah_Carey)
+  * [Ariana Grande](https://en.wikipedia.org/wiki/Ariana_Grande)
+---
 * [Piano Concerto No. 21](https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)) 1785 by [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) 1756&mdash;1791
   * [Second Movement sheet music](https://musescore.com/user/62716/scores/902101)
   * [Listen](https://www.youtube.com/watch?v=df-eLzao63I)
