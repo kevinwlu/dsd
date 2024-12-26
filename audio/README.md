@@ -1,9 +1,10 @@
 # Audio
 * [Sound](https://en.wikipedia.org/wiki/Sound)
----
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 * [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
----
+* [Amplifier](https://en.wikipedia.org/wiki/Amplifier)
+* [Audio power amplifier](https://en.wikipedia.org/wiki/Audio_power_amplifier)
+* [Power amplifier classes](https://en.wikipedia.org/wiki/Power_amplifier_classes)
 * [Loudspeaker](https://en.wikipedia.org/wiki/Loudspeaker)
   * [Amar Bose](https://en.wikipedia.org/wiki/Amar_Bose) 1929&mdash;2013
   * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
