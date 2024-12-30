@@ -8,6 +8,7 @@
 * [Loudspeaker](https://en.wikipedia.org/wiki/Loudspeaker)
   * [Amar Bose](https://en.wikipedia.org/wiki/Amar_Bose) 1929&mdash;2013
   * [Bose Corporation](https://en.wikipedia.org/wiki/Bose_Corporation)
+* [JackTrip](https://jacktrip.github.io/jacktrip/)
 ---
 * [Timeline of audio formats](https://en.wikipedia.org/wiki/Timeline_of_audio_formats)
 * [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) (AAC)
