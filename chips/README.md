@@ -66,6 +66,7 @@
     * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
   * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
+  * [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
