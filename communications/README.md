@@ -94,6 +94,8 @@
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
+* [Fresnel zone](https://en.wikipedia.org/wiki/Fresnel_zone)
+  * [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) 1788&mdash;1827
 * [Friis transmission equation](https://en.wikipedia.org/wiki/Friis_transmission_equation)
   * [Harald T. Friis](https://en.wikipedia.org/wiki/Harald_T._Friis) 1893&mdash;1976
 * [Fronthaul](https://en.wikipedia.org/wiki/Fronthaul)
