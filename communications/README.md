@@ -93,6 +93,8 @@
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
+* [Friis transmission equation](https://en.wikipedia.org/wiki/Friis_transmission_equation)
+  * [Harald T. Friis](https://en.wikipedia.org/wiki/Harald_T._Friis) 1893&mdash;1976
 * [Fronthaul](https://en.wikipedia.org/wiki/Fronthaul)
 * [Backhaul](https://en.wikipedia.org/wiki/Backhaul_(telecommunications))
 * [Wi-Fi 5 vs. Wi-Fi 6 vs. Wi-Fi 6E](https://www.pcworld.com/article/823810/wi-fi-5-vs-wi-fi-6-vs-wi-fi-6e-which-router-should-you-pick.html)
