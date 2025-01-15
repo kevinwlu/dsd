@@ -35,7 +35,7 @@ $ sudo make install
 > [Use Homebrew to install GTKWave](https://formulae.brew.sh/cask/gtkwave)\
 > [Compatibility issue](https://github.com/gtkwave/gtkwave/issues/250)\
 > [Fliplot](https://github.com/raczben/fliplot) is an alternative to GTKWave, implemented in HTML, JavaScript, and Python\
-> [HDL Containers](https://hdl.github.io/containers/)\
+> [HDL Containers](https://hdl.github.io/containers/)
 ```
 docker pull hdlc/gtkwave
 docker run -it --rm -v $(pwd):/data hdlc/gtkwave
