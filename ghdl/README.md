@@ -35,6 +35,10 @@ $ sudo make install
 > [Use Homebrew to install GTKWave](https://formulae.brew.sh/cask/gtkwave)\
 > [Compatibility issue](https://github.com/gtkwave/gtkwave/issues/250)\
 > [GTKWave on Flathub](https://flathub.org/apps/io.github.gtkwave.GTKWave)\
+```
+flatpak install flathub io.github.gtkwave.GTKWave
+flatpak run io.github.gtkwave.GTKWave
+```
 > [Fliplot](https://github.com/raczben/fliplot) is an alternative to GTKWave, implemented in HTML, JavaScript, and Python\
 > [HDL Containers](https://hdl.github.io/containers/)
 
