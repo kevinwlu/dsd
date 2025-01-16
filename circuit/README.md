@@ -1,7 +1,6 @@
 # Electronic Circuit
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
-* [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
 * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
 * [Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law) 1827
   * [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) 1789&mdash;1854
@@ -14,6 +13,9 @@
   * [Hans Ferdinand Mayer](https://en.wikipedia.org/wiki/Hans_Ferdinand_Mayer) 1895&mdash;1980
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
+---
+* [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
+  * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)
