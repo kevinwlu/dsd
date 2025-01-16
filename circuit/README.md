@@ -15,7 +15,8 @@
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 ---
 * [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
-  * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
+* [Operational amplifier applications](https://en.wikipedia.org/wiki/Operational_amplifier_applications)
+* [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)
