@@ -14,9 +14,12 @@
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 ---
+* [Differential amplifier](https://en.wikipedia.org/wiki/Differential_amplifier)
 * [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
 * [Operational amplifier applications](https://en.wikipedia.org/wiki/Operational_amplifier_applications)
-* [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
+  * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
+* [Negative-feedback amplifier](https://en.wikipedia.org/wiki/Negative-feedback_amplifier)
+* [Push–pull output](https://en.wikipedia.org/wiki/Push%E2%80%93pull_output)
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)
