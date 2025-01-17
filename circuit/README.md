@@ -24,6 +24,8 @@
   * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
 * [Negative-feedback amplifier](https://en.wikipedia.org/wiki/Negative-feedback_amplifier)
 * [Push–pull output](https://en.wikipedia.org/wiki/Push%E2%80%93pull_output)
+* [LM741](https://www.ti.com/lit/ds/symlink/lm741.pdf)
+* [LM6172](https://www.ti.com/lit/ds/symlink/lm6172.pdf)
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)
