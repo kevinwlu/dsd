@@ -14,6 +14,10 @@
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 ---
+* [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge) 1833 and 1843
+  * [Samuel Hunter Christie](https://en.wikipedia.org/wiki/Samuel_Hunter_Christie) 1784&mdash;1865
+  * [Charles Wheatstone](https://en.wikipedia.org/wiki/Charles_Wheatstone) 1802&mdash;1875
+---
 * [Differential amplifier](https://en.wikipedia.org/wiki/Differential_amplifier)
 * [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
 * [Operational amplifier applications](https://en.wikipedia.org/wiki/Operational_amplifier_applications)
