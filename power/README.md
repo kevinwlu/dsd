@@ -8,6 +8,9 @@
 ## Power Management
 * [Power management integrated circuit](https://en.wikipedia.org/wiki/Power_management_integrated_circuit) (PMIC)
 * [Power Management Unit](https://en.wikipedia.org/wiki/Power_Management_Unit) (PMU)
+* [Power system simulation](https://en.wikipedia.org/wiki/Power_system_simulation)
+* [Power-flow study](https://en.wikipedia.org/wiki/Power-flow_study)
+* [Linear decision rule](https://link.springer.com/referenceworkentry/10.1007/1-4020-0612-8_515 (LDR)
 * [Low-dropout regulator](https://en.wikipedia.org/wiki/Low-dropout_regulator) (LDO)
 * [Sleep mode](https://en.wikipedia.org/wiki/Sleep_mode)
 * [BatteryML](https://github.com/microsoft/BatteryML)
