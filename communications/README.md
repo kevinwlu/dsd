@@ -44,6 +44,10 @@
   * [Juggling robot](https://www.youtube.com/watch?v=tXU3EPg2cgA)
   * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) 1915&mdash;2000
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+* [Entropy in thermodynamics and information theory](https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory)
+* [Entropy (astrophysics)](https://en.wikipedia.org/wiki/Entropy_(astrophysics))
+* [Entropy](https://en.wikipedia.org/wiki/Entropy)
+* [Entropy (disambiguation)](https://en.wikipedia.org/wiki/Entropy_(disambiguation))
 * [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
   * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
   * [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
