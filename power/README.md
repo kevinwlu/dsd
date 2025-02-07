@@ -20,6 +20,7 @@
 * [Laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
 * [Table of thermodynamic equations](https://en.wikipedia.org/wiki/Table_of_thermodynamic_equations)
 * [Entropy](https://en.wikipedia.org/wiki/Entropy)
+  * [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) 1822&mdash;1888
 * [Enthalpy](https://en.wikipedia.org/wiki/Enthalpy)
 * [Specific heat capacity](https://en.wikipedia.org/wiki/Specific_heat_capacity)
 * [Table of specific heat capacities](https://en.wikipedia.org/wiki/Table_of_specific_heat_capacities)
