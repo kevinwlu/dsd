@@ -1,4 +1,7 @@
 # Electronic Circuit
+## YouTube Channels
+* [CircuitBread](https://www.youtube.com/@CircuitBread/)
+---
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
 * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
