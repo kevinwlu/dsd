@@ -20,6 +20,7 @@
 ---
 * [Differential amplifier](https://en.wikipedia.org/wiki/Differential_amplifier)
 * [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
+  * [The Golden Rules of Op-Amps](https://www.circuitbread.com/ee-faq/what-are-the-golden-rules-of-op-amps)
 * [Operational amplifier applications](https://en.wikipedia.org/wiki/Operational_amplifier_applications)
   * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
 * [Negative-feedback amplifier](https://en.wikipedia.org/wiki/Negative-feedback_amplifier)
