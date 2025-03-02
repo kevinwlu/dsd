@@ -26,5 +26,6 @@
 * [Table of specific heat capacities](https://en.wikipedia.org/wiki/Table_of_specific_heat_capacities)
 * [Liquid metal](https://en.wikipedia.org/wiki/Liquid_metal)
 * [Immersion cooling](https://en.wikipedia.org/wiki/Immersion_cooling)
+  * [Submer Technologies]([https://submer.com/](https://wikitia.com/wiki/Submer_Technologies))
 ## Standards
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547)
