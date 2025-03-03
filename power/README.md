@@ -27,6 +27,7 @@
 * [Liquid metal](https://en.wikipedia.org/wiki/Liquid_metal)
 * [Immersion cooling](https://en.wikipedia.org/wiki/Immersion_cooling)
   * [Dielectric](https://en.wikipedia.org/wiki/Dielectric)
+  * [Liquid dielectric](https://en.wikipedia.org/wiki/Liquid_dielectric)
   * [Submer Technologies](https://wikitia.com/wiki/Submer_Technologies)
 ## Standards
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547)
