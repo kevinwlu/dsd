@@ -83,6 +83,8 @@
   * [Xilinx NGCodec Hardware HEVC Encoding User Guide](https://www.xilinx.com/publications/user-guide/partner/ug1408-ngcodec-hevc.pdf)
 * [Versatile Video Coding](https://en.wikipedia.org/wiki/Versatile_Video_Coding) (VVC, H.266, or MPEG-I Part 3)
 * [Essential Video Coding](https://en.wikipedia.org/wiki/Essential_Video_Coding) (EVC or MPEG-5 Part 1)
+* [JPEG](https://en.wikipedia.org/wiki/JPEG) (Joint Photographic Experts Group)
+  * [JPEG AI](https://jpeg.org/jpegai/)
 * [Motion JPEG](https://en.wikipedia.org/wiki/Motion_JPEG)
 * [JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000) (JP2)
 * [Audio Video Standard](https://en.wikipedia.org/wiki/Audio_Video_Standard) (AVS)
