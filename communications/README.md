@@ -145,6 +145,8 @@
 * [eSIM](https://en.wikipedia.org/wiki/ESIM)
   * [Holafly](https://esim.holafly.com/)
 * [International mobile subscriber identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
+* [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) (IMEI)
+* [Unstructured Supplementary Service Data](https://en.wikipedia.org/wiki/Unstructured_Supplementary_Service_Data) (USSD)
 * [Integrated circuit card identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) (ICCID)
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
