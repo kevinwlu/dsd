@@ -1,4 +1,6 @@
 # Projects
+* [Bejeweled (series)](https://en.wikipedia.org/wiki/Bejeweled_(series))
+* [Tetris](https://en.wikipedia.org/wiki/Tetris)
 ## 2023 Fall
 * [Brick Breaker](https://github.com/redassser/487Final)
 * [Evade](https://github.com/Aoli03/DSD-Final-Lab-Project)
