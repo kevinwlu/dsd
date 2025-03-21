@@ -93,5 +93,6 @@
 ## Data Centers
 * [Cirrascale Cloud Services](https://en.wikipedia.org/wiki/Cirrascale_Cloud_Services)
 * [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave)
+* [DOE Data Center Load Flexibility Workshop Summary](https://eta.lbl.gov/publications/doe-data-center-load-flexibility), January 1, 2025
 * [Moxa Technologies](https://en.wikipedia.org/wiki/Moxa_Technologies)
   * [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
