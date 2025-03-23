@@ -231,3 +231,8 @@
 * [Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard)
 * [Nintendo](https://en.wikipedia.org/wiki/Nintendo)
 * [Take-Two Interactive](https://en.wikipedia.org/wiki/Take-Two_Interactive)
+## Computer Graphics
+* [Computer graphics](https://en.wikipedia.org/wiki/Computer_graphics)
+* [Neural radiance field](https://en.wikipedia.org/wiki/Neural_radiance_field) (NeRF)
+* [Volume rendering](https://en.wikipedia.org/wiki/Volume_rendering)
+* [Gaussian splatting](https://en.wikipedia.org/wiki/Gaussian_splatting)
