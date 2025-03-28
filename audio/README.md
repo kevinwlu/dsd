@@ -3,6 +3,7 @@
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 * [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
 * [Amplifier](https://en.wikipedia.org/wiki/Amplifier)
+  * [LM386](https://en.wikipedia.org/wiki/LM386)
 * [Audio power amplifier](https://en.wikipedia.org/wiki/Audio_power_amplifier)
 * [Power amplifier classes](https://en.wikipedia.org/wiki/Power_amplifier_classes)
 * [Loudspeaker](https://en.wikipedia.org/wiki/Loudspeaker)
