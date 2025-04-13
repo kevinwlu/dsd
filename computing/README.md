@@ -97,3 +97,17 @@
 ## Quantum Computers
 * [Quantum circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
 * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
+* [Google Quantum AI](https://quantumai.google/)
+  * [Willow](https://blog.google/technology/research/google-willow-quantum-chip/), December 9, 2024
+  * [Willow processor](https://en.wikipedia.org/wiki/Willow_processor) a 105-qubit superconducting quantum computing processor
+* [IBM Quantum](https://www.ibm.com/quantum)
+  * [IBM Launches Its Most Advanced Quantum Computers, Fueling New Scientific Value and Progress towards Quantum Advantage](https://newsroom.ibm.com/2024-11-13-ibm-launches-its-most-advanced-quantum-computers,-fueling-new-scientific-value-and-progress-towards-quantum-advantage), November 13, 2024
+* [Intel Labs](https://en.wikipedia.org/wiki/Intel_Research_Lablets)
+  * [Tunnel Falls Quantum Research Chip](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
+* [Microsoft Azure Quantum](https://quantum.microsoft.com/)
+  * [Microsoft’s Majorana 1 chip carves new path for quantum computing](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
+  * [Introducing Microsoft Majorana 1](https://news.microsoft.com/azure-quantum/)
+  * [Majorana 1 Explained: The Path to a Million Qubits](https://www.youtube.com/watch?v=wSHmygPQukQ)
+  * [Majorana 1](https://en.wikipedia.org/wiki/Majorana_1)
+  * [Majorana fermion](https://en.wikipedia.org/wiki/Majorana_fermion)
+  * [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
