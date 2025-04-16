@@ -21,10 +21,11 @@
   * [Science Applications International Corporation](https://en.wikipedia.org/wiki/Science_Applications_International_Corporation) (SAIC)
 * [MIT Lincoln Laboratory](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
 * [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
+* [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 * [Vencore](https://en.wikipedia.org/wiki/Vencore)
   * [Peraton Labs](https://en.wikipedia.org/wiki/Peraton_Labs)
   * [Perspecta Inc.](https://en.wikipedia.org/wiki/Perspecta_Inc.)
-* [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
+* [United States Army Command, Control, Communication, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center](https://en.wikipedia.org/wiki/United_States_Army_Command,_Control,_Communication,_Computers,_Cyber,_Intelligence,_Surveillance_and_Reconnaissance_Center)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
