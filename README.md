@@ -193,6 +193,7 @@
   * [Horizontal pitch](https://en.wikipedia.org/wiki/Horizontal_pitch) (HP) is 0.2 inches (5.08 mm) used to measure the horizontal width of rack mounted electronic equipment
   * [Rack unit](https://en.wikipedia.org/wiki/Rack_unit) (U) is 1.75 inches (44.45 mm) used to measure vertical heights of rack mounted equipment
   * [Open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
+    * [Open Source Hardware Association](https://en.wikipedia.org/wiki/Open_Source_Hardware_Association) (OSHWA)
   * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
   * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
