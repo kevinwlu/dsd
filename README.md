@@ -192,10 +192,6 @@
   * [19-inch rack](https://en.wikipedia.org/wiki/19-inch_rack)
   * [Horizontal pitch](https://en.wikipedia.org/wiki/Horizontal_pitch) (HP) is 0.2 inches (5.08 mm) used to measure the horizontal width of rack mounted electronic equipment
   * [Rack unit](https://en.wikipedia.org/wiki/Rack_unit) (U) is 1.75 inches (44.45 mm) used to measure vertical heights of rack mounted equipment
-  * [Open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
-    * [Open Source Hardware Association](https://en.wikipedia.org/wiki/Open_Source_Hardware_Association) (OSHWA)
-  * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
-  * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU)
   * [CPU socket](https://en.wikipedia.org/wiki/CPU_socket)
   * [AMD WRX80 Motherboard64GB RAM ](https://www.gigabyte.com/Motherboard/WRX80-SU8-IPMI-rev-10#kf)
@@ -222,6 +218,11 @@
 * [Neural processor](https://en.wikichip.org/wiki/neural_processor)
 * [Organ-on-a-chip](https://en.wikipedia.org/wiki/Organ-on-a-chip) (OOC)
 * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
+---
+* [Open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
+  * [Open Source Hardware Association](https://en.wikipedia.org/wiki/Open_Source_Hardware_Association) (OSHWA)
+  * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
+  * [Open Rack](https://en.wikipedia.org/wiki/Open_Rack)
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [GNU Lesser General Public License](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) (LGPL)
   * [CERN](https://en.wikipedia.org/wiki/CERN) Open Hardware License ([OHL](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence))
