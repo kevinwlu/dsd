@@ -4,8 +4,10 @@
 * [Iain Explains Signals, Systems, and Digital Communications](https://www.youtube.com/@iain_explains) by Professor [Iain Collings](https://www.iaincollings.com/) of [Macquarie University](https://en.wikipedia.org/wiki/Macquarie_University) in Sydney, Australia
 * [Signals and Systems](https://www.youtube.com/playlist?app=desktop&list=PLXOYj6DUOGrrAlYxrAu5U2tteJTrSe5Gt) by EC Academy
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
-## Signals and Systems
+## Courses
+* [Signals and Systems](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) by Professor [Alan V. Oppenheim](https://en.wikipedia.org/wiki/Alan_V._Oppenheim) of MIT
 * [Signals and Systems](https://www.princeton.edu/~cuff/ele301/index.html) by Professor [Paul Cuff](https://www.princeton.edu/~cuff/) of Princeton University
+* [Digital Signal Processing](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/) by Professor Alan V. Oppenheim of MIT
 ## Signal Processing
 * [Analog signal](https://en.wikipedia.org/wiki/Analog_signal)
 * [Signal processing](https://en.wikipedia.org/wiki/Signal_processing)
