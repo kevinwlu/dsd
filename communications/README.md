@@ -49,7 +49,7 @@
 * [Original North American area codes](https://en.wikipedia.org/wiki/Original_North_American_area_codes)
 * [Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
 ## Information Theory
-* [Mathematical Analysis of Random Noise: Part I and Part II](https://ia802908.us.archive.org/4/items/bstj23-3-282/bstj23-3-282_text.pdf) and [Mathematical Analysis of Random Noise: Part III and Part IV](https://ia802201.us.archive.org/16/items/bstj24-1-46/bstj24-1-46.pdf) by [Stephen O. Rice](https://en.wikipedia.org/wiki/Stephen_O._Rice) 1907&mdash;1986
+* [Mathematical Analysis of Random Noise: Part I and Part II](https://ia802908.us.archive.org/4/items/bstj23-3-282/bstj23-3-282_text.pdf) and [Part III and Part IV](https://ia802201.us.archive.org/16/items/bstj24-1-46/bstj24-1-46.pdf) by [Stephen O. Rice](https://en.wikipedia.org/wiki/Stephen_O._Rice) 1907&mdash;1986
 * [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) by [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
   * [Juggling robot](https://www.youtube.com/watch?v=tXU3EPg2cgA)
   * [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) 1915&mdash;2000
