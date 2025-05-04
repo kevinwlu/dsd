@@ -34,6 +34,7 @@
 * [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 * [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)
   * [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) 1768&mdash;1830
+* [Hilbert transform](https://en.wikipedia.org/wiki/Hilbert_transform)
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
   * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
