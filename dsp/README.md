@@ -45,4 +45,7 @@
   * [Brook Taylor](https://en.wikipedia.org/wiki/Brook_Taylor) 1685&mdash;1731
 * [Wavelet](https://en.wikipedia.org/wiki/Wavelet)
 * [Wavelet transform](https://en.wikipedia.org/wiki/Wavelet_transform)
+  * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
+  * [Empirical wavelet transform](https://www.mathworks.com/help/wavelet/ug/empirical-wavelet-transform.html) (EWT)
+  * [ewt](https://www.mathworks.com/help/wavelet/ref/ewt.html)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
