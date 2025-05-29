@@ -12,9 +12,12 @@
 * [Building a Robust Semiconductor Ecosystem in New York State](https://esd.ny.gov/industries/semiconductors)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
 ---
-* [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
-* [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
-* [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
+* [Nobel Prize in Physics 1956](https://www.nobelprize.org/prizes/physics/1956/summary/)
+  * [William Shockley](https://en.wikipedia.org/wiki/William_Shockley) 1910&mdash;1989
+  * [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
+  * [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain) 1902&mdash;1987
+* [Comstock Prize in Physics](https://en.wikipedia.org/wiki/Comstock_Prize_in_Physics)
+  * [Cyrus B. Comstock](https://en.wikipedia.org/wiki/Cyrus_B._Comstock) 1831&mdash;19101
 * [Frederick Terman](https://en.wikipedia.org/wiki/Frederick_Terman) 1900&mdash;1982
 * [Arnold Beckman](https://en.wikipedia.org/wiki/Arnold_Beckman) 1900&mdash;2004
 * [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
