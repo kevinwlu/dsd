@@ -1,6 +1,7 @@
 # Electronic Circuit
 ## YouTube Channels
 * [CircuitBread](https://www.youtube.com/@CircuitBread/)
+* [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 ---
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
 ---
