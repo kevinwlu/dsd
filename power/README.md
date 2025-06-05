@@ -29,6 +29,7 @@
   * [Dielectric](https://en.wikipedia.org/wiki/Dielectric)
   * [Liquid dielectric](https://en.wikipedia.org/wiki/Liquid_dielectric)
   * [Submer Technologies](https://wikitia.com/wiki/Submer_Technologies)
+  * [Iceotope](https://www.iceotope.com/) 
 ## Standards
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
 * [Nuclear Power and Flexible Grid Solutions](https://ieee-pes.org/trending-tech/nuclear-power-and-flexible-grid-solutions/)
