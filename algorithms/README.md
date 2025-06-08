@@ -63,6 +63,8 @@
 * [Discrete wavelet transform](https://en.wikipedia.org/wiki/Discrete_wavelet_transform) (DWT)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
 ## Graphics
+* [Midpoint circle algorithm](https://en.wikipedia.org/wiki/Midpoint_circle_algorithm)
+  * [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson) 1951&mdash;2025
 * [Texture mapping](https://en.wikipedia.org/wiki/Texture_mapping)
 ## Modeling and Simulation
 * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
