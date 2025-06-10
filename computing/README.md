@@ -94,6 +94,7 @@
 * [DOE Data Center Load Flexibility Workshop Summary](https://eta.lbl.gov/publications/doe-data-center-load-flexibility), January 1, 2025
 * [Moxa Technologies](https://en.wikipedia.org/wiki/Moxa_Technologies)
   * [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
+* [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
 ## Quantum Computers
 * [Quantum circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
 * [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
