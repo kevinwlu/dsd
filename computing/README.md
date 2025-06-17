@@ -40,7 +40,7 @@
 * [Tamperproofing](https://en.wikipedia.org/wiki/Tamperproofing)
 * [Pentalobe screw](https://en.wikipedia.org/wiki/Pentalobe_screw)
 * [Apple](https://en.wikipedia.org/wiki/Apple) flowers have five [petals](https://en.wikipedia.org/wiki/Petal) and the fruits have five [carpels](https://en.wikipedia.org/wiki/Gynoecium#Carpels)
-* [Navel Gazing and the Golden Ratio: What an apple, a pentagram and a bellybutton have in common.](https://www.nytimes.com/interactive/2025/06/16/science/math-strogatz-leonardo-bellybutton.html)
+* [Navel Gazing and the Golden Ratio: What an apple, a pentagram and a bellybutton have in common.](https://www.nytimes.com/interactive/2025/06/16/science/math-strogatz-leonardo-bellybutton.html), June 16, 2025
 * [Mammiform Crown Base Protuberances](https://adamapples.blogspot.com/2021/02/mammiform-crown-base-protuberances.html)
 * [Torx](https://en.wikipedia.org/wiki/Torx)
 ---
