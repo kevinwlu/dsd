@@ -104,6 +104,10 @@
   * [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) 1857&mdash;1894
     * [Hertz](https://en.wikipedia.org/wiki/Hertz)
   * [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) 1874&mdash;1937
+  * [Louis Alan Hazeltine](https://en.wikipedia.org/wiki/Louis_Alan_Hazeltine) 1886&mdash;1964
+    * [Neutrodyne](https://en.wikipedia.org/wiki/Neutrodyne)
+  * [Edwin Howard Armstrong](https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong) 1890&mdash;1954
+    * [Superheterodyne receiver](https://en.wikipedia.org/wiki/Superheterodyne_receiver)
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Non-line-of-sight propagation](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) (NLOS)
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
