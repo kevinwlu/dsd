@@ -17,7 +17,9 @@
 ---
 * [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
 * [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
-* [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
+* [BAE Systems Inc.](https://en.wikipedia.org/wiki/BAE_Systems_Inc.)
+  * [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
+  * [Hazeltine Corporation](https://en.wikipedia.org/wiki/Hazeltine_Corporation)
 * [Bechtel](https://en.wikipedia.org/wiki/Bechtel)
 * [CACI](https://en.wikipedia.org/wiki/CACI)
 * [General Dynamics](https://en.wikipedia.org/wiki/General_Dynamics) (GD)
