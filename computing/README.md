@@ -2,6 +2,7 @@
 ## YouTube Channels
 * [Brilliant.org](https://www.youtube.com/c/BrilliantOrg)
 * [ForrestKnight](https://www.youtube.com/@fknight/) by [Forrest Knight](https://www.linkedin.com/in/forrestpknight/) | [GitHub](https://github.com/ForrestKnight)
+* [Paul's Harware](https://www.youtube.com/@paulshardware/)
 * [Up and Atom](https://www.youtube.com/@upandatom) by [Jade Tan-Holmes](https://www.linkedin.com/in/jade-tan-holmes-2b6846175/)
 ---
 * [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
