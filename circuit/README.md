@@ -3,6 +3,7 @@
 * [CircuitBread](https://www.youtube.com/@CircuitBread/)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 ---
+* [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
 ---
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
