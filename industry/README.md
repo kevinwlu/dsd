@@ -59,6 +59,7 @@
   * [William McLellan](https://en.wikipedia.org/wiki/William_McLellan_(American_electrical_engineer)) 1924&mdash;2011
   * [Chronova Engineering](https://www.chronova-engineering.co.uk/)
     * [YouTube](https://www.youtube.com/@chronovaengineering/)
+    * [Stirling engine](https://en.wikipedia.org/wiki/Stirling_engine) 1816 by [Robert Stirling](https://en.wikipedia.org/wiki/Robert_Stirling) 1790&mdash;1878
 * [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
