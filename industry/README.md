@@ -54,6 +54,9 @@
 * [Organic electrochemical transistor](https://en.wikipedia.org/wiki/Organic_electrochemical_transistor) (OECT)
 * [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
 * [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
+  * [There's Plenty of Room at the Bottom](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom) 1959
+  * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
+  * [William McLellan](https://en.wikipedia.org/wiki/William_McLellan_(American_electrical_engineer)) 1924&mdash;2011
 * [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
