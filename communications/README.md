@@ -17,6 +17,7 @@
 ---
 * [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
 * [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
+* [List of modern armament manufacturers](https://en.wikipedia.org/wiki/List_of_modern_armament_manufacturers)
 * [BAE Systems Inc.](https://en.wikipedia.org/wiki/BAE_Systems_Inc.)
   * [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
   * [Hazeltine Corporation](https://en.wikipedia.org/wiki/Hazeltine_Corporation)
@@ -31,7 +32,9 @@
 * [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
 * [Northrop Grumman](https://en.wikipedia.org/wiki/Northrop_Grumman)
 * [Peraton](https://en.wikipedia.org/wiki/Peraton)
+* [Rheinmetall](https://en.wikipedia.org/wiki/Rheinmetall)
 * [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
+* [Thales Group](https://en.wikipedia.org/wiki/Thales_Group)
 * [Vencore](https://en.wikipedia.org/wiki/Vencore)
   * [Peraton Labs](https://en.wikipedia.org/wiki/Peraton_Labs)
   * [Perspecta Inc.](https://en.wikipedia.org/wiki/Perspecta_Inc.)
