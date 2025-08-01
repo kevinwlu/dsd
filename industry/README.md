@@ -143,6 +143,8 @@
 * [Technischer Überwachungsverein](https://en.wikipedia.org/wiki/Technischer_%C3%9Cberwachungsverein) (TÜV)
 * [UL](https://en.wikipedia.org/wiki/UL_(safety_organization))
 ## Semiconductor Companies
+* [List of largest technology companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue)
+* [List of public corporations by market capitalization](https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization)
 * [List of semiconductor companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
   * [Foundry model](https://en.wikipedia.org/wiki/Foundry_model)
   * [Pure play](https://en.wikipedia.org/wiki/Pure_play) foundries
