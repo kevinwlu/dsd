@@ -24,6 +24,7 @@
   * [IEEE P3307](https://standards.ieee.org/ieee/3307/11503/) Adoption of Moving Picture, Audio and Data Coding by Artificial Intelligence (MPAI) Technical Specification Connected Autonomous Vehicle - Architecture (CAV) Version 1
 * [North American Charging Standard](https://en.wikipedia.org/wiki/North_American_Charging_Standard) (NACS)
   * [Opening the North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) by The Tesla Team, November 11, 2022
+* [Profinet](https://en.wikipedia.org/wiki/Profinet)
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
   * [Open Artwork System Interchange Standard](https://en.wikipedia.org/wiki/Open_Artwork_System_Interchange_Standard) (OASIS) replaced Graphic Design System [GDSII](https://en.wikipedia.org/wiki/GDSII)
 * [Semiconductor Industry Association](https://en.wikipedia.org/wiki/Semiconductor_Industry_Association) (SIA)
