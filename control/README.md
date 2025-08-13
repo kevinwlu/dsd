@@ -6,6 +6,7 @@
 * [Control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 * [Gimbal](https://en.wikipedia.org/wiki/Gimbal)
 * [Guidance, navigation, and control](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control) (GNC)
+  * [GNC (company)](https://en.wikipedia.org/wiki/GNC_(company)), an initialism of General Nutrition Centers
 * [Bode plot](https://en.wikipedia.org/wiki/Bode_plot)
   * [Hendrik Wade Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode) 1905&mdash;1982
 * [Controllability](https://en.wikipedia.org/wiki/Controllability)
