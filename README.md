@@ -181,7 +181,7 @@
 * [Restriction of Hazardous Substances Directive](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive) (RoHS)
 * [Waste Electrical and Electronic Equipment Directive](https://en.wikipedia.org/wiki/Waste_Electrical_and_Electronic_Equipment_Directive) (WEEE)
 * [Hardware acceleration](https://en.wikipedia.org/wiki/Hardware_acceleration)
-  * [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) or neural processing unit (NPU)
+  * [Neural processing unit](https://en.wikipedia.org/wiki/Neural_processing_unit) (NPU) or AI accelerator
   * [Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board) (PCB)
     * [*Fundamentals of Printed Circuit Board Technologies*](https://asc-i.com/fundamentals-pcb-tech/download-e-book) by [American Standard Circuits](https://asc-i.com/)
     * [Gerber format](https://en.wikipedia.org/wiki/Gerber_format) is named after [Heinz Joseph Gerber](https://en.wikipedia.org/wiki/Joseph_Gerber) 1924&mdash;1996
