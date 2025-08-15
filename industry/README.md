@@ -176,6 +176,7 @@
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
+* [Ambarella Inc.](https://en.wikipedia.org/wiki/Ambarella_Inc.)
 * [Ambiq](https://ambiq.com/)
 * [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
   * [Xilinx](https://en.wikipedia.org/wiki/Xilinx)
