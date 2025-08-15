@@ -278,6 +278,7 @@
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye) was acquired by Intel in 2017 and went public again in 2022
 * [Sony Semiconductor Israel](https://en.wikipedia.org/wiki/Sony_Semiconductor_Israel), formerly Altair Semiconductor
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
+* [Weebit Nano](https://en.wikipedia.org/wiki/Weebit_Nano)
 ## Japan
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
