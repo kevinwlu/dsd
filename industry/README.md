@@ -173,6 +173,7 @@
 ## Alliances and Consortia
 * [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems) [repositories](https://github.com/chipsalliance)
 ## The United States
+* [AIStorm](https://aistorm.ai/)
 * [Alif Semiconductor](https://alifsemi.com/)
 * [Allied Electronics and Automation](https://en.wikipedia.org/wiki/Allied_Electronics)
 * [Amazon](https://en.wikipedia.org/wiki/Amazon_(company))
