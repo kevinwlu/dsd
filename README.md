@@ -208,6 +208,7 @@
 * [Direct memory access](https://en.wikipedia.org/wiki/Direct_memory_access) (DMA)
 * [In-memory processing](https://en.wikipedia.org/wiki/In-memory_processing)
 * [Legendre memory unit](https://www.nengo.ai/nengo/examples/learning/lmu.html) (LMU)
+* [Network-attached storage](https://en.wikipedia.org/wiki/Network-attached_storage) (NAS)
 * [Multiple buffering](https://en.wikipedia.org/wiki/Multiple_buffering)
 * [Framebuffer](https://en.wikipedia.org/wiki/Framebuffer)
 * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
