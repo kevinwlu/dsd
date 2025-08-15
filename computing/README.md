@@ -38,6 +38,7 @@
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 * [Floating point operations per second](https://en.wikipedia.org/wiki/Floating_point_operations_per_second) (FLOPS)
+  * Trillions of operations per second (TOPS)
 ---
 * [Tamperproofing](https://en.wikipedia.org/wiki/Tamperproofing)
 * [Pentalobe screw](https://en.wikipedia.org/wiki/Pentalobe_screw)
