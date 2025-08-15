@@ -47,6 +47,7 @@
 ---
 * [Neural network (biology)](https://en.wikipedia.org/wiki/Neural_network_(biology))
 * [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
+* [Neuromorphic computing](https://en.wikipedia.org/wiki/Neuromorphic_computing)
 * [Backpropagation through time](https://en.wikipedia.org/wiki/Backpropagation_through_time) (BPTT)
 * [Cochleagram](https://en.wiktionary.org/wiki/cochleagram)
 * [Cognitive computer](https://en.wikipedia.org/wiki/Cognitive_computer)
