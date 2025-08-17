@@ -5,6 +5,7 @@
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 * [Gimbal](https://en.wikipedia.org/wiki/Gimbal)
+* [Gimbaled thrust](https://en.wikipedia.org/wiki/Gimbaled_thrust)
 * [Guidance, navigation, and control](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control) (GNC)
   * [GNC (company)](https://en.wikipedia.org/wiki/GNC_(company)), an initialism of General Nutrition Centers
 * [Bode plot](https://en.wikipedia.org/wiki/Bode_plot)
