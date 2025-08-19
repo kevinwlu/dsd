@@ -173,6 +173,7 @@
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
 * [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
+* [Ataya](https://www.ataya.io/)
 ## Software-Defined Radio
 * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * [Vanu Bose](https://en.wikipedia.org/wiki/Vanu_Bose) 1965&mdash;2017
