@@ -140,6 +140,10 @@
   * [Bootloader](https://en.wikipedia.org/wiki/Bootloader)
 * [High Bandwidth Memory](https://en.wikipedia.org/wiki/High_Bandwidth_Memory) (HBM)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+  * [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer)
+  * [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system)
+  * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
+  * [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
   * [Basic Input/Output System](https://en.wikipedia.org/wiki/BIOS) (BIOS)
   * [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI) (UEFI)
