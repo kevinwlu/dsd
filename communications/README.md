@@ -115,6 +115,7 @@
     * [Superheterodyne receiver](https://en.wikipedia.org/wiki/Superheterodyne_receiver)
 * [Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
 * [Non-line-of-sight propagation](https://en.wikipedia.org/wiki/Non-line-of-sight_propagation) (NLOS)
+* [Orthogonal Time Frequency Space](https://en.wikipedia.org/wiki/Orthogonal_Time_Frequency_Space) (OTFS)
 * [Over-the-air update](https://en.wikipedia.org/wiki/Over-the-air_update)
 * [Polar code](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 * [eNodeB](https://en.wikipedia.org/wiki/ENodeB)
