@@ -299,6 +299,7 @@
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sega](https://en.wikipedia.org/wiki/Sega)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
+* [Taiyo Yuden](https://en.wikipedia.org/wiki/Taiyo_Yuden)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ## South Korea
 * [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)
