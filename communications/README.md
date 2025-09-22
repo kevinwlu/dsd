@@ -14,6 +14,7 @@
 ---
 * [Brocade Communications Systems](https://en.wikipedia.org/wiki/Brocade_Communications_Systems)
 * [Cisco](https://en.wikipedia.org/wiki/Cisco)
+* [Coherent Corp.](https://en.wikipedia.org/wiki/Coherent_Corp.)
 ---
 * [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
 * [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
