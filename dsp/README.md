@@ -36,6 +36,7 @@
 * [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)
   * [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) 1768&mdash;1830
 * [Hilbert transform](https://en.wikipedia.org/wiki/Hilbert_transform)
+  * [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) 1862&mdash;1943
 * [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
   * [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) 1749&mdash;1827
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
@@ -51,3 +52,10 @@
   * [Empirical wavelet transform](https://www.mathworks.com/help/wavelet/ug/empirical-wavelet-transform.html) (EWT)
   * [ewt](https://www.mathworks.com/help/wavelet/ref/ewt.html)
 * [Z-transform](https://en.wikipedia.org/wiki/Z-transform)
+  * [Witold Hurewicz](https://en.wikipedia.org/wiki/Witold_Hurewicz) 1904&mdash;1956
+  * [John R. Ragazzini](https://en.wikipedia.org/wiki/John_R._Ragazzini) 1912&mdash;1988
+  * [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh) 1921&mdash;2017
+* [Advanced z-transform](https://en.wikipedia.org/wiki/Advanced_z-transform)
+  * [Eliahu I. Jury](https://en.wikipedia.org/wiki/Eliahu_I._Jury) 1923&mdash;2020
+* [Zak transform](https://en.wikipedia.org/wiki/Zak_transform)
+  * [Joshua Zak](https://en.wikipedia.org/wiki/Joshua_Zak) 1929&mdash;2024
