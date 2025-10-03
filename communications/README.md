@@ -219,6 +219,11 @@
   * [USRP in Python](https://pysdr.org/content/usrp.html)
 * [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 * [RTL-SDR](https://www.rtl-sdr.com/)
+* [Open RAN](https://en.wikipedia.org/wiki/Open_RAN)
+  * [O-RAN Alliance](https://www.o-ran.org/)
+  * [O-RAN Near-Real Time RIC Installation Guide](https://openaicellular.github.io/oaic/oran_installation.html)
+* [srsRAN](https://www.srslte.com/)
+  * [Installation Guide](https://docs.srsran.com/projects/project/en/latest/user_manuals/source/installation.html)
 ## Communication and Sensing
 * [Integrated sensing and communication](https://isac.committees.comsoc.org/) (ISAC)
 * [Passive radar](https://en.wikipedia.org/wiki/Passive_radar)
