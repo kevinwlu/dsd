@@ -17,6 +17,7 @@
 * IEEE [International Roadmap for Devices and Systems](https://irds.ieee.org/) (IRDS)
 * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
 * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
+* [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
