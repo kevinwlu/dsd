@@ -33,6 +33,7 @@
 * [Mitre Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation)
 * [Northrop Grumman](https://en.wikipedia.org/wiki/Northrop_Grumman)
 * [Peraton](https://en.wikipedia.org/wiki/Peraton)
+* [Radio Club of America](https://radioclubofamerica.org/)
 * [Rheinmetall](https://en.wikipedia.org/wiki/Rheinmetall)
 * [RTX Corporation](https://en.wikipedia.org/wiki/RTX_Corporation)
 * [Thales Group](https://en.wikipedia.org/wiki/Thales_Group)
