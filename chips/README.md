@@ -80,6 +80,7 @@
     * [Part I](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf)
     * [Part II](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-2-Qualcomm-is-uniquely-positioned-to-scale-hybrid-AI.pdf)
   * [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
+  * [Dragonwing](https://www.qualcomm.com/dragonwing)
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 
 ## Packaging
