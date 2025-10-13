@@ -81,6 +81,7 @@
     * [Part II](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-2-Qualcomm-is-uniquely-positioned-to-scale-hybrid-AI.pdf)
   * [Snapdragon](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_processors)
   * [Dragonwing](https://www.qualcomm.com/dragonwing)
+    * [Qualcomm Launches World’s First Enterprise Mobile Processor With Fully Integrated RFID Capabilities](https://www.qualcomm.com/news/releases/2025/08/qualcomm-launches-world-s-first-enterprise-mobile-processor-with), 26 August 2025
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 
 ## Packaging
