@@ -2,6 +2,7 @@
 * [Sound](https://en.wikipedia.org/wiki/Sound)
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 * [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
+* [Stethoscope](https://en.wikipedia.org/wiki/Stethoscope)
 * [Amplifier](https://en.wikipedia.org/wiki/Amplifier)
   * [LM386](https://en.wikipedia.org/wiki/LM386)
 * [Audio power amplifier](https://en.wikipedia.org/wiki/Audio_power_amplifier)
