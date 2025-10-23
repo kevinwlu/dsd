@@ -16,3 +16,4 @@
   * [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
 ---
 * [Proportional myoelectric control](https://en.wikipedia.org/wiki/Proportional_myoelectric_control)
+* [Proportional–integral–derivative controller](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller)
