@@ -18,6 +18,7 @@
 * [Thermal management](https://en.wikipedia.org/wiki/Thermal_management_(electronics))
 * [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics)
 * [Laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
+* [List of thermodynamic properties](https://en.wikipedia.org/wiki/List_of_thermodynamic_properties)
 * [Table of thermodynamic equations](https://en.wikipedia.org/wiki/Table_of_thermodynamic_equations)
 * [Entropy](https://en.wikipedia.org/wiki/Entropy)
   * [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) 1822&mdash;1888
@@ -30,6 +31,7 @@
   * [Liquid dielectric](https://en.wikipedia.org/wiki/Liquid_dielectric)
   * [Submer Technologies](https://wikitia.com/wiki/Submer_Technologies)
   * [Iceotope](https://www.iceotope.com/) 
+* [Thermal inertia](https://en.wikipedia.org/wiki/Thermal_inertia)
 ## Standards
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
 * [Nuclear Power and Flexible Grid Solutions](https://ieee-pes.org/trending-tech/nuclear-power-and-flexible-grid-solutions/)
