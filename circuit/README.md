@@ -26,6 +26,8 @@
   * [Samuel Hunter Christie](https://en.wikipedia.org/wiki/Samuel_Hunter_Christie) 1784&mdash;1865
   * [Charles Wheatstone](https://en.wikipedia.org/wiki/Charles_Wheatstone) 1802&mdash;1875
 ---
+* [Flywheel effect](https://en.wikipedia.org/wiki/Flywheel_effect)
+---
 * [Differential amplifier](https://en.wikipedia.org/wiki/Differential_amplifier)
 * [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier)
   * [The Golden Rules of Op-Amps](https://www.circuitbread.com/ee-faq/what-are-the-golden-rules-of-op-amps)
