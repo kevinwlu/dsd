@@ -175,6 +175,7 @@
 * [Anechoic chamber](https://en.wikipedia.org/wiki/Anechoic_chamber)
 * [Reverberation chamber](https://en.wikipedia.org/wiki/Reverberation_room)
 * [Electromagnetic reverberation chamber](https://en.wikipedia.org/wiki/Electromagnetic_reverberation_chamber)
+* [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage)
 * [First-person view (radio control)](https://en.wikipedia.org/wiki/First-person_view_(radio_control)) (FPV)
 * [Ataya](https://www.ataya.io/)
 ## Software-Defined Radio
