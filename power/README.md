@@ -4,6 +4,8 @@
 * [Charles P. Steinmetz Memorial Lecture](https://en.wikipedia.org/wiki/Charles_P._Steinmetz_Memorial_Lecture)
 * [IEEE Charles Proteus Steinmetz Award](https://en.wikipedia.org/wiki/IEEE_Charles_Proteus_Steinmetz_Award)
 * [List of battery sizes](https://en.wikipedia.org/wiki/List_of_battery_sizes)
+  * [Lithium-ion battery](https://en.wikipedia.org/wiki/Lithium-ion_battery)
+  * [Lithium polymer battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
 * [Inductive charging](https://en.wikipedia.org/wiki/Inductive_charging)
 ## Power Management
 * [Power management integrated circuit](https://en.wikipedia.org/wiki/Power_management_integrated_circuit) (PMIC)
