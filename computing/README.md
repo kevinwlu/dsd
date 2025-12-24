@@ -99,9 +99,11 @@
 * [Microway](https://www.microway.com/)
 * [Supermicro](https://en.wikipedia.org/wiki/Supermicro)
 ## Data Centers
+* [Data center](https://en.wikipedia.org/wiki/Data_center)
 * [Cirrascale Cloud Services](https://en.wikipedia.org/wiki/Cirrascale_Cloud_Services)
 * [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave)
 * [DOE Data Center Load Flexibility Workshop Summary](https://eta.lbl.gov/publications/doe-data-center-load-flexibility), January 1, 2025
+* [Google data centers](https://en.wikipedia.org/wiki/Google_data_centers)
 * [Moxa Technologies](https://en.wikipedia.org/wiki/Moxa_Technologies)
   * [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
 * [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)
