@@ -36,4 +36,7 @@
 * [Thermal inertia](https://en.wikipedia.org/wiki/Thermal_inertia)
 ## Standards
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
+## Nuclear Power
 * [Nuclear Power and Flexible Grid Solutions](https://ieee-pes.org/trending-tech/nuclear-power-and-flexible-grid-solutions/)
+* [Fukushima Daiichi Nuclear Power Plant](https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant)
+* [Kashiwazaki-Kariwa Nuclear Power Plant](https://en.wikipedia.org/wiki/Kashiwazaki-Kariwa_Nuclear_Power_Plant)
