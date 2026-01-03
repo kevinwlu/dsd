@@ -216,6 +216,7 @@
 * [Multiple buffering](https://en.wikipedia.org/wiki/Multiple_buffering)
 * [Framebuffer](https://en.wikipedia.org/wiki/Framebuffer)
 * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
+  * [Amir Salek](https://en.wikipedia.org/wiki/Amir_Salek)
   * [Coral](https://coral.ai/products/accelerator/)
 * [Vision processing unit](https://en.wikipedia.org/wiki/Vision_processing_unit) (VPU)
   * [Movidius](https://en.wikipedia.org/wiki/Movidius)
