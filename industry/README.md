@@ -197,6 +197,7 @@
   * [Silicon One](https://www.cisco.com/c/en/us/solutions/silicon-one.html)
 * [Diodes Incorporated](https://en.wikipedia.org/wiki/Diodes_Incorporated)
 * [Google](https://en.wikipedia.org/wiki/Google)
+  * [Google Axion processors](https://cloud.google.com/products/axion)
 * [Honeywell](https://en.wikipedia.org/wiki/Honeywell)
   * [Intermec](https://en.wikipedia.org/wiki/Intermec)
 * [IBM](https://en.wikipedia.org/wiki/IBM)
