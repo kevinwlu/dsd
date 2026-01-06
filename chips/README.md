@@ -94,6 +94,7 @@
 * [Chip-scale package](https://en.wikipedia.org/wiki/Chip-scale_package) (CSP)
 * [Wafer-level packaging](https://en.wikipedia.org/wiki/Wafer-level_packaging) (WLP)
 * [Chip-on-Wafer-on-Substrate](https://en.wikichip.org/wiki/tsmc/cowos) (CoWoS)
+  * [The Chronicle of CoWoS](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm)
 
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
