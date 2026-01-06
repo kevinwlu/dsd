@@ -295,7 +295,8 @@
 * [Nichia](https://en.wikipedia.org/wiki/Nichia)
 * [Panasonic](https://en.wikipedia.org/wiki/Panasonic)
   * [Sanyo](https://en.wikipedia.org/wiki/Sanyo)
-* [Rapidus](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips)
+* [Rapidus](https://en.wikipedia.org/wiki/Rapidus)
+  * [Toyota joins 7 other Japan companies to make next-generation chips](https://asia.nikkei.com/Business/Tech/Semiconductors/Toyota-joins-7-other-Japan-companies-to-make-next-generation-chips), November 10, 2022
 * [Renesas Electronics](https://en.wikipedia.org/wiki/Renesas_Electronics)
   * [Dialog Semiconductor](https://en.wikipedia.org/wiki/Dialog_Semiconductor)
   * [Design AI/ML Applications the Easy Way](https://www.renesas.com/en/blogs/design-aiml-applications-easy-way)
