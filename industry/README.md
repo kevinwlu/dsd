@@ -287,6 +287,8 @@
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 * [Weebit Nano](https://en.wikipedia.org/wiki/Weebit_Nano)
 ## Japan
+* [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
+  * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF) 
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
 * [Fujitsu](https://en.wikipedia.org/wiki/Fujitsu)
 * [Hitachi](https://en.wikipedia.org/wiki/Hitachi)
