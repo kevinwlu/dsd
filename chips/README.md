@@ -95,6 +95,8 @@
 * [Wafer-level packaging](https://en.wikipedia.org/wiki/Wafer-level_packaging) (WLP)
 * [Chip-on-Wafer-on-Substrate](https://en.wikichip.org/wiki/tsmc/cowos) (CoWoS)
   * [The Chronicle of CoWoS](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm)
+* [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
+  * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF)
 
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
