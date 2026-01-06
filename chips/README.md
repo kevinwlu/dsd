@@ -70,7 +70,11 @@
     * [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
   * [Blackwell (microarchitecture)](https://en.wikipedia.org/wiki/Blackwell_(microarchitecture))
     * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
-  * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
+    * [GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) connects 36 Grace CPUs and 72 Blackwell GPUs in a rack-scale design
+  * [Rubin (microarchitecture)](https://en.wikipedia.org/wiki/Rubin_(microarchitecture))
+    * [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin) 1928&mdash;2016
+  * [Feynman (microarchitecture)](https://en.wikipedia.org/wiki/Feynman_(microarchitecture))
+    * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
   * [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
   * [Groq](https://en.wikipedia.org/wiki/Groq)
