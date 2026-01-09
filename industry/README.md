@@ -305,6 +305,7 @@
   * [Design AI/ML Applications the Easy Way](https://www.renesas.com/en/blogs/design-aiml-applications-easy-way)
 * [Ricoh](https://en.wikipedia.org/wiki/Ricoh)
 * [Sega](https://en.wikipedia.org/wiki/Sega)
+* [Shin-Etsu Chemical](https://en.wikipedia.org/wiki/Shin-Etsu_Chemical)
 * [Sony](https://en.wikipedia.org/wiki/Sony)
   * [START Lab](https://en.wikipedia.org/wiki/START_Lab)
   * [Taiyo Yuden](https://en.wikipedia.org/wiki/Taiyo_Yuden)
