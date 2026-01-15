@@ -20,6 +20,7 @@
 * [Norton's theorem](https://en.wikipedia.org/wiki/Norton%27s_theorem) 1926
   * [Hans Ferdinand Mayer](https://en.wikipedia.org/wiki/Hans_Ferdinand_Mayer) 1895&mdash;1980
   * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
+* [Root mean square](https://en.wikipedia.org/wiki/Root_mean_square) (RMS)
 * [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) 1847&mdash;1922
 ---
 * [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge) 1833 and 1843
