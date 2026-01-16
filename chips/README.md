@@ -66,7 +66,7 @@
   * [NVIDIA H100 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h100/)
   * [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems) performance analysis tool
   * [NVIDIA Nsight Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) (VSE) to build and debug integrated GPU kernels and native CPE code as well as inspect the state of the GPU and memory
-  * [Hopper](https://en.wikipedia.org/wiki/Hopper_(microarchitecture))
+  * [Hopper (microarchitecture)](https://en.wikipedia.org/wiki/Hopper_(microarchitecture))
     * [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) 1906&mdash;1992
   * [Blackwell (microarchitecture)](https://en.wikipedia.org/wiki/Blackwell_(microarchitecture))
     * [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 1919&mdash;2010
@@ -88,6 +88,7 @@
   * [Dragonwing](https://www.qualcomm.com/dragonwing)
     * [Qualcomm Launches World’s First Enterprise Mobile Processor With Fully Integrated RFID Capabilities](https://www.qualcomm.com/news/releases/2025/08/qualcomm-launches-world-s-first-enterprise-mobile-processor-with), 26 August 2025
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
+* [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
 
 ## Packaging
 * [Integrated circuit packaging](https://en.wikipedia.org/wiki/Integrated_circuit_packaging)
