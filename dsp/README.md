@@ -25,6 +25,7 @@
 * [Recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 * [Finite impulse response](https://en.wikipedia.org/wiki/Finite_impulse_response) (FIR)
 * [Infinite impulse response](https://en.wikipedia.org/wiki/Infinite_impulse_response) (IIR)
+* [International Conference on Acoustics, Speech, and Signal Processing](https://en.wikipedia.org/wiki/International_Conference_on_Acoustics,_Speech,_and_Signal_Processing)
 ---
 * [Complex analysis](https://en.wikipedia.org/wiki/Complex_analysis)
   * [*Alice's Adventures in Wonderland*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) by [Lewis Carroll](https://en.wikipedia.org/wiki/Lewis_Carroll) 1832&mdash;1898
