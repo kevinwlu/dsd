@@ -7,6 +7,7 @@
   * [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
 * [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292), [Radio Frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF) [Applications Engineer](https://en.wikipedia.org/wiki/Applied_engineering_(field)) at [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
 ## Documentation
+* [Mermaid (software)](https://en.wikipedia.org/wiki/Mermaid_(software))
 * [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
 * [Q-circuit](https://physics.unm.edu/CQuIC/Qcircuit/)
   * [Q-circuit tutorial](https://physics.unm.edu/CQuIC/Qcircuit/Qtutorial.pdf)
