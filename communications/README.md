@@ -82,6 +82,7 @@
 * [Orthogonal frequency-division multiplexing](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing) (OFDM)
 * [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying) (PSK)
 * [Quadrature amplitude modulation](https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation) (QAM)
+* [Reconfigurable Intelligent Surfaces](https://www.etsi.org/technologies/reconfigurable-intelligent-surfaces) (RIS)
 ## Optical Communications
 * [Arrayed waveguide grating](https://en.wikipedia.org/wiki/Arrayed_waveguide_grating)
 * [Coherence](https://en.wikipedia.org/wiki/Coherence_(physics))
