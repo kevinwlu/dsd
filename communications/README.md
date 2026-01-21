@@ -78,6 +78,7 @@
 * [Modulation](https://en.wikipedia.org/wiki/Modulation)
 * [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying) (FSK)
 * [Intensity modulation](https://en.wikipedia.org/wiki/Intensity_modulation)/direct detection (IM/DD)
+* [Orthogonal Chirp Division Multiplexing](https://www.emergentmind.com/topics/orthogonal-chirp-division-multiplexing-ocdm) (OCDM)
 * [Orthogonal frequency-division multiplexing](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing) (OFDM)
 * [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying) (PSK)
 * [Quadrature amplitude modulation](https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation) (QAM)
@@ -225,7 +226,6 @@
 * [Open RAN](https://en.wikipedia.org/wiki/Open_RAN)
   * [O-RAN Alliance](https://www.o-ran.org/)
   * [O-RAN Near-Real Time RIC Installation Guide](https://openaicellular.github.io/oaic/oran_installation.html)
-* [Orthogonal Chirp Division Multiplexing](https://www.emergentmind.com/topics/orthogonal-chirp-division-multiplexing-ocdm) (OCDM)
 * [srsRAN](https://www.srslte.com/)
   * [Installation Guide](https://docs.srsran.com/projects/project/en/latest/user_manuals/source/installation.html)
 ## Communication and Sensing
