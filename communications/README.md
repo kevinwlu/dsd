@@ -225,6 +225,7 @@
 * [Open RAN](https://en.wikipedia.org/wiki/Open_RAN)
   * [O-RAN Alliance](https://www.o-ran.org/)
   * [O-RAN Near-Real Time RIC Installation Guide](https://openaicellular.github.io/oaic/oran_installation.html)
+* [Orthogonal Chirp Division Multiplexing](https://www.emergentmind.com/topics/orthogonal-chirp-division-multiplexing-ocdm) (OCDM)
 * [srsRAN](https://www.srslte.com/)
   * [Installation Guide](https://docs.srsran.com/projects/project/en/latest/user_manuals/source/installation.html)
 ## Communication and Sensing
