@@ -104,8 +104,11 @@
 ## Wireless Communications
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
+  * [Channel model](https://www.mathworks.com/discovery/channel-model.html)
+  * [WINNER II channel models](https://www.mathworks.com/help/comm/ug/winner-ii-channel.html)
   * [Channel sounding](https://en.wikipedia.org/wiki/Channel_sounding)
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
+  * [Ray tracing (physics)](https://en.wikipedia.org/wiki/Ray_tracing_(physics))
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
 * [Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
