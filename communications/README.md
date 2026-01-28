@@ -101,6 +101,8 @@
 * [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation)
   * Positioning, Navigation, and Timing (PNT)
 * [GNSS applications](https://en.wikipedia.org/wiki/GNSS_applications)
+* [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
+  * [Gladys West](https://en.wikipedia.org/wiki/Gladys_West) 1930&mdash;2026
 ## Wireless Communications
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
