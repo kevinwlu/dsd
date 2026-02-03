@@ -106,6 +106,8 @@
 * [Register-transfer level](https://en.wikipedia.org/wiki/Register-transfer_level) (RTL)
 * [High-level synthesis](https://en.wikipedia.org/wiki/High-level_synthesis) (HLS)
 * [Run-time type information](https://en.wikipedia.org/wiki/Run-time_type_information) (RTTI)
+* [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
+  * [Zephyr (operating system)](https://en.wikipedia.org/wiki/Zephyr_(operating_system))
 * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 * [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
   * [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
