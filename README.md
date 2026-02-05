@@ -146,6 +146,8 @@
   * [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system)
   * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
   * [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize)
+  * [Motor Industry Software Reliability Association](https://en.wikipedia.org/wiki/Motor_Industry_Software_Reliability_Association) (MISRA)
+  * [MISRA C](https://en.wikipedia.org/wiki/MISRA_C)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
   * [Basic Input/Output System](https://en.wikipedia.org/wiki/BIOS) (BIOS)
   * [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/UEFI) (UEFI)
