@@ -34,6 +34,14 @@
   * [Submer Technologies](https://wikitia.com/wiki/Submer_Technologies)
   * [Iceotope](https://www.iceotope.com/) 
 * [Thermal inertia](https://en.wikipedia.org/wiki/Thermal_inertia)
+* [Celsius](https://en.wikipedia.org/wiki/Celsius) 1742
+  * [Anders Celsius](https://en.wikipedia.org/wiki/Anders_Celsius) 1701&mdash;1744
+* [Fahrenheit](https://en.wikipedia.org/wiki/Fahrenheit) 1724
+  * [Daniel Gabriel Fahrenheit](https://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit) 1686&mdash;1736
+* [Kelvin](https://en.wikipedia.org/wiki/Kelvin) 1848, formally added to the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI) in 1954
+  * [Lord Kelvin](https://en.wikipedia.org/wiki/Lord_Kelvin) 1824&mdash;1907
+  * [Absolute zero](https://en.wikipedia.org/wiki/Absolute_zero)
+  * [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect)
 ## Standards
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
 ## Nuclear Power
