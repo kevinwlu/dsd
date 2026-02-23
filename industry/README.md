@@ -18,6 +18,7 @@
 * [The Node is Nonsense](https://ieeexplore.ieee.org/document/9150552)
 * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
 * [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
+* [The U.S.-Japan Semiconductor Agreement: Keeping Up the ManagedTrade Agenda](https://www.heritage.org/asia/report/the-us-japan-semiconductor-agreement-keeping-the-managedtrade-agenda)
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
@@ -287,6 +288,7 @@
 * [Tower Semiconductor](https://en.wikipedia.org/wiki/Tower_Semiconductor)
 * [Weebit Nano](https://en.wikipedia.org/wiki/Weebit_Nano)
 ## Japan
+* [Semiconductor industry in Japan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Japan)
 * [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
   * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF) 
 * [Asahi Kasei](https://en.wikipedia.org/wiki/Asahi_Kasei)
@@ -311,6 +313,7 @@
   * [Taiyo Yuden](https://en.wikipedia.org/wiki/Taiyo_Yuden)
 * [Toshiba](https://en.wikipedia.org/wiki/Toshiba)
 ## South Korea
+* [Semiconductor industry in South Korea](https://en.wikipedia.org/wiki/Semiconductor_industry_in_South_Korea)
 * [LG Electronics](https://en.wikipedia.org/wiki/LG_Electronics)
 * [Magnachip](https://www.magnachip.com/)
 * [Samsung Electronics](https://en.wikipedia.org/wiki/Samsung_Electronics)
