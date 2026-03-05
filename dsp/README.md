@@ -6,8 +6,9 @@
 * [Fourier transform](https://www.youtube.com/playlist?app=desktop&list=PLBlnK6fEyqRhkN2yGQpH40Pk-paIJzzvv)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 ## Courses
-* [Signals and Systems](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) by Professor [Alan V. Oppenheim](https://en.wikipedia.org/wiki/Alan_V._Oppenheim) of MIT
+* [*Signals and Systems*](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/) by Professor [Alan V. Oppenheim](https://en.wikipedia.org/wiki/Alan_V._Oppenheim) of MIT
 * [Signals and Systems](https://www.princeton.edu/~cuff/ele301/index.html) by Professor [Paul Cuff](https://www.princeton.edu/~cuff/) of Princeton University
+* [*Signals, Systems, and Transforms*](https://elcom-team.com/Subjects/Signals%20and%20Systems/%D8%A7%D9%84%D9%83%D8%AA%D8%A8%20%D9%88%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84/signal-book-(5th-ed).pdf) by Charles Phillips, John Parr, and Eve Riskin
 * [Digital Signal Processing](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/) by Professor Alan V. Oppenheim of MIT
 ## Signal Processing
 * [Analog signal](https://en.wikipedia.org/wiki/Analog_signal)
