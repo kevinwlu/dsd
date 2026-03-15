@@ -2,10 +2,13 @@
 ## YouTube Channels
 * [CircuitBread](https://www.youtube.com/@CircuitBread/)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
+* [Robert Feranec](https://www.youtube.com/c/RobertFeranec)
+* [The Engineering Mindset](https://www.youtube.com/c/Theengineeringmindset)
 ---
-* [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
+* [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 * [Learning Analog System Design With the MOSbius](https://spectrum.ieee.org/deep-brain-stimulation-depression) by [Peter R. Kinget](https://peterkinget.github.io/)
+* [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
 ---
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
