@@ -24,6 +24,7 @@
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
+* [Epitaxial wafer](https://en.wikipedia.org/wiki/Epitaxial_wafer)
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
   * [Nanolithography](https://en.wikipedia.org/wiki/Nanolithography)
@@ -262,6 +263,7 @@
 * [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
 * [BYD](https://en.wikipedia.org/wiki/BYD_Company)
 * [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
+* [Epiworld International](https://www.epiworld-cn.com/)
 * [Haier](https://en.wikipedia.org/wiki/Haier)
 * [Horizon Robotics](https://en.horizon.ai/)
 * [Huawei](https://en.wikipedia.org/wiki/Huawei)
