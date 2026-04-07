@@ -39,8 +39,9 @@
   * [Karl D. Swartzel Jr.](https://en.wikipedia.org/wiki/Karl_D._Swartzel_Jr.) 1907&mdash;1998
 * [Negative-feedback amplifier](https://en.wikipedia.org/wiki/Negative-feedback_amplifier)
 * [Push–pull output](https://en.wikipedia.org/wiki/Push%E2%80%93pull_output)
-* [LM741](https://www.ti.com/lit/ds/symlink/lm741.pdf)
-* [LM6172](https://www.ti.com/lit/ds/symlink/lm6172.pdf)
+* [LM741](https://www.ti.com/product/LM741) Single, 44-V, 1-MHz Operational Amplifier
+* [LM6172](https://www.ti.com/product/LM6172) Dual High Speed, Low Power, Low Distortion Voltage Feedback Amplifier
+* [MCP6004](https://www.microchip.com/en-us/product/mcp6004) 1 MHz, Low-Power Op Amp
 ---
 * [Electromagnetic field](https://en.wikipedia.org/wiki/Electromagnetic_field)
 * [Radio-frequency engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering)
