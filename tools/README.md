@@ -6,6 +6,11 @@
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.linkedin.com/in/greidi-ajalik/) 
   * [Greidi Ajalik](https://www.youtube.com/c/GreidiAjalik)
 * [w2aew](https://www.youtube.com/@w2aew) by [Alan Wolke](https://www.linkedin.com/in/alan-wolke-68a0292), [Radio Frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF) [Applications Engineer](https://en.wikipedia.org/wiki/Applied_engineering_(field)) at [Tektronix](https://en.wikipedia.org/wiki/Tektronix)
+## 3D Modeling Software
+* [List of 3D modeling software](https://en.wikipedia.org/wiki/List_of_3D_modeling_software)
+* [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD) by [Autodesk](https://en.wikipedia.org/wiki/Autodesk)
+* [Onshape](https://en.wikipedia.org/wiki/Onshape)
+* [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 ## Documentation
 * [Mermaid (software)](https://en.wikipedia.org/wiki/Mermaid_(software))
 * [Overleaf electronics templates](https://www.overleaf.com/latex/templates/tagged/electronics)
