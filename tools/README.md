@@ -1,6 +1,9 @@
 # Tools
 ## YouTube Channels
 * [American Standard Circuits](https://www.youtube.com/@americanstandardcircuits8780) 77-Second Webinars
+* [LabRecon](https://www.labrecon.com)
+  * [Joe Barbetta](https://www.labrecon.com/About.html)
+  * [Interview With Professor Barbetta](https://thestute.com/2018/08/17/interview-with-professor-barbetta/), August 17, 2018
 * [Nandland](https://www.youtube.com/@Nandland) by [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34)
 * [Phil's Lab](https://www.youtube.com/@PhilsLab) by [Philip Salmony](https://github.com/pms67)
 * [Simple Tutorials for Embedded Systems](https://www.youtube.com/@SimplyEmbedded) by [Greidi Ajalik](https://www.linkedin.com/in/greidi-ajalik/) 
