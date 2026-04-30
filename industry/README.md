@@ -130,6 +130,8 @@
 * [PCB Directory](https://www.pcbdirectory.com/)
 * [Jiva Materials](https://www.jivamaterials.com/)
   * [Jiva](https://en.wikipedia.org/wiki/Jiva)
+* [JLCPCB](https://en.wikipedia.org/wiki/JLCPCB)
+  * [EasyEDA](https://en.wikipedia.org/wiki/EasyEDA)
 ## Test Equipment Suppliers
 * [Electronic test equipment manufacturers](https://en.wikipedia.org/wiki/Category:Electronic_test_equipment_manufacturers)
 * [Danaher Corporation](https://en.wikipedia.org/wiki/Danaher_Corporation)
