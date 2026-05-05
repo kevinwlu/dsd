@@ -4,6 +4,7 @@
 * [Dynamical system](https://en.wikipedia.org/wiki/Dynamical_system)
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Control engineering](https://en.wikipedia.org/wiki/Control_engineering)
+* [Electronic stability control](https://en.wikipedia.org/wiki/Electronic_stability_control) (ETC)
 * [Gimbal](https://en.wikipedia.org/wiki/Gimbal)
 * [Gimbaled thrust](https://en.wikipedia.org/wiki/Gimbaled_thrust)
 * [Guidance, navigation, and control](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control) (GNC)
