@@ -243,6 +243,7 @@
 * [srsRAN](https://www.srslte.com/)
   * [Installation Guide](https://docs.srsran.com/projects/project/en/latest/user_manuals/source/installation.html)
 ## Communication and Sensing
+* [Furuno](https://en.wikipedia.org/wiki/Furuno)
 * [Integrated sensing and communication](https://isac.committees.comsoc.org/) (ISAC)
 * [Passive radar](https://en.wikipedia.org/wiki/Passive_radar)
 * [Dual-function radar communication](https://ieeexplore.ieee.org/document/8828023) (DFRC)
