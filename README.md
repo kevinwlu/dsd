@@ -160,7 +160,7 @@
   * [CPLD vs. FPGA](https://resources.pcb.cadence.com/blog/2019-cpld-vs-fpga-which-do-you-need-for-your-digital-system)
 * [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
   * [FPGA for Beginners: Glossary and Setup](https://digilent.com/blog/fpga-for-beginners-glossary-and-setup/) by [Miranda Hansen](https://digilent.com/blog/author/mirandamay7/)
-    > FPGA firmware: Though the code deployed on the FPGA is sometimes referred to as its firmware, this is a slight misconception. Firmware is indeed embedded and dedicated code, but the code is executed. FPGA code is written in a description language, then is interpreted, synthesized, and ultimately produces hardware. So, I see it fit to refer to the FPGA, when it is configured, as hardware, and to the code itself as a description language.  
+    * FPGA firmware: Though the code deployed on the FPGA is sometimes referred to as its firmware, this is a slight misconception. Firmware is indeed embedded and dedicated code, but the code is executed. FPGA code is written in a description language, then is interpreted, synthesized, and ultimately produces hardware. So, I see it fit to refer to the FPGA, when it is configured, as hardware, and to the code itself as a description language.  
   * [Embedded FPGA](https://semiengineering.com/knowledge_centers/integrated-circuit/ic-types/fpga/embedded-fpga-efpga/) (eFPGA)
   * [Low-voltage differential signaling](https://en.wikipedia.org/wiki/Low-voltage_differential_signaling) (LVDS)
   * [Small Computer System Interface](https://en.wikipedia.org/wiki/SCSI) (SCSI)
@@ -168,7 +168,7 @@
   * [Extended Industry Standard Architecture](https://en.wikipedia.org/wiki/Extended_Industry_Standard_Architecture) (EISA)
   * [Peripheral Component Interconnect](https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect) (PCI)
   * [Peripheral Component Interconnect Express](https://en.wikipedia.org/wiki/PCI_Express) (PCIe)
-    > [PCIe peer-to-peer](https://xilinx.github.io/XRT/2022.2/html/p2p.html) (P2P) communication is a PCIe feature that enables two PCIe devices to directly transfer data between each other without using host RAM as a temporary storage
+    * [PCIe peer-to-peer](https://xilinx.github.io/XRT/2022.2/html/p2p.html) (P2P) communication is a PCIe feature that enables two PCIe devices to directly transfer data between each other without using host RAM as a temporary storage
   * [PCI Express Mini Card](https://en.wikipedia.org/wiki/PCI_Express#MINI-CARD) (Mini PCIe)
   * [Universal Chiplet Interconnect Express](https://en.wikipedia.org/wiki/UCIe) (UCIe)
   * [Serial Advanced Technology Attachment](https://en.wikipedia.org/wiki/SATA) (SATA)
@@ -245,12 +245,12 @@
 * [VHDL](https://en.wikipedia.org/wiki/VHDL) (VHSIC HDL)
 * Textbook: [Free Range VHDL, 2019 Edition](/free_range_vhdl_2019.pdf) 
 by [Bryan Mealy](https://lib.calpoly.edu/faculty-showcase/mealy-bryan/) and [Fabrizio Tappero](https://github.com/fabriziotappero)
-  > Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from [schematic](https://en.wikipedia.org/wiki/Schematic)-based approaches."\
-  > Page 120: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."\
-  > Page 131: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”\
-  > Page 173: "After years of development by the US Department of Defense, in February 1986 all VHDL rights were transferred to the Institute of Electrical and Electronics Engineers (IEEE) which since then has carried on the process of standardization of the language.
+  * Page 7: "Modeling digital circuits with VHDL is a form of modern digital design distinct from [schematic](https://en.wikipedia.org/wiki/Schematic)-based approaches."\
+  * Page 120: "The tendency at this juncture in your VHDL programming career is to use some type of [schematic capture](https://en.wikipedia.org/wiki/Schematic_capture) software instead of learning the structural modeling approach. The fact is that no one of consequence uses the schematic capture software these days even though it is taught in many university textbooks. The funny part about this entire process is that the schematic capture software is a tool that allows you to visually represent circuits but in the end generates VHDL code (the only thing the synthesizer understands is VHDL code)."\
+  * Page 131: “Digital design using schematic capture is an outdated approach: you should resist the inclination and/or directive at all costs.”\
+  * Page 173: "After years of development by the US Department of Defense, in February 1986 all VHDL rights were transferred to the Institute of Electrical and Electronics Engineers (IEEE) which since then has carried on the process of standardization of the language.
 After several language standardization steps that took place in 1987, 1993, 2000, 2002, and 2008, VHDL now includes a large set of packages that, once included in your code, give you the possibility of using several mathematical constants, numerical functions, overloaded operators, type conversion functions, enhanced signal types, and much more."\
-  > Page 177: "This section presents the solutions to all problems presented throughout this book."
+  * Page 177: "This section presents the solutions to all problems presented throughout this book."
 * [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) programming language
 * [Case sensitivity](https://en.wikipedia.org/wiki/Case_sensitivity)
 * [IEEE 1164-1993](https://standards.ieee.org/standard/1164-1993.html): IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic [1164](https://en.wikipedia.org/wiki/IEEE_1164))
@@ -351,7 +351,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
 
 ### Icarus Verilog
 * [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog)
-  > [Daedalus](https://en.wikipedia.org/wiki/Daedalus) warned [Icarus](https://en.wikipedia.org/wiki/Icarus) first of complacency and then of hubris, instructing him to fly neither too low nor too high, lest the sea's dampness clog his wings or the sun's heat melt them.
+  * [Daedalus](https://en.wikipedia.org/wiki/Daedalus) warned [Icarus](https://en.wikipedia.org/wiki/Icarus) first of complacency and then of hubris, instructing him to fly neither too low nor too high, lest the sea's dampness clog his wings or the sun's heat melt them.
 * [Stephen Williams](http://stevewilliams.icarus.com/)
 * [Installation Guide](https://iverilog.fandom.com/wiki/Installation_Guide)
   * [Icarus Verilog for Windows](http://bleyer.org/icarus/)
@@ -409,7 +409,7 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [Lab 5](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5): Digital-to-Analog Converter (DAC) Siren
   * [Lab 6](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6): Video Game PONG
 * [What’s different between Vivado and Vitis](https://digilent.com/blog/whats-different-between-vivado-and-vitis/)
-  > Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
+  * Vivado offers a hardware-centric approach to designing hardware, while Vitis offers a software-centric approach to developing *both* hardware and software.
 * Columbia University [EE E3082 - Digital Electronics Laboratory](https://www.bioee.ee.columbia.edu/courses/ee3082/) by Prof. [Ken Shepard](https://en.wikipedia.org/wiki/Kenneth_L_Shepard)
 
 ### Intel Altera
