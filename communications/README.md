@@ -245,11 +245,11 @@
 * [srsRAN](https://www.srslte.com/)
   * [Installation Guide](https://docs.srsran.com/projects/project/en/latest/user_manuals/source/installation.html)
 ## Communication and Sensing
+* [Atomic Norms](https://people.eecs.berkeley.edu/~brecht/atomic.html)
+* [Dual-function radar communication](https://ieeexplore.ieee.org/document/8828023) (DFRC)
 * [Furuno](https://en.wikipedia.org/wiki/Furuno)
 * [Integrated sensing and communication](https://isac.committees.comsoc.org/) (ISAC)
-* [Passive radar](https://en.wikipedia.org/wiki/Passive_radar)
-* [Dual-function radar communication](https://ieeexplore.ieee.org/document/8828023) (DFRC)
-* [Atomic Norms](https://people.eecs.berkeley.edu/~brecht/atomic.html)
 * [Mitigating radar-to-radar interference](https://www.sae.org/news/2021/06/mitigating-radar-to-radar-interference)
+* [Passive radar](https://en.wikipedia.org/wiki/Passive_radar)
 ## Communication and Charging
 * [Simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/7511404) (SWIPT)
