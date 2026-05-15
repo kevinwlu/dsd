@@ -46,6 +46,9 @@
 * [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
   * [Laurent polynomial](https://en.wikipedia.org/wiki/Laurent_polynomial)
   * [Pierre Alphonse Laurent](https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent) 1813&mdash;1854
+* [Parks–McClellan filter design algorithm](https://en.wikipedia.org/wiki/Parks%E2%80%93McClellan_filter_design_algorithm)
+  * [Thomas W. Parks](https://en.wikipedia.org/wiki/Thomas_W._Parks) 1939&mdash;2020
+  * [James H. McClellan](https://en.wikipedia.org/wiki/James_H._McClellan)
 * [Residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 * [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
   * [Taylor's theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
