@@ -210,6 +210,8 @@
 * [Infinera](https://en.wikipedia.org/wiki/Infinera)
 * [Intel](https://en.wikipedia.org/wiki/Intel)
 * [ISSI](https://www.issi.com/) (Integrated Silicon Solution Inc.)
+* [Kulite Semiconductor Products, Inc.](https://kulite.com/)
+  * [Transducer](https://en.wikipedia.org/wiki/Transducer)
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Littelfuse](https://en.wikipedia.org/wiki/Littelfuse)
   * [IXYS Corporation](https://en.wikipedia.org/wiki/IXYS_Corporation)
