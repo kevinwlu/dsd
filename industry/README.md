@@ -212,6 +212,7 @@
 * [ISSI](https://www.issi.com/) (Integrated Silicon Solution Inc.)
 * [Kulite Semiconductor Products, Inc.](https://kulite.com/)
   * [Transducer](https://en.wikipedia.org/wiki/Transducer)
+  * [Anthony D. Kurtz](https://www.nae.edu/189828/ANTHONY-D-KURTZ-19292010) 1929&mdash;2010
 * [Lattice](https://en.wikipedia.org/wiki/Lattice_Semiconductor)
 * [Littelfuse](https://en.wikipedia.org/wiki/Littelfuse)
   * [IXYS Corporation](https://en.wikipedia.org/wiki/IXYS_Corporation)
