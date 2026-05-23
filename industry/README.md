@@ -329,6 +329,8 @@
 * [Key Foundry](https://www.key-foundry.com/)
 ## Taiwan
 * [Pan Wen-Yuan](https://en.wikipedia.org/wiki/Pan_Wen-Yuan) 1912&mdash;1995
+  * [Present at the Creation: How Pan Wenyuan Connected Silicon Valley and China](https://medium.com/@andrewleonard/present-at-the-creation-how-pan-wenyuan-connected-silicon-valley-and-china-5ad1f1a36ad9), July 19, 2017
+  * [Calculation and design of resistance-coupled amplifiers using pentode tubes](https://ieeexplore.ieee.org/document/6435254), December 1940
 * [List of companies of Taiwan](https://en.wikipedia.org/wiki/List_of_companies_of_Taiwan)
 * [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
