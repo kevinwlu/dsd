@@ -328,6 +328,7 @@
 * [SK Hynix](https://en.wikipedia.org/wiki/SK_Hynix)
 * [Key Foundry](https://www.key-foundry.com/)
 ## Taiwan
+* [Pan Wen-Yuan](https://en.wikipedia.org/wiki/Pan_Wen-Yuan) 1912&mdash;1995
 * [List of companies of Taiwan](https://en.wikipedia.org/wiki/List_of_companies_of_Taiwan)
 * [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
