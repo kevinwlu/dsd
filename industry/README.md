@@ -96,6 +96,7 @@
   * [GlobalWafers](https://www.gw-semi.com)
   * [Siltronic](https://en.wikipedia.org/wiki/Siltronic)
   * [Graphenea](https://www.graphenea.com/)
+* [Cylindrically symmetric rotating crystals observed in crystallization process of InSiO film](https://www.tandfonline.com/doi/full/10.1080/27660400.2023.2230870), July 13, 2023
 * [Extreme ultraviolet lithography](https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography) (EUV)
   * [High-numerical-aperture EUV lithography](https://spectrum.ieee.org/high-na-euv)
 * [ASML](https://en.wikipedia.org/wiki/ASML_Holding) (ASM Lithography) cofounded by [ASM](https://en.wikipedia.org/wiki/ASM_International) (Advanced Semiconductor Materials) International and [Philips](https://en.wikipedia.org/wiki/Philips) Electronics
