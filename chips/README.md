@@ -37,6 +37,7 @@
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
   * [Huawei Mate series](https://en.wikipedia.org/wiki/Huawei_Mate_series)
+  * [Tau Scaling Law](https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law)
 * [Intel](https://en.wikipedia.org/wiki/List_of_Intel_processors)
   * [Intel Innovation](https://www.intel.com/content/www/us/en/events/on-event-series/innovation.html)
   * [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
