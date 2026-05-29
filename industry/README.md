@@ -259,6 +259,7 @@
 * [Wolfspeed](https://en.wikipedia.org/wiki/Wolfspeed), formerly Cree, Inc.
 ## Australia
 * [BrainChip](https://en.wikipedia.org/wiki/BrainChip)
+* [Nanoveu](https://nanoveu.com/)
 ## China
 * [Semiconductor industry in China](https://en.wikipedia.org/wiki/Semiconductor_industry_in_China)
 * [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group)
