@@ -194,6 +194,7 @@
     * [*Fundamentals of Printed Circuit Board Technologies*](https://asc-i.com/fundamentals-pcb-tech/download-e-book) by [American Standard Circuits](https://asc-i.com/)
     * [Gerber format](https://en.wikipedia.org/wiki/Gerber_format) is named after [Heinz Joseph Gerber](https://en.wikipedia.org/wiki/Joseph_Gerber) 1924&mdash;1996
     * [Microstrip](https://en.wikipedia.org/wiki/Microstrip)
+  * [Printed circuit board manufacturing](https://en.wikipedia.org/wiki/Printed_circuit_board_manufacturing)
   * [Eurocard](https://en.wikipedia.org/wiki/Eurocard_(printed_circuit_board))
   * [Advanced Technology eXtended](https://en.wikipedia.org/wiki/ATX) (ATX)
   * [Nano-ITX](https://en.wikipedia.org/wiki/Nano-ITX)
