@@ -80,6 +80,7 @@
   * [NVIDIA Omniverse](https://en.wikipedia.org/wiki/Nvidia_Omniverse)
   * [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
   * [Groq](https://en.wikipedia.org/wiki/Groq)
+  * [AI factory](https://www.nvidia.com/en-us/glossary/ai-factory/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
