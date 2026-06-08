@@ -228,6 +228,7 @@
 * [Micron](https://en.wikipedia.org/wiki/Micron_Technology)
   * [IM Flash Technologies](https://en.wikipedia.org/wiki/IM_Flash_Technologies)
 * [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
+* [MKS Inc.](https://en.wikipedia.org/wiki/MKS_Instruments)
 * [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
   * [Ageia](https://en.wikipedia.org/wiki/Ageia)
   * [Mellanox Technologies](https://en.wikipedia.org/wiki/Mellanox_Technologies)
@@ -285,6 +286,8 @@
 * [Tsinghua Unigroup](https://en.wikipedia.org/wiki/Tsinghua_Unigroup)
   * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
   * [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
+* [VeriSilicon](https://www.verisilicon.com/en/Home)
+  * [Vivante Corporation](https://en.wikipedia.org/wiki/Vivante_Corporation)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ## India
