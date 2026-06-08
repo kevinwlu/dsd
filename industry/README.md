@@ -291,6 +291,7 @@
   * [UNISOC](https://en.wikipedia.org/wiki/UNISOC)
   * [Yangtze Memory Technologies Corporation](https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies) (YMTC)
 * [VeriSilicon](https://www.verisilicon.com/en/Home)
+  * [Wayne Dai and Wei-Jin Dai](https://www.verisilicon.com/en/ExecutiveTeam)
   * [Vivante Corporation](https://en.wikipedia.org/wiki/Vivante_Corporation)
 * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
