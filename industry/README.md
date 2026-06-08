@@ -219,6 +219,10 @@
   * [IXYS Corporation](https://en.wikipedia.org/wiki/IXYS_Corporation)
 * [MACOM](https://en.wikipedia.org/wiki/MACOM_Technology_Solutions)
 * [Marvell](https://en.wikipedia.org/wiki/Marvell_Technology,_Inc.)
+  * [Sehat Sutardja](https://en.wikipedia.org/wiki/Sehat_Sutardja) 1961&mdash;2024
+    * [Remembering Sehat Sutardja, Marvell Co-founder](https://www.marvell.com/blogs/remembering-sehat-sutardja-marvell-co-founder.html), September 18, 2024
+  * [Pantas Sutardja](https://www.forbes.com/profile/pantas-sutardja/)
+  * [Weili Dai](https://en.wikipedia.org/wiki/Weili_Dai)
 * [Menlo Micro](https://menlomicro.com/)
   * [GE Ventures](https://en.wikipedia.org/wiki/GE_Ventures)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
