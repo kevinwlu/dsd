@@ -9,6 +9,9 @@
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 * [Learning Analog System Design With the MOSbius](https://spectrum.ieee.org/deep-brain-stimulation-depression) by [Peter R. Kinget](https://peterkinget.github.io/)
+* [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) by [Tony Kuphaldt](https://www.linkedin.com/in/tony-kuphaldt-7913136/)
+  * [Schweitzer Engineering Laboratories](https://en.wikipedia.org/wiki/Schweitzer_Engineering_Laboratories) (SEL)
+  * [Edmund O. Schweitzer III](https://en.wikipedia.org/wiki/Edmund_O._Schweitzer_III)
 * [Understanding Electricity and Circuits: What the Text Books Don’t Tell You](https://www.vicphysics.org/documents/teachers/2002Sefton.pdf) 2002 by Ian M. Sefton
 ---
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
