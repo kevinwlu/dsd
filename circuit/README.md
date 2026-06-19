@@ -5,6 +5,7 @@
 * [Robert Feranec](https://www.youtube.com/c/RobertFeranec)
 * [The Engineering Mindset](https://www.youtube.com/c/Theengineeringmindset)
 ---
+* [All About Circuits](https://www.allaboutcircuits.com/)
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 * [Learning Analog System Design With the MOSbius](https://spectrum.ieee.org/deep-brain-stimulation-depression) by [Peter R. Kinget](https://peterkinget.github.io/)
