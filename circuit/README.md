@@ -7,6 +7,9 @@
 ---
 * [All About Circuits](https://www.allaboutcircuits.com/)
 * [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) MIT OpenCourseWare (OCW)
+* [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
+* [Electron](https://en.wikipedia.org/wiki/Electron)
+  * [Amber](https://en.wikipedia.org/wiki/Amber)
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 * [Last Minute Engineers](https://lastminuteengineers.com/)
 * [Learning Analog System Design With the MOSbius](https://spectrum.ieee.org/deep-brain-stimulation-depression) by [Peter R. Kinget](https://peterkinget.github.io/)
