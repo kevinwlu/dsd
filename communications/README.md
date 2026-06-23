@@ -51,6 +51,8 @@
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [National Telecommunications and Information Administration](https://en.wikipedia.org/wiki/National_Telecommunications_and_Information_Administration) (NTIA)
 * [Last mile](https://en.wikipedia.org/wiki/Last_mile_(telecommunications))
+* [Gray code](https://en.wikipedia.org/wiki/Gray_code)
+* [Manchester code](https://en.wikipedia.org/wiki/Manchester_code)
 * [Morse code](https://en.wikipedia.org/wiki/Morse_code) by [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) 1791&mdash;1872
 * [Baudot code](https://en.wikipedia.org/wiki/Baudot_code) by [Émile Baudot](https://en.wikipedia.org/wiki/%C3%89mile_Baudot) 1845&mdash;1903
 * [Baud](https://en.wikipedia.org/wiki/Baud)
