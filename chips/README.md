@@ -35,6 +35,7 @@
 * [Annapurna Labs](https://en.wikipedia.org/wiki/Annapurna_Labs)
 * [ARM](https://en.wikipedia.org/wiki/List_of_ARM_processors)
 * [Apple](https://en.wikipedia.org/wiki/Apple_silicon)
+* [Broadcom](https://en.wikipedia.org/wiki/Broadcom)
 * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
   * [Huawei Mate series](https://en.wikipedia.org/wiki/Huawei_Mate_series)
   * [Tau Scaling Law](https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law)
@@ -83,6 +84,8 @@
   * [AI factory](https://www.nvidia.com/en-us/glossary/ai-factory/)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
+* [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+  * Jalapeño
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
   * *The Future of AI is Hybrid*
     * [Part I](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Whitepaper-The-future-of-AI-is-hybrid-Part-1-Unlocking-the-generative-AI-future-with-on-device-and-hybrid-AI.pdf)
