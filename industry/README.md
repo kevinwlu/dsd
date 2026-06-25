@@ -19,6 +19,9 @@
 * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
 * [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
 * [The U.S.-Japan Semiconductor Agreement: Keeping Up the ManagedTrade Agenda](https://www.heritage.org/asia/report/the-us-japan-semiconductor-agreement-keeping-the-managedtrade-agenda)
+* [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
+  * [KIDE](https://cckide.com/en/) 
+  * [Engineering, procurement, and construction](https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction) (EPC)
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
