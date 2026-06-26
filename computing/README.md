@@ -37,6 +37,7 @@
 * [Open MPI](https://en.wikipedia.org/wiki/Open_MPI)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
+  * [Supercomputing in China](https://en.wikipedia.org/wiki/Supercomputing_in_China)
 * [Floating point operations per second](https://en.wikipedia.org/wiki/Floating_point_operations_per_second) (FLOPS)
   * Trillions of operations per second (TOPS)
 * [Categorical abstract machine](https://en.wikipedia.org/wiki/Categorical_abstract_machine) (CAM)
