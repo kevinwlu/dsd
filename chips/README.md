@@ -97,6 +97,8 @@
 * [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
 
 ## Packaging
+* [Advanced packaging (semiconductors)](https://en.wikipedia.org/wiki/Advanced_packaging_(semiconductors))
+  * [Subramanian Iyer](https://en.wikipedia.org/wiki/Subramanian_Iyer)
 * [Integrated circuit packaging](https://en.wikipedia.org/wiki/Integrated_circuit_packaging)
 * [List of integrated circuit packaging types](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types)
 * [Dual in-line package](https://en.wikipedia.org/wiki/Dual_in-line_package)
