@@ -10,7 +10,8 @@
 * [CHIPS for America](https://www.nist.gov/chips)
   * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
 * [DVCon](https://dvcon.org/)
-* [National Semiconductor Technology Center](https://natcast.org/) (NSTC)
+* [National Semiconductor Technology Center](https://www.nist.gov/chips/research-development-programs/national-semiconductor-technology-center) (NSTC) 
+  * [The future of CHIPS: Who are the acquirers in the recent Natcast fire sale?](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/future-chips-who-are-acquirers), November 20, 2025
 * [Building a Robust Semiconductor Ecosystem in New York State](https://esd.ny.gov/industries/semiconductors)
 * [European Chips Act](https://en.wikipedia.org/wiki/European_Chips_Act)
 ---
