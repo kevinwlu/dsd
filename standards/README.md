@@ -11,6 +11,9 @@
 * [Compute Express Link](https://en.wikipedia.org/wiki/Compute_Express_Link) (CXL)
   * [Coherent Accelerator Processor Interface](https://en.wikipedia.org/wiki/Coherent_Accelerator_Processor_Interface) (CAPI)
   * [Gen-Z](https://en.wikipedia.org/wiki/Gen-Z_(consortium))
+* [Global Electronics Association](https://www.electronics.org/)
+  * [IPC (electronics)](https://en.wikipedia.org/wiki/IPC_(electronics))
+  * [IPC Becomes the Global Electronics Association](https://www.ansi.org/standards-news/member-updates/6-26-25-ipc-becomes-the-global-electronics-association), June 26, 2025
 * [IEEE Council on Electronic Design Automation](https://ieee-ceda.org/) (CEDA)
   * [IEEE Symposium-Workshop on Emerging AI/ML Trends](https://sweat.ieeebangalore.org/) (SWEAT)
 * [IEEE Design Automation Standards Committee](https://www.dasc.org/) (DASC)
