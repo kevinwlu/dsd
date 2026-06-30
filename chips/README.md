@@ -99,6 +99,7 @@
 ## Packaging
 * [Advanced packaging (semiconductors)](https://en.wikipedia.org/wiki/Advanced_packaging_(semiconductors))
   * [Subramanian Iyer](https://en.wikipedia.org/wiki/Subramanian_Iyer)
+  * [Amkor Technology](https://en.wikipedia.org/wiki/Amkor_Technology)
 * [Integrated circuit packaging](https://en.wikipedia.org/wiki/Integrated_circuit_packaging)
 * [List of integrated circuit packaging types](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types)
 * [Dual in-line package](https://en.wikipedia.org/wiki/Dual_in-line_package)
@@ -112,6 +113,7 @@
   * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF)
 * [Flip Chip Ball Grid Array](https://en.wikichip.org/wiki/Flip_Chip_Ball_Grid_Array) (FC-BGA)
 * [Chip-scale package](https://en.wikipedia.org/wiki/Chip-scale_package) (CSP)
+* [System in a package](https://en.wikipedia.org/wiki/System_in_a_package) (SiP)
 
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
