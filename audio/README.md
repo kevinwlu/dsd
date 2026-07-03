@@ -14,6 +14,10 @@
 * [Power amplifier classes](https://en.wikipedia.org/wiki/Power_amplifier_classes)
 * [Sound](https://en.wikipedia.org/wiki/Sound)
 * [Stethoscope](https://en.wikipedia.org/wiki/Stethoscope)
+## Screen-Free Entertainment Systems
+* [Portable media player](https://en.wikipedia.org/wiki/Portable_media_player)
+* [Tonies](https://en.wikipedia.org/wiki/Tonies)
+* [Yoto](https://en.wikipedia.org/wiki/Yoto_(audio_player))
 ---
 * [Timeline of audio formats](https://en.wikipedia.org/wiki/Timeline_of_audio_formats)
 * [Advanced Audio Coding](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) (AAC)
