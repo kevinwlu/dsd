@@ -7,6 +7,8 @@
   * [Capacitively coupled plasma](https://en.wikipedia.org/wiki/Capacitively_coupled_plasma) (CCP)
 * [Ion milling machine](https://en.wikipedia.org/wiki/Ion_milling_machine)
 * [Lithium niobate](https://en.wikipedia.org/wiki/Lithium_niobate)
+* [Network topology](https://en.wikipedia.org/wiki/Network_topology)
+  * [Star network](https://en.wikipedia.org/wiki/Star_network)
 * [Plasma-enhanced chemical vapor deposition](https://en.wikipedia.org/wiki/Plasma-enhanced_chemical_vapor_deposition) (PECVD)
 * [Q factor](https://en.wikipedia.org/wiki/Q_factor)
 * [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence) (SIGINT)
