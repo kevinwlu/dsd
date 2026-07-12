@@ -49,6 +49,9 @@
   * [Peraton Labs](https://en.wikipedia.org/wiki/Peraton_Labs)
   * [Perspecta Inc.](https://en.wikipedia.org/wiki/Perspecta_Inc.)
 * [United States Army Command, Control, Communication, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center](https://en.wikipedia.org/wiki/United_States_Army_Command,_Control,_Communication,_Computers,_Cyber,_Intelligence,_Surveillance_and_Reconnaissance_Center)
+* [URSI](https://en.wikipedia.org/wiki/International_Union_of_Radio_Science) (International Union of Radio Science) 1919
+  * [Website](https://www.ursi.org/homepage.php)
+  * [USNC-URSI](https://usncursi.org/) (United States National Committee for the International Union of Radio Science)
 ## Telecommunications
 * [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications)
 * [National Telecommunications and Information Administration](https://en.wikipedia.org/wiki/National_Telecommunications_and_Information_Administration) (NTIA)
