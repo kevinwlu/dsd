@@ -128,6 +128,7 @@
 * [Communication with submarines](https://en.wikipedia.org/wiki/Communication_with_submarines)
   * [Body water](https://en.wikipedia.org/wiki/Body_water)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
+  * [Extremely high frequency](https://en.wikipedia.org/wiki/Extremely_high_frequency) (EHF)
 * [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
 * [Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
   * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
