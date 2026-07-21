@@ -286,6 +286,7 @@
   * [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)
 * [Innosilicon](https://www.innosilicon.com/)
 * [Lenovo](https://en.wikipedia.org/wiki/Lenovo)
+* [Luxshare](https://en.wikipedia.org/wiki/Luxshare)
 * [Meizu](https://en.wikipedia.org/wiki/Meizu)
 * [Sai MicroElectronics Inc.](http://en.smeiic.com/) (SMEI)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
