@@ -280,6 +280,7 @@
 * [Bitmain](https://en.wikipedia.org/wiki/Bitmain)
 * [BYD](https://en.wikipedia.org/wiki/BYD_Company)
 * [Canaan Creative](https://en.wikipedia.org/wiki/Canaan_Creative)
+* [ChangXin Memory Technologies](https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies) (CXMT)
 * [Epiworld International](https://www.epiworld-cn.com/)
 * [Haier](https://en.wikipedia.org/wiki/Haier)
 * [Horizon Robotics](https://en.horizon.ai/)
