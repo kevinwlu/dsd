@@ -23,8 +23,9 @@
     * [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) went into effect in October 1582 that Thursday 4 October 1582 was followed by Friday 15 October 1582
     * [Calendrical confusion or just when did Newton die?](https://thonyc.wordpress.com/2015/03/20/calendrical-confusion-or-just-when-did-newton-die/)
   * [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) 1646&mdash;1716
-* [Man Mohan Sondhi](https://en.wikipedia.org/wiki/Man_Mohan_Sondhi) 1933&mdash;2018
-* [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
+  * [SIMIODE](https://www.simiode.org/) (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
+* [Echo suppression and cancellation](https://en.wikipedia.org/wiki/Echo_suppression_and_cancellation)
+  * [Man Mohan Sondhi](https://en.wikipedia.org/wiki/Man_Mohan_Sondhi) 1933&mdash;2018
 * [Linear time-invariant (LTI) system](https://en.wikipedia.org/wiki/Linear_time-invariant_system)
 * [Recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)
 * [Finite impulse response](https://en.wikipedia.org/wiki/Finite_impulse_response) (FIR)
