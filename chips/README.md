@@ -123,6 +123,8 @@
 
 ## Silicon Photonics
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
+* [Lukas Chrostowski](https://ece.ubc.ca/lukas-chrostowski/)
+  * [Google Scholar](https://scholar.google.com/citations?user=OEHZLXgAAAAJ&hl=en) 
 * [Michal Lipson](https://en.wikipedia.org/wiki/Michal_Lipson)
   * [Google Scholar](https://scholar.google.com/citations?hl=en&user=EVXVTXkAAAAJ)
 * [Stefan Preble](https://www.rit.edu/directory/sfpeen-stefan-preble)
