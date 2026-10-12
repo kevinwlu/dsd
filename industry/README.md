@@ -351,6 +351,7 @@
 * [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
 * [Asus](https://en.wikipedia.org/wiki/Asus)
+* [Beitou-Shilin Technology Park](https://en.wikipedia.org/wiki/Beitou-Shilin_Technology_Park) (BSTP)
 * [BenQ](https://en.wikipedia.org/wiki/BenQ)
 * [Compal Electronics](https://en.wikipedia.org/wiki/Compal_Electronics)
 * [Foxconn](https://en.wikipedia.org/wiki/Foxconn)
