@@ -227,6 +227,7 @@
     * [Remembering Sehat Sutardja, Marvell Co-founder](https://www.marvell.com/blogs/remembering-sehat-sutardja-marvell-co-founder.html), September 18, 2024
   * [Pantas Sutardja](https://www.forbes.com/profile/pantas-sutardja/)
   * [Weili Dai](https://en.wikipedia.org/wiki/Weili_Dai)
+  * [Lumentum](https://en.wikipedia.org/wiki/Lumentum)
 * [Menlo Micro](https://menlomicro.com/)
   * [GE Ventures](https://en.wikipedia.org/wiki/GE_Ventures)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
