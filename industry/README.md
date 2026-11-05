@@ -362,6 +362,7 @@
 * [Compal Electronics](https://en.wikipedia.org/wiki/Compal_Electronics)
 * [Foxconn](https://en.wikipedia.org/wiki/Foxconn)
 * [Inventec](https://en.wikipedia.org/wiki/Inventec)
+* [Materials Analysis Technology Inc.](https://www.matek.com/en/) (MA-tek)
 * [MediaTek](https://en.wikipedia.org/wiki/MediaTek)
 * [Formosa Plastics Group](https://en.wikipedia.org/wiki/Formosa_Plastics_Group)
   * [Nanya Technology Corporation](https://www.nanya.com/en/)
