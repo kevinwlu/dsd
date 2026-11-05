@@ -111,6 +111,7 @@
   * [HMI](https://www.asml.com/en/company/about-asml/hmi) (Hermes Microvision, Inc.) e-beam inspection systems
   * [ZEISS](https://en.wikipedia.org/wiki/Carl_Zeiss_AG)
 * [Canon](https://en.wikipedia.org/wiki/Canon_Inc.)
+* [EV Group](https://www.evgroup.com) (EVG)
 * [Gigaphoton](https://www.gigaphoton.com/)
 * [Nikon](https://en.wikipedia.org/wiki/Nikon)
 * [Nova Measuring Instruments](https://en.wikipedia.org/wiki/Nova_Measuring_Instruments)
