@@ -20,6 +20,7 @@
 ---
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
   * [US Amateur Radio Frequency Allocations](https://www.arrl.org/frequency-allocations)
+  * [Amateur Radio Club of the National Electronics Museum](https://www.k3nem.org/) (ARCNEM) is an amateur radio club using the call K3NEM. 
 * [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
 * [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
 * [List of modern armament manufacturers](https://en.wikipedia.org/wiki/List_of_modern_armament_manufacturers)
