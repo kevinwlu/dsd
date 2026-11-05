@@ -32,6 +32,8 @@
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
   * [Nanolithography](https://en.wikipedia.org/wiki/Nanolithography)
+  * [Nanoimprint lithography](https://en.wikipedia.org/wiki/Nanoimprint_lithography) (NIL)
+  * [Stephen Yu Chou](https://scholar.google.com/citations?user=pmU0gpgAAAAJ&hl=en)
   * [Stencil lithography](https://en.wikipedia.org/wiki/Stencil_lithography)
 * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
   * [Reactive-ion etching](https://en.wikipedia.org/wiki/Reactive-ion_etching) (RIE)
