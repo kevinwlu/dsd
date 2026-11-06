@@ -42,6 +42,7 @@
 * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
   * [Reactive-ion etching](https://en.wikipedia.org/wiki/Reactive-ion_etching) (RIE)
   * [Wright etch](https://en.wikipedia.org/wiki/Wright_etch)
+  * Margaret Wright Jenkins, "[A New Preferential Etch for Defects in Silicon Crystals](https://iopscience.iop.org/article/10.1149/1.2133401)," Journal of the Electrochemical Society (ECS), 1977
 * [Skin effect](https://en.wikipedia.org/wiki/Skin_effect)
   * [Permeability](https://en.wikipedia.org/wiki/Permeability_(electromagnetism))
   * [Landau–Lifshitz–Gilbert equation](https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation)
