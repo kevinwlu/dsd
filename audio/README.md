@@ -13,6 +13,7 @@
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 * [Power amplifier classes](https://en.wikipedia.org/wiki/Power_amplifier_classes)
 * [Sound](https://en.wikipedia.org/wiki/Sound)
+* [Soundscape](https://www.mysoundscape.org/)
 * [Stethoscope](https://en.wikipedia.org/wiki/Stethoscope)
 ## Screen-Free Entertainment Systems
 * [Portable media player](https://en.wikipedia.org/wiki/Portable_media_player)
