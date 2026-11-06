@@ -97,24 +97,6 @@
 * Samsung [Exynos](https://en.wikipedia.org/wiki/Exynos)
 * [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
 
-## Silicon Photonics
-* [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics)
-* [Lukas Chrostowski](https://ece.ubc.ca/lukas-chrostowski/)
-  * [Google Scholar](https://scholar.google.com/citations?user=OEHZLXgAAAAJ&hl=en) 
-* [Michal Lipson](https://en.wikipedia.org/wiki/Michal_Lipson)
-  * [Google Scholar](https://scholar.google.com/citations?hl=en&user=EVXVTXkAAAAJ)
-* [Stefan Preble](https://www.rit.edu/directory/sfpeen-stefan-preble)
-  * [Google Scholar](https://scholar.google.com/citations?user=8YUJbnkAAAAJ&hl=en)
-* [Pound–Drever–Hall technique](https://en.wikipedia.org/wiki/Pound%E2%80%93Drever%E2%80%93Hall_technique) (PDH)
-* [Second-harmonic generation](https://en.wikipedia.org/wiki/Second-harmonic_generation) (SHG)
-* [Electro-optic modulator](https://en.wikipedia.org/wiki/Electro-optic_modulator) (EOM)
-* [Arrayed waveguide grating](https://en.wikipedia.org/wiki/Arrayed_waveguide_grating) (AWG)
-* [Optical amplifier](https://en.wikipedia.org/wiki/Optical_amplifier)
-* [Sum-frequency generation](https://en.wikipedia.org/wiki/Sum-frequency_generation) (SFG)
-* [Coupled mode theory](https://en.wikipedia.org/wiki/Coupled_mode_theory) (CMT)
-* [Optical time-domain reflectometer](https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer) (OTDR)
-* [Lock-in amplifier](https://liquidinstruments.com/lock-in-amplifier/)
-
 ## Others
 * [List of linear integrated circuits](https://en.wikipedia.org/wiki/List_of_linear_integrated_circuits)
 * [List of LM-series integrated circuits](https://en.wikipedia.org/wiki/List_of_LM-series_integrated_circuits)
