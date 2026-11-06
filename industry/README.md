@@ -38,6 +38,7 @@
   * [Stencil lithography](https://en.wikipedia.org/wiki/Stencil_lithography)
 * [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
   * [Reactive-ion etching](https://en.wikipedia.org/wiki/Reactive-ion_etching) (RIE)
+  * [Wright etch](https://en.wikipedia.org/wiki/Wright_etch)
 * [Skin effect](https://en.wikipedia.org/wiki/Skin_effect)
   * [Permeability](https://en.wikipedia.org/wiki/Permeability_(electromagnetism))
   * [Landau–Lifshitz–Gilbert equation](https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation)
