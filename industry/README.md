@@ -296,6 +296,7 @@
 * [Menlo Micro](https://menlomicro.com/)
   * [GE Ventures](https://en.wikipedia.org/wiki/GE_Ventures)
 * [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms)
+* [Metrics Technology](https://metricstech.com/)
 * [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology)
   * [Atmel](https://en.wikipedia.org/wiki/Atmel)
   * [Microsemi](https://en.wikipedia.org/wiki/Microsemi)
@@ -310,6 +311,7 @@
   * [Shockley Semiconductor Laboratory](https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory) 1955&mdash;1968, later known as Shockley Transistor Corporation
   * [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor) 1957&mdash;2016
     * [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
+* [PerfectVIPs](https://www.perfectvips.com)
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
   * [Qualcomm Atheros](https://en.wikipedia.org/wiki/Qualcomm_Atheros)
@@ -416,6 +418,7 @@
 * [List of companies of Taiwan](https://en.wikipedia.org/wiki/List_of_companies_of_Taiwan)
 * [Semiconductor industry in Taiwan](https://en.wikipedia.org/wiki/Semiconductor_industry_in_Taiwan)
 * [Acer](https://en.wikipedia.org/wiki/Acer_Inc.)
+* [Andes Technology](https://en.wikipedia.org/wiki/Andes_Technology)
 * [Asus](https://en.wikipedia.org/wiki/Asus)
 * [Beitou-Shilin Technology Park](https://en.wikipedia.org/wiki/Beitou-Shilin_Technology_Park) (BSTP)
 * [BenQ](https://en.wikipedia.org/wiki/BenQ)
