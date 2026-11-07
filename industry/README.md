@@ -26,6 +26,10 @@
 * [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
   * [Willis Whitfield](https://en.wikipedia.org/wiki/Willis_Whitfield) 1919&mdash;2012
   * [UC San Diego and TSMC launch semiconductor cleanroom training program](https://cleanroomtechnology.com/uc-san-diego-and-tsmc-launch-semiconductor-cleanroom)
+  * [UC San Diego Partners with TSMC to Create Pipeline From the Classroom to Semiconductor Cleanroom](https://today.ucsd.edu/story/uc-san-diego-partners-with-tsmc-to-create-pipeline-from-the-classroom-to-semiconductor-cleanroom)
+  * [First-of-its-kind Cleanroom Turns Inventions into Devices Ready for FDA Approval](https://today.ucsd.edu/story/first-of-its-kind-cleanroom-turns-inventions-into-devices-ready-for-fda-approval)
+  * [Yu-Hwa Lo](https://en.wikipedia.org/wiki/Yu-Hwa_Lo)
+  * [Pamela Cosman](https://en.wikipedia.org/wiki/Pamela_Cosman)
   * [KIDE](https://cckide.com/en/) 
   * [Engineering, procurement, and construction](https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction) (EPC)
 ## Semiconductor Fabrication
