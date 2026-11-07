@@ -40,6 +40,9 @@
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
 * [Simon Sze](https://en.wikipedia.org/wiki/Simon_Sze) 1936&mdash;2023
+* [Gary S. May](https://en.wikipedia.org/wiki/Gary_S._May)
+* [James D. Plummer](https://en.wikipedia.org/wiki/Jim_Plummer)
+  * [*Integrated Circuit Fabrication*](https://plummergriffinbook.stanford.edu/)
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
