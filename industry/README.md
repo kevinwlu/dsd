@@ -39,6 +39,7 @@
 * [Engineering, procurement, and construction](https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction) (EPC)
 ## Semiconductor Fabrication
 * [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
+* [Simon Sze](https://en.wikipedia.org/wiki/Simon_Sze) 1936&mdash;2023
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
