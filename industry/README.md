@@ -237,6 +237,7 @@
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
   * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
     * [Ansys](https://en.wikipedia.org/wiki/Ansys) since July 17, 2025
+    * [Synopsys Strategic Acquisitions](https://www.synopsys.com/company/acquisitions.html)
   * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
