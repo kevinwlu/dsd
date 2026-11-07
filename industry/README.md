@@ -23,7 +23,7 @@
 * [A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)
 * [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
 * [The U.S.-Japan Semiconductor Agreement: Keeping Up the ManagedTrade Agenda](https://www.heritage.org/asia/report/the-us-japan-semiconductor-agreement-keeping-the-managedtrade-agenda)
-# Cleanroom
+## Cleanroom
 * [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
   * [Willis Whitfield](https://en.wikipedia.org/wiki/Willis_Whitfield) 1919&mdash;2012
 * [Cleanroom Technology](https://cleanroomtechnology.com/)
@@ -245,7 +245,13 @@
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [List of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
 ## Alliances and Consortia
+* [Accellera](https://en.wikipedia.org/wiki/Accellera)
 * [CHIPS Alliance](https://chipsalliance.org/) (Common Hardware for Interfaces, Processors and Systems) [repositories](https://github.com/chipsalliance)
+* [Design Automation Standards Committee](https://en.wikipedia.org/wiki/Design_Automation_Standards_Committee) (DASC)
+* [Global Semiconductor Alliance](https://www.gsaglobal.org/) (GSA)
+  * [SemisMatter](https://semismatter.com/)
+* [Semiconductor Industry Association](https://www.semiconductors.org/) (SIA)
+* [Semiconductor Research Corporation](https://www.src.org/) (SRC)
 ## The United States
 * [AIStorm](https://aistorm.ai/)
 * [Alif Semiconductor](https://alifsemi.com/)
