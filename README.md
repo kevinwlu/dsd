@@ -318,6 +318,8 @@ After several language standardization steps that took place in 1987, 1993, 2000
   * [PYNQ introduction](https://pynq.readthedocs.io)
   * [PYNQ GitHub repository](https://github.com/Xilinx/Pynq)
   * [Face Detection and Recognition](https://github.com/shichao4657125/FPGA) by Chao Shi
+* [PyVSC](https://pyvsc.readthedocs.io/en/latest/index.html)
+  * [GitHub](https://github.com/fvutils/pyvsc)
 * [Sigasi](https://www.sigasi.com/)
 * [XIMEA](https://www.ximea.com/)
 
