@@ -24,6 +24,8 @@
 * [Ovum Ltd.](https://en.wikipedia.org/wiki/Ovum_Ltd.) was rebranded as Omdia in February 2020
 * [The U.S.-Japan Semiconductor Agreement: Keeping Up the ManagedTrade Agenda](https://www.heritage.org/asia/report/the-us-japan-semiconductor-agreement-keeping-the-managedtrade-agenda)
 * [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
+  * [Willis Whitfield](https://en.wikipedia.org/wiki/Willis_Whitfield) 1919&mdash;2012
+  * [UC San Diego and TSMC launch semiconductor cleanroom training program](https://cleanroomtechnology.com/uc-san-diego-and-tsmc-launch-semiconductor-cleanroom)
   * [KIDE](https://cckide.com/en/) 
   * [Engineering, procurement, and construction](https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction) (EPC)
 ## Semiconductor Fabrication
