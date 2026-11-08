@@ -42,7 +42,7 @@
 * [Simon Sze](https://en.wikipedia.org/wiki/Simon_Sze) 1936&mdash;2023
 * [Gary S. May](https://en.wikipedia.org/wiki/Gary_S._May)
   * [*Fundamentals of Semiconductor Fabrication*](https://www.wiley.com/en-us/shop/general-introductory-electrical-electronics-engineering/fundamentals-of-semiconductor-fabrication-p-9780471232797) 2003
-* [James D. Plummer](https://en.wikipedia.org/wiki/Jim_Plummer) and [Peter B. Griffin](https://www.gan.msm.cam.ac.uk/people/peter-griffin)
+* [James D. Plummer](https://en.wikipedia.org/wiki/Jim_Plummer) and [Peter B. Griffin](https://profiles.stanford.edu/peter-griffin)
   * [*Integrated Circuit Fabrication: Science and Technology*](https://plummergriffinbook.stanford.edu/) 2023
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
 * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
