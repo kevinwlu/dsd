@@ -139,6 +139,7 @@
 * [Wafer-level packaging](https://en.wikipedia.org/wiki/Wafer-level_packaging) (WLP)
 * [Chip-on-Wafer-on-Substrate](https://semiwiki.com/wikis/industry-wikis/cowos-chip-on-wafer-on-substrate-wiki/) (CoWoS)
   * [TSMC CoWoS](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm)
+  * [CoWoS Explained — The Heart of AI-Era Semiconductor Packaging](https://semihub.io/en/blog/cowos-guide-1.html)
 * [Ajinomoto](https://en.wikipedia.org/wiki/Ajinomoto)
   * [Ajinomoto Build-up Film](https://www.ajinomoto.com/innovation/our_innovation/buildupfilm) (ABF)
 * [Flip Chip Ball Grid Array](https://en.wikichip.org/wiki/Flip_Chip_Ball_Grid_Array) (FC-BGA)
