@@ -83,6 +83,8 @@
   * [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
   * [Groq](https://en.wikipedia.org/wiki/Groq)
   * [AI factory](https://www.nvidia.com/en-us/glossary/ai-factory/)
+  * [OpenShell](https://www.nvidia.com/en-us/ai/openshell/)
+    * [GitHub](https://github.com/NVIDIA/OpenShell)
 * [NXP](https://en.wikipedia.org/wiki/List_of_NXP_products)
   * [MIFARE](https://en.wikipedia.org/wiki/MIFARE)
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
