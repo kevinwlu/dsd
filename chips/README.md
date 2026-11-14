@@ -59,10 +59,12 @@
 * [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [nRF7002](https://www.nordicsemi.com/Products/nRF7002)
 * [NVIDIA graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
+  * [*The Thinking Machine: Jensen Huang, Nvidia and the World's Most Coveted Microchip
+*](https://en.wikipedia.org/wiki/The_Thinking_Machine:_Jensen_Huang,_Nvidia_and_the_World%27s_Most_Coveted_Microchip) 2025
+  * S. K. Moore, ["The Secret to NVIDIA’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
   * [List of Nvidia graphics processing units](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
   * [NVIDIA GPU Technology Conference](https://en.wikipedia.org/wiki/Nvidia_GTC) (GTC)
   * [NVIDIA DGX](https://en.wikipedia.org/wiki/Nvidia_DGX)
-  * S. K. Moore, ["The Secret to NVIDIA’s AI Success,"](https://spectrum.ieee.org/nvidia-gpu) *IEEE Spectrum*, September 7, 2023
   * [GeForce GTX 16 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/)
   * [GeForce RTX 20 Series](https://www.nvidia.com/en-us/geforce/20-series/)
   * [GeForce RTX 30 Series](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/)
