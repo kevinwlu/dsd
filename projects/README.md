@@ -2,6 +2,9 @@
 * [Bejeweled (series)](https://en.wikipedia.org/wiki/Bejeweled_(series))
 * [Field Day Learning Games](https://fielddaylab.wisc.edu/)
 * [Locke’s Gambit](https://tryengineering.org/resource/game/lockes-gambit/)
+  * [*Gambit* (comic book)](https://en.wikipedia.org/wiki/Gambit_(comic_book))
+  * [Gambit (Marvel Comics)](https://en.wikipedia.org/wiki/Gambit_(Marvel_Comics))
+  * [Psylocke](https://en.wikipedia.org/wiki/Psylocke)
 * [Tetris](https://en.wikipedia.org/wiki/Tetris)
 * [Vault Learning Games Library](https://vaultlearninggames.org/)
 ## 2023 Fall
