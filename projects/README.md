@@ -1,6 +1,9 @@
 # Projects
 * [Bejeweled (series)](https://en.wikipedia.org/wiki/Bejeweled_(series))
+* [Field Day Learning Games](https://fielddaylab.wisc.edu/)
+* [Locke’s Gambit](https://tryengineering.org/resource/game/lockes-gambit/)
 * [Tetris](https://en.wikipedia.org/wiki/Tetris)
+* [Vault Learning Games Library](https://vaultlearninggames.org/)
 ## 2023 Fall
 * [Brick Breaker](https://github.com/redassser/487Final)
 * [Evade](https://github.com/Aoli03/DSD-Final-Lab-Project)
