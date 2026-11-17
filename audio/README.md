@@ -3,6 +3,7 @@
   * [LM386](https://en.wikipedia.org/wiki/LM386)
 * [Audio power amplifier](https://en.wikipedia.org/wiki/Audio_power_amplifier)
 * [Audio headset](https://en.wikipedia.org/wiki/Audio_headset)
+* [Dangerous Music](https://www.dangerousmusic.com/)
 * [Headphones](https://en.wikipedia.org/wiki/Headphones)
   * [Halo Headphones](https://haloheadphones.com/)
 * [Hydrophone](https://en.wikipedia.org/wiki/Hydrophone)
