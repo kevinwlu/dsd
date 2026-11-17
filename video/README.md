@@ -1,6 +1,5 @@
 # Video
 * [Animation](https://en.wikipedia.org/wiki/Animation)
-* [Andreas Wannerstedt](https://andreaswannerstedt.se/)
 * [Rotoscoping](https://en.wikipedia.org/wiki/Rotoscoping)
 ---
 * [Timeline of video formats](https://en.wikipedia.org/wiki/Timeline_of_video_formats)
