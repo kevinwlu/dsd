@@ -5,6 +5,7 @@
 * [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
 * [Electronics-Related.com](https://www.electronics-related.com/)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+  * [List of semiconductor occupations](https://en.wikipedia.org/wiki/List_of_semiconductor_occupations)
 * [SEMI](https://en.wikipedia.org/wiki/SEMI)
 * [SemiWiki](https://semiwiki.com/)
 * [Design and Verification Conference and Exhibition](https://dvcon.org/) (DVCon)
@@ -45,7 +46,7 @@
 * [James D. Plummer](https://en.wikipedia.org/wiki/Jim_Plummer) and [Peter B. Griffin](https://profiles.stanford.edu/peter-griffin)
   * [*Integrated Circuit Fabrication: Science and Technology*](https://plummergriffinbook.stanford.edu/) 2023
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
-* [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
+  * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
 * [Epitaxial wafer](https://en.wikipedia.org/wiki/Epitaxial_wafer)
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
