@@ -92,6 +92,7 @@
   * [Dynamical Anatomy of NARMA10 Benchmark Task](https://www.arxiv-vanity.com/papers/1906.04608/)
 * [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing)
 * [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
+* [Vivienne Sze](https://en.wikipedia.org/wiki/Vivienne_Sze)
 ---
 * X. Shi, X. Peng, L. He, Y. Zhao, and H. Jin, "[Waterwave: A GPU Memory Flow Engine for Concurrent DNN Training](https://ezproxy.stevens.edu:2161/document/10130297)," in *IEEE Transactions on Computers*, pp. 1-14, 2023. doi: 10.1109/TC.2023.3278530
 ## Servers
