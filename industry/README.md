@@ -47,7 +47,9 @@
   * [*Integrated Circuit Fabrication: Science and Technology*](https://plummergriffinbook.stanford.edu/) 2023
 * [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
   * [Wafer backgrinding](https://en.wikipedia.org/wiki/Wafer_backgrinding) (WBG)
+  * [Thin film](https://en.wikipedia.org/wiki/Thin_film)
 * [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit))
+  * [Die shrink](https://en.wikipedia.org/wiki/Die_shrink) provides more chips onto each wafer, resulting in lowered manufacturing costs per chip
 * [Epitaxial wafer](https://en.wikipedia.org/wiki/Epitaxial_wafer)
 * [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
 * [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
@@ -70,7 +72,6 @@
 * [Chiplet](https://en.wikichip.org/wiki/chiplet)
 * [Multi-project wafer service](https://en.wikipedia.org/wiki/Multi-project_wafer_service) (MPW)
 * [Multi-chip module](https://en.wikipedia.org/wiki/Multi-chip_module) (MCM)
-* [Die shrink](https://en.wikipedia.org/wiki/Die_shrink) provides more chips onto each wafer, resulting in lowered manufacturing costs per chip
 * [Multigate device](https://en.wikipedia.org/wiki/Multigate_device)
 * [Field-effect transistor](https://en.wikipedia.org/wiki/Field-effect_transistor) (FET)
 * [FinFET](https://en.wikipedia.org/wiki/FinFET)
