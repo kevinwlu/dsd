@@ -46,6 +46,7 @@
   * [Absolute zero](https://en.wikipedia.org/wiki/Absolute_zero)
   * [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect)
 ## Standards
+* [American wire gauge](https://en.wikipedia.org/wiki/American_wire_gauge) (AWG)
 * [IEEE 1547](https://en.wikipedia.org/wiki/IEEE_1547) Standard for Interconnection and Interoperability of Distributed Energy Resources With Associated Electric Power Systems Interfaces
 ## Nuclear Power
 * [Nuclear Power and Flexible Grid Solutions](https://ieee-pes.org/trending-tech/nuclear-power-and-flexible-grid-solutions/)
