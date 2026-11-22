@@ -252,6 +252,8 @@
   * [Altium](https://en.wikipedia.org/wiki/Altium)
   * [Empyrean Technology](https://www.empyrean-tech.com/)
   * [Ricursive Intelligence](https://en.wikipedia.org/wiki/Ricursive) was founded in September 2025
+    * [AlphaChip](https://en.wikipedia.org/wiki/AlphaChip)
+    * [GitHub](https://github.com/google-research/circuit_training)
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [List of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
 ## Alliances and Consortia
