@@ -13,6 +13,7 @@
   * [Hendrik Wade Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode) 1905&mdash;1982
 * [Controllability](https://en.wikipedia.org/wiki/Controllability)
 * [Observability](https://en.wikipedia.org/wiki/Observability)
+* [Proportional–integral–derivative controller](https://en.wikipedia.org/wiki/PID_controller) (PID controller)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
   * [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
 ---
