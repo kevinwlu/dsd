@@ -251,6 +251,7 @@
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
   * [Altium](https://en.wikipedia.org/wiki/Altium)
   * [Empyrean Technology](https://www.empyrean-tech.com/)
+  * [Ricursive Intelligence](https://en.wikipedia.org/wiki/Ricursive) was founded in September 2025
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [List of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
 ## Alliances and Consortia
@@ -320,13 +321,13 @@
   * [Shockley Semiconductor Laboratory](https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory) 1955&mdash;1968, later known as Shockley Transistor Corporation
   * [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor) 1957&mdash;2016
     * [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
-* [PerfectVIPs](https://www.perfectvips.com)
 * [Qorvo](https://en.wikipedia.org/wiki/Qorvo)
 * [Qualcomm](https://en.wikipedia.org/wiki/Qualcomm)
   * [Qualcomm Atheros](https://en.wikipedia.org/wiki/Qualcomm_Atheros)
     * [Wilocity](https://en.wikipedia.org/wiki/Wilocity)
   * [CSR plc](https://en.wikipedia.org/wiki/CSR_plc)
     * [Zoran Corporation](https://en.wikipedia.org/wiki/Zoran_Corporation) 
+* [PerfectVIPs](https://www.perfectvips.com)
 * [Rambus](https://en.wikipedia.org/wiki/Rambus)
 * [Synaptics](https://en.wikipedia.org/wiki/Synaptics)
 * [Silicon Labs](https://en.wikipedia.org/wiki/Silicon_Labs)
