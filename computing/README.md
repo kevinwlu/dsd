@@ -85,6 +85,7 @@
 * [Optical attenuator](https://en.wikipedia.org/wiki/Optical_attenuator)
 * [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
 * [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+  * [Exponential time hypothesis](https://en.wikipedia.org/wiki/Exponential_time_hypothesis) (ETH)
   * [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 * [Phase shift module](https://en.wikipedia.org/wiki/Phase_shift_module)
 * [Reservoir computing](https://en.wikipedia.org/wiki/Reservoir_computing)
