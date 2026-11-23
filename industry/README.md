@@ -243,18 +243,22 @@
 * [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants)
 * [List of MEMS foundries](https://en.wikipedia.org/wiki/List_of_MEMS_foundries)
 * [List of EDA companies](https://en.wikipedia.org/wiki/List_of_EDA_companies)
-  * [Synopsys](https://en.wikipedia.org/wiki/Synopsys)
+  * [Synopsys](https://en.wikipedia.org/wiki/Synopsys) was founded in 1986
     * [Ansys](https://en.wikipedia.org/wiki/Ansys) since July 17, 2025
     * [Synopsys Strategic Acquisitions](https://www.synopsys.com/company/acquisitions.html)
-  * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems)
-  * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
-  * [Aldec](https://en.wikipedia.org/wiki/Aldec)
-  * [Altium](https://en.wikipedia.org/wiki/Altium)
-  * [Empyrean Technology](https://en.wikipedia.org/wiki/Empyrean_Technology)
-    * [Website](https://www.empyrean-tech.com/)
+  * [Cadence Design Systems](https://en.wikipedia.org/wiki/Cadence_Design_Systems) was founded in 1983
+  * Siemens EDA, formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics) that was founded in 1981
+  * [Aldec](https://en.wikipedia.org/wiki/Aldec) was founded in 1984
+  * [Altium](https://en.wikipedia.org/wiki/Altium) was found in 1985
   * [Ricursive Intelligence](https://en.wikipedia.org/wiki/Ricursive) was founded in September 2025
     * [AlphaChip](https://en.wikipedia.org/wiki/AlphaChip)
     * [GitHub](https://github.com/google-research/circuit_training)
+  * [Empyrean Technology](https://en.wikipedia.org/wiki/Empyrean_Technology) was founded in 2009
+    * [Website](https://www.empyrean-tech.com/)
+  * [Primarius](https://www.primarius-tech.com/en.php) was founded in 2010
+    * [BaiduWiki](https://baike.baidu.com/en/item/Primarius%20Technologies%20Co.%2C%20Ltd./67202)
+  * [Semitronix](https://www.semitronix.com/) was founded in 2003
+    * [BaiduWiki](https://baike.baidu.com/en/item/Hangzhou%20Semitronix%20Corporation/44509)
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [List of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
 ## Alliances and Consortia
@@ -380,7 +384,8 @@
 * [VeriSilicon](https://www.verisilicon.com/en/Home)
   * [Wayne Dai and Wei-Jin Dai](https://www.verisilicon.com/en/ExecutiveTeam)
   * [Vivante Corporation](https://en.wikipedia.org/wiki/Vivante_Corporation)
-* [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)
+* [Xiaomi Semiconductor](https://en.wikipedia.org/wiki/Xiaomi_Semiconductor)
+  * [Xiaomi](https://en.wikipedia.org/wiki/Xiaomi)  
 * [ZTE](https://en.wikipedia.org/wiki/ZTE)
 ## India
 * [Electronics and semiconductor manufacturing industry in India](https://en.wikipedia.org/wiki/Electronics_and_semiconductor_manufacturing_industry_in_India)
