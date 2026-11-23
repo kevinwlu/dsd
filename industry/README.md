@@ -250,7 +250,8 @@
   * Siemens EDA (formerly [Mentor Graphics](https://en.wikipedia.org/wiki/Mentor_Graphics))  
   * [Aldec](https://en.wikipedia.org/wiki/Aldec)
   * [Altium](https://en.wikipedia.org/wiki/Altium)
-  * [Empyrean Technology](https://www.empyrean-tech.com/)
+  * [Empyrean Technology](https://en.wikipedia.org/wiki/Empyrean_Technology)
+    * [Website](https://www.empyrean-tech.com/)
   * [Ricursive Intelligence](https://en.wikipedia.org/wiki/Ricursive) was founded in September 2025
     * [AlphaChip](https://en.wikipedia.org/wiki/AlphaChip)
     * [GitHub](https://github.com/google-research/circuit_training)
