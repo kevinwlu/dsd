@@ -9,6 +9,7 @@
   * [Experiential Learning for Emerging and Novel Technologies](https://beta.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies) (ExLENT)
 * [CHIPS for America](https://www.nist.gov/chips)
   * [CHIPS R&D Standards Summit](https://www.nist.gov/news-events/events/2023/09/chips-rd-standards-summit)
+* [Committee on Foreign Investment in the United States](https://en.wikipedia.org/wiki/Committee_on_Foreign_Investment_in_the_United_States) (CFIUS)
 * [DVCon](https://dvcon.org/)
 * [National Semiconductor Technology Center](https://www.nist.gov/chips/research-development-programs/national-semiconductor-technology-center) (NSTC) 
   * [The future of CHIPS: Who are the acquirers in the recent Natcast fire sale?](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/future-chips-who-are-acquirers), November 20, 2025
