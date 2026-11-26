@@ -152,6 +152,11 @@
   * [Silicon](https://en.wikipedia.org/wiki/Silicon)
   * [Silicon carbide](https://en.wikipedia.org/wiki/Silicon_carbide) (SiC)
   * [Gallium nitride](https://en.wikipedia.org/wiki/Gallium_nitride) (GaN)
+  * [Graphene nanoribbon](https://en.wikipedia.org/wiki/Graphene_nanoribbon)
+  * [Semimetal](https://en.wikipedia.org/wiki/Semimetal)
+  * [Niobium phosphide](https://en.wikipedia.org/wiki/Niobium_phosphide) (NbP)
+    * "[Topological semimetals](https://www.nature.com/articles/nmat4788)," October 25, 2016
+    * "[Unconventional resistivity reduction in NbP semimetal nanoribbons](https://www.nature.com/articles/s41586-026-11288-8)," November 25, 2026
   * [Precious metal](https://en.wikipedia.org/wiki/Precious_metal)
   * [Rare-earth element](https://en.wikipedia.org/wiki/Rare-earth_element)
     * [Niron Magnetics](https://www.nironmagnetics.com/)
