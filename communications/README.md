@@ -25,6 +25,8 @@
 * [Association of Old Crows](https://en.wikipedia.org/wiki/Association_of_Old_Crows) (AOC)
 * [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
 * [List of modern armament manufacturers](https://en.wikipedia.org/wiki/List_of_modern_armament_manufacturers)
+* [Sensitive compartmented information facility](https://en.wikipedia.org/wiki/Sensitive_compartmented_information_facility) (SCIF)
+  * [Skiff](https://en.wikipedia.org/wiki/Skiff)
 * [BAE Systems Inc.](https://en.wikipedia.org/wiki/BAE_Systems_Inc.)
   * [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
   * [Hazeltine Corporation](https://en.wikipedia.org/wiki/Hazeltine_Corporation)
