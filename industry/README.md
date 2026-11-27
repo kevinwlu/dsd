@@ -97,7 +97,7 @@
     * [YouTube](https://www.youtube.com/@chronovaengineering/)
     * [Stirling engine](https://en.wikipedia.org/wiki/Stirling_engine) 1816 by [Robert Stirling](https://en.wikipedia.org/wiki/Robert_Stirling) 1790&mdash;1878
 * [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
-  * [COmpact Universal Photonic Engine](https://ieeexplore.ieee.org/document/9501846) (COUPE)
+  * [Compact Universal Photonic Engine](https://ieeexplore.ieee.org/document/9501846) (COUPE)
 * [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
 * [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics) (SiPh)
   * [Lukas Chrostowski](https://ece.ubc.ca/lukas-chrostowski/)
